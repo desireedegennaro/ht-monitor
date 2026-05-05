@@ -1,0 +1,73 @@
+name: Fetch & Update HT Tracker Data
+
+on:
+  # Run daily at 8:00 AM EST (13:00 UTC)
+  schedule:
+    - cron: '0 13 * * *'
+
+  # Also allow manual trigger from the Actions tab
+  workflow_dispatch:
+    inputs:
+      days_back:
+        description: 'How many days back to fetch (default: 90)'
+        required: false
+        default: '90'
+      force_full:
+        description: 'Force full re-fetch ignoring cache (true/false)'
+        required: false
+        default: 'false'
+
+jobs:
+  fetch-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # needed to commit updated JSON files
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run fetch script
+        env:
+          # Add these secrets in your repo:
+          # Settings → Secrets and variables → Actions → New repository secret
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+          OVERTON_API_KEY: ${{ secrets.OVERTON_API_KEY }}
+          # Federal Register and FinCEN RSS feeds require no key
+        run: |
+          DAYS="${{ github.event.inputs.days_back || '90' }}"
+          FORCE="${{ github.event.inputs.force_full || 'false' }}"
+          python scripts/fetch_data.py \
+            --days-back "$DAYS" \
+            $( [ "$FORCE" = "true" ] && echo "--force-full" || echo "" )
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet data/ && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push updated data
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
+          git commit -m "chore: auto-update tracker data [$TIMESTAMP]"
+          git push
+
+      - name: No changes
+        if: steps.changes.outputs.changed == 'false'
+        run: echo "No new data found — nothing to commit."

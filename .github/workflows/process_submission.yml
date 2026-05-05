@@ -1,0 +1,114 @@
+name: Process Community Submission
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  add-entry:
+    # Only run when the issue title starts with [SUBMISSION] (set by the template)
+    if: startsWith(github.event.issue.title, '[SUBMISSION]')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit updated JSON files
+      issues: write     # needed to comment and close the issue
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Parse issue and add entry to data files
+        env:
+          ISSUE_BODY:   ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+          ISSUE_URL:    ${{ github.event.issue.html_url }}
+        run: python scripts/process_submission.py
+
+      - name: Commit updated data files
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name  "github-actions[bot]"
+          if git diff --quiet data/; then
+            echo "No data changes detected — nothing to commit."
+          else
+            git add data/
+            git commit -m "chore: add community submission from issue #${{ github.event.issue.number }}"
+            git push
+          fi
+
+      - name: Comment on issue and close it
+        uses: actions/github-script@v7
+        env:
+          SUBMISSION_STATUS: ${{ env.SUBMISSION_STATUS }}
+          SUBMISSION_ERROR:  ${{ env.SUBMISSION_ERROR }}
+          SUBMISSION_TITLE:  ${{ env.SUBMISSION_TITLE }}
+        with:
+          script: |
+            const ok    = process.env.SUBMISSION_STATUS === 'ok';
+            const title = process.env.SUBMISSION_TITLE  || '(unknown)';
+            const error = process.env.SUBMISSION_ERROR  || 'unknown error';
+
+            const body = ok
+              ? [
+                  `✅ **Your entry has been added to the tracker!**`,
+                  ``,
+                  `**"${title}"** is now live. It will appear on the site within ~1 minute as GitHub Pages rebuilds.`,
+                  ``,
+                  `Thank you for contributing to the ORSJ Lab HT Tracker. ` +
+                  `Your local stars, notes, and annotations remain private to your browser — they are never shared.`,
+                ].join('\n')
+              : [
+                  `⚠️ **There was a problem processing your submission.**`,
+                  ``,
+                  `Error: \`${error}\``,
+                  ``,
+                  `Please check that all required fields (Entry Type, Title, Date, Summary) are filled in, ` +
+                  `then close and re-open a corrected issue, or contact the ORSJ Lab team.`,
+                ].join('\n');
+
+            await github.rest.issues.createComment({
+              owner:        context.repo.owner,
+              repo:         context.repo.repo,
+              issue_number: context.issue.number,
+              body,
+            });
+
+            // Label as 'added' or 'submission-error', then close
+            const label = ok ? 'added' : 'submission-error';
+            try {
+              await github.rest.issues.addLabels({
+                owner:        context.repo.owner,
+                repo:         context.repo.repo,
+                issue_number: context.issue.number,
+                labels:       [label],
+              });
+            } catch (_) {
+              // Label may not exist yet — create it first, then add
+              await github.rest.issues.createLabel({
+                owner: context.repo.owner,
+                repo:  context.repo.repo,
+                name:  label,
+                color: ok ? '0e8a16' : 'd73a4a',
+              }).catch(() => {});
+              await github.rest.issues.addLabels({
+                owner:        context.repo.owner,
+                repo:         context.repo.repo,
+                issue_number: context.issue.number,
+                labels:       [label],
+              }).catch(() => {});
+            }
+
+            if (ok) {
+              await github.rest.issues.update({
+                owner:        context.repo.owner,
+                repo:         context.repo.repo,
+                issue_number: context.issue.number,
+                state:        'closed',
+              });
+            }

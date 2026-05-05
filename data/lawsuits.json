@@ -1,0 +1,2683 @@
+[
+  {
+    "id": "us-v-raniere",
+    "type": "lawsuit",
+    "title": "United States v. Keith Raniere (NXIVM)",
+    "identifier": "1:18-cr-00204 (E.D.N.Y.)",
+    "status": "Sentenced — Final",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2018-04-24",
+    "latest_action_date": "2021-10-27",
+    "latest_action": "Raniere sentenced to 120 years in federal prison.",
+    "court": "U.S. District Court, Eastern District of New York",
+    "plaintiffs": [
+      "United States of America"
+    ],
+    "defendants": [
+      "Keith Raniere",
+      "Allison Mack",
+      "Clare Bronfman",
+      "Kathy Russell",
+      "Lauren Salzman",
+      "Nancy Salzman"
+    ],
+    "judge": "Judge Nicholas Garaufis",
+    "summary": "Federal prosecution of NXIVM cult leader Keith Raniere for sex trafficking, racketeering, and forced labor. Raniere ran a secret society (DOS) that used blackmail to control women. One of the most high-profile sex trafficking convictions involving an American cult.",
+    "description": "NXIVM operated as an ostensible self-help organization but was led by Raniere who created DOS ('Dominus Obsequious Sororium'), a secret society that used blackmail material ('collateral') to control female members. Charges included sex trafficking, forced labor, racketeering, identity theft, obstruction of justice. Five co-defendants pleaded guilty including actress Allison Mack and heiress Clare Bronfman. Case received extensive media coverage and raised awareness of coercive control in trafficking.",
+    "keywords": [
+      "NXIVM",
+      "sex trafficking",
+      "racketeering",
+      "coercive control",
+      "forced labor",
+      "DOS",
+      "blackmail",
+      "cult"
+    ],
+    "companies": [
+      "NXIVM"
+    ],
+    "source": "PACER / DOJ",
+    "url": "https://www.justice.gov/usao-edny/pr/founder-nxivm-convicted-racketeering-charges-and-sex-trafficking",
+    "updates": [
+      {
+        "date": "2018-04-24",
+        "event": "Keith Raniere arrested in Mexico and extradited to US; complaint filed",
+        "actor": "DOJ / FBI",
+        "notes": "Arrested following New York Times exposé in October 2017"
+      },
+      {
+        "date": "2018-07-24",
+        "event": "Superseding indictment adding sex trafficking charges",
+        "actor": "DOJ"
+      },
+      {
+        "date": "2019-03-25",
+        "event": "Allison Mack pleads guilty to racketeering charges",
+        "actor": "Allison Mack",
+        "notes": "Actress known for Smallville — cooperates with prosecution"
+      },
+      {
+        "date": "2019-04-19",
+        "event": "Clare Bronfman pleads guilty to conspiracy charges",
+        "actor": "Clare Bronfman",
+        "notes": "Seagram heiress who bankrolled NXIVM"
+      },
+      {
+        "date": "2019-06-19",
+        "event": "Trial begins in Brooklyn federal court",
+        "actor": "Judge Garaufis"
+      },
+      {
+        "date": "2019-06-19",
+        "event": "Jury convicts Raniere on all 7 counts — racketeering, sex trafficking, forced labor",
+        "actor": "Jury (E.D.N.Y.)",
+        "notes": "Convicted on all counts including sex trafficking of a child"
+      },
+      {
+        "date": "2020-10-27",
+        "event": "Clare Bronfman sentenced to 81 months",
+        "actor": "Judge Garaufis"
+      },
+      {
+        "date": "2021-06-30",
+        "event": "Allison Mack sentenced to 36 months",
+        "actor": "Judge Garaufis"
+      },
+      {
+        "date": "2021-10-27",
+        "event": "Raniere sentenced to 120 years in federal prison + $3.46M restitution",
+        "actor": "Judge Garaufis",
+        "notes": "Raniere maintains innocence; appeals filed"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "us-v-maxwell",
+    "type": "lawsuit",
+    "title": "United States v. Ghislaine Maxwell",
+    "identifier": "1:20-cr-00330 (S.D.N.Y.)",
+    "status": "Sentenced — Final",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2020-07-02",
+    "latest_action_date": "2022-06-28",
+    "latest_action": "Maxwell sentenced to 20 years in federal prison.",
+    "court": "U.S. District Court, Southern District of New York",
+    "plaintiffs": [
+      "United States of America"
+    ],
+    "defendants": [
+      "Ghislaine Maxwell"
+    ],
+    "judge": "Judge Alison Nathan",
+    "summary": "Federal prosecution of British socialite Ghislaine Maxwell for recruiting and grooming underage girls for Jeffrey Epstein's sex trafficking network. Case represented landmark prosecution of a trafficker's recruiter/enabler. Maxwell sentenced to 20 years.",
+    "description": "Maxwell was charged as the primary recruiter and groomer for Jeffrey Epstein's sex trafficking network, which operated from the mid-1990s through 2004. Charges included sex trafficking of a minor, conspiracy, enticement of a minor, and perjury. Key issues: statute of limitations, victim testimony reliability, and Maxwell's role versus Epstein's (who died in custody in 2019). Case raised questions about wealthy clients who have not been prosecuted. Maxwell appeals conviction claiming juror misconduct.",
+    "keywords": [
+      "Epstein",
+      "Maxwell",
+      "sex trafficking",
+      "grooming",
+      "enticement of minors",
+      "elite trafficking",
+      "Epstein network"
+    ],
+    "companies": [
+      "Epstein Financial Group"
+    ],
+    "source": "PACER / DOJ",
+    "url": "https://www.justice.gov/usao-sdny/pr/ghislaine-maxwell-convicted-sex-trafficking-crimes",
+    "updates": [
+      {
+        "date": "2020-07-02",
+        "event": "Ghislaine Maxwell arrested in New Hampshire; charged with sex trafficking and enticement",
+        "actor": "FBI",
+        "notes": "Maxwell had been in hiding for nearly a year following Epstein's death"
+      },
+      {
+        "date": "2020-07-14",
+        "event": "Maxwell denied bail — flight risk; held in MDC Brooklyn",
+        "actor": "Judge Alison Nathan"
+      },
+      {
+        "date": "2021-10-19",
+        "event": "Superseding indictment adding sex trafficking of a minor count",
+        "actor": "DOJ"
+      },
+      {
+        "date": "2021-11-29",
+        "event": "Trial begins in SDNY",
+        "actor": "Judge Alison Nathan"
+      },
+      {
+        "date": "2021-12-29",
+        "event": "Maxwell convicted on 5 of 6 counts including sex trafficking of a minor",
+        "actor": "Jury (S.D.N.Y.)",
+        "notes": "Jury deliberated 5 days; acquitted on one enticement count"
+      },
+      {
+        "date": "2022-06-28",
+        "event": "Maxwell sentenced to 20 years in federal prison + $750,000 fine",
+        "actor": "Judge Alison Nathan",
+        "notes": "Maxwell begins serving sentence at FCI Tallahassee"
+      },
+      {
+        "date": "2023-09-14",
+        "event": "Maxwell files appeal arguing juror misconduct tainted trial",
+        "actor": "Ghislaine Maxwell (defense)",
+        "notes": "Second Circuit appeal pending"
+      },
+      {
+        "date": "2024-11-18",
+        "event": "Second Circuit denies appeal — conviction upheld",
+        "actor": "U.S. Court of Appeals, Second Circuit",
+        "notes": "Maxwell remains incarcerated; seeks certiorari to SCOTUS"
+      }
+    ],
+    "upcoming": [
+      {
+        "date": "2025-06-01",
+        "event": "Potential Supreme Court cert petition deadline",
+        "notes": "Maxwell's attorneys may petition SCOTUS after Second Circuit denial"
+      }
+    ]
+  },
+  {
+    "id": "us-v-backpage",
+    "type": "lawsuit",
+    "title": "United States v. Backpage.com (Larkin, Lacey, et al.)",
+    "identifier": "2:18-cr-00422 (D. Ariz.)",
+    "status": "Convicted — Sentencing Pending",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2018-04-09",
+    "latest_action_date": "2023-10-05",
+    "latest_action": "Three defendants convicted after second trial. Sentencing hearings ongoing.",
+    "court": "U.S. District Court, District of Arizona",
+    "plaintiffs": [
+      "United States of America"
+    ],
+    "defendants": [
+      "Michael Lacey",
+      "James Larkin",
+      "Scott Spear",
+      "John Brunst",
+      "Andrew Padilla",
+      "Joye Vaught"
+    ],
+    "judge": "Judge Diane Humetewa",
+    "summary": "Federal prosecution of Backpage.com founders and executives for facilitating sex trafficking through their adult advertising platform. First major prosecution of an online platform under trafficking statutes after DOJ seizure of Backpage. Complex litigation over Section 230 and First Amendment defenses.",
+    "description": "DOJ seized Backpage.com and indicted founders for money laundering and travel act violations related to facilitating prostitution. Case was the first major prosecution testing whether platform operators could be held criminally liable for user-generated trafficking content. Defense raised Section 230 and First Amendment arguments. First trial ended in mistrial in 2023 after prosecution misconduct. Second trial resulted in convictions for 3 of 5 remaining defendants. Case has major implications for platform liability post-FOSTA-SESTA.",
+    "keywords": [
+      "Backpage",
+      "online platform",
+      "sex trafficking",
+      "Section 230",
+      "Travel Act",
+      "money laundering",
+      "facilitation",
+      "FOSTA-SESTA"
+    ],
+    "companies": [
+      "Backpage.com",
+      "Village Voice Media"
+    ],
+    "source": "PACER / DOJ",
+    "url": "https://www.justice.gov/usao-az/pr/backpagecom-founders-convicted-money-laundering-and-travel-act-violations",
+    "updates": [
+      {
+        "date": "2018-04-06",
+        "event": "DOJ seizes Backpage.com — site goes dark",
+        "actor": "DOJ / FBI",
+        "notes": "Seizure came one day before FOSTA-SESTA presidential signing"
+      },
+      {
+        "date": "2018-04-09",
+        "event": "Federal indictment filed against Backpage founders (93 counts)",
+        "actor": "DOJ"
+      },
+      {
+        "date": "2021-09-15",
+        "event": "Case proceeds after years of pre-trial motions and Section 230 challenges dismissed",
+        "actor": "Judge Diane Humetewa"
+      },
+      {
+        "date": "2023-04-18",
+        "event": "First trial begins; prosecution presents 3+ weeks of evidence",
+        "actor": "Judge Humetewa"
+      },
+      {
+        "date": "2023-08-02",
+        "event": "Mistrial declared after prosecution misconduct finding; retrial ordered",
+        "actor": "Judge Humetewa",
+        "notes": "Judge found prosecution improperly vouched for witnesses"
+      },
+      {
+        "date": "2023-09-25",
+        "event": "Second trial begins with 5 remaining defendants",
+        "actor": "Judge Humetewa"
+      },
+      {
+        "date": "2023-10-05",
+        "event": "Three defendants convicted: Lacey acquitted; Larkin, Spear, Brunst convicted on multiple counts",
+        "actor": "Jury (D. Ariz.)",
+        "notes": "Convictions on money laundering and Travel Act violations"
+      },
+      {
+        "date": "2024-02-14",
+        "event": "Sentencing hearings begin; delayed multiple times due to defense motions",
+        "actor": "Judge Humetewa"
+      }
+    ],
+    "upcoming": [
+      {
+        "date": "2025-06-15",
+        "event": "Sentencing of remaining convicted defendants expected",
+        "notes": "Larkin and Brunst sentencing; guidelines range 20+ years"
+      }
+    ]
+  },
+  {
+    "id": "ma-v-wyndham",
+    "type": "lawsuit",
+    "title": "M.A. v. Wyndham Hotels & Resorts, Inc.",
+    "identifier": "2:19-cv-00849 (S.D. Ohio)",
+    "status": "Settled",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2019-03-05",
+    "latest_action_date": "2022-04-14",
+    "latest_action": "Case settled for undisclosed amount. Settlement terms confidential.",
+    "court": "U.S. District Court, Southern District of Ohio",
+    "plaintiffs": [
+      "M.A. (anonymous survivor)"
+    ],
+    "defendants": [
+      "Wyndham Hotels & Resorts, Inc.",
+      "Marriott International, Inc.",
+      "Inter-Continental Hotels Corp.",
+      "Red Roof Inns, Inc."
+    ],
+    "judge": "Judge Algenon Marbley",
+    "summary": "Landmark sex trafficking lawsuit against major hotel chains under 18 U.S.C. § 1595, alleging hotels knowingly benefited from sex trafficking occurring on their premises. One of the first cases to test hotel liability under the TVPA's civil cause of action. Led to industry-wide training initiatives.",
+    "description": "Survivor filed under TVPA § 1595 civil cause of action (created by TVPRA 2008), alleging Wyndham and co-defendant hotel chains knowingly benefited from sex trafficking by allowing it to occur at their properties. Key legal theories: (1) Hotels had actual or constructive knowledge of trafficking indicators; (2) Hotels benefited financially from harboring traffickers; (3) Hotels failed to train staff on trafficking identification despite widespread awareness. Case part of a wave of TVPA hotel liability litigation.",
+    "keywords": [
+      "hotel liability",
+      "1595",
+      "civil cause of action",
+      "TVPA",
+      "sex trafficking",
+      "beneficiary liability",
+      "Wyndham",
+      "Marriott"
+    ],
+    "companies": [
+      "Wyndham Hotels & Resorts",
+      "Marriott International",
+      "IHG",
+      "Red Roof Inns"
+    ],
+    "source": "PACER",
+    "url": "https://www.courtlistener.com/docket/14915231/ma-v-wyndham-hotels-resorts-inc/",
+    "updates": [
+      {
+        "date": "2019-03-05",
+        "event": "Complaint filed against 4 hotel chains under TVPA § 1595",
+        "actor": "Plaintiff M.A. (via Thorn / trafficking survivor advocates)",
+        "notes": "First major TVPA hotel liability case in Ohio federal court"
+      },
+      {
+        "date": "2019-09-10",
+        "event": "Hotel chains file motions to dismiss — argue no actual knowledge of trafficking",
+        "actor": "Defense counsel"
+      },
+      {
+        "date": "2020-03-02",
+        "event": "MTD denied as to Wyndham and Marriott; discovery proceeds",
+        "actor": "Judge Algenon Marbley",
+        "notes": "Court holds § 1595 'benefit' standard does not require actual knowledge"
+      },
+      {
+        "date": "2021-05-15",
+        "event": "AH&LA (hotel trade association) files amicus brief supporting hotel chains",
+        "actor": "American Hotel & Lodging Association"
+      },
+      {
+        "date": "2021-11-01",
+        "event": "Hotel industry launches 'No Room for Trafficking' training program amid litigation pressure",
+        "actor": "AH&LA",
+        "notes": "100,000+ employees trained in hospitality sector"
+      },
+      {
+        "date": "2022-04-14",
+        "event": "All cases settled for undisclosed amounts; plaintiff receives confidential settlement",
+        "actor": "Parties",
+        "notes": "Terms confidential; hotels deny liability"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "does-v-mindgeek",
+    "type": "lawsuit",
+    "title": "Jane Doe (34 plaintiffs) v. MindGeek USA Inc. (Pornhub)",
+    "identifier": "2:21-cv-04920 (C.D. Cal.)",
+    "status": "Ongoing — Discovery",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2021-06-17",
+    "latest_action_date": "2024-09-30",
+    "latest_action": "Class certification briefing completed. MindGeek acquired by Ethical Capital Partners; renamed Aylo. Discovery continues.",
+    "court": "U.S. District Court, Central District of California",
+    "plaintiffs": [
+      "Jane Doe (34 anonymous plaintiffs)",
+      "Serena Fleites"
+    ],
+    "defendants": [
+      "MindGeek USA Inc.",
+      "MindGeek S.à.r.l.",
+      "MG Freesites Ltd.",
+      "Visa Inc.",
+      "Mastercard Inc."
+    ],
+    "judge": "Judge Cormac Carney",
+    "summary": "Class action against Pornhub's parent company MindGeek and payment processors Visa and Mastercard for knowingly hosting non-consensual, trafficking-related content. Cases prompted Pornhub to remove millions of unverified videos. Visa and Mastercard suspensions of Pornhub payment processing in 2020 led to mass content removal.",
+    "description": "Lawsuits allege MindGeek knowingly profited from CSAM, non-consensual content, and trafficking-related material on Pornhub. Visa and Mastercard named as defendants for processing payments knowing the platform hosted such content. Landmark because it extends trafficking liability to financial institutions. MindGeek sold site and rebranded as Aylo. New York Times investigation in Dec 2020 preceded credit card suspensions and mass content removal. Cases rely on TVPA § 1591 and § 1595, as well as Racketeering Act.",
+    "keywords": [
+      "Pornhub",
+      "MindGeek",
+      "Aylo",
+      "CSAM",
+      "non-consensual",
+      "payment processors",
+      "Visa",
+      "Mastercard",
+      "sex trafficking",
+      "platform liability"
+    ],
+    "companies": [
+      "MindGeek (Aylo)",
+      "Visa",
+      "Mastercard",
+      "Pornhub"
+    ],
+    "source": "PACER",
+    "url": "https://www.courtlistener.com/docket/19977755/fleites-v-mindgeek-usa-incorporated/",
+    "updates": [
+      {
+        "date": "2020-12-04",
+        "event": "New York Times exposé 'The Children of Pornhub' published",
+        "actor": "New York Times (Nicholas Kristof)",
+        "notes": "Catalyzing event for litigation and platform changes"
+      },
+      {
+        "date": "2020-12-10",
+        "event": "Visa and Mastercard suspend payments to Pornhub",
+        "actor": "Visa / Mastercard",
+        "notes": "Pornhub removes 10.4 million unverified videos following card suspensions"
+      },
+      {
+        "date": "2021-06-17",
+        "event": "Complaint filed — 34 John/Jane Does vs. MindGeek and payment processors",
+        "actor": "Plaintiff attorneys (Brown Rudnick LLP)"
+      },
+      {
+        "date": "2022-03-18",
+        "event": "MindGeek MTD denied as to § 1595 beneficiary theory; Visa and Mastercard motions taken under advisement",
+        "actor": "Judge Cormac Carney"
+      },
+      {
+        "date": "2023-07-01",
+        "event": "Court allows Visa and Mastercard to remain as defendants — first case holding payment processors may face trafficking liability",
+        "actor": "Judge Carney",
+        "notes": "Significant expansion of § 1595 liability theory"
+      },
+      {
+        "date": "2023-11-15",
+        "event": "MindGeek/Aylo files for Chapter 11 bankruptcy protection in Canada",
+        "actor": "MindGeek/Aylo",
+        "notes": "Complicates US litigation — automatic stay issues"
+      },
+      {
+        "date": "2024-09-30",
+        "event": "Class certification briefing completed; court to rule in 2025",
+        "actor": "Judge Carney"
+      }
+    ],
+    "upcoming": [
+      {
+        "date": "2025-06-30",
+        "event": "Class certification ruling expected",
+        "notes": "If certified, class could include thousands of trafficking and CSAM victims"
+      },
+      {
+        "date": "2025-09-15",
+        "event": "Trial date if class not certified; individual bellwether cases proceed",
+        "notes": "Provisional trial date"
+      }
+    ]
+  },
+  {
+    "id": "does-v-salesforce",
+    "type": "lawsuit",
+    "title": "Jane Does v. Salesforce, Inc.",
+    "identifier": "1:20-cv-02335 (N.D. Ill.)",
+    "status": "Ongoing — Appeal",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2020-04-09",
+    "latest_action_date": "2024-08-01",
+    "latest_action": "Seventh Circuit reversed district court dismissal; remanded for discovery.",
+    "court": "U.S. District Court, Northern District of Illinois / Seventh Circuit",
+    "plaintiffs": [
+      "Jane Does (Backpage survivors)"
+    ],
+    "defendants": [
+      "Salesforce, Inc."
+    ],
+    "judge": "Judge Matthew Kennelly (District); Seventh Circuit panel",
+    "summary": "TVPA civil suit alleging Salesforce provided CRM software and marketing tools to Backpage.com knowing it was used to facilitate sex trafficking. If successful, would establish that technology vendors can face trafficking liability for tools they sell to platforms engaged in trafficking.",
+    "description": "Plaintiffs argue Salesforce knowingly benefited from providing CRM and marketing automation software to Backpage.com, which used these tools to manage its trafficking-facilitated adult advertising. Key legal issue: whether a technology vendor that provides tools (not content) can be a 'beneficiary' under TVPA § 1595. District court dismissed; Seventh Circuit reversed, holding plaintiffs plausibly alleged Salesforce knew of Backpage's trafficking nexus. Case extends § 1595 liability theory significantly beyond platforms and hotels to software vendors.",
+    "keywords": [
+      "Salesforce",
+      "Backpage",
+      "CRM software",
+      "technology vendor",
+      "1595",
+      "beneficiary liability",
+      "sex trafficking",
+      "TVPA"
+    ],
+    "companies": [
+      "Salesforce",
+      "Backpage.com"
+    ],
+    "source": "PACER",
+    "url": "https://www.courtlistener.com/docket/17388671/does-v-salesforce-inc/",
+    "updates": [
+      {
+        "date": "2020-04-09",
+        "event": "Complaint filed in N.D. Illinois against Salesforce",
+        "actor": "Plaintiff attorneys"
+      },
+      {
+        "date": "2021-09-27",
+        "event": "District court grants Salesforce motion to dismiss — holds no § 1595 liability for software vendors",
+        "actor": "Judge Kennelly"
+      },
+      {
+        "date": "2021-11-15",
+        "event": "Plaintiffs appeal to Seventh Circuit",
+        "actor": "Plaintiffs"
+      },
+      {
+        "date": "2024-08-01",
+        "event": "Seventh Circuit reverses dismissal — holds § 1595 can reach software vendors; remands for discovery",
+        "actor": "U.S. Court of Appeals, Seventh Circuit",
+        "notes": "Major expansion of § 1595 liability; tech industry closely watching"
+      }
+    ],
+    "upcoming": [
+      {
+        "date": "2025-08-01",
+        "event": "Discovery deadline in district court on remand",
+        "notes": "Plaintiffs need to show Salesforce had actual knowledge of trafficking use"
+      },
+      {
+        "date": "2026-02-01",
+        "event": "Summary judgment motions expected following discovery",
+        "notes": "Provisional date"
+      }
+    ]
+  },
+  {
+    "id": "does-v-twitter",
+    "type": "lawsuit",
+    "title": "John Does 1–6 v. Twitter, Inc.",
+    "identifier": "3:21-cv-00485 (N.D. Cal.)",
+    "status": "Settled",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2021-01-20",
+    "latest_action_date": "2023-03-01",
+    "latest_action": "Case settled for undisclosed amount following Ninth Circuit reversal.",
+    "court": "U.S. District Court, Northern District of California / Ninth Circuit",
+    "plaintiffs": [
+      "John Does 1–6 (minor victims)"
+    ],
+    "defendants": [
+      "Twitter, Inc."
+    ],
+    "judge": "Judge James Donato",
+    "summary": "CSAM and trafficking lawsuit against Twitter alleging the platform failed to remove CSAM depicting plaintiffs after being notified, and profited from hosting the content. Ninth Circuit reversed initial dismissal, holding FOSTA-SESTA's § 230 carve-out applied. Settlement followed reversal.",
+    "description": "Minors alleged they were solicited and their images exploited on Twitter, with Twitter refusing to remove content despite reports. Legal issue centered on whether FOSTA-SESTA's carve-out to Section 230 immunity applied, or whether Twitter retained immunity. Ninth Circuit held that at the motion to dismiss stage, plaintiffs plausibly alleged Twitter 'knowingly benefited' from CSAM under TVPA. Case settled before trial. Twitter (now X) has faced ongoing CSAM enforcement criticism.",
+    "keywords": [
+      "Twitter",
+      "X",
+      "CSAM",
+      "sex trafficking",
+      "Section 230",
+      "FOSTA-SESTA",
+      "1595",
+      "minor victims",
+      "platform liability"
+    ],
+    "companies": [
+      "Twitter (X)"
+    ],
+    "source": "PACER",
+    "url": "https://www.courtlistener.com/docket/19344754/does-v-twitter-inc/",
+    "updates": [
+      {
+        "date": "2021-01-20",
+        "event": "Complaint filed in N.D. Cal. against Twitter under TVPA §§ 1591/1595",
+        "actor": "Plaintiff attorneys (Stris & Maher LLP)"
+      },
+      {
+        "date": "2021-08-12",
+        "event": "District court dismisses — holds § 230 bars claims; FOSTA-SESTA carve-out inapplicable",
+        "actor": "Judge James Donato"
+      },
+      {
+        "date": "2021-09-01",
+        "event": "Plaintiffs appeal to Ninth Circuit",
+        "actor": "Plaintiffs"
+      },
+      {
+        "date": "2022-09-07",
+        "event": "Ninth Circuit reverses dismissal — holds FOSTA-SESTA carve-out to § 230 may apply; remands",
+        "actor": "U.S. Court of Appeals, Ninth Circuit",
+        "notes": "Significant ruling expanding potential platform liability under FOSTA-SESTA"
+      },
+      {
+        "date": "2023-03-01",
+        "event": "Case settled for undisclosed amount before retrial",
+        "actor": "Parties",
+        "notes": "Twitter denies wrongdoing; terms confidential"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "does-v-snap",
+    "type": "lawsuit",
+    "title": "Jane Doe v. Snap Inc. (Snapchat)",
+    "identifier": "Multiple consolidated cases — C.D. Cal.",
+    "status": "Ongoing — MDL",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2021-10-01",
+    "latest_action_date": "2024-12-01",
+    "latest_action": "MDL proceedings ongoing in C.D. California. Cases consolidated under Judge Dolly Gee.",
+    "court": "U.S. District Court, Central District of California (MDL)",
+    "plaintiffs": [
+      "Jane Does (multiple minors)"
+    ],
+    "defendants": [
+      "Snap Inc."
+    ],
+    "judge": "Judge Dolly Gee",
+    "summary": "Consolidated MDL against Snapchat alleging the platform's design features (disappearing messages, minimal content moderation) enabled grooming and sex trafficking of minors. Claims include negligence, product liability, and TVPA violations. Part of broader wave of social media child safety litigation.",
+    "description": "Multiple lawsuits consolidated against Snap Inc. alleging Snapchat's disappearing-message feature enabled traffickers and groomers to communicate with minors without a record. Plaintiffs allege Snap's product design choices were negligent and violated COPPA. Unlike Section 230 defenses that protect against editorial liability, plaintiffs frame claims around product design defects. Part of the same litigation wave as Meta and TikTok social media child safety MDLs.",
+    "keywords": [
+      "Snapchat",
+      "Snap",
+      "grooming",
+      "minors",
+      "COPPA",
+      "product liability",
+      "sex trafficking",
+      "social media",
+      "MDL",
+      "disappearing messages"
+    ],
+    "companies": [
+      "Snap Inc.",
+      "Snapchat"
+    ],
+    "source": "PACER",
+    "url": "https://www.courtlistener.com",
+    "updates": [
+      {
+        "date": "2021-10-01",
+        "event": "First complaints filed against Snap",
+        "actor": "Plaintiff attorneys"
+      },
+      {
+        "date": "2023-04-01",
+        "event": "JPML consolidates Snap cases into MDL in C.D. California",
+        "actor": "Judicial Panel on Multidistrict Litigation"
+      },
+      {
+        "date": "2024-01-15",
+        "event": "30+ state AGs file multistate action against Snap; coordinate with MDL",
+        "actor": "Coalition of State Attorneys General"
+      },
+      {
+        "date": "2024-12-01",
+        "event": "Discovery ongoing; bellwether trial selection process underway",
+        "actor": "Judge Dolly Gee"
+      }
+    ],
+    "upcoming": [
+      {
+        "date": "2026-01-01",
+        "event": "Bellwether trial(s) expected",
+        "notes": "Provisional date pending discovery completion"
+      }
+    ]
+  },
+  {
+    "id": "eeoc-v-global-horizons",
+    "type": "lawsuit",
+    "title": "EEOC v. Global Horizons, Inc. (Labor Trafficking in Agriculture)",
+    "identifier": "1:11-cv-00257 (D. Haw.)",
+    "status": "Settled",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "labor"
+    ],
+    "filed": "2011-04-20",
+    "latest_action_date": "2013-09-15",
+    "latest_action": "Consent decree entered. Global Horizons paid $7.65 million to 200+ Thai workers.",
+    "court": "U.S. District Court, District of Hawaii",
+    "plaintiffs": [
+      "Equal Employment Opportunity Commission",
+      "200+ Thai guest workers"
+    ],
+    "defendants": [
+      "Global Horizons, Inc.",
+      "Various farm operators"
+    ],
+    "judge": "Judge Susan Oki Mollway",
+    "summary": "EEOC labor trafficking lawsuit against agricultural labor contractor Global Horizons for subjecting Thai guest workers to forced labor through debt bondage, confiscation of passports, and threats of deportation. One of the largest farm labor trafficking settlements in US history.",
+    "description": "Global Horizons recruited hundreds of Thai workers with promises of legal agricultural work in the US under H-2A visas. Upon arrival, workers were subjected to: forced labor through debt bondage (excessive recruitment fees); confiscation of passports and travel documents; threats of deportation for noncompliance; substandard housing and food withheld as leverage; and psychological coercion. Settlement included $7.65M in damages for 200+ workers and significant remedial measures for future H-2A recruitment.",
+    "keywords": [
+      "labor trafficking",
+      "forced labor",
+      "debt bondage",
+      "H-2A visa",
+      "agriculture",
+      "Thai workers",
+      "EEOC",
+      "passport confiscation"
+    ],
+    "companies": [
+      "Global Horizons, Inc."
+    ],
+    "source": "EEOC",
+    "url": "https://www.eeoc.gov/newsroom/eeoc-and-global-horizons-reach-7-million-agreement-resolve-farm-labor-trafficking",
+    "updates": [
+      {
+        "date": "2009-08-01",
+        "event": "Federal trafficking charges filed against Global Horizons executives",
+        "actor": "DOJ",
+        "notes": "Criminal charges preceded civil EEOC action"
+      },
+      {
+        "date": "2011-04-20",
+        "event": "EEOC files civil complaint in D. Hawaii",
+        "actor": "EEOC"
+      },
+      {
+        "date": "2013-09-15",
+        "event": "Consent decree entered — $7.65M settlement for 200+ Thai workers",
+        "actor": "Judge Susan Mollway",
+        "notes": "One of the largest agricultural labor trafficking settlements in US history"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "doe-v-nestle",
+    "type": "lawsuit",
+    "title": "Doe v. Nestlé USA, Inc. (Cocoa Supply Chain Forced Labor)",
+    "identifier": "2:05-cv-05133 (C.D. Cal.) / Supreme Court",
+    "status": "Remanded — Ongoing",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "labor"
+    ],
+    "filed": "2005-07-14",
+    "latest_action_date": "2021-06-17",
+    "latest_action": "Supreme Court unanimously reversed; case remanded to district court. Still active after 19 years.",
+    "court": "U.S. District Court, Central District of California; Supreme Court of the United States",
+    "plaintiffs": [
+      "John Doe I–VI (former child slaves from Mali)"
+    ],
+    "defendants": [
+      "Nestlé USA, Inc.",
+      "Cargill, Inc."
+    ],
+    "judge": "Multiple; SCOTUS unanimous opinion",
+    "summary": "20-year Alien Tort Statute case alleging Nestlé and Cargill aided and abetted forced child labor in Côte d'Ivoire cocoa supply chains. Supreme Court held federal courts lack ATS jurisdiction over foreign conduct, but left open whether domestic conduct allegations could proceed. Landmark case for corporate supply chain liability.",
+    "description": "Malian children were trafficked and forced to work on cocoa farms in Côte d'Ivoire supplying Nestlé and Cargill. Plaintiffs sued under the Alien Tort Statute for aiding and abetting forced labor. After 16 years of litigation, the Supreme Court (9-0) held that foreign conduct cannot support ATS jurisdiction; remanded on question of whether US-based decisions suffice. Case illustrates extraordinary difficulty of supply chain forced labor litigation and the 20+ year timeframes involved.",
+    "keywords": [
+      "Nestlé",
+      "Cargill",
+      "cocoa",
+      "child labor",
+      "forced labor",
+      "supply chain",
+      "Alien Tort Statute",
+      "ATS",
+      "Côte d'Ivoire",
+      "corporate liability"
+    ],
+    "companies": [
+      "Nestlé USA",
+      "Cargill"
+    ],
+    "source": "PACER / SCOTUS",
+    "url": "https://www.supremecourt.gov/opinions/20pdf/19-416_i4dj.pdf",
+    "updates": [
+      {
+        "date": "2005-07-14",
+        "event": "ATS complaint filed in C.D. California",
+        "actor": "International Labor Rights Forum"
+      },
+      {
+        "date": "2010-09-16",
+        "event": "District court dismisses — lack of ATS jurisdiction for foreign conduct",
+        "actor": "District Court"
+      },
+      {
+        "date": "2014-05-01",
+        "event": "Ninth Circuit partially reverses — allows case to proceed",
+        "actor": "U.S. Court of Appeals, Ninth Circuit"
+      },
+      {
+        "date": "2019-06-05",
+        "event": "Ninth Circuit (en banc) reverses again — full case dismissed",
+        "actor": "Ninth Circuit (en banc)"
+      },
+      {
+        "date": "2021-06-17",
+        "event": "Supreme Court reverses and remands (9-0) — Justice Thomas writes; ATS jurisdictional question partly resolved",
+        "actor": "Supreme Court of the United States",
+        "notes": "Nestle v. Doe, 593 U.S. 369 (2021)"
+      },
+      {
+        "date": "2022-03-01",
+        "event": "Case remanded; district court proceedings resume",
+        "actor": "C.D. California"
+      },
+      {
+        "date": "2024-06-01",
+        "event": "Case remains active on remand; summary judgment briefing ongoing",
+        "actor": "District Court"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "hotel-liability-wave",
+    "type": "lawsuit",
+    "title": "Hotel Industry TVPA Liability Cases — Nationwide Wave (2019–present)",
+    "identifier": "Multiple Districts",
+    "status": "Ongoing — Multiple Cases",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2019-01-01",
+    "latest_action_date": "2025-03-01",
+    "latest_action": "350+ cases filed nationwide. S.D. Ohio serving as de facto leading jurisdiction. Cases against Red Roof Inn, Super 8, Comfort Inn, and others proceeding to trial.",
+    "court": "Multiple U.S. District Courts",
+    "plaintiffs": [
+      "Multiple trafficking survivors"
+    ],
+    "defendants": [
+      "Wyndham Hotels",
+      "Marriott International",
+      "Red Roof Inns",
+      "Super 8 / Motel 6",
+      "Choice Hotels International",
+      "IHG"
+    ],
+    "judge": "Multiple",
+    "summary": "Wave of TVPA § 1595 civil suits filed against major hotel chains and franchisors alleging they knowingly benefited from sex trafficking occurring on their premises. 350+ cases filed nationwide. Key legal issues: whether franchisor can be liable for franchisee properties; what constitutes 'knowledge' of trafficking.",
+    "description": "Since 2019, hundreds of sex trafficking survivors have filed TVPA § 1595 civil suits against hotels. Key issues being litigated: (1) Franchisor liability for trafficking at franchised properties; (2) Standards for 'constructive knowledge' of trafficking; (3) Role of AH&LA 'No Room for Trafficking' training program; (4) Class certification viability; (5) Expert testimony on trafficking indicators. Several cases have resulted in seven-figure settlements. Industry has spent $100M+ on defense and training in response.",
+    "keywords": [
+      "hotel liability",
+      "1595",
+      "civil cause of action",
+      "TVPA",
+      "sex trafficking",
+      "franchise liability",
+      "constructive knowledge",
+      "beneficiary"
+    ],
+    "companies": [
+      "Wyndham Hotels",
+      "Marriott International",
+      "Red Roof Inns",
+      "Choice Hotels",
+      "IHG",
+      "Best Western",
+      "Hilton"
+    ],
+    "source": "PACER",
+    "url": "https://www.courtlistener.com",
+    "updates": [
+      {
+        "date": "2019-03-01",
+        "event": "First wave of TVPA hotel cases filed in S.D. Ohio following M.A. v. Wyndham precedent",
+        "actor": "Plaintiff attorneys (Rittgers & Rittgers; Hogan Lovells)"
+      },
+      {
+        "date": "2020-11-01",
+        "event": "AH&LA launches mandatory 'No Room for Trafficking' staff training program",
+        "actor": "American Hotel & Lodging Association"
+      },
+      {
+        "date": "2021-06-01",
+        "event": "350+ cases filed nationwide; courts begin coordinating discovery",
+        "actor": "Multiple courts"
+      },
+      {
+        "date": "2022-09-15",
+        "event": "First bellwether trials scheduled in S.D. Ohio; discovery ongoing",
+        "actor": "Judge Algenon Marbley (S.D. Ohio)"
+      },
+      {
+        "date": "2023-07-01",
+        "event": "Multiple seven-figure settlements; Red Roof Inns settles 13 cases for undisclosed amounts",
+        "actor": "Red Roof Inns"
+      },
+      {
+        "date": "2025-03-01",
+        "event": "Trials ongoing; franchisor liability theory being tested at trial for first time",
+        "actor": "Multiple courts"
+      }
+    ],
+    "upcoming": [
+      {
+        "date": "2025-07-01",
+        "event": "First franchisor liability verdict expected",
+        "notes": "Choice Hotels International case going to trial in S.D. Ohio"
+      }
+    ]
+  },
+  {
+    "id": "us-v-epstein-estate",
+    "type": "lawsuit",
+    "title": "U.S. Territories & Civil Suits v. Jeffrey Epstein Estate / JP Morgan / Deutsche Bank",
+    "identifier": "Multiple cases",
+    "status": "Partially Settled — Civil Ongoing",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2022-01-01",
+    "latest_action_date": "2024-12-01",
+    "latest_action": "JP Morgan settled for $75M with US Virgin Islands and $290M with Epstein victims. Deutsche Bank settled for $75M. Ongoing civil actions against Epstein estate.",
+    "court": "U.S. District Court, Southern District of New York",
+    "plaintiffs": [
+      "U.S. Virgin Islands",
+      "Epstein victims (class)",
+      "Jane Does"
+    ],
+    "defendants": [
+      "Jeffrey Epstein Estate",
+      "JP Morgan Chase",
+      "Deutsche Bank"
+    ],
+    "judge": "Judge Jed Rakoff (JP Morgan); Judge Loretta Preska",
+    "summary": "Post-Epstein death civil litigation targeting his financial enablers: JP Morgan Chase and Deutsche Bank are accused of facilitating Epstein's trafficking enterprise by processing his finances while knowing of his criminal conduct. JP Morgan settled for $290M to victims; Deutsche Bank settled for $75M. Landmark corporate enabler liability cases.",
+    "description": "Jeffrey Epstein died in federal custody in August 2019 while awaiting trial on sex trafficking charges. Civil litigation subsequently targeted financial institutions that serviced his accounts while allegedly knowing of his trafficking. US Virgin Islands government sued JP Morgan, which settled for $75M with USVI and $290M with victim class. Deutsche Bank settled for $75M. Cases establish that financial institutions can face TVPA civil liability for knowingly processing transactions related to trafficking.",
+    "keywords": [
+      "Epstein",
+      "JP Morgan",
+      "Deutsche Bank",
+      "financial enabler",
+      "sex trafficking",
+      "elite trafficking",
+      "bank liability",
+      "US Virgin Islands"
+    ],
+    "companies": [
+      "JPMorgan Chase",
+      "Deutsche Bank",
+      "Epstein Estate"
+    ],
+    "source": "PACER",
+    "url": "https://www.courtlistener.com",
+    "updates": [
+      {
+        "date": "2019-08-10",
+        "event": "Jeffrey Epstein found dead in federal custody at MCC New York",
+        "actor": "Federal Bureau of Prisons",
+        "notes": "Death ruled suicide; extensive conspiracy theories follow"
+      },
+      {
+        "date": "2022-01-01",
+        "event": "US Virgin Islands sues JP Morgan and Deutsche Bank for facilitating Epstein's enterprise",
+        "actor": "USVI AG Denise George"
+      },
+      {
+        "date": "2023-06-12",
+        "event": "JP Morgan settles with USVI for $75M",
+        "actor": "JP Morgan Chase"
+      },
+      {
+        "date": "2023-07-01",
+        "event": "Deutsche Bank agrees to pay $75M settlement to Epstein victims",
+        "actor": "Deutsche Bank"
+      },
+      {
+        "date": "2023-09-26",
+        "event": "JP Morgan agrees to $290M settlement to Epstein victim class",
+        "actor": "JP Morgan Chase",
+        "notes": "Largest Epstein-related financial institution settlement"
+      },
+      {
+        "date": "2024-12-01",
+        "event": "Continued civil actions against Epstein estate ongoing; individual victim suits active",
+        "actor": "Various plaintiffs"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-ab-v-marriott-international-inc",
+    "type": "lawsuit",
+    "title": "A.B. v. Marriott International, Inc.",
+    "identifier": "2:19-cv-05765 (E.D. Pa.)",
+    "status": "Active",
+    "status_detail": "Active",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2019-12-09",
+    "latest_action_date": "2019-12-09",
+    "latest_action": "Active",
+    "court": "E.D. Pennsylvania (Judge Kearney)",
+    "judge": "Judge Kearney",
+    "plaintiffs": [
+      "A.B. (Jane Doe)"
+    ],
+    "defendants": [
+      "Marriott International, Inc."
+    ],
+    "case_category": "HOSPITALITY INDUSTRY",
+    "case_type": "Individual Civil",
+    "legal_provisions": "18 U.S.C. §1595 (beneficiary liability); §1591",
+    "allegations": "Marriott hotel near Philadelphia Airport allowed sex trafficking of plaintiff (then 22) at three properties (2009–2011); ignored signs of trafficking visible to staff",
+    "knowingly_benefit": "MTD denied Apr 22, 2020; 'knew or should have known' sufficient at pleading",
+    "settlement_amount": "TBD",
+    "survivor_compensation": "TBD",
+    "resolution": "TBD",
+    "legal_significance": "First major hotel TVPA suit in 3rd Circuit; established 'knew or should have known' pleading standard",
+    "specific_metrics": "Plaintiff alleges staff observed cash payments, multiple men visiting room; no calls to front desk; no record of local check-in",
+    "url": "https://www.pacermonitor.com/public/case/31345150/AB_v_MARRIOTT_INTERNATIONAL,_INC",
+    "summary": "First major hotel TVPA suit in 3rd Circuit; established 'knew or should have known' pleading standard",
+    "description": "Marriott hotel near Philadelphia Airport allowed sex trafficking of plaintiff (then 22) at three properties (2009–2011); ignored signs of trafficking visible to staff Active case; part of wave of 200+ new hotel trafficking lawsuits filed in 2025 alone",
+    "keywords": [],
+    "companies": [
+      "Marriott International, Inc."
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2019-12-09",
+        "event": "Complaint filed — A.B. v. Marriott International, Inc.",
+        "actor": "Marriott International, Inc.",
+        "notes": "",
+        "source_url": "https://www.pacermonitor.com/public/case/31345150/AB_v_MARRIOTT_INTERNATIONAL,_INC"
+      },
+      {
+        "date": "2019-12-09",
+        "event": "Status as of March 2026: Active",
+        "actor": "",
+        "notes": "Active case; part of wave of 200+ new hotel trafficking lawsuits filed in 2025 alone",
+        "source_url": "https://www.pacermonitor.com/public/case/31345150/AB_v_MARRIOTT_INTERNATIONAL,_INC"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-doe-v-red-roof-inns-inc",
+    "type": "lawsuit",
+    "title": "Doe v. Red Roof Inns, Inc.",
+    "identifier": "No. 20-11764 (11th Cir.); multiple district cases",
+    "status": "Settled",
+    "status_detail": "Partially settled (Atlanta); other cases active",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2019-01-01",
+    "latest_action_date": "2019-01-01",
+    "latest_action": "Partially settled (Atlanta); other cases active",
+    "court": "11th Circuit + N.D. Ga., S.D. Ohio",
+    "judge": "",
+    "plaintiffs": [
+      "Multiple Jane Does (17+ plaintiffs)"
+    ],
+    "defendants": [
+      "Red Roof Inns, Inc.",
+      "RRI West Management LLC",
+      "various franchisees"
+    ],
+    "case_category": "HOSPITALITY INDUSTRY",
+    "case_type": "Individual Civil (multiple)",
+    "legal_provisions": "18 U.S.C. §1595 (beneficiary liability)",
+    "allegations": "Red Roof Inn properties in Atlanta metro area allowed repeated sex trafficking; management and staff observed but ignored visible indicators; franchise system profited from room revenue",
+    "knowingly_benefit": "11th Circuit: narrowest reading - requires plaintiff to allege defendant participated in common undertaking with specific trafficker AND knew of that plaintiff's trafficking specifically",
+    "settlement_amount": "Confidential mid-trial settlement (Atlanta, 2022); $40 million jury verdict (separate Georgia motel case, first jury verdict under TVPA against hotel)",
+    "survivor_compensation": "Partial compensation for settling plaintiffs; jury award not yet collected",
+    "resolution": "Operational changes required at settled properties",
+    "legal_significance": "Doe v. Red Roof Inns 21 F.4th 714 (11th Cir. 2021) = NARROWEST §1595 circuit standard. SCOTUS cert denied (No. 21-7234, Feb 2022). Creates circuit split vs. 7th Circuit Salesforce ruling",
+    "specific_metrics": "$40M verdict: $10M compensatory + $30M punitive. 'Narrowest circuit' approach still allows some hotel cases to survive.",
+    "url": "https://media.ca11.uscourts.gov/opinions/pub/files/202011764.pdf",
+    "summary": "Doe v. Red Roof Inns 21 F.4th 714 (11th Cir. 2021) = NARROWEST §1595 circuit standard. SCOTUS cert denied (No. 21-7234, Feb 2022). Creates circuit split vs. 7th Circuit Salesforce ruling",
+    "description": "Red Roof Inn properties in Atlanta metro area allowed repeated sex trafficking; management and staff observed but ignored visible indicators; franchise system profited from room revenue Most significant hotel trafficking verdict; 11th Circuit standard now in tension with 7th Circuit Salesforce standard",
+    "keywords": [],
+    "companies": [
+      "Red Roof Inns, Inc.",
+      "RRI West Management LLC",
+      "various franchisees"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2019-01-01",
+        "event": "Complaint filed — Doe v. Red Roof Inns, Inc.",
+        "actor": "Red Roof Inns, Inc.",
+        "notes": "",
+        "source_url": "https://media.ca11.uscourts.gov/opinions/pub/files/202011764.pdf"
+      },
+      {
+        "date": "2019-01-01",
+        "event": "Status as of March 2026: Partially settled (Atlanta); other cases active",
+        "actor": "",
+        "notes": "Most significant hotel trafficking verdict; 11th Circuit standard now in tension with 7th Circuit Salesforce standard",
+        "source_url": "https://media.ca11.uscourts.gov/opinions/pub/files/202011764.pdf"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-amg-v-red-roof-inns-inc",
+    "type": "lawsuit",
+    "title": "A.M.G. v. Red Roof Inns, Inc.",
+    "identifier": "2025 WL 588645 (S.D. Ohio, Feb. 24, 2025)",
+    "status": "Active",
+    "status_detail": "Active",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2023-01-01",
+    "latest_action_date": "2023-01-01",
+    "latest_action": "Active",
+    "court": "S.D. Ohio (Judge Marbley)",
+    "judge": "Judge Marbley",
+    "plaintiffs": [
+      "A.M.G. (Jane Doe)"
+    ],
+    "defendants": [
+      "Red Roof Inns Inc.",
+      "various franchisees"
+    ],
+    "case_category": "HOSPITALITY INDUSTRY",
+    "case_type": "Individual Civil",
+    "legal_provisions": "18 U.S.C. §1595",
+    "allegations": "Trafficking at Red Roof Inn properties in Ohio; plaintiff claims hotel staff directly facilitated by providing rooms knowing they were used for sex trafficking",
+    "knowingly_benefit": "S.D. Ohio: franchisor cannot simply shift §1595 liability to franchisees; franchisor's knowledge + financial benefit from franchise fees can suffice",
+    "settlement_amount": "TBD",
+    "survivor_compensation": "TBD",
+    "resolution": "TBD",
+    "legal_significance": "September 30, 2025 ruling: FRANCHISORS cannot escape §1595 by delegating to franchisees; deepens circuit split on franchisor liability",
+    "specific_metrics": "Ohio ruling directly conflicts with 11th Circuit narrower approach; creates important precedent on franchisor liability structure for national hotel chains",
+    "url": "https://law.justia.com/cases/federal/district-courts/ohio/ohsdce/2:2023cv04195/287092/64/",
+    "summary": "September 30, 2025 ruling: FRANCHISORS cannot escape §1595 by delegating to franchisees; deepens circuit split on franchisor liability",
+    "description": "Trafficking at Red Roof Inn properties in Ohio; plaintiff claims hotel staff directly facilitated by providing rooms knowing they were used for sex trafficking Key test of whether national hotel brands (Marriott, Hilton, Wyndham, Choice Hotels) can be held liable even if individual franchise operators are responsible",
+    "keywords": [],
+    "companies": [
+      "Red Roof Inns Inc.",
+      "various franchisees"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2023-01-01",
+        "event": "Complaint filed — A.M.G. v. Red Roof Inns, Inc.",
+        "actor": "Red Roof Inns Inc.",
+        "notes": "",
+        "source_url": "https://law.justia.com/cases/federal/district-courts/ohio/ohsdce/2:2023cv04195/287092/64/"
+      },
+      {
+        "date": "2023-01-01",
+        "event": "Status as of March 2026: Active",
+        "actor": "",
+        "notes": "Key test of whether national hotel brands (Marriott, Hilton, Wyndham, Choice Hotels) can be held liable even if individual franchise operators are responsible",
+        "source_url": "https://law.justia.com/cases/federal/district-courts/ohio/ohsdce/2:2023cv04195/287092/64/"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-hotel-industry-sex-trafficking-litigation-mdl",
+    "type": "lawsuit",
+    "title": "Hotel Industry Sex Trafficking Litigation MDL No. 3104",
+    "identifier": "MDL No. 3104 (JPML, 2024)",
+    "status": "Active",
+    "status_detail": "Active — 1,700+ plaintiffs in various districts",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2024-01-01",
+    "latest_action_date": "2024-01-01",
+    "latest_action": "Active — 1,700+ plaintiffs in various districts",
+    "court": "JPML (denied consolidation)",
+    "judge": "",
+    "plaintiffs": [
+      "52+ plaintiffs from 12 districts"
+    ],
+    "defendants": [
+      "Multiple hotel chains: Marriott, Hilton, Wyndham, Choice Hotels, G6 Hospitality (Motel 6), Super 8"
+    ],
+    "case_category": "HOSPITALITY INDUSTRY",
+    "case_type": "MDL Consolidation Motion",
+    "legal_provisions": "18 U.S.C. §1595",
+    "allegations": "Multiple hotel chains knew or should have known their properties were used for sex trafficking; ignored warning signs; profited from room revenue",
+    "knowingly_benefit": "JPML denied consolidation April 2024 (previously denied MDL 2928 in Jan 2020) — cases remain in individual district courts",
+    "settlement_amount": "Various — $40M verdict (GA); $24M (Philadelphia Days Inn, 8 plaintiffs); $17.5M settlement (3 Philadelphia hotels, March 2025); $37.5M and $24.5M arbitration awards; $6M (Super 8 GA); $5M (Days Inn/Wyndham, Stockbridge GA, Sept 2025)",
+    "survivor_compensation": "Yes — compensatory damages to survivor-plaintiffs in all verdicts/settlements",
+    "resolution": "Policy changes at settled properties",
+    "legal_significance": "JPML twice denied consolidation, finding hotel cases too fact-specific for MDL treatment. This keeps litigation fragmented but also means survivors must pursue individually — access to justice concern.",
+    "specific_metrics": "200+ new TVPA hotel lawsuits filed in 2025 alone. Total §1595 hotel cases = largest single category in HT civil litigation.",
+    "url": "https://www.govinfo.gov/content/pkg/USCOURTS-jpml-1_24-F-03104/pdf/USCOURTS-jpml-1_24-F-03104-0.pdf",
+    "summary": "JPML twice denied consolidation, finding hotel cases too fact-specific for MDL treatment. This keeps litigation fragmented but also means survivors must pursue individually — access to justice concern.",
+    "description": "Multiple hotel chains knew or should have known their properties were used for sex trafficking; ignored warning signs; profited from room revenue 1,212 total §1595 cases filed through Dec 2024 (HT Legal Center); 280 in 2024 alone",
+    "keywords": [],
+    "companies": [
+      "Multiple hotel chains: Marriott, Hilton, Wyndham, Choice Hotels, G6 Hospitality (Motel 6), Super 8"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2024-01-01",
+        "event": "Complaint filed — Hotel Industry Sex Trafficking Litigation MDL No. 3104",
+        "actor": "Multiple hotel chains: Marriott, Hilton, Wyndham, Choice Hotels, G6 Hospitality (Motel 6), Super 8",
+        "notes": "",
+        "source_url": "https://www.govinfo.gov/content/pkg/USCOURTS-jpml-1_24-F-03104/pdf/USCOURTS-jpml-1_24-F-03104-0.pdf"
+      },
+      {
+        "date": "2024-01-01",
+        "event": "Status as of March 2026: Active — 1,700+ plaintiffs in various districts",
+        "actor": "",
+        "notes": "1,212 total §1595 cases filed through Dec 2024 (HT Legal Center); 280 in 2024 alone",
+        "source_url": "https://www.govinfo.gov/content/pkg/USCOURTS-jpml-1_24-F-03104/pdf/USCOURTS-jpml-1_24-F-03104-0.pdf"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-rc-v-choice-hotels-international-inc",
+    "type": "lawsuit",
+    "title": "R.C. v. Choice Hotels International, Inc.",
+    "identifier": "N.D. Ohio",
+    "status": "Active",
+    "status_detail": "Active",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2021-01-01",
+    "latest_action_date": "2021-01-01",
+    "latest_action": "Active",
+    "court": "N.D. Ohio",
+    "judge": "",
+    "plaintiffs": [
+      "R.C. (Jane Doe)"
+    ],
+    "defendants": [
+      "Choice Hotels International, Inc.",
+      "individual franchisees"
+    ],
+    "case_category": "HOSPITALITY INDUSTRY",
+    "case_type": "Individual Civil",
+    "legal_provisions": "18 U.S.C. §1595",
+    "allegations": "Choice Hotels franchisor ignored systemic trafficking at affiliated properties; knowingly benefited from room revenue",
+    "knowingly_benefit": "Pending — following MDL denial, proceeds in N.D. Ohio",
+    "settlement_amount": "TBD",
+    "survivor_compensation": "TBD",
+    "resolution": "TBD",
+    "legal_significance": "Tests franchisor liability at Choice Hotels - one of the largest hotel brands",
+    "specific_metrics": "Choice Hotels brands include Comfort Inn, Quality Inn, Econo Lodge - franchisee model tested for corporate liability",
+    "url": "https://www.bakerdonelson.com/webfiles/Publications/R_C__Plaintiff,_v__CHOICE_HOTELS_INTERNATIONAL,_INC..pdf",
+    "summary": "Tests franchisor liability at Choice Hotels - one of the largest hotel brands",
+    "description": "Choice Hotels franchisor ignored systemic trafficking at affiliated properties; knowingly benefited from room revenue Ongoing; part of broader hotel liability wave",
+    "keywords": [],
+    "companies": [
+      "Choice Hotels International, Inc.",
+      "individual franchisees"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2021-01-01",
+        "event": "Complaint filed — R.C. v. Choice Hotels International, Inc.",
+        "actor": "Choice Hotels International, Inc.",
+        "notes": "",
+        "source_url": "https://www.bakerdonelson.com/webfiles/Publications/R_C__Plaintiff,_v__CHOICE_HOTELS_INTERNATIONAL,_INC..pdf"
+      },
+      {
+        "date": "2021-01-01",
+        "event": "Status as of March 2026: Active",
+        "actor": "",
+        "notes": "Ongoing; part of broader hotel liability wave",
+        "source_url": "https://www.bakerdonelson.com/webfiles/Publications/R_C__Plaintiff,_v__CHOICE_HOTELS_INTERNATIONAL,_INC..pdf"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-united-states-v-lacey-brunst-spear-et-al",
+    "type": "lawsuit",
+    "title": "United States v. Lacey, Brunst, Spear et al.",
+    "identifier": "CR 18-465-PHX-DJH (D. Ariz.)",
+    "status": "Concluded",
+    "status_detail": "Concluded (criminal); Civil forfeiture concluded Dec 2024",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2018-04-09",
+    "latest_action_date": "2018-04-09",
+    "latest_action": "Concluded (criminal); Civil forfeiture concluded Dec 2024",
+    "court": "D. Arizona (Judge Humetewa)",
+    "judge": "Judge Humetewa",
+    "plaintiffs": [
+      "U.S. Government"
+    ],
+    "defendants": [
+      "Michael Lacey (co-founder), John 'Jed' Brunst (CFO), Scott Spear (COO) + others"
+    ],
+    "case_category": "PLATFORM LIABILITY",
+    "case_type": "DOJ Criminal + Civil Forfeiture",
+    "legal_provisions": "18 U.S.C. §1591; 18 U.S.C. §1956 (money laundering); §371 (conspiracy)",
+    "allegations": "Lacey, Brunst, Spear ran Backpage.com which earned >$500M facilitating sex trafficking through adult ads; Backpage earned $135M in 2014 alone; 90%+ of revenue from adult ads; concealed money through cryptocurrency and foreign banks",
+    "knowingly_benefit": "All three convicted November 2023: Lacey (5 yrs prison + $3M fine); Spear (10 yrs); Brunst (10 yrs). All ordered to surrender Sept 11, 2024.",
+    "settlement_amount": "$215 million civil forfeiture settlement (Dec 2024, CV 18-8420 RGK, C.D. Cal.)",
+    "survivor_compensation": "Yes - Backpage Compensation Program launched mid-2025 (BackpageRemission.com); filing deadline March 31, 2026; administered by Epiq Global Inc.; >$200M available for victim remission",
+    "resolution": "Backpage.com shut down April 2018 by federal seizure",
+    "legal_significance": "First major prosecution of an online platform for facilitating sex trafficking. Demonstrated that platform operators can be criminally liable when they knowingly facilitate trafficking.",
+    "specific_metrics": "Backpage was used in 73% of sex trafficking cases reported to NCMEC in 2017. FBI and DOJ coordinated multi-year investigation.",
+    "url": "https://www.justice.gov/opa/pr/us-department-justice-announces-compensation-process-victims-trafficked-through-backpagecom",
+    "summary": "First major prosecution of an online platform for facilitating sex trafficking. Demonstrated that platform operators can be criminally liable when they knowingly facilitate trafficking.",
+    "description": "Lacey, Brunst, Spear ran Backpage.com which earned >$500M facilitating sex trafficking through adult ads; Backpage earned $135M in 2014 alone; 90%+ of revenue from adult ads; concealed money through cryptocurrency and foreign banks DOJ announcing victim compensation process (BackpageRemission.com) is noteworthy - rare example of federal government creating survivor compensation from criminal forfeiture",
+    "keywords": [],
+    "companies": [
+      "Michael Lacey (co-founder), John 'Jed' Brunst (CFO), Scott Spear (COO) + others"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2018-04-09",
+        "event": "Complaint filed — United States v. Lacey, Brunst, Spear et al.",
+        "actor": "Michael Lacey (co-founder), John 'Jed' Brunst (CFO), Scott Spear (COO) + others",
+        "notes": "",
+        "source_url": "https://www.justice.gov/opa/pr/us-department-justice-announces-compensation-process-victims-trafficked-through-backpagecom"
+      },
+      {
+        "date": "2018-04-09",
+        "event": "Status as of March 2026: Concluded (criminal); Civil forfeiture concluded Dec 2024",
+        "actor": "",
+        "notes": "DOJ announcing victim compensation process (BackpageRemission.com) is noteworthy - rare example of federal government creating survivor compensation from criminal forfeiture",
+        "source_url": "https://www.justice.gov/opa/pr/us-department-justice-announces-compensation-process-victims-trafficked-through-backpagecom"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-gg-v-salesforcecom-inc",
+    "type": "lawsuit",
+    "title": "G.G. v. Salesforce.com, Inc.",
+    "identifier": "1:20-cv-02335 (N.D. Ill.)",
+    "status": "Active",
+    "status_detail": "Active - TRIAL SET EARLY JUNE 2026 (potentially first Salesforce trafficking case to reach jury)",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2020-03-05",
+    "latest_action_date": "2020-03-05",
+    "latest_action": "Active - TRIAL SET EARLY JUNE 2026 (potentially first Salesforce trafficking case to reach jury)",
+    "court": "N.D. Illinois; 7th Circuit Court of Appeals",
+    "judge": "",
+    "plaintiffs": [
+      "G.G. and other Backpage survivors"
+    ],
+    "defendants": [
+      "Salesforce.com, Inc."
+    ],
+    "case_category": "PLATFORM LIABILITY",
+    "case_type": "Individual Civil (multiple, consolidated)",
+    "legal_provisions": "18 U.S.C. §1595 (beneficiary liability)",
+    "allegations": "Salesforce provided CRM and marketing tools to Backpage knowing it was used for sex trafficking; Salesforce's software managed Backpage's global sales operations; Salesforce employees specifically flagged Backpage's business to internal leadership as problematic",
+    "knowingly_benefit": "7th Circuit August 2023 (76 F.4th 544): BROADEST §1595 ruling - 'venture' need not be a sex-trafficking venture; no constructive knowledge of specific victim required; CDA §230 does NOT shield Salesfo",
+    "settlement_amount": "TBD - trial set June 2026",
+    "survivor_compensation": "TBD - potentially significant damages if plaintiff prevails",
+    "resolution": "TBD - no settlement yet",
+    "legal_significance": "MOST SIGNIFICANT §1595 CASE NOW: Directly conflicts with 11th Circuit's narrow Red Roof Inns standard. 7th Circuit's broad reading: any commercial venture + known benefit suffices. Circuit split makes SCOTUS review increasingly likely after trial.",
+    "specific_metrics": "5th Circuit parallel cases (A.B. v. Salesforce, N.D. Tex., 25 cases): partially survived MTD March 2025, following different analysis than 7th Circuit",
+    "url": "https://repository.law.uic.edu/cgi/viewcontent.cgi?article=2945&context=lawreview",
+    "summary": "MOST SIGNIFICANT §1595 CASE NOW: Directly conflicts with 11th Circuit's narrow Red Roof Inns standard. 7th Circuit's broad reading: any commercial venture + known benefit suffices. Circuit split makes SCOTUS review increasingly likely after trial.",
+    "description": "Salesforce provided CRM and marketing tools to Backpage knowing it was used for sex trafficking; Salesforce's software managed Backpage's global sales operations; Salesforce employees specifically flagged Backpage's business to internal leadership as problematic The §1595 circuit split between 7th (Salesforce/broad) and 11th (Red Roof/narrow) is the most critical pending legal question in HT civil litigation as of March 2026",
+    "keywords": [],
+    "companies": [
+      "Salesforce.com, Inc."
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2020-03-05",
+        "event": "Complaint filed — G.G. v. Salesforce.com, Inc.",
+        "actor": "Salesforce.com, Inc.",
+        "notes": "",
+        "source_url": "https://repository.law.uic.edu/cgi/viewcontent.cgi?article=2945&context=lawreview"
+      },
+      {
+        "date": "2020-03-05",
+        "event": "Status as of March 2026: Active - TRIAL SET EARLY JUNE 2026 (potentially first Salesforce trafficking case to reach jury)",
+        "actor": "",
+        "notes": "The §1595 circuit split between 7th (Salesforce/broad) and 11th (Red Roof/narrow) is the most critical pending legal question in HT civil litigation as of March 2026",
+        "source_url": "https://repository.law.uic.edu/cgi/viewcontent.cgi?article=2945&context=lawreview"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-serena-fleites-v-mindgeek-sarl-et-al",
+    "type": "lawsuit",
+    "title": "Serena Fleites v. MindGeek S.A.R.L. et al.",
+    "identifier": "2:21-cv-04920-WLH-ADS (C.D. Cal.)",
+    "status": "Active",
+    "status_detail": "Active - settlement negotiations began Nov 2024",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2021-06-17",
+    "latest_action_date": "2021-06-17",
+    "latest_action": "Active - settlement negotiations began Nov 2024",
+    "court": "C.D. California (Judge Carney)",
+    "judge": "Judge Carney",
+    "plaintiffs": [
+      "Serena Fleites (and other Jane Does)"
+    ],
+    "defendants": [
+      "MindGeek S.A.R.L.",
+      "Feras Antoon (CEO)",
+      "David Tassillo (COO)",
+      "Colbeck Capital (investor)"
+    ],
+    "case_category": "PLATFORM LIABILITY",
+    "case_type": "Individual Civil + Class Elements",
+    "legal_provisions": "18 U.S.C. §§1591, 1595; RICO; California UCL/FAL",
+    "allegations": "Fleites was 13 when boyfriend posted video on Pornhub titled '13-Year Old Brunette Shows Off For the Camera' - video garnered 400,000+ views; MindGeek refused to remove despite repeated requests; Visa provided payment processing knowing of widespread CSAM",
+    "knowingly_benefit": "LANDMARK July 2022 ruling: Visa's motion to dismiss DENIED - court found Visa 'lent to MindGeek a much-needed tool - its payment network - with alleged knowledge there was a wealth of monetized child ",
+    "settlement_amount": "TBD",
+    "survivor_compensation": "TBD - Fleites case; multiple Jane Doe plaintiffs",
+    "resolution": "TBD",
+    "legal_significance": "First ruling establishing payment processor liability under TVPRA. Payment processor Visa cannot claim ignorance of platform's CSAM when it continued providing services.",
+    "specific_metrics": "400,000+ views of video of 13-year-old; MindGeek earned advertising revenue on CSAM content; Visa processed payments for MindGeek subscriptions; MindGeek's 'notice-and-takedown' system failed repeatedly",
+    "url": "https://www.courtlistener.com/docket/59992265/serena-fleites-v-mindgeek-sarl/",
+    "summary": "First ruling establishing payment processor liability under TVPRA. Payment processor Visa cannot claim ignorance of platform's CSAM when it continued providing services.",
+    "description": "Fleites was 13 when boyfriend posted video on Pornhub titled '13-Year Old Brunette Shows Off For the Camera' - video garnered 400,000+ views; MindGeek refused to remove despite repeated requests; Visa provided payment processing knowing of widespread CSAM Critical precedent: banks and payment processors may face §1595 liability if they knowingly continue processing payments for platforms with widespread CSAM/trafficking content",
+    "keywords": [],
+    "companies": [
+      "MindGeek S.A.R.L.",
+      "Feras Antoon (CEO)",
+      "David Tassillo (COO)",
+      "Colbeck Capital (investor)"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2021-06-17",
+        "event": "Complaint filed — Serena Fleites v. MindGeek S.A.R.L. et al.",
+        "actor": "MindGeek S.A.R.L.",
+        "notes": "",
+        "source_url": "https://www.courtlistener.com/docket/59992265/serena-fleites-v-mindgeek-sarl/"
+      },
+      {
+        "date": "2021-06-17",
+        "event": "Status as of March 2026: Active - settlement negotiations began Nov 2024",
+        "actor": "",
+        "notes": "Critical precedent: banks and payment processors may face §1595 liability if they knowingly continue processing payments for platforms with widespread CSAM/trafficking content",
+        "source_url": "https://www.courtlistener.com/docket/59992265/serena-fleites-v-mindgeek-sarl/"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-doe-1-v-mg-freesites-ltd-mindgeek-class-actio",
+    "type": "lawsuit",
+    "title": "Doe #1 v. MG Freesites LTD (MindGeek class action)",
+    "identifier": "7:21-cv-00220-LSC (N.D. Ala.)",
+    "status": "Active",
+    "status_detail": "Active — settlement discussions began Nov 2024",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2021-02-11",
+    "latest_action_date": "2021-02-11",
+    "latest_action": "Active — settlement discussions began Nov 2024",
+    "court": "N.D. Alabama (Judge Coogler)",
+    "judge": "Judge Coogler",
+    "plaintiffs": [
+      "Class of minors who appeared in videos on MindGeek websites"
+    ],
+    "defendants": [
+      "MG Freesites LTD (MindGeek/Pornhub parent)"
+    ],
+    "case_category": "PLATFORM LIABILITY",
+    "case_type": "Civil Class Action",
+    "legal_provisions": "18 U.S.C. §§1591, 1595; child pornography statutes",
+    "allegations": "MindGeek/Pornhub systematically hosted CSAM; content moderation systems were inadequate by design; the company monetized content featuring minors",
+    "knowingly_benefit": "Class CERTIFIED: all persons under 18 when appearing in video/image on any MindGeek website from Feb 12, 2011 to present",
+    "settlement_amount": "TBD",
+    "survivor_compensation": "TBD — class-wide compensation if settled",
+    "resolution": "TBD",
+    "legal_significance": "First certified class action against a major pornography platform under TVPRA. Class certification is major milestone — creates potential for significant class-wide damages.",
+    "specific_metrics": "Canadian parallel class action seeks $600 million CAD. Jane Does 1-50 v. MindGeek (S.D. Cal.) settled Oct 2021 for confidential amount — those GirlsDoPorn videos had 700 million combined views.",
+    "url": "https://levinlaw.com/mindgeek-pornhub/",
+    "summary": "First certified class action against a major pornography platform under TVPRA. Class certification is major milestone — creates potential for significant class-wide damages.",
+    "description": "MindGeek/Pornhub systematically hosted CSAM; content moderation systems were inadequate by design; the company monetized content featuring minors Lead counsel: Levin Papantonio and Susman Godfrey",
+    "keywords": [],
+    "companies": [
+      "MG Freesites LTD (MindGeek/Pornhub parent)"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2021-02-11",
+        "event": "Complaint filed — Doe #1 v. MG Freesites LTD (MindGeek class action)",
+        "actor": "MG Freesites LTD (MindGeek/Pornhub parent)",
+        "notes": "",
+        "source_url": "https://levinlaw.com/mindgeek-pornhub/"
+      },
+      {
+        "date": "2021-02-11",
+        "event": "Status as of March 2026: Active — settlement discussions began Nov 2024",
+        "actor": "",
+        "notes": "Lead counsel: Levin Papantonio and Susman Godfrey",
+        "source_url": "https://levinlaw.com/mindgeek-pornhub/"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-epstein-victims-compensation-program",
+    "type": "lawsuit",
+    "title": "Epstein Victims' Compensation Program",
+    "identifier": "Estate of Jeffrey Epstein",
+    "status": "Concluded",
+    "status_detail": "Concluded August 2021",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2020-01-01",
+    "latest_action_date": "2020-01-01",
+    "latest_action": "Concluded August 2021",
+    "court": "Administered by Jordana Feldman (Special Master)",
+    "judge": "",
+    "plaintiffs": [
+      "~225 applicants",
+      "~135 claimants paid"
+    ],
+    "defendants": [
+      "Estate of Jeffrey Epstein (valued $650M+ at death)"
+    ],
+    "case_category": "ESTATE/BANKS",
+    "case_type": "Victims' Compensation Fund (non-litigation)",
+    "legal_provisions": "N/A — private compensation program, not court-ordered",
+    "allegations": "Epstein systematically recruited and trafficked young women and girls, primarily at Palm Beach FL and Little St. James USVI properties; used money and gifts to maintain control",
+    "knowingly_benefit": "Yes — program established; $121M+ disbursed to 135 claimants",
+    "settlement_amount": "$121 million+ disbursed (closed Aug 2021); 225 applications; ~150 eligible; 92% accepted; average payout approx. $900K",
+    "survivor_compensation": "Direct cash compensation to survivors — most comprehensive survivor compensation in any trafficking case to date",
+    "resolution": "N/A (voluntary program)",
+    "legal_significance": "Largest per-survivor compensation in trafficking history. Estate also settled separately with USVI for $105M (Dec 2022). JPMorgan paid $290M. Deutsche Bank paid $75M. Bank of America settling Mar 2026.",
+    "specific_metrics": "225 survivors submitted claims; 135 paid. Program administrator reported no formula used — individualized assessment of harm.",
+    "url": "https://www.crimevictimlawfirm.com/epstein-victims-compensation-program/",
+    "summary": "Largest per-survivor compensation in trafficking history. Estate also settled separately with USVI for $105M (Dec 2022). JPMorgan paid $290M. Deutsche Bank paid $75M. Bank of America settling Mar 2026.",
+    "description": "Epstein systematically recruited and trafficked young women and girls, primarily at Palm Beach FL and Little St. James USVI properties; used money and gifts to maintain control Aggregate Epstein-related compensation across all defendants: $626M+ and growing",
+    "keywords": [],
+    "companies": [
+      "Estate of Jeffrey Epstein (valued $650M+ at death)"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2020-01-01",
+        "event": "Complaint filed — Epstein Victims' Compensation Program",
+        "actor": "Estate of Jeffrey Epstein (valued $650M+ at death)",
+        "notes": "",
+        "source_url": "https://www.crimevictimlawfirm.com/epstein-victims-compensation-program/"
+      },
+      {
+        "date": "2020-01-01",
+        "event": "Status as of March 2026: Concluded August 2021",
+        "actor": "",
+        "notes": "Aggregate Epstein-related compensation across all defendants: $626M+ and growing",
+        "source_url": "https://www.crimevictimlawfirm.com/epstein-victims-compensation-program/"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-jane-doe-1-v-jpmorgan-chase-co",
+    "type": "lawsuit",
+    "title": "Jane Doe 1 v. JPMorgan Chase & Co.",
+    "identifier": "1:22-cv-10019 (S.D.N.Y., Judge Rakoff)",
+    "status": "Settled",
+    "status_detail": "Settled June 2023",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2022-11-24",
+    "latest_action_date": "2022-11-24",
+    "latest_action": "Settled June 2023",
+    "court": "S.D. New York (Judge Jed Rakoff)",
+    "judge": "Judge Jed Rakoff",
+    "plaintiffs": [
+      "Jane Doe 1 (individual plaintiff, named)",
+      "class of Epstein trafficking survivors"
+    ],
+    "defendants": [
+      "JPMorgan Chase & Co."
+    ],
+    "case_category": "ESTATE/BANKS",
+    "case_type": "Civil Class Action",
+    "legal_provisions": "18 U.S.C. §1595 (beneficiary liability); §1591",
+    "allegations": "JPMorgan Chase maintained Epstein's accounts for 15+ years after his 2008 sex crime conviction; processed $1 billion+ in payments including payments to young women described as 'masseuses'; received internal red flags from compliance and ignored them; Jamie Dimon personally involved in Epstein relat",
+    "knowingly_benefit": "$290M settlement June 2023. Prior to settlement, Judge Rakoff found evidence 'JPMorgan treated Epstein as a prized client even as his sex trafficking of young girls and women became public knowledge'",
+    "settlement_amount": "$290 million — largest §1595 bank settlement in history",
+    "survivor_compensation": "Yes  class-wide compensation to Epstein trafficking survivors (distribution terms under seal)",
+    "resolution": "JPMorgan agreed to cooperate with enforcement and implement anti-human-trafficking controls",
+    "legal_significance": "Established that major financial institutions can face §1595 liability for knowingly providing banking services to sex traffickers. First billion-dollar-scale bank settlement in HT litigation.",
+    "specific_metrics": "JPMorgan banked Epstein Jan 1998–Dec 2013; processed $1B+ through accounts; compliance flagged Epstein 2007-2013; Jes Staley (future Barclays CEO) was JPMorgan's Epstein relationship manager",
+    "url": "https://wallstreetonparade.com/wp-content/uploads/2023/06/Stipulation-of-Settlement-Jane-Doe-1-v-JPMorgan-Chase-and-Related-Exhibits.pdf",
+    "summary": "Established that major financial institutions can face §1595 liability for knowingly providing banking services to sex traffickers. First billion-dollar-scale bank settlement in HT litigation.",
+    "description": "JPMorgan Chase maintained Epstein's accounts for 15+ years after his 2008 sex crime conviction; processed $1 billion+ in payments including payments to young women described as 'masseuses'; received internal red flags from compliance and ignored them; Jamie Dimon personally involved in Epstein relationship Counsel: Boies Schiller Flexner for plaintiff. Settlement class period: Jan 1, 1998 – Aug 10, 2019.",
+    "keywords": [],
+    "companies": [
+      "JPMorgan Chase & Co."
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2022-11-24",
+        "event": "Complaint filed — Jane Doe 1 v. JPMorgan Chase & Co.",
+        "actor": "JPMorgan Chase & Co.",
+        "notes": "",
+        "source_url": "https://wallstreetonparade.com/wp-content/uploads/2023/06/Stipulation-of-Settlement-Jane-Doe-1-v-JPMorgan-Chase-and-Related-Exhibits.pdf"
+      },
+      {
+        "date": "2022-11-24",
+        "event": "Status as of March 2026: Settled June 2023",
+        "actor": "",
+        "notes": "Counsel: Boies Schiller Flexner for plaintiff. Settlement class period: Jan 1, 1998 – Aug 10, 2019.",
+        "source_url": "https://wallstreetonparade.com/wp-content/uploads/2023/06/Stipulation-of-Settlement-Jane-Doe-1-v-JPMorgan-Chase-and-Related-Exhibits.pdf"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-epstein-victims-v-deutsche-bank",
+    "type": "lawsuit",
+    "title": "Epstein Victims v. Deutsche Bank",
+    "identifier": "1:22-cv-10018 (S.D.N.Y.)",
+    "status": "Settled",
+    "status_detail": "Settled May 2023",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2022-11-24",
+    "latest_action_date": "2022-11-24",
+    "latest_action": "Settled May 2023",
+    "court": "S.D. New York",
+    "judge": "",
+    "plaintiffs": [
+      "Epstein trafficking survivors"
+    ],
+    "defendants": [
+      "Deutsche Bank A.G."
+    ],
+    "case_category": "ESTATE/BANKS",
+    "case_type": "Civil Class Action",
+    "legal_provisions": "18 U.S.C. §1595 (beneficiary liability)",
+    "allegations": "Deutsche Bank accepted Epstein as a client after JPMorgan dropped him in 2013; maintained accounts 2013–2019; processed $1B+ despite ongoing media coverage of Epstein's crimes; internal compliance flagged concerns multiple times",
+    "knowingly_benefit": "Settled May 2023 for $75 million",
+    "settlement_amount": "$75 million",
+    "survivor_compensation": "Yes class compensation",
+    "resolution": "Deutsche Bank improved anti-trafficking compliance protocols",
+    "legal_significance": "Companion case to JPMorgan. Together = first time major banks faced class action §1595 liability. Deutsche Bank took on a known sex offender to poach business from JPMorgan.",
+    "specific_metrics": "Deutsche Bank processed payments 2013–2019; received AML flags but continued relationship; no specific survivor was identified as trafficked through Deutsche Bank accounts specifically",
+    "url": "https://topclassactions.com/lawsuit-settlements/money/banks-face-lawsuits-for-aiding-profiting-from-epstein-schemes/",
+    "summary": "Companion case to JPMorgan. Together = first time major banks faced class action §1595 liability. Deutsche Bank took on a known sex offender to poach business from JPMorgan.",
+    "description": "Deutsche Bank accepted Epstein as a client after JPMorgan dropped him in 2013; maintained accounts 2013–2019; processed $1B+ despite ongoing media coverage of Epstein's crimes; internal compliance flagged concerns multiple times Class period coincides with Deutsche Bank relationship period (2013-2019)",
+    "keywords": [],
+    "companies": [
+      "Deutsche Bank A.G."
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2022-11-24",
+        "event": "Complaint filed — Epstein Victims v. Deutsche Bank",
+        "actor": "Deutsche Bank A.G.",
+        "notes": "",
+        "source_url": "https://topclassactions.com/lawsuit-settlements/money/banks-face-lawsuits-for-aiding-profiting-from-epstein-schemes/"
+      },
+      {
+        "date": "2022-11-24",
+        "event": "Status as of March 2026: Settled May 2023",
+        "actor": "",
+        "notes": "Class period coincides with Deutsche Bank relationship period (2013-2019)",
+        "source_url": "https://topclassactions.com/lawsuit-settlements/money/banks-face-lawsuits-for-aiding-profiting-from-epstein-schemes/"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-jane-doe-v-bank-of-america",
+    "type": "lawsuit",
+    "title": "Jane Doe v. Bank of America",
+    "identifier": "25-cv-08520 (S.D.N.Y., Judge Rakoff)",
+    "status": "Settling March 2026 (terms not yet public)",
+    "status_detail": "Settling March 2026 (terms not yet public)",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2025-10-15",
+    "latest_action_date": "2025-10-15",
+    "latest_action": "Settling March 2026 (terms not yet public)",
+    "court": "S.D. New York (Judge Rakoff)",
+    "judge": "Judge Rakoff",
+    "plaintiffs": [
+      "Jane Doe (Epstein survivor)"
+    ],
+    "defendants": [
+      "Bank of America"
+    ],
+    "case_category": "ESTATE/BANKS",
+    "case_type": "Individual Civil (→ class potential)",
+    "legal_provisions": "18 U.S.C. §1595 (beneficiary liability)",
+    "allegations": "Leon Black transferred $170M to Epstein via Bank of America accounts; BofA accused of 'reckless disregard' for human trafficking occurring in accounts it maintained; failed to file required suspicious activity reports",
+    "knowingly_benefit": "Survived motion to dismiss; §1595 claims allowed to proceed",
+    "settlement_amount": "TBD — settling March 2026",
+    "survivor_compensation": "TBD — to be determined in settlement",
+    "resolution": "TBD",
+    "legal_significance": "Extends financial institution §1595 liability to Bank of America. Case involves Leon Black (Apollo Global), who paid Epstein $158M+ purportedly for estate planning.",
+    "specific_metrics": "Filed alongside BNY Mellon case (dismissed Jan/Feb 2026 — insufficient knowledge allegations). $170M Leon Black transfers processed through BofA accounts.",
+    "url": "see above",
+    "summary": "Extends financial institution §1595 liability to Bank of America. Case involves Leon Black (Apollo Global), who paid Epstein $158M+ purportedly for estate planning.",
+    "description": "Leon Black transferred $170M to Epstein via Bank of America accounts; BofA accused of 'reckless disregard' for human trafficking occurring in accounts it maintained; failed to file required suspicious activity reports Most recent Epstein-related bank case; settlement signals continued expansion of financial institution trafficking liability",
+    "keywords": [],
+    "companies": [
+      "Bank of America"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2025-10-15",
+        "event": "Complaint filed — Jane Doe v. Bank of America",
+        "actor": "Bank of America",
+        "notes": "",
+        "source_url": "see above"
+      },
+      {
+        "date": "2025-10-15",
+        "event": "Status as of March 2026: Settling March 2026 (terms not yet public)",
+        "actor": "",
+        "notes": "Most recent Epstein-related bank case; settlement signals continued expansion of financial institution trafficking liability",
+        "source_url": "see above"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-bensky-v-indyke-and-kahn-epstein-estate-co-ex",
+    "type": "lawsuit",
+    "title": "Bensky v. Indyke and Kahn (Epstein estate co-executors)",
+    "identifier": "S.D.N.Y. (Judge Subramanian)",
+    "status": "Pending",
+    "status_detail": "Pending judicial approval as of Feb 2026",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2024-01-01",
+    "latest_action_date": "2024-01-01",
+    "latest_action": "Pending judicial approval as of Feb 2026",
+    "court": "S.D. New York (Judge Subramanian)",
+    "judge": "Judge Subramanian",
+    "plaintiffs": [
+      "Proposed class of Epstein trafficking survivors"
+    ],
+    "defendants": [
+      "Darren Indyke (estate co-executor)",
+      "Richard Kahn (estate co-executor)"
+    ],
+    "case_category": "ESTATE/BANKS",
+    "case_type": "Civil Class Action",
+    "legal_provisions": "18 U.S.C. §1595; breach of fiduciary duty",
+    "allegations": "Estate co-executors Indyke and Kahn arranged Epstein's assets post-death in ways that allegedly prioritized themselves over survivors; co-executors had knowledge of trafficking prior to estate administration",
+    "knowingly_benefit": "Settlement agreed upon — $35M if ≥40 claimants, $25M if <40 claimants",
+    "settlement_amount": "$25M–$35M proposed settlement",
+    "survivor_compensation": "Yes — survivor class compensation",
+    "resolution": "TBD",
+    "legal_significance": "Unique: executor liability for trafficking-adjacent conduct. First case targeting Epstein's professional advisors/estate administrators.",
+    "specific_metrics": "Indyke was Epstein's lawyer and long-time advisor — had deep knowledge of Epstein's conduct throughout their relationship. Case pending approval.",
+    "url": "see above",
+    "summary": "Unique: executor liability for trafficking-adjacent conduct. First case targeting Epstein's professional advisors/estate administrators.",
+    "description": "Estate co-executors Indyke and Kahn arranged Epstein's assets post-death in ways that allegedly prioritized themselves over survivors; co-executors had knowledge of trafficking prior to estate administration",
+    "keywords": [],
+    "companies": [
+      "Darren Indyke (estate co-executor)",
+      "Richard Kahn (estate co-executor)"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2024-01-01",
+        "event": "Complaint filed — Bensky v. Indyke and Kahn (Epstein estate co-executors)",
+        "actor": "Darren Indyke (estate co-executor)",
+        "notes": "",
+        "source_url": "see above"
+      },
+      {
+        "date": "2024-01-01",
+        "event": "Status as of March 2026: Pending judicial approval as of Feb 2026",
+        "actor": "",
+        "notes": "",
+        "source_url": "see above"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-gg-v-salesforcecom-inc-7th-circuit-ruling",
+    "type": "lawsuit",
+    "title": "G.G. v. Salesforce.com, Inc. (7th Circuit ruling)",
+    "identifier": "76 F.4th 544 (7th Cir. 2023)",
+    "status": "Active",
+    "status_detail": "Active — trial June 2026",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2020-01-01",
+    "latest_action_date": "2020-01-01",
+    "latest_action": "Active — trial June 2026",
+    "court": "7th Circuit Court of Appeals",
+    "judge": "",
+    "plaintiffs": [
+      "Backpage trafficking survivors"
+    ],
+    "defendants": [
+      "Salesforce.com, Inc."
+    ],
+    "case_category": "PLATFORM LIABILITY",
+    "case_type": "Individual Civil",
+    "legal_provisions": "18 U.S.C. §1595 (beneficiary liability)",
+    "allegations": "See Row 7 above — Salesforce provided CRM tools to Backpage",
+    "knowingly_benefit": "7th Circuit: broadest reading of §1595 — reversed dismissal; 'venture' = commercial enterprise; §230 no defense",
+    "settlement_amount": "TBD",
+    "survivor_compensation": "TBD",
+    "resolution": "TBD",
+    "legal_significance": "See Row 7 — KEY PRECEDENT: establishes broadest §1595 standard in any circuit; directly conflicts with 11th Circuit Red Roof standard",
+    "specific_metrics": "This is the same case as Row 7; separate entry highlights the 7th Circuit ruling as a standalone legal development",
+    "url": "https://law.justia.com/cases/federal/appellate-courts/ca7/22-2621/22-2621-2023-08-03.html",
+    "summary": "See Row 7 — KEY PRECEDENT: establishes broadest §1595 standard in any circuit; directly conflicts with 11th Circuit Red Roof standard",
+    "description": "See Row 7 above — Salesforce provided CRM tools to Backpage 7th Circuit ruling August 2023 is now the most-cited §1595 precedent in new trafficking civil cases",
+    "keywords": [],
+    "companies": [
+      "Salesforce.com, Inc."
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2020-01-01",
+        "event": "Complaint filed — G.G. v. Salesforce.com, Inc. (7th Circuit ruling)",
+        "actor": "Salesforce.com, Inc.",
+        "notes": "",
+        "source_url": "https://law.justia.com/cases/federal/appellate-courts/ca7/22-2621/22-2621-2023-08-03.html"
+      },
+      {
+        "date": "2020-01-01",
+        "event": "Status as of March 2026: Active — trial June 2026",
+        "actor": "",
+        "notes": "7th Circuit ruling August 2023 is now the most-cited §1595 precedent in new trafficking civil cases",
+        "source_url": "https://law.justia.com/cases/federal/appellate-courts/ca7/22-2621/22-2621-2023-08-03.html"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-doe-v-apple-inc-et-al-congo-cobalt-mining",
+    "type": "lawsuit",
+    "title": "Doe v. Apple Inc., et al. (Congo cobalt mining)",
+    "identifier": "No. 21-7135 (D.C. Cir. 2024); originally 1:19-cv-03737 (D.D.C.)",
+    "status": "Dismissed",
+    "status_detail": "Dismissed March 5, 2024",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "labor"
+    ],
+    "filed": "2019-12-15",
+    "latest_action_date": "2019-12-15",
+    "latest_action": "Dismissed March 5, 2024",
+    "court": "D.C. Circuit Court of Appeals",
+    "judge": "",
+    "plaintiffs": [
+      "14 Congolese plaintiffs (children aged 6+)"
+    ],
+    "defendants": [
+      "Apple Inc.",
+      "Alphabet Inc. (Google)",
+      "Microsoft Corp.",
+      "Dell Technologies"
+    ],
+    "case_category": "SUPPLY CHAIN",
+    "case_type": "Individual Civil",
+    "legal_provisions": "18 U.S.C. §1595; 22 U.S.C. §7102 (TVPA labor trafficking definition)",
+    "allegations": "Tech companies knowingly benefited from forced child labor in DRC cobalt mines (used in batteries for products they sold); companies had audit reports confirming child labor but continued purchasing cobalt from same supply chain",
+    "knowingly_benefit": "D.C. Circuit affirmed dismissal March 5, 2024: purchasing cobalt through global supply chain does NOT constitute 'participation in a venture' under TVPRA. Narrowest supply chain reading yet.",
+    "settlement_amount": "$0 — case dismissed",
+    "survivor_compensation": "$0",
+    "resolution": "None",
+    "legal_significance": "SIGNIFICANT NEGATIVE PRECEDENT: D.C. Circuit severely limits TVPRA supply chain liability. Together with Nestlé v. Doe (ATS), companies can purchase from forced-labor supply chains with limited U.S. federal civil liability.",
+    "specific_metrics": "Plaintiffs claimed children as young as 6 died or were injured in cobalt mines; companies had knowledge through audits and investigative reporting (Washington Post 2016 report) but continued practices",
+    "url": "https://law.justia.com/cases/federal/appellate-courts/cadc/21-7135/21-7135-2024-03-05.html",
+    "summary": "SIGNIFICANT NEGATIVE PRECEDENT: D.C. Circuit severely limits TVPRA supply chain liability. Together with Nestlé v. Doe (ATS), companies can purchase from forced-labor supply chains with limited U.S. federal civil liability.",
+    "description": "Tech companies knowingly benefited from forced child labor in DRC cobalt mines (used in batteries for products they sold); companies had audit reports confirming child labor but continued purchasing cobalt from same supply chain Three circuits now have divergent TVPRA supply chain standards; SCOTUS has not resolved the question",
+    "keywords": [],
+    "companies": [
+      "Apple Inc.",
+      "Alphabet Inc. (Google)",
+      "Microsoft Corp.",
+      "Dell Technologies"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2019-12-15",
+        "event": "Complaint filed — Doe v. Apple Inc., et al. (Congo cobalt mining)",
+        "actor": "Apple Inc.",
+        "notes": "",
+        "source_url": "https://law.justia.com/cases/federal/appellate-courts/cadc/21-7135/21-7135-2024-03-05.html"
+      },
+      {
+        "date": "2019-12-15",
+        "event": "Status as of March 2026: Dismissed March 5, 2024",
+        "actor": "",
+        "notes": "Three circuits now have divergent TVPRA supply chain standards; SCOTUS has not resolved the question",
+        "source_url": "https://law.justia.com/cases/federal/appellate-courts/cadc/21-7135/21-7135-2024-03-05.html"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-nestle-usa-inc-v-doe-cargill-inc-v-doe",
+    "type": "lawsuit",
+    "title": "Nestlé USA Inc. v. Doe / Cargill Inc. v. Doe",
+    "identifier": "Nos. 19-416 and 19-453, 593 U.S. 628 (2021)",
+    "status": "Dismissed",
+    "status_detail": "Dismissed (ATS claims); remanded for TVPA analysis",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "labor"
+    ],
+    "filed": "2005-01-01",
+    "latest_action_date": "2005-01-01",
+    "latest_action": "Dismissed (ATS claims); remanded for TVPA analysis",
+    "court": "U.S. Supreme Court",
+    "judge": "",
+    "plaintiffs": [
+      "Six Malian citizens trafficked as child laborers on Ivory Coast cocoa farms"
+    ],
+    "defendants": [
+      "Nestlé USA, Inc.",
+      "Cargill, Inc."
+    ],
+    "case_category": "SUPPLY CHAIN",
+    "case_type": "Individual Civil (Alien Tort Statute)",
+    "legal_provisions": "Alien Tort Statute (ATS); TVPA (secondary)",
+    "allegations": "Nestlé and Cargill purchased cocoa from Ivory Coast farms using child labor; had direct ties to Côte d'Ivoire operations (providing technical/financial assistance to farms); profit from child slave labor",
+    "knowingly_benefit": "SCOTUS held 8-1 (Thomas, J.): ATS claims sought impermissible extraterritorial application. U.S. domestic conduct insufficient. Did NOT resolve whether corporations can be sued under ATS.",
+    "settlement_amount": "$0 — ATS claims dismissed",
+    "survivor_compensation": "$0",
+    "resolution": "None",
+    "legal_significance": "SCOTUS held U.S. corporations cannot be sued under ATS for foreign child labor, even if their domestic headquarters made policy decisions enabling that labor. TVPA claims not fully resolved — case remanded.",
+    "specific_metrics": "Cocoa supply chain: Nestlé provides technical/financial assistance to Ivory Coast farms, purchased their cocoa for KitKat/Butterfinger, etc. Plaintiffs trafficked as children on those farms.",
+    "url": "https://en.wikipedia.org/wiki/Nestl%C3%A9_USA,_Inc._v._Doe",
+    "summary": "SCOTUS held U.S. corporations cannot be sued under ATS for foreign child labor, even if their domestic headquarters made policy decisions enabling that labor. TVPA claims not fully resolved — case remanded.",
+    "description": "Nestlé and Cargill purchased cocoa from Ivory Coast farms using child labor; had direct ties to Côte d'Ivoire operations (providing technical/financial assistance to farms); profit from child slave labor Post-Nestlé, plaintiffs are redirected to TVPA §§1595-1596 for supply chain claims; ATS avenue largely closed. See also Doe v. Apple (D.C. Cir. 2024) which further limits supply chain TVPA claims.",
+    "keywords": [],
+    "companies": [
+      "Nestlé USA, Inc.",
+      "Cargill, Inc."
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2005-01-01",
+        "event": "Complaint filed — Nestlé USA Inc. v. Doe / Cargill Inc. v. Doe",
+        "actor": "Nestlé USA, Inc.",
+        "notes": "",
+        "source_url": "https://en.wikipedia.org/wiki/Nestl%C3%A9_USA,_Inc._v._Doe"
+      },
+      {
+        "date": "2005-01-01",
+        "event": "Status as of March 2026: Dismissed (ATS claims); remanded for TVPA analysis",
+        "actor": "",
+        "notes": "Post-Nestlé, plaintiffs are redirected to TVPA §§1595-1596 for supply chain claims; ATS avenue largely closed. See also Doe v. Apple (D.C. Cir. 2024) which further limits supply chain TVPA claims.",
+        "source_url": "https://en.wikipedia.org/wiki/Nestl%C3%A9_USA,_Inc._v._Doe"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-ratha-et-al-v-phatthana-seafood-co",
+    "type": "lawsuit",
+    "title": "Ratha et al. v. Phatthana Seafood Co.",
+    "identifier": "No. CV 16-4271 (C.D. Cal.); No. 18-55041 (9th Cir.)",
+    "status": "Dismissed",
+    "status_detail": "Dismissed (9th Cir.); SCOTUS cert denied Dec 2022",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "labor"
+    ],
+    "filed": "2016-01-01",
+    "latest_action_date": "2016-01-01",
+    "latest_action": "Dismissed (9th Cir.); SCOTUS cert denied Dec 2022",
+    "court": "C.D. California → 9th Circuit",
+    "judge": "",
+    "plaintiffs": [
+      "7 Cambodian plaintiffs (trafficked into Thai seafood processing)"
+    ],
+    "defendants": [
+      "Phatthana Seafood Co.",
+      "S.S. Frozen Food (Thai companies)",
+      "Rubicon Resources LLC (U.S. importer)",
+      "Wales & Son (U.K. subsidiary)"
+    ],
+    "case_category": "SUPPLY CHAIN",
+    "case_type": "Individual Civil",
+    "legal_provisions": "18 U.S.C. §§1589, 1591, 1595 (forced labor); RICO",
+    "allegations": "Cambodian villagers deceived into working in Thai shrimp processing plants under threat and coercion; Rubicon Resources imported and sold the shrimp (to Walmart, Costco) knowing it was produced with forced labor",
+    "knowingly_benefit": "9th Circuit Feb 2022: Rubicon did NOT 'knowingly benefit' because Walmart rejected the tainted shipment (no completed benefit). Congress responded by amending TVPRA to include 'attempt to benefit'.",
+    "settlement_amount": "$0 — case dismissed on 9th Circuit grounds",
+    "survivor_compensation": "$0",
+    "resolution": "None",
+    "legal_significance": "SIGNIFICANT: Congress directly amended TVPRA (in 2023 reauthorization) to correct 9th Circuit's 'completed benefit only' requirement — now includes those who 'attempt or conspire to benefit'. Shows litigation shapes legislation.",
+    "specific_metrics": "Ratha is the landmark case establishing that Congress will intervene when courts narrow TVPRA too much. Thai seafood supply chains supply Walmart, Costco, Whole Foods.",
+    "url": "https://www.courtlistener.com/docket/4492441/keo-ratha-v-phatthana-seafood-co-ltd/",
+    "summary": "SIGNIFICANT: Congress directly amended TVPRA (in 2023 reauthorization) to correct 9th Circuit's 'completed benefit only' requirement — now includes those who 'attempt or conspire to benefit'. Shows litigation shapes legislation.",
+    "description": "Cambodian villagers deceived into working in Thai shrimp processing plants under threat and coercion; Rubicon Resources imported and sold the shrimp (to Walmart, Costco) knowing it was produced with forced labor Post-amendment: new supply chain cases can proceed even if buyer rejected tainted goods; 'attempt to benefit' now sufficient",
+    "keywords": [],
+    "companies": [
+      "Phatthana Seafood Co.",
+      "S.S. Frozen Food (Thai companies)",
+      "Rubicon Resources LLC (U.S. importer)",
+      "Wales & Son (U.K. subsidiary)"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2016-01-01",
+        "event": "Complaint filed — Ratha et al. v. Phatthana Seafood Co.",
+        "actor": "Phatthana Seafood Co.",
+        "notes": "",
+        "source_url": "https://www.courtlistener.com/docket/4492441/keo-ratha-v-phatthana-seafood-co-ltd/"
+      },
+      {
+        "date": "2016-01-01",
+        "event": "Status as of March 2026: Dismissed (9th Cir.); SCOTUS cert denied Dec 2022",
+        "actor": "",
+        "notes": "Post-amendment: new supply chain cases can proceed even if buyer rejected tainted goods; 'attempt to benefit' now sufficient",
+        "source_url": "https://www.courtlistener.com/docket/4492441/keo-ratha-v-phatthana-seafood-co-ltd/"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-united-states-v-sean-combs",
+    "type": "lawsuit",
+    "title": "United States v. Sean Combs",
+    "identifier": "1:24-cr-00542 (S.D.N.Y.)",
+    "status": "Concluded",
+    "status_detail": "Concluded (criminal) — civil cases ongoing",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2024-01-01",
+    "latest_action_date": "2024-01-01",
+    "latest_action": "Concluded (criminal) — civil cases ongoing",
+    "court": "S.D. New York",
+    "judge": "",
+    "plaintiffs": [
+      "U.S. Government"
+    ],
+    "defendants": [
+      "Sean Combs (a/k/a Puff Daddy, Diddy, Brother Love)"
+    ],
+    "case_category": "ESTATE/BANKS",
+    "case_type": "DOJ Criminal",
+    "legal_provisions": "18 U.S.C. §§1591, 1594 (sex trafficking); §1594 (racketeering/RICO); 18 U.S.C. §2421 (transportation for prostitution)",
+    "allegations": "Combs allegedly organized 'freak offs' (forced sexual performances) using sex workers under psychological and physical coercion; used associates to recruit, control, and silence victims; RICO enterprise operated through Bad Boy Entertainment",
+    "knowingly_benefit": "Guilty on 2 counts: transportation for prostitution (§2421). NOT GUILTY: racketeering, sex trafficking. Verdict July 2, 2025.",
+    "settlement_amount": "Not applicable (criminal case)",
+    "survivor_compensation": "N/A — criminal conviction",
+    "resolution": "N/A — criminal case",
+    "legal_significance": "First major celebrity criminal trafficking conviction. Outcome (acquittal on RICO/trafficking but conviction on prostitution transportation) reflects challenges of proving §1591 'force/fraud/coercion' beyond reasonable doubt.",
+    "specific_metrics": "FBI seized Combs' homes March 2024; videotape of assault on Cassie Ventura at Intercontinental Hotel 2016 released by CNN. Cassie sued and settled for $20M the day after filing (Nov 2023).",
+    "url": "https://en.wikipedia.org/wiki/Trial_of_Sean_Combs",
+    "summary": "First major celebrity criminal trafficking conviction. Outcome (acquittal on RICO/trafficking but conviction on prostitution transportation) reflects challenges of proving §1591 'force/fraud/coercion' beyond reasonable doubt.",
+    "description": "Combs allegedly organized 'freak offs' (forced sexual performances) using sex workers under psychological and physical coercion; used associates to recruit, control, and silence victims; RICO enterprise operated through Bad Boy Entertainment Criminal verdict July 2025; sentencing pending as of March 2026; 4 years 2 months sentenced.",
+    "keywords": [],
+    "companies": [
+      "Sean Combs (a/k/a Puff Daddy, Diddy, Brother Love)"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2024-01-01",
+        "event": "Complaint filed — United States v. Sean Combs",
+        "actor": "Sean Combs (a/k/a Puff Daddy, Diddy, Brother Love)",
+        "notes": "",
+        "source_url": "https://en.wikipedia.org/wiki/Trial_of_Sean_Combs"
+      },
+      {
+        "date": "2024-01-01",
+        "event": "Status as of March 2026: Concluded (criminal) — civil cases ongoing",
+        "actor": "",
+        "notes": "Criminal verdict July 2025; sentencing pending as of March 2026; 4 years 2 months sentenced.",
+        "source_url": "https://en.wikipedia.org/wiki/Trial_of_Sean_Combs"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-120-civil-lawsuits-v-sean-combs",
+    "type": "lawsuit",
+    "title": "120+ Civil Lawsuits v. Sean Combs",
+    "identifier": "S.D.N.Y., various",
+    "status": "Active",
+    "status_detail": "Active",
+    "jurisdiction": "state",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2023-01-01",
+    "latest_action_date": "2023-01-01",
+    "latest_action": "Active",
+    "court": "Various federal and state courts",
+    "judge": "",
+    "plaintiffs": [
+      "120+ plaintiffs, including 25 who claim they were minors"
+    ],
+    "defendants": [
+      "Sean Combs",
+      "Sean Combs Enterprises",
+      "Bad Boy Entertainment",
+      "various corporate entities"
+    ],
+    "case_category": "ESTATE/BANKS",
+    "case_type": "Individual Civil (multiple)",
+    "legal_provisions": "18 U.S.C. §§1591, 1595; RICO; state tort law",
+    "allegations": "Plaintiffs allege rape, sexual battery, forced prostitution, forced drug use, trafficking; 25 plaintiffs allege they were minors at time of alleged abuse; some allege gang-related coercion through Bad Boy associates",
+    "knowingly_benefit": "§1595 TVPA claims against Combs personally survived MTD (March 2025); dismissed against corporate entity Bad Boy Entertainment. Attorney Tony Buzbee is lead plaintiff counsel for 120+ plaintiffs.",
+    "settlement_amount": "Cassie Ventura settlement: $20 million (day-after-filing settlement, Nov 2023); other individual settlements pending; class terms TBD",
+    "survivor_compensation": "Yes — Cassie Ventura $20M; others TBD",
+    "resolution": "TBD — some plaintiffs seeking injunctive relief from corporate entities",
+    "legal_significance": "Largest celebrity trafficking civil litigation in history by plaintiff count. §1595 claims allowed against Combs personally = important for future celebrity trafficking cases.",
+    "specific_metrics": "25 plaintiffs claim they were minors. Judge dismissed TVPA claims against corporate entity but allowed against Combs personally — liability attaches to individuals who personally participate in trafficking.",
+    "url": "",
+    "summary": "Largest celebrity trafficking civil litigation in history by plaintiff count. §1595 claims allowed against Combs personally = important for future celebrity trafficking cases.",
+    "description": "Plaintiffs allege rape, sexual battery, forced prostitution, forced drug use, trafficking; 25 plaintiffs allege they were minors at time of alleged abuse; some allege gang-related coercion through Bad Boy associates Criminal conviction + 120 civil suits",
+    "keywords": [],
+    "companies": [
+      "Sean Combs",
+      "Sean Combs Enterprises",
+      "Bad Boy Entertainment",
+      "various corporate entities"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2023-01-01",
+        "event": "Complaint filed — 120+ Civil Lawsuits v. Sean Combs",
+        "actor": "Sean Combs",
+        "notes": "",
+        "source_url": ""
+      },
+      {
+        "date": "2023-01-01",
+        "event": "Status as of March 2026: Active",
+        "actor": "",
+        "notes": "Criminal conviction + 120 civil suits",
+        "source_url": ""
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-in-re-social-media-adolescent-addictionperson",
+    "type": "lawsuit",
+    "title": "In re: Social Media Adolescent Addiction/Personal Injury Products Liability Litigation",
+    "identifier": "MDL-3047 (N.D. Cal., Judge Gonzalez Rogers)",
+    "status": "Active",
+    "status_detail": "Active — first state trial began January 2026 (New Mexico v. Meta, Feb 2026)",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2022-01-01",
+    "latest_action_date": "2022-01-01",
+    "latest_action": "Active — first state trial began January 2026 (New Mexico v. Meta, Feb 2026)",
+    "court": "N.D. California",
+    "judge": "",
+    "plaintiffs": [
+      "2,407+ plaintiffs",
+      "state AGs",
+      "school districts"
+    ],
+    "defendants": [
+      "Meta Platforms (Facebook/Instagram)",
+      "Snap Inc.",
+      "ByteDance (TikTok)",
+      "Google (YouTube)"
+    ],
+    "case_category": "PLATFORM LIABILITY",
+    "case_type": "MDL Class Action + State Actions",
+    "legal_provisions": "State product liability law; §1595 (some individual cases); 42 U.S.C. §1983 (state AG actions); state consumer protection",
+    "allegations": "Platforms designed products to maximize engagement among minors; algorithmic recommendations connected adults seeking minors for sex with minor victims; Meta's internal '17-strike policy' for trafficking accounts; Meta's recommendation feature responsible for 80% of violating adult-minor connections",
+    "knowingly_benefit": "Unsealed documents November 2025 revealed Meta's internal knowledge of its platforms' role in child sex trafficking recruitment; Meta's 'strike policy' allowed known traffickers to continue on platfor",
+    "settlement_amount": "TBD — no major settlements yet",
+    "survivor_compensation": "TBD",
+    "resolution": "TBD — potential platform policy changes ordered",
+    "legal_significance": "MDL-3047 is the largest social media litigation in history. Meta's internal documents showing awareness of trafficking facilitation = critical evidence. Potential for landmark platform liability ruling.",
+    "specific_metrics": "Meta's recommendation algorithm connected 80% of adult-minor violations. New Mexico AG trial testimony: Meta executives discussed trafficking problem internally while publicly denying it.",
+    "url": "https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolescent-addictionpersonal-injury-products",
+    "summary": "MDL-3047 is the largest social media litigation in history. Meta's internal documents showing awareness of trafficking facilitation = critical evidence. Potential for landmark platform liability ruling.",
+    "description": "Platforms designed products to maximize engagement among minors; algorithmic recommendations connected adults seeking minors for sex with minor victims; Meta's internal '17-strike policy' for trafficking accounts; Meta's recommendation feature responsible for 80% of violating adult-minor connections First social media trafficking/exploitation MDL to reach trial phase. Outcome will determine platform liability standard for trafficking facilitation.",
+    "keywords": [],
+    "companies": [
+      "Meta Platforms (Facebook/Instagram)",
+      "Snap Inc.",
+      "ByteDance (TikTok)",
+      "Google (YouTube)"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2022-01-01",
+        "event": "Complaint filed — In re: Social Media Adolescent Addiction/Personal Injury Products Liability Litigation",
+        "actor": "Meta Platforms (Facebook/Instagram)",
+        "notes": "",
+        "source_url": "https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolescent-addictionpersonal-injury-products"
+      },
+      {
+        "date": "2022-01-01",
+        "event": "Status as of March 2026: Active — first state trial began January 2026 (New Mexico v. Meta, Feb 2026)",
+        "actor": "",
+        "notes": "First social media trafficking/exploitation MDL to reach trial phase. Outcome will determine platform liability standard for trafficking facilitation.",
+        "source_url": "https://cand.uscourts.gov/cases-e-filing/cases/422-md-03047-ygr/re-social-media-adolescent-addictionpersonal-injury-products"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-in-re-uber-technologies-inc-passenger-sexual-",
+    "type": "lawsuit",
+    "title": "In re: Uber Technologies, Inc., Passenger Sexual Assault Litigation",
+    "identifier": "MDL No. 3084 (N.D. Cal., Judge Breyer)",
+    "status": "Active",
+    "status_detail": "Active — trial underway February 2026",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex"
+    ],
+    "filed": "2023-01-01",
+    "latest_action_date": "2023-01-01",
+    "latest_action": "Active — trial underway February 2026",
+    "court": "N.D. California (Judge Breyer)",
+    "judge": "Judge Breyer",
+    "plaintiffs": [
+      "3,100–3,700+ plaintiffs"
+    ],
+    "defendants": [
+      "Uber Technologies, Inc."
+    ],
+    "case_category": "PLATFORM LIABILITY",
+    "case_type": "MDL Class Action",
+    "legal_provisions": "Negligent hiring; negligent retention; product liability; some §1595 cases within MDL",
+    "allegations": "Uber's background check and driver monitoring systems failed to prevent serial sexual assault by drivers; some cases involve trafficking facilitation (drivers used Uber to transport trafficking victims); Uber's own report documented 4,000+ sexual assault reports (2017–2019) including 360 rape allega",
+    "knowingly_benefit": "First bellwether verdict February 5, 2026: $8.5 million compensatory damages to Jaylynn Dean (Tempe, AZ assault)",
+    "settlement_amount": "$8.5M first bellwether verdict (Feb 5, 2026); full MDL damages TBD",
+    "survivor_compensation": "Yes — compensatory to individual survivors",
+    "resolution": "TBD — policy changes expected as MDL proceeds",
+    "legal_significance": "NOT primarily a TVPA case — negligence-based MDL. However, trafficking sub-claims exist. $8.5M bellwether verdict signals high potential damages for remaining 3,000+ cases.",
+    "specific_metrics": "Primary theories: negligent hiring/retention, product liability (app design). Uber's safety report (2017-2019) documented: 3,824 sexual assaults (228 rape; 892 attempted rape; 1,560 non-consensual touching; 1,144 other).",
+    "url": "https://www.courtlistener.com/docket/67856158/in-re-uber-technologies-inc-passenger-sexual-assault-litigation/",
+    "summary": "NOT primarily a TVPA case — negligence-based MDL. However, trafficking sub-claims exist. $8.5M bellwether verdict signals high potential damages for remaining 3,000+ cases.",
+    "description": "Uber's background check and driver monitoring systems failed to prevent serial sexual assault by drivers; some cases involve trafficking facilitation (drivers used Uber to transport trafficking victims); Uber's own report documented 4,000+ sexual assault reports (2017–2019) including 360 rape allegations Lyft MDL No. 3171 established Feb 6, 2026 consolidating 17+ cases; nearly 2,000 Lyft cases in CA state court as well",
+    "keywords": [],
+    "companies": [
+      "Uber Technologies, Inc."
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2023-01-01",
+        "event": "Complaint filed — In re: Uber Technologies, Inc., Passenger Sexual Assault Litigation",
+        "actor": "Uber Technologies, Inc.",
+        "notes": "",
+        "source_url": "https://www.courtlistener.com/docket/67856158/in-re-uber-technologies-inc-passenger-sexual-assault-litigation/"
+      },
+      {
+        "date": "2023-01-01",
+        "event": "Status as of March 2026: Active — trial underway February 2026",
+        "actor": "",
+        "notes": "Lyft MDL No. 3171 established Feb 6, 2026 consolidating 17+ cases; nearly 2,000 Lyft cases in CA state court as well",
+        "source_url": "https://www.courtlistener.com/docket/67856158/in-re-uber-technologies-inc-passenger-sexual-assault-litigation/"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-menocal-et-al-v-geo-group-inc",
+    "type": "lawsuit",
+    "title": "Menocal et al. v. GEO Group, Inc.",
+    "identifier": "No. 14-cv-2887 (D. Colo.)",
+    "status": "Active",
+    "status_detail": "Active — damages phase",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "labor"
+    ],
+    "filed": "2014-01-01",
+    "latest_action_date": "2014-01-01",
+    "latest_action": "Active — damages phase",
+    "court": "D. Colorado → 10th Circuit",
+    "judge": "",
+    "plaintiffs": [
+      "Class of 60,000+ ICE detainees at Aurora, CO facility"
+    ],
+    "defendants": [
+      "The GEO Group, Inc. (private prison company)"
+    ],
+    "case_category": "GOVERNMENT",
+    "case_type": "Government Civil Class Action",
+    "legal_provisions": "TVPA §1589 (forced labor); Colorado Minimum Wage Act; Unjust Enrichment",
+    "allegations": "GEO Group forced ICE detainees to clean facility for $1/day (or face solitary confinement) — classic forced labor coercion; GEO profited from labor while paying well below minimum wage",
+    "knowingly_benefit": "Class certified: 60,000+ detainees. 10th Circuit upheld certification. SCOTUS declined cert October 2018. Forced labor coercion established by threat of punitive action (solitary).",
+    "settlement_amount": "Damages pending (class = 60,000+ members)",
+    "survivor_compensation": "Yes — wage compensation and damages for forced labor",
+    "resolution": "Potential injunctive relief against GEO Group labor practices",
+    "legal_significance": "LANDMARK: First class certification of detained immigrants for forced labor under TVPA. Establishes that immigration detention ≠ consent to labor.",
+    "specific_metrics": "$1/day wages; threat of solitary confinement for refusal; GEO earned millions from detainee labor while federal contract paid $30+/day per detainee for housing",
+    "url": "https://traffickinginstitute.org/immigration-detainees-refuse-to-be-trafficked-by-private-prison-companies/",
+    "summary": "LANDMARK: First class certification of detained immigrants for forced labor under TVPA. Establishes that immigration detention ≠ consent to labor.",
+    "description": "GEO Group forced ICE detainees to clean facility for $1/day (or face solitary confinement) — classic forced labor coercion; GEO profited from labor while paying well below minimum wage GEO is world's largest private prison company ($2B+ revenue); operates facilities for ICE, BOP, and state systems nationwide",
+    "keywords": [],
+    "companies": [
+      "The GEO Group, Inc. (private prison company)"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2014-01-01",
+        "event": "Complaint filed — Menocal et al. v. GEO Group, Inc.",
+        "actor": "The GEO Group, Inc. (private prison company)",
+        "notes": "",
+        "source_url": "https://traffickinginstitute.org/immigration-detainees-refuse-to-be-trafficked-by-private-prison-companies/"
+      },
+      {
+        "date": "2014-01-01",
+        "event": "Status as of March 2026: Active — damages phase",
+        "actor": "",
+        "notes": "GEO is world's largest private prison company ($2B+ revenue); operates facilities for ICE, BOP, and state systems nationwide",
+        "source_url": "https://traffickinginstitute.org/immigration-detainees-refuse-to-be-trafficked-by-private-prison-companies/"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-lgml-v-noem-uac-emergency-class-action",
+    "type": "lawsuit",
+    "title": "L.G.M.L. v. Noem (UAC emergency class action)",
+    "identifier": "D.D.C. (filed Aug 30, 2025)",
+    "status": "Active",
+    "status_detail": "Active — TRO issued; case continuing",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "filed": "2025-08-30",
+    "latest_action_date": "2025-08-30",
+    "latest_action": "Active — TRO issued; case continuing",
+    "court": "D.D.C.",
+    "judge": "",
+    "plaintiffs": [
+      "Class of 76+ unaccompanied Guatemalan children"
+    ],
+    "defendants": [
+      "DHS/Noem",
+      "DOJ/Bondi",
+      "ICE",
+      "ORR"
+    ],
+    "case_category": "GOVERNMENT",
+    "case_type": "Government Class Action (emergency)",
+    "legal_provisions": "TVPRA §§1232, 7105 (UAC protections); Fifth Amendment due process; APA",
+    "allegations": "Trump administration sought to summarily deport Guatemalan UAC from ORR custody without required legal review, case-by-case trafficking screening, or notice — violating TVPRA mandatory protections for unaccompanied children",
+    "knowingly_benefit": "TRO issued at 4:22 AM on day of filing (Aug 30, 2025): court blocked deportations",
+    "settlement_amount": "N/A (preliminary injunction, not damages)",
+    "survivor_compensation": "N/A",
+    "resolution": "Court blocked summary deportation of unaccompanied children without TVPRA-required screening",
+    "legal_significance": "Critically important for trafficking protection: TVPRA requires every UAC be screened for trafficking before deportation. Administration's deportation without screening = direct TVPRA violation.",
+    "specific_metrics": "76+ children at immediate risk of deportation on day of filing. HHS had 99.4% post-release service coverage as of start of FY2025; Mar 2025 contract cancellation for UAC legal services created protection vacuum.",
+    "url": "https://www.nilc.org/resources/frequently-asked-questions-l-g-m-l-v-noem/",
+    "summary": "Critically important for trafficking protection: TVPRA requires every UAC be screened for trafficking before deportation. Administration's deportation without screening = direct TVPRA violation.",
+    "description": "Trump administration sought to summarily deport Guatemalan UAC from ORR custody without required legal review, case-by-case trafficking screening, or notice — violating TVPRA mandatory protections for unaccompanied children Shows active litigation between TVPA obligations and immigration enforcement priorities in 2025",
+    "keywords": [],
+    "companies": [
+      "DHS/Noem",
+      "DOJ/Bondi",
+      "ICE",
+      "ORR"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2025-08-30",
+        "event": "Complaint filed — L.G.M.L. v. Noem (UAC emergency class action)",
+        "actor": "DHS/Noem",
+        "notes": "",
+        "source_url": "https://www.nilc.org/resources/frequently-asked-questions-l-g-m-l-v-noem/"
+      },
+      {
+        "date": "2025-08-30",
+        "event": "Status as of March 2026: Active — TRO issued; case continuing",
+        "actor": "",
+        "notes": "Shows active litigation between TVPA obligations and immigration enforcement priorities in 2025",
+        "source_url": "https://www.nilc.org/resources/frequently-asked-questions-l-g-m-l-v-noem/"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-garcia-ramirez-v-ice-uac-detention-class-acti",
+    "type": "lawsuit",
+    "title": "Garcia Ramirez v. ICE (UAC detention class action)",
+    "identifier": "D.D.C.",
+    "status": "Concluded",
+    "status_detail": "Concluded (injunction); enforcement ongoing 2025",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "filed": "2018-01-01",
+    "latest_action_date": "2018-01-01",
+    "latest_action": "Concluded (injunction); enforcement ongoing 2025",
+    "court": "D.D.C.",
+    "judge": "",
+    "plaintiffs": [
+      "Class of unaccompanied minors turning 18 in ORR custody"
+    ],
+    "defendants": [
+      "ICE",
+      "HHS/ORR"
+    ],
+    "case_category": "GOVERNMENT",
+    "case_type": "Government Class Action",
+    "legal_provisions": "TVPRA; Fifth Amendment due process; APA",
+    "allegations": "ICE automatically transferred unaccompanied minors to adult detention the moment they turned 18, without case-by-case review, due process, or notice — eliminating TVPRA protections",
+    "knowingly_benefit": "Permanent injunction issued 2021: ICE must provide individualized review and notice before transferring UAC to adult detention at age 18. Injunction ENFORCED against Trump administration December 12, ",
+    "settlement_amount": "N/A (injunctive relief)",
+    "survivor_compensation": "N/A",
+    "resolution": "Permanent injunction: individualized review required before age-18 transfer to adult ICE detention",
+    "legal_significance": "Court enforcement of permanent injunction against Trump administration in Dec 2025 = important constraint on administration's immigration enforcement affecting trafficking-vulnerable minors",
+    "specific_metrics": "Class members: UAC who turn 18 in ORR custody. Without injunction, transfer to adult ICE facility eliminates all special protections and dramatically increases trafficking and abuse risk.",
+    "url": "https://immigrantjustice.org/for-attorneys/cases/garcia-ramirez-et-al-v-ice-et-al/",
+    "summary": "Court enforcement of permanent injunction against Trump administration in Dec 2025 = important constraint on administration's immigration enforcement affecting trafficking-vulnerable minors",
+    "description": "ICE automatically transferred unaccompanied minors to adult detention the moment they turned 18, without case-by-case review, due process, or notice — eliminating TVPRA protections Active enforcement against current administration; demonstrates judicial limits on executive immigration discretion where TVPA applies",
+    "keywords": [],
+    "companies": [
+      "ICE",
+      "HHS/ORR"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2018-01-01",
+        "event": "Complaint filed — Garcia Ramirez v. ICE (UAC detention class action)",
+        "actor": "ICE",
+        "notes": "",
+        "source_url": "https://immigrantjustice.org/for-attorneys/cases/garcia-ramirez-et-al-v-ice-et-al/"
+      },
+      {
+        "date": "2018-01-01",
+        "event": "Status as of March 2026: Concluded (injunction); enforcement ongoing 2025",
+        "actor": "",
+        "notes": "Active enforcement against current administration; demonstrates judicial limits on executive immigration discretion where TVPA applies",
+        "source_url": "https://immigrantjustice.org/for-attorneys/cases/garcia-ramirez-et-al-v-ice-et-al/"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-roe-v-howard",
+    "type": "lawsuit",
+    "title": "Roe v. Howard",
+    "identifier": "E.D. Va.",
+    "status": "Concluded",
+    "status_detail": "Concluded — default judgment",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "filed": "2009-01-01",
+    "latest_action_date": "2009-01-01",
+    "latest_action": "Concluded — default judgment",
+    "court": "E.D. Virginia",
+    "judge": "",
+    "plaintiffs": [
+      "Ethiopian domestic worker"
+    ],
+    "defendants": [
+      "State Dept employee (Howard)"
+    ],
+    "case_category": "INDIVIUALS",
+    "case_type": "Individual Civil",
+    "legal_provisions": "18 U.S.C. §§1589 (forced labor), 1591 (sex trafficking), 1595 (civil)",
+    "allegations": "State Dept employee forced Ethiopian worker into labor and sexual servitude at U.S. Embassy in Yemen; defendant was not a diplomat (no immunity claim)",
+    "knowingly_benefit": "Default judgment entered; full liability established",
+    "settlement_amount": "$3,306,468 default judgment",
+    "survivor_compensation": "Yes — full damage award to survivor",
+    "resolution": "N/A",
+    "legal_significance": "First major case establishing TVPA civil liability against U.S. government employee for trafficking a domestic worker overseas",
+    "specific_metrics": "$3.3M for years of forced labor + sexual abuse at U.S. Embassy",
+    "url": "https://tlblog.org/sdny-rejects-immunity-for-former-diplomat-in-trafficking-case/",
+    "summary": "First major case establishing TVPA civil liability against U.S. government employee for trafficking a domestic worker overseas",
+    "description": "State Dept employee forced Ethiopian worker into labor and sexual servitude at U.S. Embassy in Yemen; defendant was not a diplomat (no immunity claim) Remains landmark for U.S. government employee accountability; diplomatic immunity does not automatically protect employees who are not accredited diplomats",
+    "keywords": [],
+    "companies": [
+      "State Dept employee (Howard)"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2009-01-01",
+        "event": "Complaint filed — Roe v. Howard",
+        "actor": "State Dept employee (Howard)",
+        "notes": "",
+        "source_url": "https://tlblog.org/sdny-rejects-immunity-for-former-diplomat-in-trafficking-case/"
+      },
+      {
+        "date": "2009-01-01",
+        "event": "Status as of March 2026: Concluded — default judgment",
+        "actor": "",
+        "notes": "Remains landmark for U.S. government employee accountability; diplomatic immunity does not automatically protect employees who are not accredited diplomats",
+        "source_url": "https://tlblog.org/sdny-rejects-immunity-for-former-diplomat-in-trafficking-case/"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-agdipa-v-ertay-et-al",
+    "type": "lawsuit",
+    "title": "Agdipa v. Ertay et al.",
+    "identifier": "D.D.C. (filed May 5, 2024)",
+    "status": "Active",
+    "status_detail": "Active",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "filed": "2024-05-05",
+    "latest_action_date": "2024-05-05",
+    "latest_action": "Active",
+    "court": "D.D.C.",
+    "judge": "",
+    "plaintiffs": [
+      "Filipino housekeeper (Jane Agdipa)"
+    ],
+    "defendants": [
+      "Senior Turkish diplomats (Ertay et al.)"
+    ],
+    "case_category": "INDIVIUALS",
+    "case_type": "Individual Civil",
+    "legal_provisions": "18 U.S.C. §§1589, 1591, 1595; TVPA; fraud",
+    "allegations": "Turkish diplomats trafficked Filipino housekeeper to Washington D.C.; controlled her through threats related to immigration status and family in Philippines; confiscated her passport; forced labor with no pay",
+    "knowingly_benefit": "Ongoing — immunity challenges likely; SDNY has previously rejected immunity for former diplomats in trafficking cases",
+    "settlement_amount": "TBD",
+    "survivor_compensation": "TBD",
+    "resolution": "TBD",
+    "legal_significance": "Tests post-service diplomatic immunity for trafficking. Precedent from prior cases (Swarna v. Al-Awadi, 2d Cir.) established immunity does not apply to private acts including domestic worker trafficking.",
+    "specific_metrics": "Filipino domestic workers trafficked by diplomats to U.S. = documented pattern across multiple cases involving Saudi, Kuwait, Turkey, India missions",
+    "url": "https://www.pacermonitor.com/public/case/53604635/AGDIPA_v_ERTAY_et_al",
+    "summary": "Tests post-service diplomatic immunity for trafficking. Precedent from prior cases (Swarna v. Al-Awadi, 2d Cir.) established immunity does not apply to private acts including domestic worker trafficking.",
+    "description": "Turkish diplomats trafficked Filipino housekeeper to Washington D.C.; controlled her through threats related to immigration status and family in Philippines; confiscated her passport; forced labor with no pay Active case; tests immunity doctrine limits; important for foreign domestic worker trafficking",
+    "keywords": [],
+    "companies": [
+      "Senior Turkish diplomats (Ertay et al.)"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2024-05-05",
+        "event": "Complaint filed — Agdipa v. Ertay et al.",
+        "actor": "Senior Turkish diplomats (Ertay et al.)",
+        "notes": "",
+        "source_url": "https://www.pacermonitor.com/public/case/53604635/AGDIPA_v_ERTAY_et_al"
+      },
+      {
+        "date": "2024-05-05",
+        "event": "Status as of March 2026: Active",
+        "actor": "",
+        "notes": "Active case; tests immunity doctrine limits; important for foreign domestic worker trafficking",
+        "source_url": "https://www.pacermonitor.com/public/case/53604635/AGDIPA_v_ERTAY_et_al"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "case-tvpa-civil-litigation-aggregate-annual-tracki",
+    "type": "lawsuit",
+    "title": "TVPA Civil Litigation Aggregate - Annual Tracking",
+    "identifier": "HT Legal Center Annual Reports",
+    "status": "Various outcomes — see individual cases",
+    "status_detail": "Various outcomes — see individual cases",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "filed": "2003-01-01",
+    "latest_action_date": "2003-01-01",
+    "latest_action": "Various outcomes — see individual cases",
+    "court": "N/A (aggregate data)",
+    "judge": "",
+    "plaintiffs": [
+      "HT Legal Center analysis"
+    ],
+    "defendants": [
+      "All §1595 civil defendants"
+    ],
+    "case_category": "TVPA",
+    "case_type": "Aggregate Data",
+    "legal_provisions": "18 U.S.C. §1595",
+    "allegations": "Total §1595 civil cases filed in federal courts by year; industry breakdown; outcome tracking",
+    "knowingly_benefit": "1,212 total §1595 cases filed through December 31, 2024; 280 filed in 2024 alone (highest ever); §1595 cases increased from 6 in 2004 to 280 in 2024 — 46-fold increase over 20 years",
+    "settlement_amount": "Multiple settlements, verdicts, and dismissals across 1,212+ cases",
+    "survivor_compensation": "$255M+ in civil damages and public settlements to survivors across all cases through 2024",
+    "resolution": "N/A (aggregate)",
+    "legal_significance": "77% of federal civil trafficking cases include forced labor allegations. Hotel cases = largest category. Bank cases = largest per-case settlements.",
+    "specific_metrics": "Specific metrics: 1,212 total cases (2004–2024); 280 in 2024; $255M+ in damages; 77% forced labor; sex trafficking = largest category by case count",
+    "url": "https://htlegalcenter.org/wp-content/uploads/2024-Civil-Litigation-Report-FINAL.pdf",
+    "summary": "77% of federal civil trafficking cases include forced labor allegations. Hotel cases = largest category. Bank cases = largest per-case settlements.",
+    "description": "Total §1595 civil cases filed in federal courts by year; industry breakdown; outcome tracking Critical data source for understanding scale of civil trafficking litigation; HT Legal Center tracks all federal §1595 filings annually",
+    "keywords": [],
+    "companies": [
+      "All §1595 civil defendants"
+    ],
+    "source": "PACER / Court",
+    "updates": [
+      {
+        "date": "2003-01-01",
+        "event": "Complaint filed — TVPA Civil Litigation Aggregate - Annual Tracking",
+        "actor": "All §1595 civil defendants",
+        "notes": "",
+        "source_url": "https://htlegalcenter.org/wp-content/uploads/2024-Civil-Litigation-Report-FINAL.pdf"
+      },
+      {
+        "date": "2003-01-01",
+        "event": "Status as of March 2026: Various outcomes — see individual cases",
+        "actor": "",
+        "notes": "Critical data source for understanding scale of civil trafficking litigation; HT Legal Center tracks all federal §1595 filings annually",
+        "source_url": "https://htlegalcenter.org/wp-content/uploads/2024-Civil-Litigation-Report-FINAL.pdf"
+      }
+    ],
+    "upcoming": []
+  }
+]

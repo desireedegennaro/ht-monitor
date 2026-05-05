@@ -1,0 +1,1321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Human Trafficking Law & Policy Monitor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{font-size:13px;height:100%}
+body{font-family:'JetBrains Mono','SF Mono','Fira Code','Consolas',monospace;background:#f5f5f3;color:#111827;line-height:1.5;height:100%;overflow:hidden}
+
+/* Layout */
+#app{display:flex;flex-direction:column;height:100vh;overflow:hidden}
+#hdr{flex-shrink:0;background:#0d1117;color:#fff;padding:0 24px;height:54px;display:flex;align-items:center;justify-content:space-between;border-bottom:2px solid #dc2626;z-index:20}
+#body-wrap{display:flex;flex:1;overflow:hidden;min-height:0}
+#content-wrap{flex:1;display:flex;flex-direction:column;overflow:hidden;min-height:0}
+#tab-row{flex-shrink:0;background:#fff;border-bottom:1px solid #e2e8f0;padding:0 24px;display:flex;align-items:stretch;gap:0;height:40px}
+#filter-bar{flex-shrink:0;background:#fff;border-bottom:1px solid #e2e8f0;padding:6px 24px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+#filter-bar-2{flex-shrink:0;background:#f0f3f6;border-bottom:1px solid #e2e8f0;padding:6px 24px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+#view-row{flex-shrink:0;background:#f8f9fa;border-bottom:1px solid #e2e8f0;padding:5px 24px;display:flex;align-items:center;justify-content:space-between}
+#main{flex:1;overflow-y:auto;padding:16px 24px 48px}
+#main.digest-active{overflow:hidden;padding:0}
+#detail-panel{width:0;flex-shrink:0;background:#fff;border-left:1px solid #e2e8f0;overflow:hidden;transition:width 0.2s ease;display:flex;flex-direction:column}
+#detail-panel.open{width:480px}
+
+/* Header */
+.hdr-left{display:flex;align-items:baseline;gap:12px}
+.hdr-title{font-size:13px;font-weight:700;letter-spacing:0.08em;color:#f1f5f9;text-transform:uppercase}
+.hdr-sub{font-size:10px;color:#475569;letter-spacing:0.06em}
+.hdr-right{display:flex;align-items:center;gap:16px}
+.hdr-stat{text-align:right}
+.hdr-stat-n{font-size:16px;font-weight:700;line-height:1;display:block}
+.hdr-stat-lbl{font-size:9px;color:#64748b;letter-spacing:0.1em;text-transform:uppercase}
+.hdr-divider{width:1px;height:28px;background:#1e293b;flex-shrink:0}
+.btn-sync{background:#dc2626;color:#fff;border:none;padding:5px 12px;font-size:10px;font-weight:700;cursor:pointer;font-family:inherit;letter-spacing:0.1em;transition:background 0.15s;text-transform:uppercase}
+.btn-sync:hover{background:#b91c1c}
+.btn-sync:disabled{background:#7f1d1d;cursor:not-allowed;opacity:0.7}
+.sync-info{font-size:9px;color:#64748b;white-space:nowrap}
+
+/* Tabs */
+.tab{padding:0 14px;height:40px;border:none;background:none;cursor:pointer;font-size:10.5px;font-weight:600;color:#6b7280;border-bottom:2px solid transparent;transition:color 0.13s,border-color 0.13s;white-space:nowrap;letter-spacing:0.08em;text-transform:uppercase;font-family:inherit}
+.tab:hover{color:#111827}
+.tab.active{color:#dc2626;border-bottom-color:#dc2626}
+.tab-spacer{flex:1}
+.view-btn{padding:0 11px;height:40px;border:none;background:none;cursor:pointer;font-size:10px;font-weight:600;color:#9ca3af;border-bottom:2px solid transparent;transition:all 0.13s;letter-spacing:0.08em;text-transform:uppercase;font-family:inherit}
+.view-btn.active{color:#0d1117;border-bottom-color:#0d1117}
+.view-btn:hover{color:#374151}
+
+/* Filter bar */
+.f-search{flex:1;min-width:180px;padding:5px 10px;border:1px solid #d1d5db;font-size:11.5px;font-family:inherit;outline:none;background:#fafafa;transition:border-color 0.15s}
+.f-search:focus{border-color:#94a3b8;background:#fff}
+.f-select{padding:4px 7px;border:1px solid #d1d5db;font-size:11px;font-family:inherit;background:#fff;cursor:pointer;color:#374151;outline:none;height:28px}
+.f-select:focus{border-color:#94a3b8}
+.f-label{font-size:9px;color:#9ca3af;text-transform:uppercase;letter-spacing:0.1em;white-space:nowrap}
+.f-group{display:flex;align-items:center;gap:4px}
+.f-date{padding:4px 7px;border:1px solid #d1d5db;font-size:11px;font-family:inherit;background:#fff;cursor:pointer;color:#374151;outline:none;height:28px}
+.btn-reset{padding:3px 9px;border:1px solid #d1d5db;background:#f1f5f9;font-size:10px;cursor:pointer;color:#6b7280;height:28px;font-family:inherit;letter-spacing:0.06em;text-transform:uppercase}
+.btn-reset:hover{border-color:#94a3b8;color:#374151}
+.filter-bar-2-toggle{font-size:10px;font-weight:600;color:#64748b;letter-spacing:0.08em;cursor:pointer;padding:2px 8px;background:#e2e8f0;border:none;font-family:inherit;text-transform:uppercase;white-space:nowrap;transition:background 0.13s}
+.filter-bar-2-toggle:hover{background:#cbd5e1;color:#374151}
+.filter-bar-2-toggle.has-active{background:#fef3c7;color:#b45309}
+
+/* View row */
+.result-count{font-size:10px;color:#9ca3af}
+.sort-group{display:flex;align-items:center;gap:5px}
+.sort-label{font-size:9px;color:#9ca3af;text-transform:uppercase;letter-spacing:0.1em}
+.star-only{display:flex;align-items:center;gap:4px;font-size:10.5px;color:#6b7280;cursor:pointer;user-select:none;letter-spacing:0.04em}
+.star-only input{cursor:pointer;accent-color:#dc2626}
+
+/* Badges */
+.badge{display:inline-flex;align-items:center;padding:1px 6px;font-size:9.5px;font-weight:700;letter-spacing:0.05em;font-family:inherit;white-space:nowrap;line-height:1.6;text-transform:uppercase}
+.b-leg{background:#dbeafe;color:#1e40af}
+.b-reg{background:#f3e8ff;color:#6b21a8}
+.b-law{background:#fee2e2;color:#991b1b}
+.b-res{background:#dcfce7;color:#166534}
+.b-enacted,.b-active,.b-published,.b-sentenced,.b-settled,.b-convicted{background:#dcfce7;color:#166534}
+.b-passed{background:#dbeafe;color:#1e40af}
+.b-committee,.b-pending,.b-ongoing,.b-preprint,.b-active--advisory{background:#fef9c3;color:#854d0e}
+.b-introduced,.b-proposed{background:#f3f4f6;color:#4b5563}
+.b-dismissed,.b-failed{background:#fee2e2;color:#991b1b}
+.b-advisory,.b-guidance,.b-rule{background:#f3e8ff;color:#6b21a8}
+.b-community{background:#fef3c7;color:#b45309}
+.type-dot{width:7px;height:7px;border-radius:50%;display:inline-block;flex-shrink:0}
+.dot-legislation{background:#2563eb}
+.dot-regulatory{background:#7c3aed}
+.dot-lawsuit{background:#dc2626}
+.dot-research{background:#059669}
+.trafficking-pill{display:inline-block;padding:1px 5px;font-size:9px;font-weight:600;letter-spacing:0.04em;text-transform:uppercase}
+.tp-sex{background:#fee2e2;color:#991b1b}
+.tp-labor{background:#fef9c3;color:#854d0e}
+.tp-both{background:#ede9fe;color:#5b21b6}
+.tp-other{background:#f3f4f6;color:#4b5563}
+.kw-tag{display:inline-block;padding:1px 5px;font-size:9px;background:#f1f5f9;color:#475569;border:1px solid #e2e8f0}
+
+/* List table */
+.list-tbl{width:100%;border-collapse:collapse;min-width:900px}
+.list-tbl thead tr{background:#f1f5f9;border-bottom:2px solid #e2e8f0}
+.list-tbl th{padding:6px 10px;text-align:left;font-size:9px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:#64748b;font-family:inherit;white-space:nowrap;cursor:pointer;user-select:none}
+.list-tbl th:hover{color:#374151}
+.list-tbl tbody tr{border-bottom:1px solid #f1f5f9;cursor:pointer;transition:background 0.1s}
+.list-tbl tbody tr:hover{background:#f8fafc}
+.list-tbl tbody tr.selected{background:#fff8f0;border-left:3px solid #dc2626}
+.list-tbl td{padding:8px 10px;vertical-align:top}
+.cell-date{font-size:10.5px;color:#374151;white-space:nowrap}
+.cell-updated{font-size:9.5px;color:#dc2626;white-space:nowrap;margin-top:2px}
+.cell-id{font-size:10.5px;color:#1e40af;white-space:nowrap}
+.cell-title{font-size:12px;font-weight:600;color:#111827;line-height:1.3;margin-bottom:3px;max-width:280px}
+.cell-summary{font-size:10.5px;color:#6b7280;line-height:1.45;max-width:280px}
+.cell-action{font-size:9.5px;color:#b45309;margin-top:2px;max-width:280px;line-height:1.3}
+.cell-person{font-size:11px;color:#374151;max-width:160px;line-height:1.3}
+.upcoming-flag{display:inline-block;padding:1px 5px;font-size:9px;background:#fef3c7;color:#d97706;font-family:inherit;margin-top:3px;font-weight:700;letter-spacing:0.06em;text-transform:uppercase}
+
+/* Cards view */
+.cards-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+.card{background:#fff;border:1px solid #e2e8f0;padding:14px;cursor:pointer;transition:border-color 0.15s,box-shadow 0.15s;position:relative}
+.card:hover{border-color:#94a3b8;box-shadow:0 2px 10px rgba(0,0,0,0.06)}
+.card.selected{border-color:#dc2626;border-left-width:3px}
+.card-header{display:flex;align-items:flex-start;justify-content:space-between;gap:8px;margin-bottom:8px}
+.card-id{font-size:9.5px;color:#9ca3af;margin-top:1px}
+.card-title{font-size:12.5px;font-weight:600;color:#111827;line-height:1.35;margin:5px 0 4px}
+.card-summary{font-size:11px;color:#4b5563;line-height:1.5;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.card-footer{display:flex;align-items:center;gap:5px;margin-top:10px;flex-wrap:wrap}
+.card-person{font-size:10px;color:#6b7280;margin-top:4px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+
+/* Timeline view */
+.tl-year{margin-bottom:28px}
+.tl-year-hdr{font-size:18px;font-weight:700;color:#0d1117;margin-bottom:14px;padding-bottom:5px;border-bottom:2px solid #e2e8f0}
+.tl-month{margin-bottom:16px;padding-left:24px;position:relative}
+.tl-month::before{content:'';position:absolute;left:3px;top:8px;bottom:-10px;width:2px;background:#e2e8f0}
+.tl-month-hdr{font-size:9.5px;font-weight:700;text-transform:uppercase;letter-spacing:0.14em;color:#9ca3af;margin-bottom:9px}
+.tl-event{display:flex;gap:12px;margin-bottom:10px;position:relative;cursor:pointer;padding:7px 9px;transition:background 0.12s}
+.tl-event:hover{background:#fff;box-shadow:0 1px 4px rgba(0,0,0,0.07)}
+.tl-dot-wrap{display:flex;flex-direction:column;align-items:center;flex-shrink:0;width:14px;padding-top:3px}
+.tl-dot{width:11px;height:11px;border-radius:50%;border:2px solid #fff;box-shadow:0 0 0 2px currentColor;flex-shrink:0}
+.tl-dot-line{flex:1;width:2px;background:#e2e8f0;margin-top:3px;min-height:4px}
+.tl-dot.type-legislation{background:#2563eb;box-shadow:0 0 0 2px #2563eb}
+.tl-dot.type-regulatory{background:#7c3aed;box-shadow:0 0 0 2px #7c3aed}
+.tl-dot.type-lawsuit{background:#dc2626;box-shadow:0 0 0 2px #dc2626}
+.tl-dot.type-research{background:#059669;box-shadow:0 0 0 2px #059669}
+.tl-body{flex:1;min-width:0}
+.tl-date{font-size:9.5px;color:#9ca3af;margin-bottom:2px}
+.tl-title{font-size:12px;font-weight:600;color:#111827;line-height:1.3;margin-bottom:2px}
+.tl-event:hover .tl-title{color:#dc2626}
+.tl-action{font-size:10.5px;color:#6b7280;line-height:1.4}
+.tl-badges{display:flex;gap:4px;margin-top:4px;flex-wrap:wrap}
+
+/* Digest view */
+#digest-view{height:100%;overflow:hidden}
+.digest-layout{display:grid;grid-template-columns:1fr 1px 1fr;height:100%;min-height:0}
+.digest-col{overflow-y:auto;padding:0 22px 32px}
+.digest-rule{background:#e2e8f0}
+.digest-col-hdr{font-size:9.5px;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:#374151;padding:14px 0 8px;border-bottom:2px solid #0d1117;margin-bottom:4px;position:sticky;top:0;background:#f5f5f3;z-index:1}
+.digest-col-sub{font-size:9.5px;color:#9ca3af;padding:6px 0 10px}
+.digest-section{font-size:9px;font-weight:700;letter-spacing:0.16em;text-transform:uppercase;color:#94a3b8;padding:12px 0 5px;border-top:1px solid #f1f5f9;margin-top:4px}
+.digest-section:first-of-type{border-top:none;margin-top:0}
+.digest-row{padding:9px 0;border-bottom:1px solid #f1f5f9;cursor:pointer}
+.digest-row:hover .digest-row-title{color:#dc2626}
+.digest-row-meta{display:flex;align-items:center;gap:7px;margin-bottom:3px;flex-wrap:wrap}
+.digest-row-date{font-size:9.5px;color:#9ca3af}
+.digest-row-title{font-size:12px;font-weight:600;color:#111827;line-height:1.3;margin-bottom:2px}
+.digest-row-action{font-size:10.5px;color:#64748b;line-height:1.35}
+.digest-up-row{padding:9px 0;border-bottom:1px solid #f1f5f9;cursor:pointer;display:flex;gap:12px;align-items:flex-start}
+.digest-up-row:hover .digest-up-title{color:#dc2626}
+.digest-cnt{flex-shrink:0;width:38px;text-align:center;padding-top:1px}
+.digest-days-n{font-size:17px;font-weight:700;line-height:1;display:block}
+.digest-days-n.d-urgent{color:#dc2626}
+.digest-days-n.d-soon{color:#f59e0b}
+.digest-days-n.d-future{color:#374151}
+.digest-days-n.d-past{color:#9ca3af}
+.digest-days-lbl{font-size:8.5px;text-transform:uppercase;letter-spacing:0.1em;color:#9ca3af}
+.digest-up-event{font-size:9.5px;font-weight:700;color:#64748b;margin-bottom:2px;text-transform:uppercase;letter-spacing:0.06em}
+.digest-up-title{font-size:12px;font-weight:600;color:#111827;line-height:1.3;margin-bottom:2px}
+.digest-up-meta{font-size:9.5px;color:#9ca3af}
+.digest-empty{font-size:10.5px;color:#9ca3af;padding:18px 0}
+
+/* Detail panel */
+#detail-inner{width:480px;overflow-y:auto;display:flex;flex-direction:column;height:100%}
+.detail-top{position:sticky;top:0;background:#fff;padding:10px 16px 8px;border-bottom:1px solid #f1f5f9;z-index:5;display:flex;align-items:center;justify-content:space-between}
+.detail-close-btn{background:none;border:none;cursor:pointer;color:#9ca3af;font-size:13px;font-weight:700;font-family:inherit;padding:2px 6px;letter-spacing:0.06em;transition:color 0.13s;text-transform:uppercase}
+.detail-close-btn:hover{color:#374151}
+.detail-scroll{padding:14px 16px 28px;flex:1}
+.detail-title{font-size:13.5px;font-weight:700;color:#0d1117;line-height:1.35;margin:7px 0 9px}
+.detail-badges-row{display:flex;gap:5px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
+.detail-meta-box{background:#f8fafc;border:1px solid #e2e8f0;padding:11px;display:grid;grid-template-columns:1fr 1fr;gap:9px 14px;margin-bottom:12px}
+.detail-meta-item label{font-size:8.5px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9ca3af;display:block;margin-bottom:2px}
+.detail-meta-item span{font-size:11.5px;color:#111827;line-height:1.4}
+.detail-meta-item span a{color:#1e40af;text-decoration:none}
+.detail-meta-item span a:hover{text-decoration:underline}
+.detail-section-lbl{font-size:8.5px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#9ca3af;margin:12px 0 6px}
+.detail-summary{font-size:12px;color:#374151;line-height:1.65}
+.detail-description{font-size:11.5px;color:#4b5563;line-height:1.65;margin-top:5px}
+.detail-cosponsor{font-size:10.5px;color:#374151;padding:2px 0;border-bottom:1px solid #f1f5f9}
+.detail-company-tag{display:inline-flex;align-items:center;padding:1px 7px;font-size:10.5px;margin:2px 2px}
+.dtag-defendant{background:#fee2e2;color:#991b1b}
+.dtag-plaintiff{background:#dcfce7;color:#166534}
+.dtag-neutral{background:#f1f5f9;color:#475569}
+.detail-links{display:flex;flex-wrap:wrap;gap:5px;margin-top:6px}
+.detail-link{display:inline-flex;align-items:center;gap:4px;padding:4px 10px;background:#0d1117;color:#fff;font-size:10.5px;text-decoration:none;font-family:inherit;font-weight:600;letter-spacing:0.05em;transition:background 0.13s;text-transform:uppercase}
+.detail-link:hover{background:#1e293b}
+.detail-link.secondary{background:#f1f5f9;color:#374151}
+.detail-link.secondary:hover{background:#e2e8f0}
+.detail-field-val{font-size:11.5px;color:#374151;line-height:1.55;margin-bottom:7px;padding:5px 9px;background:#f8fafc;border-left:2px solid #e2e8f0}
+.detail-field-val.highlight{border-left-color:#2563eb;background:#eff6ff}
+
+/* Update timeline inside detail */
+.update-tl{display:flex;flex-direction:column}
+.update-item{display:flex;gap:11px;position:relative;padding-bottom:12px}
+.update-item:last-child{padding-bottom:0}
+.update-line-col{display:flex;flex-direction:column;align-items:center;flex-shrink:0;width:16px}
+.update-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0;margin-top:3px;border:2px solid #fff;box-shadow:0 0 0 2px #cbd5e1}
+.update-dot.recent{box-shadow:0 0 0 2px #dc2626;background:#dc2626}
+.update-seg{flex:1;width:2px;background:#e2e8f0;margin-top:3px}
+.update-item:last-child .update-seg{display:none}
+.update-body{flex:1}
+.update-date{font-size:9.5px;color:#9ca3af;margin-bottom:2px}
+.update-event{font-size:12px;color:#111827;font-weight:500;line-height:1.35}
+.update-actor{font-size:10.5px;color:#6b7280;margin-top:1px}
+.update-notes{font-size:11px;color:#374151;margin-top:3px;line-height:1.4}
+.update-src-link{font-size:9.5px;color:#1e40af;text-decoration:none;display:inline-block;margin-top:2px;letter-spacing:0.04em;text-transform:uppercase}
+.update-src-link:hover{text-decoration:underline}
+
+/* Upcoming mini in detail */
+.detail-upcoming-item{background:#fffbf0;border:1px solid #fef3c7;padding:8px 10px;margin-bottom:6px}
+.detail-upcoming-date{font-size:9.5px;color:#b45309;font-weight:700;margin-bottom:2px;letter-spacing:0.04em}
+.detail-upcoming-event{font-size:11.5px;color:#111827;font-weight:500}
+.detail-upcoming-notes{font-size:10.5px;color:#6b7280;margin-top:2px;line-height:1.4}
+
+/* Notes */
+.notes-area{width:100%;border:1px solid #d1d5db;padding:7px;font-size:11.5px;font-family:inherit;resize:vertical;min-height:68px;outline:none;background:#fafafa;color:#111827;line-height:1.5}
+.notes-area:focus{border-color:#94a3b8;background:#fff}
+.notes-hint{font-size:9px;color:#d1d5db;margin-top:3px;letter-spacing:0.04em}
+
+/* Star button */
+.btn-star{background:none;border:1px solid #e2e8f0;padding:3px 9px;cursor:pointer;font-size:11px;font-family:inherit;color:#6b7280;transition:all 0.13s;display:flex;align-items:center;gap:4px;letter-spacing:0.04em;text-transform:uppercase}
+.btn-star.starred{background:#fef3c7;border-color:#fbbf24;color:#d97706}
+.btn-star:hover{border-color:#94a3b8}
+
+/* Submit modal */
+.modal-overlay{position:fixed;inset:0;background:rgba(0,0,0,0.45);z-index:300;display:flex;align-items:center;justify-content:center;padding:16px}
+.modal-box{background:#fff;padding:26px 24px 22px;max-width:450px;width:100%;box-shadow:0 24px 64px rgba(0,0,0,0.22);position:relative;border-top:3px solid #dc2626}
+.modal-title{font-size:13px;font-weight:700;color:#0d1117;margin-bottom:5px;letter-spacing:0.06em;text-transform:uppercase}
+.modal-sub{font-size:11.5px;color:#6b7280;line-height:1.6;margin-bottom:14px}
+.modal-step{display:flex;gap:10px;align-items:flex-start;margin-bottom:9px}
+.modal-step-num{width:18px;height:18px;background:#0d1117;color:#fff;font-size:9px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;margin-top:2px;font-family:inherit}
+.modal-step-text{font-size:11.5px;color:#374151;line-height:1.55}
+.modal-step-text strong{color:#111827}
+.modal-privacy{background:#f0fdf4;border:1px solid #bbf7d0;padding:8px 11px;font-size:11px;color:#166534;line-height:1.55;margin:12px 0}
+.modal-actions{display:flex;gap:7px;margin-top:16px}
+.btn-submit-gh{flex:1;background:#0d1117;color:#fff;border:none;padding:9px 14px;font-size:11.5px;font-weight:700;cursor:pointer;font-family:inherit;transition:background 0.15s;text-decoration:none;display:flex;align-items:center;justify-content:center;gap:5px;letter-spacing:0.06em;text-transform:uppercase}
+.btn-submit-gh:hover{background:#1e293b}
+.btn-modal-cancel{padding:9px 13px;border:1px solid #d1d5db;background:#f9fafb;font-size:11px;cursor:pointer;color:#6b7280;font-family:inherit;transition:all 0.13s;letter-spacing:0.06em;text-transform:uppercase}
+.btn-modal-cancel:hover{border-color:#94a3b8;color:#374151}
+.modal-close-x{position:absolute;top:10px;right:12px;background:none;border:none;font-size:12px;font-weight:700;cursor:pointer;color:#9ca3af;font-family:inherit;letter-spacing:0.06em;text-transform:uppercase;padding:2px 5px}
+.modal-close-x:hover{color:#374151}
+.modal-repo-warning{font-size:10.5px;color:#b45309;background:#fffbeb;border:1px solid #fde68a;padding:7px 9px;margin-top:9px;line-height:1.5}
+.btn-submit-entry{background:transparent;color:#64748b;border:1px solid #334155;padding:5px 12px;font-size:10px;font-weight:700;cursor:pointer;font-family:inherit;letter-spacing:0.08em;transition:all 0.15s;white-space:nowrap;text-transform:uppercase}
+.btn-submit-entry:hover{background:#1e293b;color:#e2e8f0;border-color:#64748b}
+
+/* Empty + loading */
+.empty-state{text-align:center;padding:56px 24px;color:#9ca3af}
+.empty-text{font-size:11.5px;letter-spacing:0.04em}
+.loading{display:flex;align-items:center;justify-content:center;height:160px}
+.spinner{width:20px;height:20px;border:2px solid #e2e8f0;border-top-color:#dc2626;border-radius:50%;animation:spin 0.75s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* Scrollbar */
+::-webkit-scrollbar{width:4px;height:4px}
+::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:#d1d5db}
+::-webkit-scrollbar-thumb:hover{background:#94a3b8}
+
+/* Responsive */
+@media(max-width:900px){
+  #detail-panel.open{position:fixed;top:0;right:0;bottom:0;z-index:100;width:100vw!important}
+  .list-tbl{display:block;overflow-x:auto}
+  .digest-layout{grid-template-columns:1fr;grid-template-rows:auto 1px auto}
+  .digest-rule{height:1px;width:100%}
+}
+</style>
+</head>
+<body>
+<div id="app">
+
+  <!-- Header -->
+  <header id="hdr">
+    <div class="hdr-left">
+      <span class="hdr-title">HT Monitor</span>
+      <span class="hdr-sub">Human Trafficking Law & Policy Monitor</span>
+    </div>
+    <div class="hdr-right">
+      <div class="hdr-stat"><span class="hdr-stat-n" id="stat-leg" style="color:#60a5fa">--</span><span class="hdr-stat-lbl">Leg</span></div>
+      <div class="hdr-stat"><span class="hdr-stat-n" id="stat-law" style="color:#f87171">--</span><span class="hdr-stat-lbl">Cases</span></div>
+      <div class="hdr-stat"><span class="hdr-stat-n" id="stat-res" style="color:#4ade80">--</span><span class="hdr-stat-lbl">Research</span></div>
+      <div class="hdr-divider"></div>
+      <div style="display:flex;align-items:center;gap:10px">
+        <a href="about.html" class="btn-submit-entry" style="text-decoration:none;display:inline-flex;align-items:center">ABOUT</a>
+        <button class="btn-submit-entry" id="btn-open-submit">[+] SUBMIT</button>
+        <div style="display:flex;flex-direction:column;align-items:flex-end;gap:2px">
+          <button class="btn-sync" id="btn-sync">SYNC</button>
+          <span class="sync-info" id="sync-info">Last synced: loading...</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div id="body-wrap">
+    <div id="content-wrap">
+
+      <!-- Tabs -->
+      <div id="tab-row">
+        <button class="tab active" data-tab="all">All</button>
+        <button class="tab" data-tab="legislation">Legislation</button>
+        <button class="tab" data-tab="regulatory">Regulatory</button>
+        <button class="tab" data-tab="lawsuit">Lawsuits</button>
+        <button class="tab" data-tab="research">Research</button>
+        <button class="tab" data-tab="digest">Digest</button>
+        <div class="tab-spacer"></div>
+        <button class="view-btn active" data-view="list">List</button>
+        <button class="view-btn" data-view="cards">Cards</button>
+        <button class="view-btn" data-view="timeline">Timeline</button>
+      </div>
+
+      <!-- Filter bar -->
+      <div id="filter-bar">
+        <input type="search" id="f-search" class="f-search" placeholder="Search title, sponsor, keyword, summary, court..." autocomplete="off">
+        <div class="f-group"><span class="f-label">Status</span>
+          <select id="f-status" class="f-select">
+            <option value="">All Statuses</option>
+            <option>Enacted</option>
+            <option>Active</option>
+            <option>Passed Senate</option>
+            <option>Passed House</option>
+            <option>In Committee</option>
+            <option>Introduced</option>
+            <option>Proposed</option>
+            <option>Advisory</option>
+            <option>Guidance</option>
+            <option>Published</option>
+            <option>Active - Ongoing Study</option>
+            <option>Ongoing</option>
+            <option>Settled</option>
+            <option>Sentenced</option>
+            <option>Convicted</option>
+            <option>Dismissed</option>
+          </select>
+        </div>
+        <div class="f-group"><span class="f-label">Type</span>
+          <select id="f-traff" class="f-select">
+            <option value="">All</option>
+            <option value="sex">Sex Trafficking</option>
+            <option value="labor">Labor Trafficking</option>
+            <option value="both">Both</option>
+          </select>
+        </div>
+        <div class="f-group"><span class="f-label">Jurisdiction</span>
+          <select id="f-juris" class="f-select">
+            <option value="">All</option>
+            <option value="federal">Federal</option>
+            <option value="state">State</option>
+            <option value="international">International</option>
+            <option value="national">National</option>
+          </select>
+        </div>
+        <div class="f-group"><span class="f-label">From</span>
+          <input type="date" id="f-from" class="f-date">
+        </div>
+        <div class="f-group"><span class="f-label">To</span>
+          <input type="date" id="f-to" class="f-date">
+        </div>
+        <div class="f-group"><span class="f-label">Updated</span>
+          <select id="f-recent" class="f-select">
+            <option value="">Any time</option>
+            <option value="7">Last 7 days</option>
+            <option value="30">Last 30 days</option>
+            <option value="90">Last 90 days</option>
+            <option value="365">Last year</option>
+          </select>
+        </div>
+        <button class="btn-reset" id="btn-reset">Reset</button>
+        <button class="filter-bar-2-toggle" id="btn-advanced-filters">[+] Advanced</button>
+      </div>
+
+      <!-- Advanced filter row -->
+      <div id="filter-bar-2" style="display:none">
+        <div class="f-group"><span class="f-label">Outcome Frame</span>
+          <select id="f-outcome" class="f-select">
+            <option value="">All Frames</option>
+            <option value="service">Service Metrics Only</option>
+            <option value="survivor-short">Survivor: Short-Term</option>
+            <option value="survivor-medium">Survivor: Medium-Term</option>
+            <option value="survivor-long">Survivor: Long-Term</option>
+            <option value="survivor-any">Survivor Outcomes (any)</option>
+            <option value="mixed">Mixed / Both</option>
+          </select>
+        </div>
+        <div class="f-group"><span class="f-label">Evidence</span>
+          <select id="f-evidence" class="f-select">
+            <option value="">All Strengths</option>
+            <option value="strong">Strong</option>
+            <option value="moderate">Moderate</option>
+            <option value="weak">Weak</option>
+          </select>
+        </div>
+        <div class="f-group"><span class="f-label">Category</span>
+          <select id="f-category" class="f-select" style="max-width:180px">
+            <option value="">All Categories</option>
+            <optgroup label="Research">
+              <option>Systematic Reviews</option>
+              <option>Program Eval</option>
+              <option>Process Eval</option>
+              <option>Labor Trafficking</option>
+              <option>FOSTA-SESTA</option>
+              <option>Mental Health</option>
+              <option>Prevalence</option>
+              <option>Survivor-Informed</option>
+              <option>Risk/Prevention</option>
+              <option>Measurement/Tools</option>
+              <option>Intersectional</option>
+              <option>Adjacent Policy</option>
+            </optgroup>
+            <optgroup label="Legislation">
+              <option>Federal Statute</option>
+              <option>State Policy</option>
+              <option>Executive Order</option>
+              <option>Supply Chain</option>
+              <option>Platform Policy</option>
+              <option>Safe Harbor (State)</option>
+              <option>Prevention Program</option>
+              <option>Survivor Economic</option>
+              <option>Immigration/Victims</option>
+              <option>LE/Prosecution</option>
+            </optgroup>
+          </select>
+        </div>
+        <div class="f-group"><span class="f-label">Policy Mechanism</span>
+          <select id="f-policy" class="f-select" style="max-width:190px">
+            <option value="">All Mechanisms</option>
+            <option>Criminal Prohibition</option>
+            <option>Service Funding</option>
+            <option>Trade Enforcement</option>
+            <option>Platform Liability/Duty</option>
+            <option>Training/Compliance</option>
+            <option>Immigration/Victim Protections</option>
+            <option>Data/Evaluation Infrastructure</option>
+            <option>Financial Disruption/Credit Relief</option>
+            <option>Record Relief</option>
+          </select>
+        </div>
+        <div class="f-group"><span class="f-label">Case Category</span>
+          <select id="f-casecat" class="f-select">
+            <option value="">All Case Types</option>
+            <option>HOSPITALITY INDUSTRY</option>
+            <option>PLATFORM LIABILITY</option>
+            <option>ESTATE/BANKS</option>
+            <option>SUPPLY CHAIN</option>
+            <option>GOVERNMENT</option>
+            <option>INDIVIUALS</option>
+            <option>TVPA</option>
+          </select>
+        </div>
+        <div class="f-group"><span class="f-label">Source Type</span>
+          <select id="f-srctype" class="f-select">
+            <option value="">All Sources</option>
+            <option value="peer-reviewed">Peer-Reviewed</option>
+            <option value="meta-analysis">Meta-Analysis</option>
+            <option value="systematic review">Systematic Review</option>
+            <option value="NGO eval">NGO Eval</option>
+            <option value="govt report">Govt Report</option>
+            <option value="govt eval">Govt Eval</option>
+            <option value="book">Book</option>
+          </select>
+        </div>
+        <div class="f-group"><span class="f-label">Direct Impact</span>
+          <select id="f-impact" class="f-select">
+            <option value="">All</option>
+            <option value="direct">Direct</option>
+            <option value="adjacent">Adjacent</option>
+            <option value="both">Both</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- View controls row -->
+      <div id="view-row">
+        <span class="result-count" id="result-count"></span>
+        <div style="display:flex;align-items:center;gap:14px">
+          <label class="star-only"><input type="checkbox" id="f-starred"> Starred only</label>
+          <div class="sort-group">
+            <span class="sort-label">Sort</span>
+            <select id="sort-by" class="f-select">
+              <option value="date_desc">Date (newest)</option>
+              <option value="date_asc">Date (oldest)</option>
+              <option value="updated_desc">Updated (newest)</option>
+              <option value="title_asc">Title A-Z</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <!-- Main content -->
+      <main id="main">
+        <div id="loading-state" class="loading"><div class="spinner"></div></div>
+        <div id="list-view" style="display:none;overflow-x:auto"></div>
+        <div id="cards-view" style="display:none"></div>
+        <div id="timeline-view" style="display:none"></div>
+        <div id="digest-view" style="display:none"></div>
+      </main>
+
+    </div><!-- /content-wrap -->
+
+    <!-- Detail panel -->
+    <aside id="detail-panel">
+      <div id="detail-inner"></div>
+    </aside>
+  </div><!-- /body-wrap -->
+
+  <!-- Submit Entry modal -->
+  <div id="submit-modal" class="modal-overlay" style="display:none" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-box">
+      <button class="modal-close-x" id="modal-close-x" title="Close">[X]</button>
+      <div class="modal-title" id="modal-title">Submit a New Entry</div>
+      <div class="modal-sub">Submissions go to GitHub as a structured issue, get automatically processed, and appear on the live tracker within ~1 minute.</div>
+
+      <div class="modal-step">
+        <div class="modal-step-num">1</div>
+        <div class="modal-step-text">Click <strong>Open GitHub Form</strong> below -- it opens a pre-filled issue in a new tab.</div>
+      </div>
+      <div class="modal-step">
+        <div class="modal-step-num">2</div>
+        <div class="modal-step-text">Fill in the fields (Title, Date, Summary are required) and click <strong>Submit new issue</strong>.</div>
+      </div>
+      <div class="modal-step">
+        <div class="modal-step-num">3</div>
+        <div class="modal-step-text">A bot comments on your issue confirming it was added. The entry appears on the tracker automatically.</div>
+      </div>
+
+      <div class="modal-privacy">Your stars, notes, and annotations are saved only in your browser and are never sent to GitHub or anyone else. Only the submitted entry itself becomes public.</div>
+
+      <div id="modal-repo-warning" class="modal-repo-warning" style="display:none">
+        Note: Repo URL not configured yet. After pushing to GitHub, set <code>GITHUB_REPO</code> at the top of <code>index.html</code>.
+      </div>
+
+      <div class="modal-actions">
+        <a id="btn-gh-submit" class="btn-submit-gh" href="#" target="_blank" rel="noreferrer">Open GitHub Form -></a>
+        <button class="btn-modal-cancel" id="modal-cancel">Cancel</button>
+      </div>
+      <div style="font-size:9.5px;color:#9ca3af;margin-top:9px">Requires a free GitHub account -- github.com/signup</div>
+    </div>
+  </div>
+
+</div><!-- /app -->
+
+<script>
+// -- CONFIG: set your GitHub repo URL after pushing ---------------------
+// e.g. 'https://github.com/your-username/orsj-ht-tracker'
+// Leave empty to auto-detect from the GitHub Pages hostname.
+// ----------------------------------------------------------------------
+const GITHUB_REPO = '';
+
+function getGitHubRepo() {
+  if (GITHUB_REPO) return GITHUB_REPO;
+  const host = window.location.hostname;
+  if (host.endsWith('.github.io')) {
+    const username = host.replace('.github.io', '');
+    const seg = window.location.pathname.split('/').filter(Boolean)[0];
+    if (username && seg) return `https://github.com/${username}/${seg}`;
+  }
+  return null;
+}
+
+// -- STATE -------------------------------------------------------------
+const S = {
+  items: [],
+  meta: null,
+  activeTab: 'all',
+  activeView: 'list',
+  filters: { search:'', status:'', traffickingType:'', jurisdiction:'', dateFrom:'', dateTo:'', recentDays:'', starred:false,
+             outcomeFrame:'', evidenceStrength:'', category:'', policyMechanism:'', caseCategory:'', directlyImpacted:'', sourceType:'' },
+  sortBy: 'date_desc',
+  selectedId: null,
+  starred: new Set(JSON.parse(localStorage.getItem('ht_starred')||'[]')),
+  notes: JSON.parse(localStorage.getItem('ht_notes')||'{}'),
+};
+
+// -- HELPERS -----------------------------------------------------------
+const $ = id => document.getElementById(id);
+const esc = s => (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+
+function primaryDate(item)  { return item.introduced || item.filed || item.published || ''; }
+function displayDate(item)  { return item.introduced || item.filed || item.published || ''; }
+function latestDate(item)   { return item.latest_action_date || primaryDate(item); }
+
+function personLabel(item) {
+  if (item.sponsor) return item.sponsor;
+  if (item.authors && item.authors.length) return item.authors.slice(0,2).join(', ') + (item.authors.length > 2 ? ' et al.' : '');
+  if (item.plaintiffs && item.plaintiffs.length) return item.plaintiffs[0];
+  return '';
+}
+function fmtDate(s) {
+  if (!s) return '--';
+  const d = new Date(s+'T12:00:00Z');
+  if (isNaN(d)) return s;
+  return d.toLocaleDateString('en-US',{year:'numeric',month:'short',day:'numeric',timeZone:'UTC'});
+}
+function fmtDateShort(s) {
+  if (!s) return '--';
+  const d = new Date(s+'T12:00:00Z');
+  if (isNaN(d)) return s;
+  return d.toLocaleDateString('en-US',{year:'numeric',month:'short',timeZone:'UTC'});
+}
+function daysUntil(s) {
+  if (!s) return null;
+  return Math.round((new Date(s+'T12:00:00Z') - new Date()) / 86400000);
+}
+function urgencyClass(days) {
+  if (days === null) return '';
+  if (days < 0) return 'past';
+  if (days <= 14) return 'urgent';
+  if (days <= 60) return 'soon';
+  return 'future';
+}
+function typeBadge(type) {
+  const m = {legislation:'b-leg LEG',regulatory:'b-reg REG',lawsuit:'b-law CASE',research:'b-res RES'};
+  const r = (m[type]||'b-leg LEG').split(' ');
+  return `<span class="badge ${r[0]}">${r[1]||type}</span>`;
+}
+function typeDot(type) {
+  return `<span class="type-dot dot-${type}"></span>`;
+}
+function statusBadge(status) {
+  if (!status) return '';
+  const s = status.toLowerCase().replace(/[^a-z]/g,'');
+  const cls = s.includes('enact')||s.includes('active')||s.includes('publish')||s.includes('sentenced')||s.includes('settled')||s.includes('convicted') ? 'b-enacted' :
+              s.includes('passed') ? 'b-passed' :
+              s.includes('committee')||s.includes('pending')||s.includes('ongoing')||s.includes('advisory') ? 'b-committee' :
+              s.includes('introduced')||s.includes('proposed') ? 'b-introduced' :
+              s.includes('dismiss')||s.includes('fail') ? 'b-dismissed' :
+              s.includes('guidance')||s.includes('rule') ? 'b-advisory' : 'b-introduced';
+  return `<span class="badge ${cls}">${esc(status)}</span>`;
+}
+function traffickingPills(types) {
+  if (!types||!types.length) return '';
+  const m = {sex:'tp-sex SEX',labor:'tp-labor LABOR',both:'tp-both BOTH',other:'tp-other OTHER'};
+  return types.map(t=>{const r=(m[t]||'tp-other '+t.toUpperCase()).split(' ');return `<span class="trafficking-pill ${r[0]}">${r[1]||t}</span>`;}).join(' ');
+}
+function communityBadge(item) {
+  return item.submitted_by
+    ? `<span class="badge b-community" title="Submitted by @${esc(item.submitted_by)}">[C]</span>`
+    : '';
+}
+function hasUpcoming(item) {
+  return item.upcoming && item.upcoming.some(u => daysUntil(u.date) !== null && daysUntil(u.date) >= 0);
+}
+
+// -- DATA LOADING ------------------------------------------------------
+async function loadData() {
+  try {
+    const [leg, law, res, meta] = await Promise.all([
+      fetch('./data/legislation.json').then(r=>r.json()),
+      fetch('./data/lawsuits.json').then(r=>r.json()),
+      fetch('./data/research.json').then(r=>r.json()),
+      fetch('./data/meta.json').then(r=>r.json()).catch(()=>null),
+    ]);
+    return { items:[...leg,...law,...res], meta };
+  } catch(e) {
+    console.warn('JSON load failed:', e.message);
+    return { items:[], meta:null };
+  }
+}
+
+// -- FILTERING & SORTING -----------------------------------------------
+function getFilteredItems() {
+  const now = new Date();
+  return S.items.filter(item => {
+    if (S.activeTab === 'digest') return true; // digest handles its own filtering
+    if (S.activeTab !== 'all' && item.type !== S.activeTab) return false;
+    if (S.filters.starred && !S.starred.has(item.id)) return false;
+    if (S.filters.search) {
+      const q = S.filters.search.toLowerCase();
+      const searchable = [
+        item.title, item.summary, item.description, item.identifier,
+        item.sponsor, item.status, item.committee, item.court,
+        item.journal, ...(item.authors||[]), ...(item.keywords||[]),
+        ...(item.cosponsor_list||[]), ...(item.companies||[]),
+        ...(item.plaintiffs||[]), ...(item.defendants||[]),
+        ...(item.organizations||[])
+      ].filter(Boolean).join(' ').toLowerCase();
+      if (!searchable.includes(q)) return false;
+    }
+    if (S.filters.status && item.status !== S.filters.status) return false;
+    if (S.filters.traffickingType) {
+      const types = item.trafficking_types || [];
+      if (S.filters.traffickingType === 'both') {
+        if (!types.includes('sex') || !types.includes('labor')) return false;
+      } else {
+        if (!types.includes(S.filters.traffickingType)) return false;
+      }
+    }
+    if (S.filters.jurisdiction && item.jurisdiction !== S.filters.jurisdiction) return false;
+    const pd = primaryDate(item);
+    if (S.filters.dateFrom && pd && pd < S.filters.dateFrom) return false;
+    if (S.filters.dateTo && pd && pd > S.filters.dateTo) return false;
+    if (S.filters.recentDays) {
+      const ld = latestDate(item);
+      if (!ld) return false;
+      if ((now - new Date(ld+'T12:00:00Z')) / 86400000 > parseInt(S.filters.recentDays)) return false;
+    }
+    if (S.filters.outcomeFrame) {
+      const of = (item.outcome_frame||'').toLowerCase();
+      const f = S.filters.outcomeFrame;
+      let match = false;
+      if (f === 'service') match = of.includes('service metric') && !of.includes('survivor') && !of.includes('+');
+      else if (f === 'survivor-short') match = of.includes('short') || of.includes('0-6');
+      else if (f === 'survivor-medium') match = of.includes('medium') || of.includes('6-12');
+      else if (f === 'survivor-long') match = of.includes('long') || of.includes('>12');
+      else if (f === 'mixed') match = of.includes('mixed') || (of.includes('service') && of.includes('survivor'));
+      else if (f === 'survivor-any') match = of.includes('survivor');
+      if (!match) return false;
+    }
+    if (S.filters.evidenceStrength && !(item.evidence_strength||'').toLowerCase().startsWith(S.filters.evidenceStrength)) return false;
+    if (S.filters.category && item.category !== S.filters.category) return false;
+    if (S.filters.policyMechanism && !(item.policy_mechanism||'').includes(S.filters.policyMechanism)) return false;
+    if (S.filters.caseCategory && item.case_category !== S.filters.caseCategory) return false;
+    if (S.filters.directlyImpacted && (item.directly_impacted||'').toLowerCase() !== S.filters.directlyImpacted) return false;
+    if (S.filters.sourceType && item.source_type !== S.filters.sourceType) return false;
+    return true;
+  }).sort((a, b) => {
+    if (S.sortBy === 'date_asc') return primaryDate(a).localeCompare(primaryDate(b));
+    if (S.sortBy === 'date_desc') return primaryDate(b).localeCompare(primaryDate(a));
+    if (S.sortBy === 'updated_desc') return latestDate(b).localeCompare(latestDate(a));
+    if (S.sortBy === 'title_asc') return a.title.localeCompare(b.title);
+    return 0;
+  });
+}
+
+// -- RENDER: LIST ------------------------------------------------------
+function renderList(items) {
+  if (!items.length) { $('list-view').innerHTML = emptyState(); return; }
+  const rows = items.map(item => {
+    const pd = displayDate(item);
+    const ld = latestDate(item);
+    const starMark = S.starred.has(item.id) ? ' <span style="color:#f59e0b">*</span>' : '';
+    const upFlag = hasUpcoming(item) ? `<span class="upcoming-flag">UPCOMING</span>` : '';
+    return `<tr class="${S.selectedId===item.id?'selected':''}" data-id="${item.id}">
+      <td class="cell-date">${esc(pd)}<br><span class="cell-updated">${ld && ld !== pd ? '^ '+esc(ld) : ''}</span></td>
+      <td style="white-space:nowrap">${typeDot(item.type)} ${typeBadge(item.type)}</td>
+      <td><span class="cell-id">${esc(item.identifier||'--')}</span></td>
+      <td>
+        <div class="cell-title">${esc(item.title)}${starMark} ${communityBadge(item)}</div>
+        <div class="cell-summary">${esc((item.summary||'').slice(0,120))}${(item.summary||'').length>120?'...':''}</div>
+        <div class="cell-action">${esc((item.latest_action||'').slice(0,90))}${(item.latest_action||'').length>90?'...':''}</div>
+        ${upFlag}
+      </td>
+      <td>${statusBadge(item.status)}</td>
+      <td style="white-space:nowrap">${traffickingPills(item.trafficking_types)}</td>
+      <td class="cell-person">${esc((personLabel(item)||'').slice(0,50))}${(personLabel(item)||'').length>50?'...':''}</td>
+      <td><div style="display:flex;flex-wrap:wrap;gap:2px;max-width:140px">${(item.keywords||[]).slice(0,3).map(k=>`<span class="kw-tag">${esc(k)}</span>`).join('')}</div></td>
+    </tr>`;
+  }).join('');
+  $('list-view').innerHTML = `<table class="list-tbl">
+    <thead><tr>
+      <th>Date</th><th>Type</th><th>ID / #</th><th>Title &amp; Summary</th>
+      <th>Status</th><th>Trafficking Type</th><th>Sponsor / Author / Plaintiff</th><th>Keywords</th>
+    </tr></thead>
+    <tbody>${rows}</tbody>
+  </table>`;
+  $('list-view').querySelectorAll('tr[data-id]').forEach(tr => tr.addEventListener('click', () => selectItem(tr.dataset.id)));
+}
+
+// -- RENDER: CARDS -----------------------------------------------------
+function renderCards(items) {
+  if (!items.length) { $('cards-view').innerHTML = emptyState(); return; }
+  $('cards-view').innerHTML = `<div class="cards-grid">${items.map(item => {
+    const starMark = S.starred.has(item.id) ? '<span style="color:#f59e0b;font-size:11px"> *</span>' : '';
+    const upFlag = hasUpcoming(item) ? `<span class="upcoming-flag">UPCOMING</span>` : '';
+    return `<div class="card${S.selectedId===item.id?' selected':''}" data-id="${item.id}">
+      <div class="card-header">
+        <div>${typeDot(item.type)} ${typeBadge(item.type)}</div>
+        <div style="display:flex;gap:4px;flex-wrap:wrap;justify-content:flex-end">${statusBadge(item.status)}</div>
+      </div>
+      <div class="card-id">${esc(item.identifier||'')}${starMark}</div>
+      <div class="card-title">${esc(item.title)}</div>
+      <div class="card-summary">${esc(item.summary||'')}</div>
+      <div class="card-person">${esc((personLabel(item)||'').slice(0,60))}</div>
+      <div class="card-footer">
+        ${traffickingPills(item.trafficking_types)}
+        ${communityBadge(item)}
+        ${upFlag}
+        <span style="font-size:9.5px;color:#9ca3af;margin-left:auto">${esc(displayDate(item))}</span>
+      </div>
+    </div>`;
+  }).join('')}</div>`;
+  $('cards-view').querySelectorAll('[data-id]').forEach(el => el.addEventListener('click', () => selectItem(el.dataset.id)));
+}
+
+// -- RENDER: TIMELINE --------------------------------------------------
+function renderTimeline(items) {
+  if (!items.length) { $('timeline-view').innerHTML = emptyState(); return; }
+  const events = [];
+  items.forEach(item => {
+    (item.updates||[]).forEach(u => events.push({ date: u.date, event: u.event, actor: u.actor, item }));
+    if (!item.updates || !item.updates.length)
+      events.push({ date: primaryDate(item), event: item.latest_action || 'Added to tracker', actor: '', item });
+  });
+  events.sort((a,b) => (b.date||'').localeCompare(a.date||''));
+  const byYear = {};
+  events.forEach(ev => {
+    if (!ev.date) return;
+    const y = ev.date.slice(0,4), m = ev.date.slice(0,7);
+    if (!byYear[y]) byYear[y] = {};
+    if (!byYear[y][m]) byYear[y][m] = [];
+    byYear[y][m].push(ev);
+  });
+  const MONTHS = ['','Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  const years = Object.keys(byYear).sort((a,b)=>b-a);
+  $('timeline-view').innerHTML = years.map(y => {
+    const months = Object.keys(byYear[y]).sort((a,b)=>b.localeCompare(a));
+    return `<div class="tl-year">
+      <div class="tl-year-hdr">${y}</div>
+      ${months.map(m => {
+        const mNum = parseInt(m.split('-')[1]);
+        const evs = byYear[y][m];
+        return `<div class="tl-month">
+          <div class="tl-month-hdr">${MONTHS[mNum]} ${y} / ${evs.length} event${evs.length!==1?'s':''}</div>
+          ${evs.map((ev,i) => `<div class="tl-event" data-id="${ev.item.id}">
+            <div class="tl-dot-wrap">
+              <div class="tl-dot type-${ev.item.type}"></div>
+              ${i<evs.length-1?'<div class="tl-dot-line"></div>':''}
+            </div>
+            <div class="tl-body">
+              <div class="tl-date">${esc(ev.date)}</div>
+              <div class="tl-title">${esc(ev.item.title)}</div>
+              <div class="tl-action">${esc(ev.event)}${ev.actor?' / '+ev.actor:''}</div>
+              <div class="tl-badges">${typeBadge(ev.item.type)} ${statusBadge(ev.item.status)} ${traffickingPills(ev.item.trafficking_types)}</div>
+            </div>
+          </div>`).join('')}
+        </div>`;
+      }).join('')}
+    </div>`;
+  }).join('');
+  $('timeline-view').querySelectorAll('[data-id]').forEach(el => el.addEventListener('click', () => selectItem(el.dataset.id)));
+}
+
+// -- RENDER: DIGEST ----------------------------------------------------
+function renderDigest() {
+  const thirtyDaysAgo = new Date(Date.now() - 30*86400000).toISOString().slice(0,10);
+
+  // Recent: items updated in last 30 days
+  const recent = S.items
+    .filter(item => {
+      if (S.filters.starred && !S.starred.has(item.id)) return false;
+      if (S.filters.search) {
+        const q = S.filters.search.toLowerCase();
+        const s = [item.title, item.summary, item.sponsor, ...(item.keywords||[])].filter(Boolean).join(' ').toLowerCase();
+        if (!s.includes(q)) return false;
+      }
+      return latestDate(item) >= thirtyDaysAgo;
+    })
+    .sort((a,b) => latestDate(b).localeCompare(latestDate(a)))
+    .slice(0, 60);
+
+  // Group recent by rough bucket
+  const thisWeek = new Date(Date.now() - 7*86400000).toISOString().slice(0,10);
+  const recentWeek = recent.filter(i => latestDate(i) >= thisWeek);
+  const recentMonth = recent.filter(i => latestDate(i) < thisWeek);
+
+  function recentRow(item) {
+    const action = (item.latest_action||'').slice(0,100);
+    return `<div class="digest-row" data-id="${item.id}">
+      <div class="digest-row-meta">
+        <span class="digest-row-date">${esc(latestDate(item))}</span>
+        ${typeBadge(item.type)}
+        ${traffickingPills(item.trafficking_types)}
+        ${communityBadge(item)}
+      </div>
+      <div class="digest-row-title">${esc(item.title)}</div>
+      ${action?`<div class="digest-row-action">${esc(action)}${(item.latest_action||'').length>100?'...':''}</div>`:''}
+    </div>`;
+  }
+
+  const recentHtml = recent.length
+    ? `${recentWeek.length?`<div class="digest-section">This Week</div>${recentWeek.map(recentRow).join('')}`:''}
+       ${recentMonth.length?`<div class="digest-section">Earlier This Month</div>${recentMonth.map(recentRow).join('')}`:''}`
+    : '<div class="digest-empty">No activity in the last 30 days.</div>';
+
+  // Upcoming events
+  const upEvents = [];
+  S.items.forEach(item => {
+    (item.upcoming||[]).forEach(u => {
+      const days = daysUntil(u.date);
+      if (days !== null) upEvents.push({ days, ...u, item });
+    });
+  });
+  upEvents.sort((a,b) => a.days - b.days);
+
+  const upHtml = upEvents.length
+    ? upEvents.map(ev => {
+        const cls = ev.days < 0 ? 'd-past' : ev.days <= 14 ? 'd-urgent' : ev.days <= 60 ? 'd-soon' : 'd-future';
+        return `<div class="digest-up-row" data-id="${ev.item.id}">
+          <div class="digest-cnt">
+            <span class="digest-days-n ${cls}">${ev.days < 0 ? '-' : ev.days}</span>
+            <span class="digest-days-lbl">${ev.days < 0 ? 'past' : 'days'}</span>
+          </div>
+          <div>
+            <div class="digest-up-event">${esc(ev.event)}</div>
+            <div class="digest-up-title">${esc(ev.item.title)}</div>
+            ${ev.notes?`<div class="digest-up-meta">${esc(ev.notes)}</div>`:''}
+            <div class="digest-up-meta">${fmtDate(ev.date)} / ${typeBadge(ev.item.type)}</div>
+          </div>
+        </div>`;
+      }).join('')
+    : '<div class="digest-empty">No upcoming events found.</div>';
+
+  $('digest-view').innerHTML = `
+    <div class="digest-layout">
+      <div class="digest-col">
+        <div class="digest-col-hdr">Recent Activity</div>
+        <div class="digest-col-sub">${recent.length} items updated in the last 30 days</div>
+        ${recentHtml}
+      </div>
+      <div class="digest-rule"></div>
+      <div class="digest-col">
+        <div class="digest-col-hdr">Upcoming</div>
+        <div class="digest-col-sub">${upEvents.length} scheduled events</div>
+        ${upHtml}
+      </div>
+    </div>`;
+
+  $('digest-view').querySelectorAll('[data-id]').forEach(el => el.addEventListener('click', () => selectItem(el.dataset.id)));
+}
+
+// -- RENDER: DETAIL PANEL ----------------------------------------------
+function renderDetail(item) {
+  if (!item) { closeDetail(); return; }
+  const isStarred = S.starred.has(item.id);
+  const note = S.notes[item.id] || '';
+  const updates = [...(item.updates||[])].sort((a,b)=>(b.date||'').localeCompare(a.date||''));
+
+  let metaFields = [];
+  if (item.type === 'legislation' || item.type === 'regulatory') {
+    metaFields = [
+      ['Identifier', item.identifier],
+      ['Introduced', fmtDate(item.introduced)],
+      ['Last Action', fmtDate(item.latest_action_date)],
+      ['Status', item.status],
+      ['Sponsor', item.sponsor],
+      ['Committee', item.committee],
+      ['Cosponsors', item.cosponsors > 0 ? item.cosponsors : '0'],
+      ['Jurisdiction', item.jurisdiction],
+    ];
+  } else if (item.type === 'lawsuit') {
+    metaFields = [
+      ['Case No.', item.identifier],
+      ['Filed', fmtDate(item.filed)],
+      ['Last Action', fmtDate(item.latest_action_date)],
+      ['Status', item.status],
+      ['Court', item.court],
+      ['Judge', item.judge],
+      ['Jurisdiction', item.jurisdiction],
+    ];
+  } else if (item.type === 'research') {
+    metaFields = [
+      ['Identifier', item.identifier],
+      ['Published', fmtDate(item.published)],
+      ['Journal', item.journal],
+      ['Funder', item.funder],
+      ['Evidence', item.evidence_strength],
+      ['Follow-up', item.follow_up_length],
+      ['Outcome Frame', item.outcome_frame],
+      ['Jurisdiction', item.jurisdiction],
+    ];
+  }
+  const metaHtml = metaFields.map(([l,v]) => v ? `<div class="detail-meta-item"><label>${esc(l)}</label><span>${esc(String(v))}</span></div>` : '').join('');
+
+  // Type-specific extended sections
+  let extendedHtml = '';
+  if (item.type === 'legislation' || item.type === 'regulatory') {
+    const shortF = [
+      ['Category', item.category],
+      ['Outcome Frame', item.outcome_frame],
+      ['Directly Impacted by Survivors', item.directly_impacted],
+      ['Implementing Agency', item.implementing_agency],
+      ['Evaluation Required', item.evaluation_required !== undefined ? (item.evaluation_required ? 'Yes' : 'No') : null],
+      ['Adaptation Risk', item.adaptation_risk],
+    ].filter(([,v]) => v);
+    const longF = [['Policy Mechanism', item.policy_mechanism],['Specific Metrics', item.specific_metrics]].filter(([,v]) => v);
+    if (shortF.length || longF.length) {
+      extendedHtml = `<div class="detail-section-lbl">Policy Details</div>
+        ${shortF.length?`<div class="detail-meta-box">${shortF.map(([l,v])=>`<div class="detail-meta-item"><label>${esc(l)}</label><span>${esc(String(v))}</span></div>`).join('')}</div>`:''}
+        ${longF.map(([l,v])=>`<div class="detail-section-lbl">${esc(l)}</div><div class="detail-field-val">${esc(String(v))}</div>`).join('')}`;
+    }
+  } else if (item.type === 'lawsuit') {
+    const shortF = [
+      ['Case Category', item.case_category],['Case Type', item.case_type],['Legal Provisions', item.legal_provisions],
+      ['Knowingly Benefit', item.knowingly_benefit !== undefined ? (item.knowingly_benefit ? 'Yes' : 'No') : null],
+      ['Settlement Amount', item.settlement_amount],['Survivor Compensation', item.survivor_compensation],['Resolution', item.resolution],
+    ].filter(([,v]) => v);
+    const longF = [['Allegations', item.allegations],['Legal Significance', item.legal_significance],['Status Detail', item.status_detail]].filter(([,v]) => v);
+    if (shortF.length || longF.length) {
+      extendedHtml = `<div class="detail-section-lbl">Case Details</div>
+        ${shortF.length?`<div class="detail-meta-box">${shortF.map(([l,v])=>`<div class="detail-meta-item"><label>${esc(l)}</label><span>${esc(String(v))}</span></div>`).join('')}</div>`:''}
+        ${longF.map(([l,v])=>`<div class="detail-section-lbl">${esc(l)}</div><div class="detail-field-val">${esc(String(v))}</div>`).join('')}`;
+    }
+  } else if (item.type === 'research') {
+    const shortF = [
+      ['Category', item.category],['Source Type', item.source_type],['Population', item.population],
+      ['Country / Region', item.country_region],['Methodology', item.methodology],
+      ['Sample Size', item.sample_size !== undefined ? String(item.sample_size) : null],['Program Evaluated', item.program_evaluated],
+    ].filter(([,v]) => v);
+    const longF = [['Focus Question', item.focus_question],['Quantitative Results', item.quantitative_results]].filter(([,v]) => v);
+    if (shortF.length || longF.length) {
+      extendedHtml = `<div class="detail-section-lbl">Research Details</div>
+        ${shortF.length?`<div class="detail-meta-box">${shortF.map(([l,v])=>`<div class="detail-meta-item"><label>${esc(l)}</label><span>${esc(String(v))}</span></div>`).join('')}</div>`:''}
+        ${longF.map(([l,v])=>`<div class="detail-section-lbl">${esc(l)}</div><div class="detail-field-val">${esc(String(v))}</div>`).join('')}`;
+    }
+  }
+
+  const cosponsorHtml = (item.cosponsor_list||[]).length
+    ? `<div class="detail-section-lbl">Cosponsors (${item.cosponsors})</div>
+       <div>${(item.cosponsor_list||[]).map(c=>`<div class="detail-cosponsor">- ${esc(c)}</div>`).join('')}${item.cosponsors>(item.cosponsor_list||[]).length?`<div class="detail-cosponsor" style="color:#9ca3af">+ ${item.cosponsors-(item.cosponsor_list||[]).length} more</div>`:''}</div>` : '';
+
+  const partiesHtml = item.type==='lawsuit' && (item.plaintiffs||[]).length ? `
+    <div class="detail-section-lbl">Parties</div>
+    <div style="margin-bottom:4px"><span style="font-size:9px;color:#9ca3af;letter-spacing:0.1em">PLAINTIFFS</span> ${(item.plaintiffs||[]).map(p=>`<span class="detail-company-tag dtag-plaintiff">${esc(p)}</span>`).join('')}</div>
+    <div><span style="font-size:9px;color:#9ca3af;letter-spacing:0.1em">DEFENDANTS</span> ${(item.defendants||[]).map(d=>`<span class="detail-company-tag dtag-defendant">${esc(d)}</span>`).join('')}</div>` : '';
+
+  const companiesHtml = (item.companies||[]).length
+    ? `<div class="detail-section-lbl">Companies / Organizations</div>
+       <div style="display:flex;flex-wrap:wrap;gap:4px">${(item.companies||[]).map(c=>`<span class="detail-company-tag dtag-neutral">${esc(c)}</span>`).join('')}</div>` : '';
+
+  const authorsHtml = item.type==='research' && (item.authors||[]).length
+    ? `<div class="detail-section-lbl">Authors</div>
+       <div style="font-size:11.5px;color:#374151;line-height:1.6">${esc((item.authors||[]).join(', '))}</div>
+       ${(item.organizations||[]).length?`<div class="detail-section-lbl">Organizations</div><div style="display:flex;flex-wrap:wrap;gap:4px">${(item.organizations||[]).map(o=>`<span class="detail-company-tag dtag-neutral">${esc(o)}</span>`).join('')}</div>`:''}` : '';
+
+  const updatesHtml = updates.length ? `<div class="update-tl">${updates.map((u,i) => {
+    const isRecent = u.date && u.date >= new Date(Date.now()-90*86400000).toISOString().slice(0,10);
+    return `<div class="update-item">
+      <div class="update-line-col">
+        <div class="update-dot${isRecent&&i===0?' recent':''}"></div>
+        <div class="update-seg"></div>
+      </div>
+      <div class="update-body">
+        <div class="update-date">${esc(u.date||'')}</div>
+        <div class="update-event">${esc(u.event||'')}</div>
+        ${u.actor?`<div class="update-actor">by ${esc(u.actor)}</div>`:''}
+        ${u.notes?`<div class="update-notes">${esc(u.notes)}</div>`:''}
+        ${u.source_url?`<a href="${esc(u.source_url)}" class="update-src-link" target="_blank" rel="noreferrer">[src]</a>`:''}
+      </div>
+    </div>`;
+  }).join('')}</div>` : '<div style="font-size:11px;color:#9ca3af">No update history recorded.</div>';
+
+  const upcomingHtml = (item.upcoming||[]).filter(u=>daysUntil(u.date)!==null).sort((a,b)=>a.date.localeCompare(b.date)).map(u => {
+    const days = daysUntil(u.date);
+    return `<div class="detail-upcoming-item">
+      <div class="detail-upcoming-date">${fmtDate(u.date)} / ${days >= 0 ? days+' days' : 'passed'}</div>
+      <div class="detail-upcoming-event">${esc(u.event)}</div>
+      ${u.notes?`<div class="detail-upcoming-notes">${esc(u.notes)}</div>`:''}
+    </div>`;
+  }).join('');
+
+  const links = [];
+  if (item.url) links.push(`<a href="${esc(item.url)}" class="detail-link" target="_blank" rel="noreferrer">Source -></a>`);
+  if (item.houseUrl) links.push(`<a href="${esc(item.houseUrl)}" class="detail-link secondary" target="_blank" rel="noreferrer">House -></a>`);
+  if (item.senateUrl) links.push(`<a href="${esc(item.senateUrl)}" class="detail-link secondary" target="_blank" rel="noreferrer">Senate -></a>`);
+
+  $('detail-inner').innerHTML = `
+    <div class="detail-top">
+      <div style="display:flex;gap:6px;align-items:center;flex-wrap:wrap">
+        ${typeBadge(item.type)}
+        ${traffickingPills(item.trafficking_types)}
+      </div>
+      <div style="display:flex;gap:7px;align-items:center">
+        <button class="btn-star${isStarred?' starred':''}" id="btn-star-item">${isStarred?'[*]':'[ ]'} ${isStarred?'Starred':'Star'}</button>
+        <button class="detail-close-btn" id="detail-close-btn">[X]</button>
+      </div>
+    </div>
+    <div class="detail-scroll">
+      <h2 class="detail-title">${esc(item.title)}</h2>
+      <div class="detail-badges-row">${statusBadge(item.status)} ${communityBadge(item)}${item.submitted_by?`<span style="font-size:9.5px;color:#9ca3af;align-self:center">by @${esc(item.submitted_by)}</span>`:''}</div>
+      <div class="detail-meta-box">${metaHtml}</div>
+      ${cosponsorHtml}${partiesHtml}${authorsHtml}${companiesHtml}
+      <div class="detail-section-lbl">Summary</div>
+      <div class="detail-summary">${esc(item.summary||'')}</div>
+      ${item.description?`<div class="detail-description">${esc(item.description)}</div>`:''}
+      ${(item.keywords||[]).length?`<div class="detail-section-lbl">Keywords</div><div style="display:flex;flex-wrap:wrap;gap:3px">${(item.keywords||[]).map(k=>`<span class="kw-tag">${esc(k)}</span>`).join('')}</div>`:''}
+      ${extendedHtml}
+      ${links.length?`<div class="detail-section-lbl">Links</div><div class="detail-links">${links.join('')}</div>`:''}
+      ${upcomingHtml?`<div class="detail-section-lbl">Upcoming Events</div>${upcomingHtml}`:''}
+      <div class="detail-section-lbl">Update Timeline <span style="font-size:8.5px;color:#9ca3af">(${updates.length} events / newest first)</span></div>
+      ${updatesHtml}
+      <div class="detail-section-lbl">Notes</div>
+      <textarea class="notes-area" id="detail-notes" placeholder="Notes -- relevance, follow-up actions, connections to other work..." rows="4">${esc(note)}</textarea>
+      <div class="notes-hint">Saved locally in browser / not synced</div>
+    </div>`;
+
+  $('detail-close-btn').addEventListener('click', closeDetail);
+  $('btn-star-item').addEventListener('click', () => toggleStar(item.id));
+  $('detail-notes').addEventListener('input', e => {
+    S.notes[item.id] = e.target.value;
+    localStorage.setItem('ht_notes', JSON.stringify(S.notes));
+  });
+}
+
+function closeDetail() {
+  S.selectedId = null;
+  document.getElementById('detail-panel').classList.remove('open');
+  document.getElementById('detail-inner').innerHTML = '';
+  document.querySelectorAll('[data-id]').forEach(el => el.classList.remove('selected'));
+}
+
+function selectItem(id) {
+  if (S.selectedId === id) { closeDetail(); return; }
+  S.selectedId = id;
+  const item = S.items.find(i => i.id === id);
+  if (!item) return;
+  document.getElementById('detail-panel').classList.add('open');
+  renderDetail(item);
+  document.querySelectorAll('[data-id]').forEach(el => el.classList.toggle('selected', el.dataset.id === id));
+}
+
+function toggleStar(id) {
+  if (S.starred.has(id)) S.starred.delete(id);
+  else S.starred.add(id);
+  localStorage.setItem('ht_starred', JSON.stringify([...S.starred]));
+  const item = S.items.find(i => i.id === id);
+  if (item) renderDetail(item);
+  renderCurrentView();
+}
+
+// -- RENDER: STATS -----------------------------------------------------
+function renderStats() {
+  const c = { legislation:0, regulatory:0, lawsuit:0, research:0 };
+  S.items.forEach(i => { if (c[i.type] !== undefined) c[i.type]++; });
+  $('stat-leg').textContent = c.legislation + c.regulatory;
+  $('stat-law').textContent = c.lawsuit;
+  $('stat-res').textContent = c.research;
+  if (S.meta) {
+    const d = new Date(S.meta.last_updated);
+    $('sync-info').textContent = 'Last synced: ' + d.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});
+  }
+}
+
+function emptyState() {
+  return `<div class="empty-state"><div class="empty-text">No results match your filters.</div></div>`;
+}
+
+// -- MAIN RENDER -------------------------------------------------------
+function renderCurrentView() {
+  const items = getFilteredItems();
+  const isDigest = S.activeTab === 'digest';
+
+  $('result-count').textContent = isDigest ? '' : `${items.length} of ${S.items.length} entries`;
+  $('main').classList.toggle('digest-active', isDigest);
+
+  const views = ['list-view','cards-view','timeline-view','digest-view'];
+  views.forEach(v => { $(v).style.display = 'none'; });
+
+  // Disable view toggles when on digest (they don't apply)
+  document.querySelectorAll('.view-btn').forEach(b => {
+    b.style.opacity = isDigest ? '0.35' : '';
+    b.style.pointerEvents = isDigest ? 'none' : '';
+  });
+
+  if (isDigest) {
+    $('digest-view').style.display = '';
+    renderDigest();
+    return;
+  }
+  if (S.activeView === 'list')     { $('list-view').style.display = '';     renderList(items); }
+  else if (S.activeView === 'cards')    { $('cards-view').style.display = '';    renderCards(items); }
+  else if (S.activeView === 'timeline') { $('timeline-view').style.display = ''; renderTimeline(items); }
+}
+
+// -- ADVANCED TOGGLE STATE ---------------------------------------------
+function updateAdvancedToggleState() {
+  const hasActive = !!(S.filters.outcomeFrame || S.filters.evidenceStrength || S.filters.category ||
+                       S.filters.policyMechanism || S.filters.caseCategory || S.filters.directlyImpacted || S.filters.sourceType);
+  const btn = $('btn-advanced-filters');
+  btn.classList.toggle('has-active', hasActive);
+  const isOpen = $('filter-bar-2').style.display !== 'none';
+  if (hasActive) {
+    if (!isOpen) { $('filter-bar-2').style.display = ''; }
+    btn.textContent = '[-] ADVANCED *';
+  } else {
+    btn.textContent = isOpen ? '[-] ADVANCED' : '[+] ADVANCED';
+  }
+}
+
+// -- EVENT HANDLERS ----------------------------------------------------
+function bindEvents() {
+  document.querySelectorAll('.tab').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tab').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      S.activeTab = btn.dataset.tab;
+      renderCurrentView();
+    });
+  });
+
+  document.querySelectorAll('.view-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.view-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      S.activeView = btn.dataset.view;
+      renderCurrentView();
+    });
+  });
+
+  $('f-search').addEventListener('input',  e => { S.filters.search = e.target.value; renderCurrentView(); });
+  $('f-status').addEventListener('change', e => { S.filters.status = e.target.value; renderCurrentView(); });
+  $('f-traff').addEventListener('change',  e => { S.filters.traffickingType = e.target.value; renderCurrentView(); });
+  $('f-juris').addEventListener('change',  e => { S.filters.jurisdiction = e.target.value; renderCurrentView(); });
+  $('f-from').addEventListener('change',   e => { S.filters.dateFrom = e.target.value; renderCurrentView(); });
+  $('f-to').addEventListener('change',     e => { S.filters.dateTo = e.target.value; renderCurrentView(); });
+  $('f-recent').addEventListener('change', e => { S.filters.recentDays = e.target.value; renderCurrentView(); });
+  $('f-starred').addEventListener('change',e => { S.filters.starred = e.target.checked; renderCurrentView(); });
+  $('sort-by').addEventListener('change',  e => { S.sortBy = e.target.value; renderCurrentView(); });
+
+  $('btn-reset').addEventListener('click', () => {
+    S.filters = { search:'', status:'', traffickingType:'', jurisdiction:'', dateFrom:'', dateTo:'', recentDays:'', starred:false,
+                  outcomeFrame:'', evidenceStrength:'', category:'', policyMechanism:'', caseCategory:'', directlyImpacted:'', sourceType:'' };
+    ['f-search','f-status','f-traff','f-juris','f-from','f-to','f-recent',
+     'f-outcome','f-evidence','f-category','f-policy','f-casecat','f-srctype','f-impact'].forEach(id => {
+      const el = $(id);
+      if (el) el.value = '';
+    });
+    $('f-starred').checked = false;
+    updateAdvancedToggleState();
+    renderCurrentView();
+  });
+
+  $('btn-advanced-filters').addEventListener('click', () => {
+    const bar2 = $('filter-bar-2');
+    const isOpen = bar2.style.display !== 'none';
+    bar2.style.display = isOpen ? 'none' : '';
+    updateAdvancedToggleState();
+  });
+
+  $('f-outcome').addEventListener('change',  e => { S.filters.outcomeFrame = e.target.value; updateAdvancedToggleState(); renderCurrentView(); });
+  $('f-evidence').addEventListener('change', e => { S.filters.evidenceStrength = e.target.value; updateAdvancedToggleState(); renderCurrentView(); });
+  $('f-category').addEventListener('change', e => { S.filters.category = e.target.value; updateAdvancedToggleState(); renderCurrentView(); });
+  $('f-policy').addEventListener('change',   e => { S.filters.policyMechanism = e.target.value; updateAdvancedToggleState(); renderCurrentView(); });
+  $('f-casecat').addEventListener('change',  e => { S.filters.caseCategory = e.target.value; updateAdvancedToggleState(); renderCurrentView(); });
+  $('f-srctype').addEventListener('change',  e => { S.filters.sourceType = e.target.value; updateAdvancedToggleState(); renderCurrentView(); });
+  $('f-impact').addEventListener('change',   e => { S.filters.directlyImpacted = e.target.value; updateAdvancedToggleState(); renderCurrentView(); });
+
+  // Submit modal
+  function openSubmitModal() {
+    const repo = getGitHubRepo();
+    const link = $('btn-gh-submit');
+    if (repo) {
+      link.href = `${repo}/issues/new?template=submit_entry.yml`;
+      link.removeAttribute('aria-disabled');
+      $('modal-repo-warning').style.display = 'none';
+    } else {
+      link.href = '#';
+      link.setAttribute('aria-disabled', 'true');
+      link.onclick = e => e.preventDefault();
+      $('modal-repo-warning').style.display = '';
+    }
+    $('submit-modal').style.display = 'flex';
+    document.body.style.overflow = 'hidden';
+  }
+  function closeSubmitModal() {
+    $('submit-modal').style.display = 'none';
+    document.body.style.overflow = '';
+  }
+  $('btn-open-submit').addEventListener('click', openSubmitModal);
+  $('modal-close-x').addEventListener('click', closeSubmitModal);
+  $('modal-cancel').addEventListener('click', closeSubmitModal);
+  $('submit-modal').addEventListener('click', e => { if (e.target === $('submit-modal')) closeSubmitModal(); });
+
+  // Sync button
+  $('btn-sync').addEventListener('click', async () => {
+    const btn = $('btn-sync');
+    btn.disabled = true;
+    btn.textContent = 'SYNCING...';
+    try {
+      const { items, meta } = await loadData();
+      S.items = items;
+      S.meta = meta;
+      renderStats();
+      renderCurrentView();
+      if (S.selectedId) {
+        const item = S.items.find(i => i.id === S.selectedId);
+        if (item) renderDetail(item);
+      }
+      btn.textContent = 'OK';
+      setTimeout(() => { btn.textContent = 'SYNC'; btn.disabled = false; }, 2000);
+    } catch(e) {
+      btn.textContent = 'ERR';
+      setTimeout(() => { btn.textContent = 'SYNC'; btn.disabled = false; }, 2000);
+    }
+  });
+
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') {
+      if ($('submit-modal').style.display !== 'none') closeSubmitModal();
+      else closeDetail();
+    }
+  });
+}
+
+// -- INIT --------------------------------------------------------------
+async function init() {
+  bindEvents();
+  const { items, meta } = await loadData();
+  S.items = items;
+  S.meta = meta;
+  $('loading-state').style.display = 'none';
+  renderStats();
+  renderCurrentView();
+}
+
+init();
+</script>
+</body>
+</html>

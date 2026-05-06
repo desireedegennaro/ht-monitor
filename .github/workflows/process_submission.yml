@@ -9,6 +9,8 @@ jobs:
     # Only run when the issue title starts with [SUBMISSION] (set by the template)
     if: startsWith(github.event.issue.title, '[SUBMISSION]')
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     permissions:
       contents: write   # needed to commit updated JSON files
       issues: write     # needed to comment and close the issue

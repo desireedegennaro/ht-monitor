@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-05T15:48:57Z",
-  "last_fetched_congress": "2026-06-05T15:48:57Z",
-  "last_fetched_federal_register": "2026-06-05T15:48:57Z",
-  "last_fetched_overton": "2026-06-05T15:48:57Z",
+  "last_updated": "2026-06-06T14:24:33Z",
+  "last_fetched_congress": "2026-06-06T14:24:33Z",
+  "last_fetched_federal_register": "2026-06-06T14:24:33Z",
+  "last_fetched_overton": "2026-06-06T14:24:33Z",
   "counts": {
-    "legislation": 84,
+    "legislation": 85,
     "regulatory": 22,
     "lawsuit": 40,
     "research": 114

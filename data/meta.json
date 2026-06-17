@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-06-16T17:55:04Z",
-  "last_fetched_congress": "2026-06-16T17:55:04Z",
-  "last_fetched_federal_register": "2026-06-16T17:55:04Z",
-  "last_fetched_overton": "2026-06-16T17:55:04Z",
+  "last_updated": "2026-06-17T16:32:52Z",
+  "last_fetched_congress": "2026-06-17T16:32:52Z",
+  "last_fetched_federal_register": "2026-06-17T16:32:52Z",
+  "last_fetched_overton": "2026-06-17T16:32:52Z",
   "counts": {
     "legislation": 85,
     "regulatory": 22,

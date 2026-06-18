@@ -106,12 +106,12 @@ ht-monitor/
 
 ## Setup
 
-**API keys** are stored as GitHub Actions repository secrets. Neither is required for the pipeline to run — if absent, those sources are skipped and the rest continue.
+**API keys** are stored as GitHub Actions repository secrets. Neither is required for the pipeline to run, if absent, those sources are skipped and the rest continue.
 
 | Secret | Where to get it |
 |---|---|
-| `CONGRESS_API_KEY` | [api.congress.gov/sign-up](https://api.congress.gov/sign-up/) — free, instant |
-| `OVERTON_API_KEY` | Northeastern institutional access — contact library |
+| `CONGRESS_API_KEY` | [api.congress.gov/sign-up](https://api.congress.gov/sign-up/) , free, instant |
+| `OVERTON_API_KEY` | Northeastern institutional access , contact library |
 
 **First run (backfill):**
 Go to Actions → Fetch & Update HT Tracker Data → Run workflow → set `days_back` to `365`.

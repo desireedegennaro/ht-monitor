@@ -128,6 +128,21 @@ OVERTON_SEARCH_QUERIES = [
     "modern slavery survivor outcomes",
 ]
 
+# Stricter keyword set for RSS feeds — compound phrases only.
+# Bare words like "trafficking", "exploitation", "coercion" catch
+# drug trafficking, economic exploitation, and political science in
+# DOJ/DHS/State press releases. Every term here requires two+ words.
+HT_RSS_KEYWORDS = [
+    "human trafficking", "sex trafficking", "labor trafficking",
+    "trafficking victims", "trafficking victim", "trafficking in persons",
+    "forced labor", "forced labour", "trafficking victims protection",
+    "commercial sexual exploitation", "anti-trafficking", "modern slavery",
+    "human smuggling", "labor exploitation", "forced labor supply chain",
+    "uyghur forced labor", "UFLPA", "TVPA", "TVPRA", "FOSTA", "SESTA",
+    "sex tourism", "debt bondage", "survivor services",
+    "T visa trafficking", "trafficking prosecution",
+]
+
 GOVERNMENT_RSS_FEEDS = [
     {"url": "https://www.justice.gov/feeds/opa/justice-news.xml",
      "source": "DOJ",   "sponsor": "U.S. Department of Justice"},
@@ -253,6 +268,50 @@ def _norm_doi(doi: str) -> str:
         if d.startswith(pfx):
             d = d[len(pfx):]
     return d
+
+
+# ── Strong confirming phrases — if any are present, it's definitively HT ──
+_HT_CONFIRM = frozenset([
+    "human trafficking", "sex trafficking", "labor trafficking",
+    "trafficking in persons", "trafficking victims", "trafficking victim",
+    "commercial sexual exploitation", "anti-trafficking", "modern slavery",
+    "forced labor", "forced labour", "sex tourism", "debt bondage",
+    "uyghur forced labor", "survivor of trafficking",
+])
+
+# ── Non-HT trafficking topics — disqualify if no confirming phrase present ──
+_NOT_HT = frozenset([
+    "drug trafficking", "narcotics trafficking", "weapons trafficking",
+    "arms trafficking", "fentanyl trafficking", "cocaine trafficking",
+    "heroin trafficking", "opioid trafficking", "methamphetamine trafficking",
+    "trafficking in drugs", "trafficking in narcotics",
+    "trafficking in controlled substances", "trafficking in firearms",
+    "trafficking in weapons", "wildlife trafficking",
+    "trafficking in counterfeit", "trafficking in stolen",
+])
+
+
+def is_human_trafficking_content(text: str) -> bool:
+    """
+    Second-pass accuracy check for content that already matched HT_RSS_KEYWORDS.
+
+    The problem: DOJ publishes dozens of drug trafficking press releases daily.
+    "trafficking" in their feeds usually means fentanyl, not people.
+    "forced labor" can appear in wage-theft cases that aren't HT.
+
+    Logic:
+      1. If a strong HT-confirming phrase is present → keep. Done.
+      2. If a non-HT phrase (drug/weapons/wildlife trafficking) is present
+         with no confirming HT phrase → reject.
+      3. Otherwise (matched HT_RSS_KEYWORDS on a specific term like TVPA,
+         debt bondage, etc. but no disqualifying context) → keep.
+    """
+    t = text.lower()
+    if any(p in t for p in _HT_CONFIRM):
+        return True
+    if any(p in t for p in _NOT_HT):
+        return False
+    return True
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -658,7 +717,9 @@ def fetch_government_rss(days_back: int) -> list:
             title   = entry.get("title", "")
             summary = strip_html(entry.get("summary","") or entry.get("description","") or "")
             link    = entry.get("link", "")
-            if not matches_any_keyword(f"{title} {summary}", HT_KEYWORDS):
+            if not matches_any_keyword(f"{title} {summary}", HT_RSS_KEYWORDS):
+                continue
+            if not is_human_trafficking_content(f"{title} {summary}"):
                 continue
 
             pub = entry.get("published_parsed") or entry.get("updated_parsed")
@@ -725,7 +786,7 @@ def fetch_pubmed(days_back: int) -> list:
     for query in PUBMED_QUERIES:
         try:
             r = session.get(f"{PUBMED_BASE}/esearch.fcgi", timeout=20, params={
-                "db": "pubmed", "term": f"{query}[tiab]", "retmax": 20,
+                "db": "pubmed", "term": f"{query}[tiab]", "retmax": 8,
                 "retmode": "json", "sort": "pub_date",
                 "mindate": since.replace("-", "/"), "datetype": "pdat",
             })
@@ -826,7 +887,7 @@ def fetch_semantic_scholar(days_back: int) -> list:
     for query in SEMANTIC_SCHOLAR_QUERIES:
         try:
             r = session.get(f"{SS_BASE}/paper/search", timeout=20, params={
-                "query": query, "fields": fields, "limit": 15,
+                "query": query, "fields": fields, "limit": 8,
                 "year": f"{cutoff_year}-",
             })
             if r.status_code == 429:

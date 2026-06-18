@@ -23,13 +23,13 @@ jobs:
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     permissions:
-      contents: write  # needed to commit updated JSON files
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 0   # full history so rebase has context
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
@@ -43,11 +43,8 @@ jobs:
 
       - name: Run fetch script
         env:
-          # Add these secrets in your repo:
-          # Settings → Secrets and variables → Actions → New repository secret
           CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
           OVERTON_API_KEY: ${{ secrets.OVERTON_API_KEY }}
-          # Federal Register and FinCEN RSS feeds require no key
         run: |
           DAYS="${{ github.event.inputs.days_back || '90' }}"
           FORCE="${{ github.event.inputs.force_full || 'false' }}"
@@ -68,6 +65,8 @@ jobs:
           git add data/
           TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
           git commit -m "chore: auto-update tracker data [$TIMESTAMP]"
+          # Pull and rebase before pushing so concurrent commits don't cause a rejection
+          git pull --rebase origin main
           git push
 
       - name: No changes

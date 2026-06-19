@@ -835,6 +835,8 @@ def fetch_pubmed(days_back: int) -> list:
             combined = f"{title} {abstract}"
             if not matches_any_keyword(combined, HT_KEYWORDS):
                 continue
+            if not is_human_trafficking_content(combined):
+                continue
 
             authors = [a.get("name","") for a in paper.get("authors",[])
                        if a.get("authtype") == "Author"]
@@ -908,6 +910,8 @@ def fetch_semantic_scholar(days_back: int) -> list:
             abstract = paper.get("abstract", "")
             combined = f"{title} {abstract}"
             if not matches_any_keyword(combined, HT_KEYWORDS):
+                continue
+            if not is_human_trafficking_content(combined):
                 continue
             seen_ids.add(ss_id)
 
@@ -990,6 +994,8 @@ def fetch_overton(api_key: str, days_back: int) -> list:
             abstract = paper.get("abstract","")
             combined = f"{title} {abstract}"
             if not matches_any_keyword(combined, HT_KEYWORDS):
+                continue
+            if not is_human_trafficking_content(combined):
                 continue
 
             pub_date = normalize_date(paper.get("date") or paper.get("published_date",""))

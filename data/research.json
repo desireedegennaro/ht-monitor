@@ -134,6 +134,143 @@
     ]
   },
   {
+    "id": "pubmed-41965947",
+    "type": "research",
+    "title": "Mental health and psychological vulnerabilities in the context of technology-facilitated child sexual exploitation and abuse: A systematic evidence review",
+    "identifier": "PMID: 41965947 | DOI: 10.1016/j.chiabu.2026.108033",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "2026-06-18",
+    "latest_action_date": "2026-06-18",
+    "latest_action": "Published in Child abuse & neglect",
+    "authors": [
+      "Page S",
+      "Notté E",
+      "George H",
+      "Slater C",
+      "Cagney J",
+      "Ilyas I"
+    ],
+    "journal": "Child abuse & neglect",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1016/j.chiabu.2026.108033",
+    "pmid": "41965947",
+    "doi": "10.1016/j.chiabu.2026.108033",
+    "summary": "Mental health and psychological vulnerabilities in the context of technology-facilitated child sexual exploitation and abuse: A systematic evidence review",
+    "description": "",
+    "keywords": [
+      "exploitation"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-06-18",
+        "event": "Published in Child abuse & neglect",
+        "actor": "Page S, Notté E et al.",
+        "source_url": "https://doi.org/10.1016/j.chiabu.2026.108033"
+      }
+    ]
+  },
+  {
+    "id": "pubmed-42246369",
+    "type": "research",
+    "title": "Mixed Methodological Pilot Evaluation of a Program to Prevent Sexual Exploitation of High School Youth",
+    "identifier": "PMID: 42246369 | DOI: 10.1080/10538712.2026.2681215",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "2026-06-05",
+    "latest_action_date": "2026-06-05",
+    "latest_action": "Published in Journal of child sexual abuse",
+    "authors": [
+      "Edwards KM",
+      "Dalla RL",
+      "Wheeler L",
+      "Rentschler J",
+      "Kang JS",
+      "Bryson GD"
+    ],
+    "journal": "Journal of child sexual abuse",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1080/10538712.2026.2681215",
+    "pmid": "42246369",
+    "doi": "10.1080/10538712.2026.2681215",
+    "summary": "Mixed Methodological Pilot Evaluation of a Program to Prevent Sexual Exploitation of High School Youth",
+    "description": "",
+    "keywords": [
+      "exploitation"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-06-05",
+        "event": "Published in Journal of child sexual abuse",
+        "actor": "Edwards KM, Dalla RL et al.",
+        "source_url": "https://doi.org/10.1080/10538712.2026.2681215"
+      }
+    ]
+  },
+  {
+    "id": "pubmed-42124348",
+    "type": "research",
+    "title": "Community-Based Logic Model Development to Evaluate a Youth Sexual Exploitation Prevention Curriculum: A Mixed-Methods Study",
+    "identifier": "PMID: 42124348 | DOI: 10.1080/10538712.2026.2673329",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "2026-05-12",
+    "latest_action_date": "2026-05-12",
+    "latest_action": "Published in Journal of child sexual abuse",
+    "authors": [
+      "Martin L",
+      "Davis A",
+      "Jones LM",
+      "Voller V",
+      "O'Brien J"
+    ],
+    "journal": "Journal of child sexual abuse",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1080/10538712.2026.2673329",
+    "pmid": "42124348",
+    "doi": "10.1080/10538712.2026.2673329",
+    "summary": "Community-Based Logic Model Development to Evaluate a Youth Sexual Exploitation Prevention Curriculum: A Mixed-Methods Study",
+    "description": "",
+    "keywords": [
+      "exploitation"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-05-12",
+        "event": "Published in Journal of child sexual abuse",
+        "actor": "Martin L, Davis A et al.",
+        "source_url": "https://doi.org/10.1080/10538712.2026.2673329"
+      }
+    ]
+  },
+  {
     "id": "pubmed-41784255",
     "type": "research",
     "title": "Adolescent Perspectives on Commercial Sexual Exploitation of Children Prevention Programming: What do Prevention Developers Need to Know?",
@@ -405,6 +542,57 @@
         "event": "Published in Public health in practice (Oxford, England)",
         "actor": "Stevens A, Öcek Z et al.",
         "source_url": "https://doi.org/10.1016/j.puhip.2025.100641"
+      },
+      {
+        "date": "2025-12-19",
+        "event": "Published in Public health in practice (Oxford, England)",
+        "actor": "Stevens A, Öcek Z et al.",
+        "source_url": "https://doi.org/10.1016/j.puhip.2025.100641"
+      }
+    ]
+  },
+  {
+    "id": "pubmed-41798347",
+    "type": "research",
+    "title": "A Systematic Review Examining Methods of Human-Trafficking Training for Healthcare Professionals with Recommendations for Medical Education",
+    "identifier": "PMID: 41798347 | DOI: 10.1007/s40670-025-02489-3",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2025-12-18",
+    "latest_action_date": "2025-12-18",
+    "latest_action": "Published in Medical science educator",
+    "authors": [
+      "Weaver MM",
+      "Nagy H",
+      "Hansen A",
+      "Szauter K"
+    ],
+    "journal": "Medical science educator",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1007/s40670-025-02489-3",
+    "pmid": "41798347",
+    "doi": "10.1007/s40670-025-02489-3",
+    "summary": "A Systematic Review Examining Methods of Human-Trafficking Training for Healthcare Professionals with Recommendations for Medical Education",
+    "description": "",
+    "keywords": [
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2025-12-18",
+        "event": "Published in Medical science educator",
+        "actor": "Weaver MM, Nagy H et al.",
+        "source_url": "https://doi.org/10.1007/s40670-025-02489-3"
       }
     ]
   },
@@ -911,6 +1099,54 @@
     "upcoming": []
   },
   {
+    "id": "res-group-2025-an-evaluation-of-the",
+    "type": "research",
+    "title": "An Evaluation of the Safe Harbor Initiative in Minnesota, Phase 6 (2023–2025)",
+    "identifier": "https://www.health.state.mn.us/communities/humantrafficking/",
+    "status": "Published",
+    "jurisdiction": "national",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "2025-01-01",
+    "latest_action_date": "2025-01-01",
+    "latest_action": "Published in MDH",
+    "authors": [
+      "Minnesota Dept of Health / Improve Group"
+    ],
+    "journal": "MDH",
+    "source_type": "govt eval",
+    "category": "Process Eval",
+    "population": "2,312 youth served; youth advisors with lived experience",
+    "country_region": "USA (MN)",
+    "program_evaluated": "",
+    "methodology": "Mixed methods: survey, interviews, admin data, focus groups",
+    "sample_size": "N=2,312 served",
+    "follow_up_length": "Up to 24 (within program)",
+    "specific_metrics": "Youth satisfaction high (almost all satisfied). Self-referral most common pathway. Grantees educate state. Youth advisory = survivor-centered process but still service utilization metrics. 6th evaluation (2015–2025 series).",
+    "quantitative_results": "",
+    "outcome_frame": "Service Metrics Only",
+    "evidence_strength": "moderate",
+    "focus_question": "Do evaluations frame impact as service metrics or survivor outcomes? | Concrete program/policy evaluation example: classify metrics vs. survivor outcomes",
+    "url": "https://www.health.state.mn.us/communities/humantrafficking/reports/sheval.html",
+    "overton_id": "",
+    "summary": "Youth satisfaction high (almost all satisfied). Self-referral most common pathway. Grantees educate state. Youth advisory = survivor-centered process but still service utilization metrics. 6th evaluat",
+    "description": "Population: 2,312 youth served; youth advisors with lived experience. Method: Mixed methods: survey, interviews, admin data, focus groups. Sample: N=2,312 served. Follow-up: Up to 24 (within program). Youth satisfaction high (almost all satisfied). Self-referral most common pathway. Grantees educate state. Youth advisory = survivor-centered process but still service utilization metrics. 6th evaluation (2015–2025 series).",
+    "keywords": [],
+    "organizations": [],
+    "source": "govt eval",
+    "updates": [
+      {
+        "date": "2025-01-01",
+        "event": "Published in MDH",
+        "actor": "Minnesota Dept of Health / Improve Group",
+        "notes": "",
+        "source_url": "https://www.health.state.mn.us/communities/humantrafficking/reports/sheval.html"
+      }
+    ],
+    "upcoming": []
+  },
+  {
     "id": "pubmed-39992276",
     "type": "research",
     "title": "Prevention of Commercial Sexual Exploitation of Children: A Pediatric Healthcare Crisis",
@@ -1043,6 +1279,76 @@
     ]
   },
   {
+    "id": "polaris-2024-resilience",
+    "type": "research",
+    "title": "Resilience Fund Pilot Evaluation: Direct Cash Assistance for Trafficking Survivors",
+    "identifier": "Polaris Project Mid-Program Evaluation, 2024",
+    "status": "Published — Mid-Evaluation",
+    "jurisdiction": "national",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2024-07-01",
+    "latest_action_date": "2024-11-01",
+    "latest_action": "Findings presented to HHS/ACF. Program extended to 48 participants. Full evaluation expected 2025.",
+    "authors": [
+      "Polaris Project Research & Programs Team"
+    ],
+    "journal": "Polaris Project (Evaluation Report)",
+    "funder": "Private foundations",
+    "evidence_strength": "Moderate",
+    "follow_up_length": "9-month mid-eval (18 months planned)",
+    "outcome_frame": "Survivor outcomes — economic",
+    "trafficking_focus": "Both",
+    "url": "https://polarisproject.org/resilience-fund/",
+    "overton_id": "",
+    "summary": "Mid-program evaluation of Polaris's Resilience Fund ($500/month unrestricted direct cash assistance to 24 trafficking survivors over 18 months). 9-month results show statistically significant improvements in credit scores, housing stability, and reported financial stress. One of the only evaluations measuring direct cash assistance for trafficking survivors.",
+    "description": "Polaris's Resilience Fund is an 18-month pilot providing $500/month in unrestricted direct cash assistance to 24 trafficking survivors. Mid-program (9-month) evaluation outcomes: (1) Average credit score improved 87 points; (2) 92% achieved stable housing vs. 54% at baseline; (3) 83% report reduced financial stress; (4) Employment rate increased from 46% to 71%; (5) Zero participants reported revictimization through 9 months. Full evaluation with 18-month data expected in 2025. Model draws on unconditional cash transfer research from global development contexts.",
+    "keywords": [
+      "direct cash assistance",
+      "unconditional cash transfer",
+      "economic empowerment",
+      "credit score",
+      "housing stability",
+      "survivor",
+      "Polaris Resilience Fund"
+    ],
+    "organizations": [
+      "Polaris Project"
+    ],
+    "updates": [
+      {
+        "date": "2023-01-01",
+        "event": "Resilience Fund pilot begins — 24 participants enrolled",
+        "actor": "Polaris Project"
+      },
+      {
+        "date": "2024-07-01",
+        "event": "Mid-program evaluation (9-month) published",
+        "actor": "Polaris Project",
+        "source_url": "https://polarisproject.org/resilience-fund/"
+      },
+      {
+        "date": "2024-11-01",
+        "event": "Findings presented to HHS/ACF; program expanded to 48 participants",
+        "actor": "Polaris Project"
+      }
+    ],
+    "upcoming": [
+      {
+        "date": "2025-07-01",
+        "event": "Full 18-month evaluation published",
+        "notes": "Primary endpoint; will include full economic outcome data"
+      },
+      {
+        "date": "2025-10-01",
+        "event": "Findings submitted to HHS as input for TSEEA legislation support",
+        "notes": "Planned policy translation of evaluation results"
+      }
+    ]
+  },
+  {
     "id": "pubmed-39720572",
     "type": "research",
     "title": "Laypersons' Recognition of and Attribution of Blame in Situations Involving Domestic Minor Sex Trafficking",
@@ -1084,6 +1390,48 @@
         "event": "Published in Psychology, crime & law : PC & L",
         "actor": "Winks KMH, Lundon GM et al.",
         "source_url": "https://doi.org/10.1080/1068316x.2022.2139377"
+      }
+    ]
+  },
+  {
+    "id": "pubmed-38123142",
+    "type": "research",
+    "title": "Review: Wildlife forensic genetics-Biological evidence, DNA markers, analytical approaches, and challenges",
+    "identifier": "PMID: 38123142 | DOI: 10.1111/age.13390",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2024-04-18",
+    "latest_action_date": "2024-04-18",
+    "latest_action": "Published in Animal genetics",
+    "authors": [
+      "Kanthaswamy S"
+    ],
+    "journal": "Animal genetics",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1111/age.13390",
+    "pmid": "38123142",
+    "doi": "10.1111/age.13390",
+    "summary": "Wildlife-related crimes are the second most prevalent lawbreaking offense globally. This illicit trade encompasses hunting, breeding and trafficking. Besides diminishing many species and their habitats and ecosystems, hindering the economic development of local communities that depend on them, undermining the rule of law and financing terrorism, various cross-species transmissions (zoonoses) of pathogens, including COVID-19, can be attributed to wildlife crimes. Wildlife forensics applies interd",
+    "description": "Wildlife-related crimes are the second most prevalent lawbreaking offense globally. This illicit trade encompasses hunting, breeding and trafficking. Besides diminishing many species and their habitats and ecosystems, hindering the economic development of local communities that depend on them, undermining the rule of law and financing terrorism, various cross-species transmissions (zoonoses) of pathogens, including COVID-19, can be attributed to wildlife crimes. Wildlife forensics applies interdisciplinary scientific analyses to support law enforcement in investigating wildlife crimes. Its main objectives are to identify the taxonomic species in question, determine if a crime has been committed, link a suspect to the crime and support the conviction and prosecution of the perpetrator. This article reviews wildlife crime and its implications, wildlife forensic science investigation, common forms of wildlife biological evidence, including DNA, wildlife DNA techniques and challenges in wildlife forensic genetics. The article also reviews the contributions of genetic markers such as short tandem repeat (STR) and mitochondrial DNA (mtDNA) markers, which provide the probative genetic data representing the bulk of DNA evidence for solving wildlife crime. This review provides an overview of wildlife DNA databases, which are critical for searching and matching forensic DNA profiles and sequences and establishing how frequent forensic DNA profiles and sequences are in a particular population or geographic region. As such, this review will contain an in-depth analysis of the current status of wildlife forensic genetics, and it will be of general interest to wildlife and conservation biologists, law enforcement officers, and academics interested in combating crimes against wildlife using animal forensic DNA methods.",
+    "keywords": [
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2024-04-18",
+        "event": "Published in Animal genetics",
+        "actor": "Kanthaswamy S",
+        "source_url": "https://doi.org/10.1111/age.13390"
       }
     ]
   },
@@ -1481,6 +1829,12 @@
         "event": "Published in Trauma, violence & abuse",
         "actor": "Jannesari S, Damara B et al.",
         "source_url": "https://doi.org/10.1177/15248380231211955"
+      },
+      {
+        "date": "2024-07-19",
+        "event": "Published in Trauma, violence & abuse",
+        "actor": "Jannesari S, Damara B et al.",
+        "source_url": "https://doi.org/10.1177/15248380231211955"
       }
     ],
     "upcoming": [],
@@ -1787,6 +2141,106 @@
     "upcoming": []
   },
   {
+    "id": "res-project-2024-resilience-fund-mid-program-ev",
+    "type": "research",
+    "title": "Resilience Fund Mid-Program Evaluation: 9-Month Progress Report",
+    "identifier": "https://polarisproject.org/resources/resilience-fund-mid-pro",
+    "status": "Published",
+    "jurisdiction": "national",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2024-01-01",
+    "latest_action_date": "2024-01-01",
+    "latest_action": "Published in Polaris Project (NGO)",
+    "authors": [
+      "Polaris Project"
+    ],
+    "journal": "Polaris Project (NGO)",
+    "source_type": "NGO eval",
+    "category": "Program Eval",
+    "population": "Adult HT survivors across USA (N=24, inaugural cohort)",
+    "country_region": "USA",
+    "program_evaluated": "",
+    "methodology": "Pre-post longitudinal (18-month design); monthly cash disbursements",
+    "sample_size": "N=24",
+    "follow_up_length": "6–12 months (9-month mid-eval; 18-month planned)",
+    "specific_metrics": "Monthly cash disbursements ($500/month); self-reported financial stability; credit score tracking; housing stability; mental health access; trust indicators. Pre-post (9-month mid-eval report). N=24.",
+    "quantitative_results": "After 9 months: income sufficiency improved substantially; housing stability improving; credit score increases noted; 43% of participants were in households earning ≤$25,000/year at enrollment (vs 26% U.S. average). Full 18-month results not yet published.",
+    "outcome_frame": "Survivor Outcomes: Long-Term (>12 months)",
+    "evidence_strength": "moderate",
+    "focus_question": "What programs/policies consider long-term survivor outcomes (>12 months)? | Do evaluations frame impact as service metrics or survivor outcomes?",
+    "url": "https://polarisproject.org/resources/resilience-fund-mid-program-evaluation/",
+    "overton_id": "",
+    "summary": "After 9 months: income sufficiency improved substantially; housing stability improving; credit score increases noted; 43% of participants were in households earning ≤$25,000/year at enrollment (vs 26% U.S. average). Full 18-month results not yet published.",
+    "description": "Population: Adult HT survivors across USA (N=24, inaugural cohort). Method: Pre-post longitudinal (18-month design); monthly cash disbursements. Sample: N=24. Follow-up: 6–12 months (9-month mid-eval; 18-month planned). Monthly cash disbursements ($500/month); self-reported financial stability; credit score tracking; housing stability; mental health access; trust indicators. Pre-post (9-month mid-eval report). N=24.",
+    "keywords": [],
+    "organizations": [],
+    "source": "NGO eval",
+    "updates": [
+      {
+        "date": "2024-01-01",
+        "event": "Published in Polaris Project (NGO)",
+        "actor": "Polaris Project",
+        "notes": "",
+        "source_url": "https://polarisproject.org/resources/resilience-fund-mid-program-evaluation/"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "res-l-2024-process-evaluation-of-the",
+    "type": "research",
+    "title": "Process Evaluation of the 2020–2023 HTYPE Demonstration Program: Final Report",
+    "identifier": "https://acf.gov/opre/report/process-evaluation-2020-2023-hum",
+    "status": "Published",
+    "jurisdiction": "national",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2024-01-01",
+    "latest_action_date": "2024-01-01",
+    "latest_action": "Published in OPRE Report (ACF)",
+    "authors": [
+      "Yu L",
+      "Hendrix J",
+      "Rinderle A (RTI / ACF OPRE)"
+    ],
+    "journal": "OPRE Report (ACF)",
+    "source_type": "govt eval",
+    "category": "Process Eval",
+    "population": "8 LEA grantees; 22,500+ educators; 81,000+ students",
+    "country_region": "USA",
+    "program_evaluated": "",
+    "methodology": "Process eval (3-year); semi-structured interviews, focus groups, surveys, performance data",
+    "sample_size": "8 sites",
+    "follow_up_length": "",
+    "specific_metrics": "First federal school-based prevention program evaluation. 278 students identified as potential victims via HTSSP. Documents implementation activities; does NOT measure causal impact on trafficking incidence or survivor outcomes.",
+    "quantitative_results": "",
+    "outcome_frame": "Service Metrics Only",
+    "evidence_strength": "weak",
+    "focus_question": "Do evaluations frame impact as service metrics or survivor outcomes? | What are best evaluation practices from broader fields translatable to HT? | Concrete program/policy evaluation example: classify metrics vs. survivor outcomes",
+    "url": "https://acf.gov/opre/report/process-evaluation-2020-2023-human-trafficking-youth-prevention-education-htype",
+    "overton_id": "",
+    "summary": "First federal school-based prevention program evaluation. 278 students identified as potential victims via HTSSP. Documents implementation activities; does NOT measure causal impact on trafficking inc",
+    "description": "Population: 8 LEA grantees; 22,500+ educators; 81,000+ students. Method: Process eval (3-year); semi-structured interviews, focus groups, surveys, performance data. Sample: 8 sites. Follow-up: . First federal school-based prevention program evaluation. 278 students identified as potential victims via HTSSP. Documents implementation activities; does NOT measure causal impact on trafficking incidence or survivor outcomes.",
+    "keywords": [],
+    "organizations": [],
+    "source": "govt eval",
+    "updates": [
+      {
+        "date": "2024-01-01",
+        "event": "Published in OPRE Report (ACF)",
+        "actor": "Yu L, Hendrix J, Rinderle A (RTI / ACF OPRE)",
+        "notes": "",
+        "source_url": "https://acf.gov/opre/report/process-evaluation-2020-2023-human-trafficking-youth-prevention-education-htype"
+      }
+    ],
+    "upcoming": []
+  },
+  {
     "id": "pubmed-37610406",
     "type": "research",
     "title": "Sleep Disturbances and Hygiene of Adolescent Female Survivors of Domestic Minor Sex Trafficking",
@@ -1963,6 +2417,12 @@
     "updates": [
       {
         "date": "2023-06-18",
+        "event": "Published in Frontiers in sports and active living",
+        "actor": "Oliver BJ, De Lisio A",
+        "source_url": "https://doi.org/10.3389/fspor.2023.1207595"
+      },
+      {
+        "date": "2023-06-19",
         "event": "Published in Frontiers in sports and active living",
         "actor": "Oliver BJ, De Lisio A",
         "source_url": "https://doi.org/10.3389/fspor.2023.1207595"
@@ -2673,6 +3133,12 @@
         "event": "Published in Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
         "actor": "Combs MA, Arnold T",
         "source_url": "https://doi.org/10.1177/08980101211045554"
+      },
+      {
+        "date": "2022-09-19",
+        "event": "Published in Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
+        "actor": "Combs MA, Arnold T",
+        "source_url": "https://doi.org/10.1177/08980101211045554"
       }
     ]
   },
@@ -2873,6 +3339,12 @@
         "event": "Published in Journal of interpersonal violence",
         "actor": "Koegler E, Howland W et al.",
         "source_url": "https://doi.org/10.1177/0886260520957978"
+      },
+      {
+        "date": "2022-04-19",
+        "event": "Published in Journal of interpersonal violence",
+        "actor": "Koegler E, Howland W et al.",
+        "source_url": "https://doi.org/10.1177/0886260520957978"
       }
     ]
   },
@@ -2965,6 +3437,51 @@
         "event": "Published in Journal of interpersonal violence",
         "actor": "Twis MK, Gillespie L et al.",
         "source_url": "https://doi.org/10.1177/0886260520960302"
+      }
+    ]
+  },
+  {
+    "id": "pubmed-35063578",
+    "type": "research",
+    "title": "African or Asiatic origin? Genome analyses solved the mystery of the hybrid origin of the rescued lion cub",
+    "identifier": "PMID: 35063578 | DOI: 10.1016/j.gene.2022.146228",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2022-04-05",
+    "latest_action_date": "2022-04-05",
+    "latest_action": "Published in Gene",
+    "authors": [
+      "Singh A",
+      "Thakur M",
+      "Kumar Sharma L",
+      "Banerjee D"
+    ],
+    "journal": "Gene",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1016/j.gene.2022.146228",
+    "pmid": "35063578",
+    "doi": "10.1016/j.gene.2022.146228",
+    "summary": "Species assignment of any seized material using DNA analysis has been a routine and widely accepted standard procedure in providing scientific advisory for the legal prosecution of wildlife cases. Scientific advancements and rigorous application of genetic tools have led to the development of a variety of molecular markers with their defined efficacy in wildlife forensics. However, in a few unusual cases where a hybrid needs to be identified or assignment need to be made at sub-species level, mi",
+    "description": "Species assignment of any seized material using DNA analysis has been a routine and widely accepted standard procedure in providing scientific advisory for the legal prosecution of wildlife cases. Scientific advancements and rigorous application of genetic tools have led to the development of a variety of molecular markers with their defined efficacy in wildlife forensics. However, in a few unusual cases where a hybrid needs to be identified or assignment need to be made at sub-species level, mitochondrial markers often fail or else provide biased results, which can affect the overall judgment in the court of law. Here, we report one such challenging case of lion cub rescued by the law enforcement from illegal trafficking. Phylogenetic assessment based on complete mitogenome assigned rescued lion cub with African lion (Panthera leo leo). However, the TSPY gene of the Y chromosome established that the lion cub shared its paternal lineage from Asiatic lion (Panthera leo persica). With the use of maternally and paternally inherited markers, we conclude a hybrid origin of the rescued lion cub which shared ancestry from both Asiatic as well as African lion. The present study exhibits the application of genome sequencing in thinking beyond routine identification and contributes to the operating procedures of wildlife forensics.",
+    "keywords": [
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2022-04-05",
+        "event": "Published in Gene",
+        "actor": "Singh A, Thakur M et al.",
+        "source_url": "https://doi.org/10.1016/j.gene.2022.146228"
       }
     ]
   },
@@ -3748,6 +4265,104 @@
     "upcoming": []
   },
   {
+    "id": "res-da-2022-trauma-informed-care-trafficki",
+    "type": "research",
+    "title": "Trauma Informed Care: Trafficking Out-Comes (TIC TOC Study)",
+    "identifier": "https://pubmed.ncbi.nlm.nih.gov/35438596/",
+    "status": "Published",
+    "jurisdiction": "national",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "2022-01-01",
+    "latest_action_date": "2022-01-01",
+    "latest_action": "Published in Public Health Reports",
+    "authors": [
+      "Gibbs DA",
+      "et al. (RTI)"
+    ],
+    "journal": "Public Health Reports",
+    "source_type": "peer-reviewed",
+    "category": "Program Eval",
+    "population": "Adult female HT survivors in CASH program (N=57)",
+    "country_region": "USA (Sacramento)",
+    "program_evaluated": "",
+    "methodology": "Retrospective analysis; logistic regression; survival analysis",
+    "sample_size": "N=57",
+    "follow_up_length": ">12 months (multi-month program)",
+    "specific_metrics": "Odds of CASH completion 5.37× higher for patients receiving trauma-informed primary care at Medical Safe Haven. Housing stability + healthcare = better program retention. Demonstrates integrated care model importance.",
+    "quantitative_results": "",
+    "outcome_frame": "Survivor Outcomes: Medium-Term (6–12 months)",
+    "evidence_strength": "moderate",
+    "focus_question": "What programs/policies consider long-term survivor outcomes (>12 months)? | Do evaluations frame impact as service metrics or survivor outcomes?",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35438596/",
+    "overton_id": "",
+    "summary": "Odds of CASH completion 5.37× higher for patients receiving trauma-informed primary care at Medical Safe Haven. Housing stability + healthcare = better program retention. Demonstrates integrated care ",
+    "description": "Population: Adult female HT survivors in CASH program (N=57). Method: Retrospective analysis; logistic regression; survival analysis. Sample: N=57. Follow-up: >12 months (multi-month program). Odds of CASH completion 5.37× higher for patients receiving trauma-informed primary care at Medical Safe Haven. Housing stability + healthcare = better program retention. Demonstrates integrated care model importance.",
+    "keywords": [],
+    "organizations": [],
+    "source": "peer-reviewed",
+    "updates": [
+      {
+        "date": "2022-01-01",
+        "event": "Published in Public Health Reports",
+        "actor": "Gibbs DA, et al. (RTI)",
+        "notes": "",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/35438596/"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "res-project-2022-national-survivor-study-unders",
+    "type": "research",
+    "title": "National Survivor Study: Understanding the Long Arc of Trafficking",
+    "identifier": "https://polarisproject.org/national-survivor-study/",
+    "status": "Published",
+    "jurisdiction": "national",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2022-01-01",
+    "latest_action_date": "2022-01-01",
+    "latest_action": "Published in Polaris Project (survivor-led research)",
+    "authors": [
+      "Polaris Project"
+    ],
+    "journal": "Polaris Project (survivor-led research)",
+    "source_type": "NGO eval",
+    "category": "Survivor-Informed",
+    "population": "~500 HT survivors across USA",
+    "country_region": "USA",
+    "program_evaluated": "",
+    "methodology": "Survey (survivor-led)",
+    "sample_size": "N=~500",
+    "follow_up_length": "Retrospective (timeframe varies)",
+    "specific_metrics": "Monthly cash disbursements ($500/month); self-reported financial stability; credit score tracking; housing stability; mental health access; trust indicators. Pre-post (9-month mid-eval report). N=24.",
+    "quantitative_results": "After 9 months: income sufficiency improved substantially; housing stability improving; credit score increases noted; 43% of participants were in households earning ≤$25,000/year at enrollment (vs 26% U.S. average). Full 18-month results not yet published.",
+    "outcome_frame": "Survivor Outcomes: Long-Term (>12 months)",
+    "evidence_strength": "weak",
+    "focus_question": "What programs/policies consider long-term survivor outcomes (>12 months)? | Do evaluations frame impact as service metrics or survivor outcomes?",
+    "url": "https://polarisproject.org/national-survivor-study/",
+    "overton_id": "",
+    "summary": "After 9 months: income sufficiency improved substantially; housing stability improving; credit score increases noted; 43% of participants were in households earning ≤$25,000/year at enrollment (vs 26% U.S. average). Full 18-month results not yet published.",
+    "description": "Population: ~500 HT survivors across USA. Method: Survey (survivor-led). Sample: N=~500. Follow-up: Retrospective (timeframe varies). Monthly cash disbursements ($500/month); self-reported financial stability; credit score tracking; housing stability; mental health access; trust indicators. Pre-post (9-month mid-eval report). N=24.",
+    "keywords": [],
+    "organizations": [],
+    "source": "NGO eval",
+    "updates": [
+      {
+        "date": "2022-01-01",
+        "event": "Published in Polaris Project (survivor-led research)",
+        "actor": "Polaris Project",
+        "notes": "",
+        "source_url": "https://polarisproject.org/national-survivor-study/"
+      }
+    ],
+    "upcoming": []
+  },
+  {
     "id": "pubmed-35689954",
     "type": "research",
     "title": "Youth survivor perspectives on healthcare and sex trafficking",
@@ -4012,6 +4627,12 @@
     "updates": [
       {
         "date": "2021-07-18",
+        "event": "Published in Journal of sex research",
+        "actor": "Reynolds C",
+        "source_url": "https://doi.org/10.1080/00224499.2020.1786662"
+      },
+      {
+        "date": "2021-07-19",
         "event": "Published in Journal of sex research",
         "actor": "Reynolds C",
         "source_url": "https://doi.org/10.1080/00224499.2020.1786662"
@@ -4938,6 +5559,55 @@
     "upcoming": []
   },
   {
+    "id": "res-jrsa-2021-interrupted-time-series-analys",
+    "type": "research",
+    "title": "Interrupted Time Series Analysis in Criminal Justice: Analytical Factors to Consider",
+    "identifier": "https://justiceresearch.dspacedirect.org/bitstreams/23302942",
+    "status": "Published",
+    "jurisdiction": "national",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2021-01-01",
+    "latest_action_date": "2021-01-01",
+    "latest_action": "Published in JRSA Research Methods Brief",
+    "authors": [
+      "JRSA"
+    ],
+    "journal": "JRSA Research Methods Brief",
+    "source_type": "methods/framework",
+    "category": "Eval Methods",
+    "population": "N/A (methods)",
+    "country_region": "USA",
+    "program_evaluated": "",
+    "methodology": "Methods brief",
+    "sample_size": "",
+    "follow_up_length": "",
+    "specific_metrics": "ITS analytical factors specific to criminal justice: data requirements (≥30 pre-/post-points ideally); autocorrelation; seasonality; multiple comparison groups. Directly relevant to trafficking policy evaluation.",
+    "quantitative_results": "",
+    "outcome_frame": "Mixed: Service Metrics + Some Survivor Outcomes",
+    "evidence_strength": "strong",
+    "focus_question": "What are best evaluation practices from broader fields translatable to HT?",
+    "url": "https://justiceresearch.dspacedirect.org/bitstreams/23302942-8e1d-4e92-8372-020b9a6c1f86/download",
+    "overton_id": "",
+    "summary": "ITS analytical factors specific to criminal justice: data requirements (≥30 pre-/post-points ideally); autocorrelation; seasonality; multiple comparison groups. Directly relevant to trafficking policy",
+    "description": "Population: N/A (methods). Method: Methods brief. Sample: . Follow-up: . ITS analytical factors specific to criminal justice: data requirements (≥30 pre-/post-points ideally); autocorrelation; seasonality; multiple comparison groups. Directly relevant to trafficking policy evaluation.",
+    "keywords": [],
+    "organizations": [],
+    "source": "methods/framework",
+    "updates": [
+      {
+        "date": "2021-01-01",
+        "event": "Published in JRSA Research Methods Brief",
+        "actor": "JRSA",
+        "notes": "",
+        "source_url": "https://justiceresearch.dspacedirect.org/bitstreams/23302942-8e1d-4e92-8372-020b9a6c1f86/download"
+      }
+    ],
+    "upcoming": []
+  },
+  {
     "id": "pubmed-34296663",
     "type": "research",
     "title": "Development of a Multi-Session Curriculum Addressing Domestic Minor Sex Trafficking for High-Risk Male Youth",
@@ -5025,6 +5695,12 @@
     "updates": [
       {
         "date": "2020-12-18",
+        "event": "Published in Nature",
+        "actor": "Witbooi E, Ali KD et al.",
+        "source_url": "https://doi.org/10.1038/s41586-020-2913-5"
+      },
+      {
+        "date": "2020-12-19",
         "event": "Published in Nature",
         "actor": "Witbooi E, Ali KD et al.",
         "source_url": "https://doi.org/10.1038/s41586-020-2913-5"
@@ -5874,6 +6550,52 @@
     ]
   },
   {
+    "id": "pubmed-31243470",
+    "type": "research",
+    "title": "Gender differences in the association of living and working conditions and the mental health of trafficking survivors",
+    "identifier": "PMID: 31243470 | DOI: 10.1007/s00038-019-01269-2",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2019-09-18",
+    "latest_action_date": "2019-09-18",
+    "latest_action": "Published in International journal of public health",
+    "authors": [
+      "Iglesias-Rios L",
+      "Harlow SD",
+      "Burgard SA",
+      "Kiss L",
+      "Zimmerman C"
+    ],
+    "journal": "International journal of public health",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1007/s00038-019-01269-2",
+    "pmid": "31243470",
+    "doi": "10.1007/s00038-019-01269-2",
+    "summary": "To assess the association of living and working conditions experienced during trafficking with mental health of female and male survivors.",
+    "description": "To assess the association of living and working conditions experienced during trafficking with mental health of female and male survivors.",
+    "keywords": [
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2019-09-18",
+        "event": "Published in International journal of public health",
+        "actor": "Iglesias-Rios L, Harlow SD et al.",
+        "source_url": "https://doi.org/10.1007/s00038-019-01269-2"
+      }
+    ]
+  },
+  {
     "id": "res-na-2019-helping-survivors-of-human",
     "type": "research",
     "title": "Helping Survivors of Human Trafficking: A Systematic Review of Exit and Postexit Interventions",
@@ -6172,6 +6894,110 @@
         "actor": "Sprang G, Gibbons A, Mirabito-Gibbons N",
         "notes": "",
         "source_url": "https://www.ojp.gov/library/publications/trauma-informed-care-survivors-human-trafficking-state-field-2019"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "res-da-2019-identifying-sexual-and-labor",
+    "type": "research",
+    "title": "Identifying Sexual and Labor Exploitation Among Sheltered Youth Experiencing Homelessness: A Comparison of Screening Methods",
+    "identifier": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6388175/",
+    "status": "Published",
+    "jurisdiction": "national",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2019-01-01",
+    "latest_action_date": "2019-01-01",
+    "latest_action": "Published in Child Abuse & Neglect",
+    "authors": [
+      "Gibbs DA",
+      "Henninger AM",
+      "Tueller SJ",
+      "Kluckman MN"
+    ],
+    "journal": "Child Abuse & Neglect",
+    "source_type": "peer-reviewed",
+    "category": "Measurement/Tools",
+    "population": "Homeless youth aged 12–25 (N=129)",
+    "country_region": "USA",
+    "program_evaluated": "",
+    "methodology": "Comparative tool study: HEEADSSS vs. HTST",
+    "sample_size": "N=129",
+    "follow_up_length": "",
+    "specific_metrics": "HT-specific tool (HTST) identified significantly more sexual and labor exploitation than standard HEEADSSS psychosocial assessment. Youth involved in foster care/juvenile justice showed higher risk. Labor exploitation often began younger.",
+    "quantitative_results": "",
+    "outcome_frame": "Service Metrics Only",
+    "evidence_strength": "moderate",
+    "focus_question": "Do evaluations frame impact as service metrics or survivor outcomes?",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6388175/",
+    "overton_id": "",
+    "summary": "HT-specific tool (HTST) identified significantly more sexual and labor exploitation than standard HEEADSSS psychosocial assessment. Youth involved in foster care/juvenile justice showed higher risk. L",
+    "description": "Population: Homeless youth aged 12–25 (N=129). Method: Comparative tool study: HEEADSSS vs. HTST. Sample: N=129. Follow-up: . HT-specific tool (HTST) identified significantly more sexual and labor exploitation than standard HEEADSSS psychosocial assessment. Youth involved in foster care/juvenile justice showed higher risk. Labor exploitation often began younger.",
+    "keywords": [],
+    "organizations": [],
+    "source": "peer-reviewed",
+    "updates": [
+      {
+        "date": "2019-01-01",
+        "event": "Published in Child Abuse & Neglect",
+        "actor": "Gibbs DA, Henninger AM, Tueller SJ, Kluckman MN",
+        "notes": "",
+        "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6388175/"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "res-re-2019-re-aim-planning-and-evaluation",
+    "type": "research",
+    "title": "RE-AIM Planning and Evaluation Framework: Adapting to New Science and Practice With a 20-Year Review",
+    "identifier": "https://doi.org/10.3389/fpubh.2019.00064",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2019-01-01",
+    "latest_action_date": "2019-01-01",
+    "latest_action": "Published in Frontiers in Public Health",
+    "authors": [
+      "Glasgow RE",
+      "Harden SM",
+      "Gaglio B",
+      "et al."
+    ],
+    "journal": "Frontiers in Public Health",
+    "source_type": "methods/framework",
+    "category": "Eval Methods",
+    "population": "N/A (framework update)",
+    "country_region": "Multi-country",
+    "program_evaluated": "",
+    "methodology": "Framework review paper",
+    "sample_size": "",
+    "follow_up_length": "",
+    "specific_metrics": "20-year RE-AIM update: emphasizes health equity, adaptations, qualitative methods. Maintenance = individual + setting-level long-term outcomes. Guidance on applying RE-AIM to complex social interventions and policy.",
+    "quantitative_results": "",
+    "outcome_frame": "Mixed: Service Metrics + Some Survivor Outcomes",
+    "evidence_strength": "strong",
+    "focus_question": "What are best evaluation practices from broader fields translatable to HT?",
+    "url": "https://doi.org/10.3389/fpubh.2019.00064",
+    "overton_id": "",
+    "summary": "20-year RE-AIM update: emphasizes health equity, adaptations, qualitative methods. Maintenance = individual + setting-level long-term outcomes. Guidance on applying RE-AIM to complex social interventi",
+    "description": "Population: N/A (framework update). Method: Framework review paper. Sample: . Follow-up: . 20-year RE-AIM update: emphasizes health equity, adaptations, qualitative methods. Maintenance = individual + setting-level long-term outcomes. Guidance on applying RE-AIM to complex social interventions and policy.",
+    "keywords": [],
+    "organizations": [],
+    "source": "methods/framework",
+    "updates": [
+      {
+        "date": "2019-01-01",
+        "event": "Published in Frontiers in Public Health",
+        "actor": "Glasgow RE, Harden SM, Gaglio B, et al.",
+        "notes": "",
+        "source_url": "https://doi.org/10.3389/fpubh.2019.00064"
       }
     ],
     "upcoming": []
@@ -6630,6 +7456,54 @@
     ]
   },
   {
+    "id": "res-institute-2017-estimating-the-size-and",
+    "type": "research",
+    "title": "Estimating the Size and Structure of the Underground Commercial Sex Economy in Eight Major U.S. Cities",
+    "identifier": "https://www.urban.org/research/publication/estimating-size-a",
+    "status": "Published",
+    "jurisdiction": "national",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "2017-01-01",
+    "latest_action_date": "2017-01-01",
+    "latest_action": "Published in Urban Institute",
+    "authors": [
+      "Dank M et al. / Urban Institute"
+    ],
+    "journal": "Urban Institute",
+    "source_type": "govt eval",
+    "category": "Prevalence",
+    "population": "Commercial sex economy; 8 U.S. cities",
+    "country_region": "USA",
+    "program_evaluated": "",
+    "methodology": "Mixed methods: interviews, admin data, economic modeling",
+    "sample_size": "Multi-city",
+    "follow_up_length": "",
+    "specific_metrics": "Estimates underground sex economy size. Documents CSE as economic system. Shows gap: economic data on markets vs. lack of survivor economic outcome data. Washington DC market estimated at $103M; Dallas at $99M.",
+    "quantitative_results": "",
+    "outcome_frame": "Service Metrics Only",
+    "evidence_strength": "moderate",
+    "focus_question": "Do evaluations frame impact as service metrics or survivor outcomes?",
+    "url": "https://www.urban.org/research/publication/estimating-size-and-structure-underground-commercial-sex-economy-eight-major-us-cities",
+    "overton_id": "",
+    "summary": "Estimates underground sex economy size. Documents CSE as economic system. Shows gap: economic data on markets vs. lack of survivor economic outcome data. Washington DC market estimated at $103M; Dalla",
+    "description": "Population: Commercial sex economy; 8 U.S. cities. Method: Mixed methods: interviews, admin data, economic modeling. Sample: Multi-city. Follow-up: . Estimates underground sex economy size. Documents CSE as economic system. Shows gap: economic data on markets vs. lack of survivor economic outcome data. Washington DC market estimated at $103M; Dallas at $99M.",
+    "keywords": [],
+    "organizations": [],
+    "source": "govt eval",
+    "updates": [
+      {
+        "date": "2017-01-01",
+        "event": "Published in Urban Institute",
+        "actor": "Dank M et al. / Urban Institute",
+        "notes": "",
+        "source_url": "https://www.urban.org/research/publication/estimating-size-and-structure-underground-commercial-sex-economy-eight-major-us-cities"
+      }
+    ],
+    "upcoming": []
+  },
+  {
     "id": "pubmed-28031024",
     "type": "research",
     "title": "Sex trafficking and sexual exploitation in settings affected by armed conflicts in Africa, Asia and the Middle East: systematic review",
@@ -6718,6 +7592,101 @@
         "event": "Published in PloS one",
         "actor": "Pocock NS, Kiss L et al.",
         "source_url": "https://doi.org/10.1371/journal.pone.0168500"
+      }
+    ]
+  },
+  {
+    "id": "pubmed-27021149",
+    "type": "research",
+    "title": "Public health and international drug policy",
+    "identifier": "PMID: 27021149 | DOI: 10.1016/S0140-6736(16)00619-X",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2016-04-02",
+    "latest_action_date": "2016-04-02",
+    "latest_action": "Published in Lancet (London, England)",
+    "authors": [
+      "Csete J",
+      "Kamarulzaman A",
+      "Kazatchkine M",
+      "Altice F",
+      "Balicki M",
+      "Buxton J"
+    ],
+    "journal": "Lancet (London, England)",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1016/S0140-6736(16)00619-X",
+    "pmid": "27021149",
+    "doi": "10.1016/S0140-6736(16)00619-X",
+    "summary": "In September 2015, the member states of the United Nations endorsed sustainable development goals (SDG) for 2030 that aspire to human rights-centered approaches to ensuring the health and well-being of all people. The SDGs embody both the UN Charter values of rights and justice for all and the responsibility of states to rely on the best scientific evidence as they seek to better humankind. In April 2016, these same states will consider control of illicit drugs, an area of social policy that has",
+    "description": "In September 2015, the member states of the United Nations endorsed sustainable development goals (SDG) for 2030 that aspire to human rights-centered approaches to ensuring the health and well-being of all people. The SDGs embody both the UN Charter values of rights and justice for all and the responsibility of states to rely on the best scientific evidence as they seek to better humankind. In April 2016, these same states will consider control of illicit drugs, an area of social policy that has been fraught with controversy, seen as inconsistent with human rights norms, and for which scientific evidence and public health approaches have arguably played too limited a role. The previous UN General Assembly Special Session (UNGASS) on drugs in 1998 – convened under the theme “a drug-free world, we can do it!” – endorsed drug control policies based on the goal of prohibiting all use, possession, production, and trafficking of illicit drugs. This goal is enshrined in national law in many countries. In pronouncing drugs a “grave threat to the health and well-being of all mankind,” the 1998 UNGASS echoed the foundational 1961 convention of the international drug control regime, which justified eliminating the “evil” of drugs in the name of “the health and welfare of mankind.” But neither of these international agreements refers to the ways in which pursuing drug prohibition itself might affect public health. The “war on drugs” and “zero-tolerance” policies that grew out of the prohibitionist consensus are now being challenged on multiple fronts, including their health, human rights, and development impact. The Johns Hopkins –",
+    "keywords": [
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2016-04-02",
+        "event": "Published in Lancet (London, England)",
+        "actor": "Csete J, Kamarulzaman A et al.",
+        "source_url": "https://doi.org/10.1016/S0140-6736(16)00619-X"
+      }
+    ]
+  },
+  {
+    "id": "pubmed-27500250",
+    "type": "research",
+    "title": "Stimulating and Enhancing Partnerships Between Transplant Professionals and Law Enforcement: Recommendations",
+    "identifier": "PMID: 27500250 | DOI: 10.1097/TXD.0000000000000567",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2016-02-18",
+    "latest_action_date": "2016-02-18",
+    "latest_action": "Published in Transplantation direct",
+    "authors": [
+      "Capron AM",
+      "Muller E",
+      "Erlich G",
+      "John M",
+      "Bienstock RE",
+      "McCarren M"
+    ],
+    "journal": "Transplantation direct",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1097/TXD.0000000000000567",
+    "pmid": "27500250",
+    "doi": "10.1097/TXD.0000000000000567",
+    "summary": "To help combat trafficking in human beings for organ removal (THBOR), transplant professionals need to do more than carry out careful, multidisciplinary screening of potential living donors; they also need to communicate and collaborate with law enforcement professionals. This will involve transplant professionals educating investigators and prosecutors about transplant practices and in turn learning about THBOR and how it is prosecuted. Cases of illegal organ transplantation need to be detected",
+    "description": "To help combat trafficking in human beings for organ removal (THBOR), transplant professionals need to do more than carry out careful, multidisciplinary screening of potential living donors; they also need to communicate and collaborate with law enforcement professionals. This will involve transplant professionals educating investigators and prosecutors about transplant practices and in turn learning about THBOR and how it is prosecuted. Cases of illegal organ transplantation need to be detected at different levels. First, the victims of the crime itself need to be identified, especially when they present themselves for screening. Physicians have a collective responsibility to prevent exploitation of people, including THBOR victims. The second level involves the more difficult matter of making reports that involve transplant tourists who have returned home after receipt of an organ and need follow-up care. Besides counseling patients prospectively about the legal as well as medical risks in receiving a vended organ in a foreign transplant center, physicians treating such patients could have an obligation to report what has happened, if the government has established a mechanism that either allows reporting THBOR that does not include the identity of the patient or that treats patients as victims provided they cooperate in investigation and prosecution of the persons responsible for obtaining or implanting the organs. The third level of cooperation involves transplant professionals who participate in THBOR. Professional societies need to undertake programs to make physicians and nurses aware that their responsibility to protect their professions' reputation includes identifying members of their professions who depart from professional ethics. Doing so allows the local professional societies and state boards to discipline such violators. All 3 of these functions would be facilitated by the creation by an international body such as World Health Organization of a registry of patients who travel internationally to receive a legitimate organ transplant.",
+    "keywords": [
+      "exploitation",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2016-02-18",
+        "event": "Published in Transplantation direct",
+        "actor": "Capron AM, Muller E et al.",
+        "source_url": "https://doi.org/10.1097/TXD.0000000000000567"
       }
     ]
   },
@@ -6926,6 +7895,52 @@
     "upcoming": []
   },
   {
+    "id": "pubmed-25873198",
+    "type": "research",
+    "title": "Reporting Organ Trafficking Networks: A Survey-Based Plea to Breach the Secrecy Oath",
+    "identifier": "PMID: 25873198 | DOI: 10.1111/ajt.13245",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2015-07-18",
+    "latest_action_date": "2015-07-18",
+    "latest_action": "Published in American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons",
+    "authors": [
+      "Ambagtsheer F",
+      "Van Balen LJ",
+      "Duijst-Heesters WL",
+      "Massey EK",
+      "Weimar W"
+    ],
+    "journal": "American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1111/ajt.13245",
+    "pmid": "25873198",
+    "doi": "10.1111/ajt.13245",
+    "summary": "Patients travel worldwide to purchase kidneys. Transplant professionals can play a role in identifying kidney purchase. However, due to the tension between their rights and obligations, a lack of understanding and knowledge exists on how to prevent and report purchase. We present the results of a national survey that describes transplant professionals' experiences, attitudes, behaviors, conflicts of duties, legal knowledge and needs for guidelines toward patients who purchase kidneys abroad. Sec",
+    "description": "Patients travel worldwide to purchase kidneys. Transplant professionals can play a role in identifying kidney purchase. However, due to the tension between their rights and obligations, a lack of understanding and knowledge exists on how to prevent and report purchase. We present the results of a national survey that describes transplant professionals' experiences, attitudes, behaviors, conflicts of duties, legal knowledge and needs for guidelines toward patients who purchase kidneys abroad. Second, we clarify professionals' rights and obligations regarding organ purchase and propose actions that they can take to report purchase. Of the 100/241 (42%) professionals who treated patients who traveled to a country outside the European Union for a kidney transplant, 31 (31%) were certain that patients purchased kidneys. Sixty-five (65%) had suspicions that patients had bought kidneys. The majority reported a conflict of duties. Eighty percent reported a need for guidelines. Professionals can help prevent organ purchase by disclosing information about organ trafficking networks to law enforcement. Such disclosure can support the investigation and prosecution of networks. We offer key components for guidelines on disclosure of these networks.",
+    "keywords": [
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2015-07-18",
+        "event": "Published in American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons",
+        "actor": "Ambagtsheer F, Van Balen LJ et al.",
+        "source_url": "https://doi.org/10.1111/ajt.13245"
+      }
+    ]
+  },
+  {
     "id": "pubmed-26726289",
     "type": "research",
     "title": "From Exploitation to Industry: Definitions, Risks, and Consequences of Domestic Sexual Exploitation and Sex Work Among Women and Girls",
@@ -6965,6 +7980,48 @@
         "event": "Published in Journal Of Human Behavior In The Social Environment",
         "actor": "Gerassi L",
         "source_url": "https://doi.org/10.1080/10911359.2014.991055"
+      }
+    ]
+  },
+  {
+    "id": "pubmed-25897071",
+    "type": "research",
+    "title": "Stopping murder by medicine: introducing the Model Law on Medicine Crime",
+    "identifier": "PMID: 25897071 | DOI: 10.4269/ajtmh.15-0154",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2015-06-18",
+    "latest_action_date": "2015-06-18",
+    "latest_action": "Published in The American journal of tropical medicine and hygiene",
+    "authors": [
+      "Attaran A"
+    ],
+    "journal": "The American journal of tropical medicine and hygiene",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.4269/ajtmh.15-0154",
+    "pmid": "25897071",
+    "doi": "10.4269/ajtmh.15-0154",
+    "summary": "The iatrogenic pandemic of untreated illness related to falsified and substandard medicines is intolerable, but has a logical explanation: in many countries, inadequate laws make it barely illegal to manufacture or distribute poor-quality medicines. The law hardly punishes those who intentionally or recklessly deal in falsified or substandard medicine, when clearly it should criminalize these perpetrators in proportion to the grievous--even fatal--injury they inflict on public health. To solve t",
+    "description": "The iatrogenic pandemic of untreated illness related to falsified and substandard medicines is intolerable, but has a logical explanation: in many countries, inadequate laws make it barely illegal to manufacture or distribute poor-quality medicines. The law hardly punishes those who intentionally or recklessly deal in falsified or substandard medicine, when clearly it should criminalize these perpetrators in proportion to the grievous--even fatal--injury they inflict on public health. To solve this omission, this article presents a new Model Law on Medicine Crime, which countries may freely use as a template for strengthening their national laws. The Model Law includes criminal prohibitions against manufacturing, trafficking, or selling poor-quality medicines; principles for appropriately punishing offenders; special provisions for Internet-based medicine crimes; tools for encouraging whistle-blowers to cooperate with law enforcement; incentives for developing governments to strengthen their drug regulatory capacity; and important exceptions to prevent the law being abused, such as to prevent the prosecution of legitimate medical researchers or to prevent good-quality generic medicines being seized while in transit. The Model Law is discussed and explained and is offered free of charge under a Creative Commons license to any governments wanting to implement it.",
+    "keywords": [
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2015-06-18",
+        "event": "Published in The American journal of tropical medicine and hygiene",
+        "actor": "Attaran A",
+        "source_url": "https://doi.org/10.4269/ajtmh.15-0154"
       }
     ]
   },
@@ -7229,6 +8286,47 @@
     "upcoming": []
   },
   {
+    "id": "pubmed-24397234",
+    "type": "research",
+    "title": "Oil, migration, and the political economy of HIV/AIDS prevention in Nigeria's Niger Delta",
+    "identifier": "PMID: 24397234 | DOI: 10.2190/HS.43.4.f",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "2013-06-18",
+    "latest_action_date": "2013-06-18",
+    "latest_action": "Published in International journal of health services : planning, administration, evaluation",
+    "authors": [
+      "Udoh IA"
+    ],
+    "journal": "International journal of health services : planning, administration, evaluation",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.2190/HS.43.4.f",
+    "pmid": "24397234",
+    "doi": "10.2190/HS.43.4.f",
+    "summary": "In most of sub-Saharan Africa, HIV/AIDS is driven by endemic structural problems such as unemployment, poverty, forced migration, sexual exploitation, and concurrent sexual partnerships. In the Niger Delta of Nigeria, the epidemic is exacerbated by recurring regional conflict and negative environmental externalities resulting from 50 years of oil exploration. This article seeks to identify and analyze potential barriers to HIV/AIDS prevention and treatment from oil pollution and other environmen",
+    "description": "In most of sub-Saharan Africa, HIV/AIDS is driven by endemic structural problems such as unemployment, poverty, forced migration, sexual exploitation, and concurrent sexual partnerships. In the Niger Delta of Nigeria, the epidemic is exacerbated by recurring regional conflict and negative environmental externalities resulting from 50 years of oil exploration. This article seeks to identify and analyze potential barriers to HIV/AIDS prevention and treatment from oil pollution and other environmental stressors in Nigeria's Niger Delta. We develop a conceptual framework to understand how oil politics and economic systems affect HIV risks in Nigeria. We then evaluate evidence of how environmental exposures can amplify risks. Using 10 semi-structured interviews, with 85 focus group participants, we test the argument that HIV transmission in the Niger Delta is related to a manipulative \"divide and rule\" power dynamic that characterizes multinational oil companies' role in shaping conflict contours in oil communities. Oil exploration destroys livelihoods, institutions, and values and forces impoverished and illiterate girls and women to migrate or be trafficked to urban centers as child laborers and sex workers. The elevated HIV/AIDS risk in the Niger Delta brings into focus the political economy of resource extraction, globalization, and indigenous, minority rights and struggles.",
+    "keywords": [
+      "exploitation"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2013-06-18",
+        "event": "Published in International journal of health services : planning, administration, evaluation",
+        "actor": "Udoh IA",
+        "source_url": "https://doi.org/10.2190/HS.43.4.f"
+      }
+    ]
+  },
+  {
     "id": "res-m-2013-the-community-loss-framework",
     "type": "research",
     "title": "The Community Loss Framework: Globalization, Poverty, and Women's Risk for Human Trafficking",
@@ -7277,6 +8375,51 @@
       }
     ],
     "upcoming": []
+  },
+  {
+    "id": "pubmed-23862261",
+    "type": "research",
+    "title": "Women trafficking: causes, concerns, care!",
+    "identifier": "PMID: 23862261",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2012-08-18",
+    "latest_action_date": "2012-08-18",
+    "latest_action": "Published in JPMA. The Journal of the Pakistan Medical Association",
+    "authors": [
+      "Khowaja SS",
+      "Tharani AJ",
+      "Agha A",
+      "Karamaliani RS"
+    ],
+    "journal": "JPMA. The Journal of the Pakistan Medical Association",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23862261/",
+    "pmid": "23862261",
+    "doi": "",
+    "summary": "Pakistan is both a country of origin and destination as far as women trafficking is concerned. Poverty, gender discrimination, lack of education, and ignorance about legal rights are some of the underlying causes. Available data suggest several areas of concern, like, for instance: direct health effects, maladaptive coping leading to the use of illicit drugs, and inaccessibility to healthcare facilities. Therefore, numerous interventions would be required at three levels: the prevention of traff",
+    "description": "Pakistan is both a country of origin and destination as far as women trafficking is concerned. Poverty, gender discrimination, lack of education, and ignorance about legal rights are some of the underlying causes. Available data suggest several areas of concern, like, for instance: direct health effects, maladaptive coping leading to the use of illicit drugs, and inaccessibility to healthcare facilities. Therefore, numerous interventions would be required at three levels: the prevention of trafficking, the protection of victims and the prosecution of the traffickers.",
+    "keywords": [
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2012-08-18",
+        "event": "Published in JPMA. The Journal of the Pakistan Medical Association",
+        "actor": "Khowaja SS, Tharani AJ et al.",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/23862261/"
+      }
+    ]
   },
   {
     "id": "oram-2012-health",
@@ -7647,6 +8790,58 @@
     "upcoming": []
   },
   {
+    "id": "res-m-2010-the-relationship-of-trauma",
+    "type": "research",
+    "title": "The Relationship of Trauma to Mental Disorders Among Trafficked and Sexually Exploited Girls and Women",
+    "identifier": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2978168/",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "2010-01-01",
+    "latest_action_date": "2010-01-01",
+    "latest_action": "Published in American Journal of Public Health",
+    "authors": [
+      "Hossain M",
+      "Zimmerman C",
+      "Abas M",
+      "Light M",
+      "Watts C"
+    ],
+    "journal": "American Journal of Public Health",
+    "source_type": "peer-reviewed",
+    "category": "Mental Health",
+    "population": "Trafficked/sexually exploited girls and women (N=204); 7 European post-trafficking care sites",
+    "country_region": "Europe",
+    "program_evaluated": "",
+    "methodology": "Cross-sectional; logistic regression",
+    "sample_size": "N=204",
+    "follow_up_length": "",
+    "specific_metrics": "SCID (Structured Clinical Interview for DSM-IV); interviews by psychiatrists. N=120 women, mean 6 months post-return. Logistic regression for risk factors.",
+    "quantitative_results": "54.2% met DSM-IV criteria for any mental disorder; 35.8% had PTSD; 45.8% had anxiety disorder. Childhood sexual abuse strongest risk factor (AOR=4.68). Type of exploitation (sexual vs labor) NOT significantly associated with mental disorder prevalence. Time since return NOT associated with reduced P",
+    "outcome_frame": "Survivor Outcomes: Short-Term (0–6 months)",
+    "evidence_strength": "moderate",
+    "focus_question": "What programs/policies consider long-term survivor outcomes (>12 months)? | Do evaluations frame impact as service metrics or survivor outcomes?",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2978168/",
+    "overton_id": "",
+    "summary": "54.2% met DSM-IV criteria for any mental disorder; 35.8% had PTSD; 45.8% had anxiety disorder. Childhood sexual abuse strongest risk factor (AOR=4.68). Type of exploitation (sexual vs labor) NOT significantly associated with mental disorder prevalence. Time since return NOT associated with reduced P",
+    "description": "Population: Trafficked/sexually exploited girls and women (N=204); 7 European post-trafficking care sites. Method: Cross-sectional; logistic regression. Sample: N=204. Follow-up: . SCID (Structured Clinical Interview for DSM-IV); interviews by psychiatrists. N=120 women, mean 6 months post-return. Logistic regression for risk factors.",
+    "keywords": [],
+    "organizations": [],
+    "source": "peer-reviewed",
+    "updates": [
+      {
+        "date": "2010-01-01",
+        "event": "Published in American Journal of Public Health",
+        "actor": "Hossain M, Zimmerman C, Abas M, Light M, Watts C",
+        "notes": "",
+        "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2978168/"
+      }
+    ],
+    "upcoming": []
+  },
+  {
     "id": "forced-labor-supply-chain-ilab",
     "type": "research",
     "title": "List of Goods Produced by Child Labor or Forced Labor (ILAB TVPRA List)",
@@ -7722,6 +8917,58 @@
         "notes": "Annual September publication; expected to expand Myanmar and Bangladesh entries"
       }
     ]
+  },
+  {
+    "id": "res-lj-2009-fostering-implementation-of-he",
+    "type": "research",
+    "title": "Fostering Implementation of Health Services Research Findings into Practice: CFIR",
+    "identifier": "https://doi.org/10.1186/1748-5908-4-50",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2009-01-01",
+    "latest_action_date": "2009-01-01",
+    "latest_action": "Published in Implementation Science",
+    "authors": [
+      "Damschroder LJ",
+      "Aron DC",
+      "Keith RE",
+      "et al."
+    ],
+    "journal": "Implementation Science",
+    "source_type": "methods/framework",
+    "category": "Eval Methods",
+    "population": "N/A (framework)",
+    "country_region": "Multi-country",
+    "program_evaluated": "",
+    "methodology": "Framework paper",
+    "sample_size": "",
+    "follow_up_length": "",
+    "specific_metrics": "CFIR: 5 domains (intervention characteristics, outer/inner setting, individuals, process). Explains why programs succeed in one context and fail in another. Critical for trafficking work where adaptation and context variation are major challenges.",
+    "quantitative_results": "",
+    "outcome_frame": "Mixed: Service Metrics + Some Survivor Outcomes",
+    "evidence_strength": "strong",
+    "focus_question": "What are best evaluation practices from broader fields translatable to HT?",
+    "url": "https://doi.org/10.1186/1748-5908-4-50",
+    "overton_id": "",
+    "summary": "CFIR: 5 domains (intervention characteristics, outer/inner setting, individuals, process). Explains why programs succeed in one context and fail in another. Critical for trafficking work where adaptat",
+    "description": "Population: N/A (framework). Method: Framework paper. Sample: . Follow-up: . CFIR: 5 domains (intervention characteristics, outer/inner setting, individuals, process). Explains why programs succeed in one context and fail in another. Critical for trafficking work where adaptation and context variation are major challenges.",
+    "keywords": [],
+    "organizations": [],
+    "source": "methods/framework",
+    "updates": [
+      {
+        "date": "2009-01-01",
+        "event": "Published in Implementation Science",
+        "actor": "Damschroder LJ, Aron DC, Keith RE, et al.",
+        "notes": "",
+        "source_url": "https://doi.org/10.1186/1748-5908-4-50"
+      }
+    ],
+    "upcoming": []
   },
   {
     "id": "pubmed-19522952",
@@ -7813,1305 +9060,6 @@
         "actor": "Farrell A, McDevitt J, Fahy S",
         "notes": "",
         "source_url": "https://www.ojp.gov/ncjrs/virtual-library/abstracts/understanding-and-improving-law-enforcement-responses-human-summary"
-      }
-    ],
-    "upcoming": []
-  },
-  {
-    "id": "res-re-1999-evaluating-the-public-health",
-    "type": "research",
-    "title": "Evaluating the Public Health Impact of Health Promotion Interventions: The RE-AIM Framework",
-    "identifier": "https://doi.org/10.2105/AJPH.89.9.1322",
-    "status": "Published",
-    "jurisdiction": "national",
-    "trafficking_types": [
-      "sex",
-      "labor"
-    ],
-    "published": "1999-01-01",
-    "latest_action_date": "1999-01-01",
-    "latest_action": "Published in American Journal of Public Health",
-    "authors": [
-      "Glasgow RE",
-      "Vogt TM",
-      "Boles SM"
-    ],
-    "journal": "American Journal of Public Health",
-    "source_type": "methods/framework",
-    "category": "Eval Methods",
-    "population": "N/A (framework)",
-    "country_region": "USA",
-    "program_evaluated": "",
-    "methodology": "Conceptual framework",
-    "sample_size": "",
-    "follow_up_length": "",
-    "specific_metrics": "Introduces RE-AIM: Reach, Effectiveness, Adoption, Implementation, Maintenance. Forces 'Maintenance' dimension (long-term sustainability). Emphasizes representativeness. >700 publications using RE-AIM. Directly applicable to anti-trafficking programs.",
-    "quantitative_results": "",
-    "outcome_frame": "Mixed: Service Metrics + Some Survivor Outcomes",
-    "evidence_strength": "strong",
-    "focus_question": "What are best evaluation practices from broader fields translatable to HT?",
-    "url": "https://doi.org/10.2105/AJPH.89.9.1322",
-    "overton_id": "",
-    "summary": "Introduces RE-AIM: Reach, Effectiveness, Adoption, Implementation, Maintenance. Forces 'Maintenance' dimension (long-term sustainability). Emphasizes representativeness. >700 publications using RE-AIM",
-    "description": "Population: N/A (framework). Method: Conceptual framework. Sample: . Follow-up: . Introduces RE-AIM: Reach, Effectiveness, Adoption, Implementation, Maintenance. Forces 'Maintenance' dimension (long-term sustainability). Emphasizes representativeness. >700 publications using RE-AIM. Directly applicable to anti-trafficking programs.",
-    "keywords": [],
-    "organizations": [],
-    "source": "methods/framework",
-    "updates": [
-      {
-        "date": "1999-01-01",
-        "event": "Published in American Journal of Public Health",
-        "actor": "Glasgow RE, Vogt TM, Boles SM",
-        "notes": "",
-        "source_url": "https://doi.org/10.2105/AJPH.89.9.1322"
-      }
-    ],
-    "upcoming": []
-  },
-  {
-    "id": "pubmed-12348692",
-    "type": "research",
-    "title": "Sex work and sex trafficking",
-    "identifier": "PMID: 12348692",
-    "status": "Published",
-    "jurisdiction": "international",
-    "trafficking_types": [
-      "sex"
-    ],
-    "published": "1998-06-18",
-    "latest_action_date": "1998-06-18",
-    "latest_action": "Published in Sexual health exchange",
-    "authors": [
-      "Ditmore M",
-      "Saunders P"
-    ],
-    "journal": "Sexual health exchange",
-    "funder": "",
-    "evidence_strength": "",
-    "follow_up_length": "",
-    "outcome_frame": "",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/12348692/",
-    "pmid": "12348692",
-    "doi": "",
-    "summary": "Preventing HIV infection and other sexually transmitted diseases (STDs), as well as sexual and physical violence, are major occupational health and safety concerns for prostitutes. Considerable evidence shows that anti-prostitution laws facilitate violence and abuse against prostitutes and may increase their risk of contracting HIV/STDs. For example, police often take advantage of existing laws against prostitution to demand money or sex. In general, the strict enforcement of anti-prostitution l",
-    "description": "Preventing HIV infection and other sexually transmitted diseases (STDs), as well as sexual and physical violence, are major occupational health and safety concerns for prostitutes. Considerable evidence shows that anti-prostitution laws facilitate violence and abuse against prostitutes and may increase their risk of contracting HIV/STDs. For example, police often take advantage of existing laws against prostitution to demand money or sex. In general, the strict enforcement of anti-prostitution laws marginalizes prostitutes from services which could help them avoid abuse and promotes an environment in which prostitutes must take risks to avoid detection and arrest. One strategy to improve prostitutes' lives would therefore be to remove laws which prevent them from working safely and from travelling abroad to work legally. Projects in which prostitutes are actively involved have helped break down stereotypes against prostitutes, while police-sex worker liaison projects in Scotland and Australia have led to higher levels of reporting of crimes against prostitutes. The Network of Sex Work Projects (NSWP), an organization which links sex worker health programs around the world, has found that the incidence of HIV/STDs among prostitutes is lowest when they have control over their work conditions; access to condoms, lubricants, and other safe sex materials; and respect of their basic human and legal rights. People need to understand that consensual involvement in sex work is different from forced sex trafficking.",
-    "keywords": [
-      "sex trafficking",
-      "trafficking"
-    ],
-    "organizations": [],
-    "source": "PubMed",
-    "upcoming": [],
-    "updates": [
-      {
-        "date": "1998-06-18",
-        "event": "Published in Sexual health exchange",
-        "actor": "Ditmore M, Saunders P",
-        "source_url": "https://pubmed.ncbi.nlm.nih.gov/12348692/"
-      }
-    ]
-  },
-  {
-    "id": "pubmed-41965947",
-    "type": "research",
-    "title": "Mental health and psychological vulnerabilities in the context of technology-facilitated child sexual exploitation and abuse: A systematic evidence review",
-    "identifier": "PMID: 41965947 | DOI: 10.1016/j.chiabu.2026.108033",
-    "status": "Published",
-    "jurisdiction": "international",
-    "trafficking_types": [
-      "sex"
-    ],
-    "published": "2026-06-18",
-    "latest_action_date": "2026-06-18",
-    "latest_action": "Published in Child abuse & neglect",
-    "authors": [
-      "Page S",
-      "Notté E",
-      "George H",
-      "Slater C",
-      "Cagney J",
-      "Ilyas I"
-    ],
-    "journal": "Child abuse & neglect",
-    "funder": "",
-    "evidence_strength": "",
-    "follow_up_length": "",
-    "outcome_frame": "",
-    "url": "https://doi.org/10.1016/j.chiabu.2026.108033",
-    "pmid": "41965947",
-    "doi": "10.1016/j.chiabu.2026.108033",
-    "summary": "Mental health and psychological vulnerabilities in the context of technology-facilitated child sexual exploitation and abuse: A systematic evidence review",
-    "description": "",
-    "keywords": [
-      "exploitation"
-    ],
-    "organizations": [],
-    "source": "PubMed",
-    "upcoming": [],
-    "updates": [
-      {
-        "date": "2026-06-18",
-        "event": "Published in Child abuse & neglect",
-        "actor": "Page S, Notté E et al.",
-        "source_url": "https://doi.org/10.1016/j.chiabu.2026.108033"
-      }
-    ]
-  },
-  {
-    "id": "pubmed-42246369",
-    "type": "research",
-    "title": "Mixed Methodological Pilot Evaluation of a Program to Prevent Sexual Exploitation of High School Youth",
-    "identifier": "PMID: 42246369 | DOI: 10.1080/10538712.2026.2681215",
-    "status": "Published",
-    "jurisdiction": "international",
-    "trafficking_types": [
-      "sex"
-    ],
-    "published": "2026-06-05",
-    "latest_action_date": "2026-06-05",
-    "latest_action": "Published in Journal of child sexual abuse",
-    "authors": [
-      "Edwards KM",
-      "Dalla RL",
-      "Wheeler L",
-      "Rentschler J",
-      "Kang JS",
-      "Bryson GD"
-    ],
-    "journal": "Journal of child sexual abuse",
-    "funder": "",
-    "evidence_strength": "",
-    "follow_up_length": "",
-    "outcome_frame": "",
-    "url": "https://doi.org/10.1080/10538712.2026.2681215",
-    "pmid": "42246369",
-    "doi": "10.1080/10538712.2026.2681215",
-    "summary": "Mixed Methodological Pilot Evaluation of a Program to Prevent Sexual Exploitation of High School Youth",
-    "description": "",
-    "keywords": [
-      "exploitation"
-    ],
-    "organizations": [],
-    "source": "PubMed",
-    "upcoming": [],
-    "updates": [
-      {
-        "date": "2026-06-05",
-        "event": "Published in Journal of child sexual abuse",
-        "actor": "Edwards KM, Dalla RL et al.",
-        "source_url": "https://doi.org/10.1080/10538712.2026.2681215"
-      }
-    ]
-  },
-  {
-    "id": "pubmed-42124348",
-    "type": "research",
-    "title": "Community-Based Logic Model Development to Evaluate a Youth Sexual Exploitation Prevention Curriculum: A Mixed-Methods Study",
-    "identifier": "PMID: 42124348 | DOI: 10.1080/10538712.2026.2673329",
-    "status": "Published",
-    "jurisdiction": "international",
-    "trafficking_types": [
-      "sex"
-    ],
-    "published": "2026-05-12",
-    "latest_action_date": "2026-05-12",
-    "latest_action": "Published in Journal of child sexual abuse",
-    "authors": [
-      "Martin L",
-      "Davis A",
-      "Jones LM",
-      "Voller V",
-      "O'Brien J"
-    ],
-    "journal": "Journal of child sexual abuse",
-    "funder": "",
-    "evidence_strength": "",
-    "follow_up_length": "",
-    "outcome_frame": "",
-    "url": "https://doi.org/10.1080/10538712.2026.2673329",
-    "pmid": "42124348",
-    "doi": "10.1080/10538712.2026.2673329",
-    "summary": "Community-Based Logic Model Development to Evaluate a Youth Sexual Exploitation Prevention Curriculum: A Mixed-Methods Study",
-    "description": "",
-    "keywords": [
-      "exploitation"
-    ],
-    "organizations": [],
-    "source": "PubMed",
-    "upcoming": [],
-    "updates": [
-      {
-        "date": "2026-05-12",
-        "event": "Published in Journal of child sexual abuse",
-        "actor": "Martin L, Davis A et al.",
-        "source_url": "https://doi.org/10.1080/10538712.2026.2673329"
-      }
-    ]
-  },
-  {
-    "id": "pubmed-41798347",
-    "type": "research",
-    "title": "A Systematic Review Examining Methods of Human-Trafficking Training for Healthcare Professionals with Recommendations for Medical Education",
-    "identifier": "PMID: 41798347 | DOI: 10.1007/s40670-025-02489-3",
-    "status": "Published",
-    "jurisdiction": "international",
-    "trafficking_types": [
-      "sex",
-      "labor"
-    ],
-    "published": "2025-12-18",
-    "latest_action_date": "2025-12-18",
-    "latest_action": "Published in Medical science educator",
-    "authors": [
-      "Weaver MM",
-      "Nagy H",
-      "Hansen A",
-      "Szauter K"
-    ],
-    "journal": "Medical science educator",
-    "funder": "",
-    "evidence_strength": "",
-    "follow_up_length": "",
-    "outcome_frame": "",
-    "url": "https://doi.org/10.1007/s40670-025-02489-3",
-    "pmid": "41798347",
-    "doi": "10.1007/s40670-025-02489-3",
-    "summary": "A Systematic Review Examining Methods of Human-Trafficking Training for Healthcare Professionals with Recommendations for Medical Education",
-    "description": "",
-    "keywords": [
-      "trafficking"
-    ],
-    "organizations": [],
-    "source": "PubMed",
-    "upcoming": [],
-    "updates": [
-      {
-        "date": "2025-12-18",
-        "event": "Published in Medical science educator",
-        "actor": "Weaver MM, Nagy H et al.",
-        "source_url": "https://doi.org/10.1007/s40670-025-02489-3"
-      }
-    ]
-  },
-  {
-    "id": "res-group-2025-an-evaluation-of-the",
-    "type": "research",
-    "title": "An Evaluation of the Safe Harbor Initiative in Minnesota, Phase 6 (2023–2025)",
-    "identifier": "https://www.health.state.mn.us/communities/humantrafficking/",
-    "status": "Published",
-    "jurisdiction": "national",
-    "trafficking_types": [
-      "sex"
-    ],
-    "published": "2025-01-01",
-    "latest_action_date": "2025-01-01",
-    "latest_action": "Published in MDH",
-    "authors": [
-      "Minnesota Dept of Health / Improve Group"
-    ],
-    "journal": "MDH",
-    "source_type": "govt eval",
-    "category": "Process Eval",
-    "population": "2,312 youth served; youth advisors with lived experience",
-    "country_region": "USA (MN)",
-    "program_evaluated": "",
-    "methodology": "Mixed methods: survey, interviews, admin data, focus groups",
-    "sample_size": "N=2,312 served",
-    "follow_up_length": "Up to 24 (within program)",
-    "specific_metrics": "Youth satisfaction high (almost all satisfied). Self-referral most common pathway. Grantees educate state. Youth advisory = survivor-centered process but still service utilization metrics. 6th evaluation (2015–2025 series).",
-    "quantitative_results": "",
-    "outcome_frame": "Service Metrics Only",
-    "evidence_strength": "moderate",
-    "focus_question": "Do evaluations frame impact as service metrics or survivor outcomes? | Concrete program/policy evaluation example: classify metrics vs. survivor outcomes",
-    "url": "https://www.health.state.mn.us/communities/humantrafficking/reports/sheval.html",
-    "overton_id": "",
-    "summary": "Youth satisfaction high (almost all satisfied). Self-referral most common pathway. Grantees educate state. Youth advisory = survivor-centered process but still service utilization metrics. 6th evaluat",
-    "description": "Population: 2,312 youth served; youth advisors with lived experience. Method: Mixed methods: survey, interviews, admin data, focus groups. Sample: N=2,312 served. Follow-up: Up to 24 (within program). Youth satisfaction high (almost all satisfied). Self-referral most common pathway. Grantees educate state. Youth advisory = survivor-centered process but still service utilization metrics. 6th evaluation (2015–2025 series).",
-    "keywords": [],
-    "organizations": [],
-    "source": "govt eval",
-    "updates": [
-      {
-        "date": "2025-01-01",
-        "event": "Published in MDH",
-        "actor": "Minnesota Dept of Health / Improve Group",
-        "notes": "",
-        "source_url": "https://www.health.state.mn.us/communities/humantrafficking/reports/sheval.html"
-      }
-    ],
-    "upcoming": []
-  },
-  {
-    "id": "polaris-2024-resilience",
-    "type": "research",
-    "title": "Resilience Fund Pilot Evaluation: Direct Cash Assistance for Trafficking Survivors",
-    "identifier": "Polaris Project Mid-Program Evaluation, 2024",
-    "status": "Published — Mid-Evaluation",
-    "jurisdiction": "national",
-    "trafficking_types": [
-      "sex",
-      "labor"
-    ],
-    "published": "2024-07-01",
-    "latest_action_date": "2024-11-01",
-    "latest_action": "Findings presented to HHS/ACF. Program extended to 48 participants. Full evaluation expected 2025.",
-    "authors": [
-      "Polaris Project Research & Programs Team"
-    ],
-    "journal": "Polaris Project (Evaluation Report)",
-    "funder": "Private foundations",
-    "evidence_strength": "Moderate",
-    "follow_up_length": "9-month mid-eval (18 months planned)",
-    "outcome_frame": "Survivor outcomes — economic",
-    "trafficking_focus": "Both",
-    "url": "https://polarisproject.org/resilience-fund/",
-    "overton_id": "",
-    "summary": "Mid-program evaluation of Polaris's Resilience Fund ($500/month unrestricted direct cash assistance to 24 trafficking survivors over 18 months). 9-month results show statistically significant improvements in credit scores, housing stability, and reported financial stress. One of the only evaluations measuring direct cash assistance for trafficking survivors.",
-    "description": "Polaris's Resilience Fund is an 18-month pilot providing $500/month in unrestricted direct cash assistance to 24 trafficking survivors. Mid-program (9-month) evaluation outcomes: (1) Average credit score improved 87 points; (2) 92% achieved stable housing vs. 54% at baseline; (3) 83% report reduced financial stress; (4) Employment rate increased from 46% to 71%; (5) Zero participants reported revictimization through 9 months. Full evaluation with 18-month data expected in 2025. Model draws on unconditional cash transfer research from global development contexts.",
-    "keywords": [
-      "direct cash assistance",
-      "unconditional cash transfer",
-      "economic empowerment",
-      "credit score",
-      "housing stability",
-      "survivor",
-      "Polaris Resilience Fund"
-    ],
-    "organizations": [
-      "Polaris Project"
-    ],
-    "updates": [
-      {
-        "date": "2023-01-01",
-        "event": "Resilience Fund pilot begins — 24 participants enrolled",
-        "actor": "Polaris Project"
-      },
-      {
-        "date": "2024-07-01",
-        "event": "Mid-program evaluation (9-month) published",
-        "actor": "Polaris Project",
-        "source_url": "https://polarisproject.org/resilience-fund/"
-      },
-      {
-        "date": "2024-11-01",
-        "event": "Findings presented to HHS/ACF; program expanded to 48 participants",
-        "actor": "Polaris Project"
-      }
-    ],
-    "upcoming": [
-      {
-        "date": "2025-07-01",
-        "event": "Full 18-month evaluation published",
-        "notes": "Primary endpoint; will include full economic outcome data"
-      },
-      {
-        "date": "2025-10-01",
-        "event": "Findings submitted to HHS as input for TSEEA legislation support",
-        "notes": "Planned policy translation of evaluation results"
-      }
-    ]
-  },
-  {
-    "id": "pubmed-38123142",
-    "type": "research",
-    "title": "Review: Wildlife forensic genetics-Biological evidence, DNA markers, analytical approaches, and challenges",
-    "identifier": "PMID: 38123142 | DOI: 10.1111/age.13390",
-    "status": "Published",
-    "jurisdiction": "international",
-    "trafficking_types": [
-      "sex",
-      "labor"
-    ],
-    "published": "2024-04-18",
-    "latest_action_date": "2024-04-18",
-    "latest_action": "Published in Animal genetics",
-    "authors": [
-      "Kanthaswamy S"
-    ],
-    "journal": "Animal genetics",
-    "funder": "",
-    "evidence_strength": "",
-    "follow_up_length": "",
-    "outcome_frame": "",
-    "url": "https://doi.org/10.1111/age.13390",
-    "pmid": "38123142",
-    "doi": "10.1111/age.13390",
-    "summary": "Wildlife-related crimes are the second most prevalent lawbreaking offense globally. This illicit trade encompasses hunting, breeding and trafficking. Besides diminishing many species and their habitats and ecosystems, hindering the economic development of local communities that depend on them, undermining the rule of law and financing terrorism, various cross-species transmissions (zoonoses) of pathogens, including COVID-19, can be attributed to wildlife crimes. Wildlife forensics applies interd",
-    "description": "Wildlife-related crimes are the second most prevalent lawbreaking offense globally. This illicit trade encompasses hunting, breeding and trafficking. Besides diminishing many species and their habitats and ecosystems, hindering the economic development of local communities that depend on them, undermining the rule of law and financing terrorism, various cross-species transmissions (zoonoses) of pathogens, including COVID-19, can be attributed to wildlife crimes. Wildlife forensics applies interdisciplinary scientific analyses to support law enforcement in investigating wildlife crimes. Its main objectives are to identify the taxonomic species in question, determine if a crime has been committed, link a suspect to the crime and support the conviction and prosecution of the perpetrator. This article reviews wildlife crime and its implications, wildlife forensic science investigation, common forms of wildlife biological evidence, including DNA, wildlife DNA techniques and challenges in wildlife forensic genetics. The article also reviews the contributions of genetic markers such as short tandem repeat (STR) and mitochondrial DNA (mtDNA) markers, which provide the probative genetic data representing the bulk of DNA evidence for solving wildlife crime. This review provides an overview of wildlife DNA databases, which are critical for searching and matching forensic DNA profiles and sequences and establishing how frequent forensic DNA profiles and sequences are in a particular population or geographic region. As such, this review will contain an in-depth analysis of the current status of wildlife forensic genetics, and it will be of general interest to wildlife and conservation biologists, law enforcement officers, and academics interested in combating crimes against wildlife using animal forensic DNA methods.",
-    "keywords": [
-      "trafficking"
-    ],
-    "organizations": [],
-    "source": "PubMed",
-    "upcoming": [],
-    "updates": [
-      {
-        "date": "2024-04-18",
-        "event": "Published in Animal genetics",
-        "actor": "Kanthaswamy S",
-        "source_url": "https://doi.org/10.1111/age.13390"
-      }
-    ]
-  },
-  {
-    "id": "res-project-2024-resilience-fund-mid-program-ev",
-    "type": "research",
-    "title": "Resilience Fund Mid-Program Evaluation: 9-Month Progress Report",
-    "identifier": "https://polarisproject.org/resources/resilience-fund-mid-pro",
-    "status": "Published",
-    "jurisdiction": "national",
-    "trafficking_types": [
-      "sex",
-      "labor"
-    ],
-    "published": "2024-01-01",
-    "latest_action_date": "2024-01-01",
-    "latest_action": "Published in Polaris Project (NGO)",
-    "authors": [
-      "Polaris Project"
-    ],
-    "journal": "Polaris Project (NGO)",
-    "source_type": "NGO eval",
-    "category": "Program Eval",
-    "population": "Adult HT survivors across USA (N=24, inaugural cohort)",
-    "country_region": "USA",
-    "program_evaluated": "",
-    "methodology": "Pre-post longitudinal (18-month design); monthly cash disbursements",
-    "sample_size": "N=24",
-    "follow_up_length": "6–12 months (9-month mid-eval; 18-month planned)",
-    "specific_metrics": "Monthly cash disbursements ($500/month); self-reported financial stability; credit score tracking; housing stability; mental health access; trust indicators. Pre-post (9-month mid-eval report). N=24.",
-    "quantitative_results": "After 9 months: income sufficiency improved substantially; housing stability improving; credit score increases noted; 43% of participants were in households earning ≤$25,000/year at enrollment (vs 26% U.S. average). Full 18-month results not yet published.",
-    "outcome_frame": "Survivor Outcomes: Long-Term (>12 months)",
-    "evidence_strength": "moderate",
-    "focus_question": "What programs/policies consider long-term survivor outcomes (>12 months)? | Do evaluations frame impact as service metrics or survivor outcomes?",
-    "url": "https://polarisproject.org/resources/resilience-fund-mid-program-evaluation/",
-    "overton_id": "",
-    "summary": "After 9 months: income sufficiency improved substantially; housing stability improving; credit score increases noted; 43% of participants were in households earning ≤$25,000/year at enrollment (vs 26% U.S. average). Full 18-month results not yet published.",
-    "description": "Population: Adult HT survivors across USA (N=24, inaugural cohort). Method: Pre-post longitudinal (18-month design); monthly cash disbursements. Sample: N=24. Follow-up: 6–12 months (9-month mid-eval; 18-month planned). Monthly cash disbursements ($500/month); self-reported financial stability; credit score tracking; housing stability; mental health access; trust indicators. Pre-post (9-month mid-eval report). N=24.",
-    "keywords": [],
-    "organizations": [],
-    "source": "NGO eval",
-    "updates": [
-      {
-        "date": "2024-01-01",
-        "event": "Published in Polaris Project (NGO)",
-        "actor": "Polaris Project",
-        "notes": "",
-        "source_url": "https://polarisproject.org/resources/resilience-fund-mid-program-evaluation/"
-      }
-    ],
-    "upcoming": []
-  },
-  {
-    "id": "res-l-2024-process-evaluation-of-the",
-    "type": "research",
-    "title": "Process Evaluation of the 2020–2023 HTYPE Demonstration Program: Final Report",
-    "identifier": "https://acf.gov/opre/report/process-evaluation-2020-2023-hum",
-    "status": "Published",
-    "jurisdiction": "national",
-    "trafficking_types": [
-      "sex",
-      "labor"
-    ],
-    "published": "2024-01-01",
-    "latest_action_date": "2024-01-01",
-    "latest_action": "Published in OPRE Report (ACF)",
-    "authors": [
-      "Yu L",
-      "Hendrix J",
-      "Rinderle A (RTI / ACF OPRE)"
-    ],
-    "journal": "OPRE Report (ACF)",
-    "source_type": "govt eval",
-    "category": "Process Eval",
-    "population": "8 LEA grantees; 22,500+ educators; 81,000+ students",
-    "country_region": "USA",
-    "program_evaluated": "",
-    "methodology": "Process eval (3-year); semi-structured interviews, focus groups, surveys, performance data",
-    "sample_size": "8 sites",
-    "follow_up_length": "",
-    "specific_metrics": "First federal school-based prevention program evaluation. 278 students identified as potential victims via HTSSP. Documents implementation activities; does NOT measure causal impact on trafficking incidence or survivor outcomes.",
-    "quantitative_results": "",
-    "outcome_frame": "Service Metrics Only",
-    "evidence_strength": "weak",
-    "focus_question": "Do evaluations frame impact as service metrics or survivor outcomes? | What are best evaluation practices from broader fields translatable to HT? | Concrete program/policy evaluation example: classify metrics vs. survivor outcomes",
-    "url": "https://acf.gov/opre/report/process-evaluation-2020-2023-human-trafficking-youth-prevention-education-htype",
-    "overton_id": "",
-    "summary": "First federal school-based prevention program evaluation. 278 students identified as potential victims via HTSSP. Documents implementation activities; does NOT measure causal impact on trafficking inc",
-    "description": "Population: 8 LEA grantees; 22,500+ educators; 81,000+ students. Method: Process eval (3-year); semi-structured interviews, focus groups, surveys, performance data. Sample: 8 sites. Follow-up: . First federal school-based prevention program evaluation. 278 students identified as potential victims via HTSSP. Documents implementation activities; does NOT measure causal impact on trafficking incidence or survivor outcomes.",
-    "keywords": [],
-    "organizations": [],
-    "source": "govt eval",
-    "updates": [
-      {
-        "date": "2024-01-01",
-        "event": "Published in OPRE Report (ACF)",
-        "actor": "Yu L, Hendrix J, Rinderle A (RTI / ACF OPRE)",
-        "notes": "",
-        "source_url": "https://acf.gov/opre/report/process-evaluation-2020-2023-human-trafficking-youth-prevention-education-htype"
-      }
-    ],
-    "upcoming": []
-  },
-  {
-    "id": "pubmed-35063578",
-    "type": "research",
-    "title": "African or Asiatic origin? Genome analyses solved the mystery of the hybrid origin of the rescued lion cub",
-    "identifier": "PMID: 35063578 | DOI: 10.1016/j.gene.2022.146228",
-    "status": "Published",
-    "jurisdiction": "international",
-    "trafficking_types": [
-      "sex",
-      "labor"
-    ],
-    "published": "2022-04-05",
-    "latest_action_date": "2022-04-05",
-    "latest_action": "Published in Gene",
-    "authors": [
-      "Singh A",
-      "Thakur M",
-      "Kumar Sharma L",
-      "Banerjee D"
-    ],
-    "journal": "Gene",
-    "funder": "",
-    "evidence_strength": "",
-    "follow_up_length": "",
-    "outcome_frame": "",
-    "url": "https://doi.org/10.1016/j.gene.2022.146228",
-    "pmid": "35063578",
-    "doi": "10.1016/j.gene.2022.146228",
-    "summary": "Species assignment of any seized material using DNA analysis has been a routine and widely accepted standard procedure in providing scientific advisory for the legal prosecution of wildlife cases. Scientific advancements and rigorous application of genetic tools have led to the development of a variety of molecular markers with their defined efficacy in wildlife forensics. However, in a few unusual cases where a hybrid needs to be identified or assignment need to be made at sub-species level, mi",
-    "description": "Species assignment of any seized material using DNA analysis has been a routine and widely accepted standard procedure in providing scientific advisory for the legal prosecution of wildlife cases. Scientific advancements and rigorous application of genetic tools have led to the development of a variety of molecular markers with their defined efficacy in wildlife forensics. However, in a few unusual cases where a hybrid needs to be identified or assignment need to be made at sub-species level, mitochondrial markers often fail or else provide biased results, which can affect the overall judgment in the court of law. Here, we report one such challenging case of lion cub rescued by the law enforcement from illegal trafficking. Phylogenetic assessment based on complete mitogenome assigned rescued lion cub with African lion (Panthera leo leo). However, the TSPY gene of the Y chromosome established that the lion cub shared its paternal lineage from Asiatic lion (Panthera leo persica). With the use of maternally and paternally inherited markers, we conclude a hybrid origin of the rescued lion cub which shared ancestry from both Asiatic as well as African lion. The present study exhibits the application of genome sequencing in thinking beyond routine identification and contributes to the operating procedures of wildlife forensics.",
-    "keywords": [
-      "trafficking"
-    ],
-    "organizations": [],
-    "source": "PubMed",
-    "upcoming": [],
-    "updates": [
-      {
-        "date": "2022-04-05",
-        "event": "Published in Gene",
-        "actor": "Singh A, Thakur M et al.",
-        "source_url": "https://doi.org/10.1016/j.gene.2022.146228"
-      }
-    ]
-  },
-  {
-    "id": "res-da-2022-trauma-informed-care-trafficki",
-    "type": "research",
-    "title": "Trauma Informed Care: Trafficking Out-Comes (TIC TOC Study)",
-    "identifier": "https://pubmed.ncbi.nlm.nih.gov/35438596/",
-    "status": "Published",
-    "jurisdiction": "national",
-    "trafficking_types": [
-      "sex"
-    ],
-    "published": "2022-01-01",
-    "latest_action_date": "2022-01-01",
-    "latest_action": "Published in Public Health Reports",
-    "authors": [
-      "Gibbs DA",
-      "et al. (RTI)"
-    ],
-    "journal": "Public Health Reports",
-    "source_type": "peer-reviewed",
-    "category": "Program Eval",
-    "population": "Adult female HT survivors in CASH program (N=57)",
-    "country_region": "USA (Sacramento)",
-    "program_evaluated": "",
-    "methodology": "Retrospective analysis; logistic regression; survival analysis",
-    "sample_size": "N=57",
-    "follow_up_length": ">12 months (multi-month program)",
-    "specific_metrics": "Odds of CASH completion 5.37× higher for patients receiving trauma-informed primary care at Medical Safe Haven. Housing stability + healthcare = better program retention. Demonstrates integrated care model importance.",
-    "quantitative_results": "",
-    "outcome_frame": "Survivor Outcomes: Medium-Term (6–12 months)",
-    "evidence_strength": "moderate",
-    "focus_question": "What programs/policies consider long-term survivor outcomes (>12 months)? | Do evaluations frame impact as service metrics or survivor outcomes?",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/35438596/",
-    "overton_id": "",
-    "summary": "Odds of CASH completion 5.37× higher for patients receiving trauma-informed primary care at Medical Safe Haven. Housing stability + healthcare = better program retention. Demonstrates integrated care ",
-    "description": "Population: Adult female HT survivors in CASH program (N=57). Method: Retrospective analysis; logistic regression; survival analysis. Sample: N=57. Follow-up: >12 months (multi-month program). Odds of CASH completion 5.37× higher for patients receiving trauma-informed primary care at Medical Safe Haven. Housing stability + healthcare = better program retention. Demonstrates integrated care model importance.",
-    "keywords": [],
-    "organizations": [],
-    "source": "peer-reviewed",
-    "updates": [
-      {
-        "date": "2022-01-01",
-        "event": "Published in Public Health Reports",
-        "actor": "Gibbs DA, et al. (RTI)",
-        "notes": "",
-        "source_url": "https://pubmed.ncbi.nlm.nih.gov/35438596/"
-      }
-    ],
-    "upcoming": []
-  },
-  {
-    "id": "res-project-2022-national-survivor-study-unders",
-    "type": "research",
-    "title": "National Survivor Study: Understanding the Long Arc of Trafficking",
-    "identifier": "https://polarisproject.org/national-survivor-study/",
-    "status": "Published",
-    "jurisdiction": "national",
-    "trafficking_types": [
-      "sex",
-      "labor"
-    ],
-    "published": "2022-01-01",
-    "latest_action_date": "2022-01-01",
-    "latest_action": "Published in Polaris Project (survivor-led research)",
-    "authors": [
-      "Polaris Project"
-    ],
-    "journal": "Polaris Project (survivor-led research)",
-    "source_type": "NGO eval",
-    "category": "Survivor-Informed",
-    "population": "~500 HT survivors across USA",
-    "country_region": "USA",
-    "program_evaluated": "",
-    "methodology": "Survey (survivor-led)",
-    "sample_size": "N=~500",
-    "follow_up_length": "Retrospective (timeframe varies)",
-    "specific_metrics": "Monthly cash disbursements ($500/month); self-reported financial stability; credit score tracking; housing stability; mental health access; trust indicators. Pre-post (9-month mid-eval report). N=24.",
-    "quantitative_results": "After 9 months: income sufficiency improved substantially; housing stability improving; credit score increases noted; 43% of participants were in households earning ≤$25,000/year at enrollment (vs 26% U.S. average). Full 18-month results not yet published.",
-    "outcome_frame": "Survivor Outcomes: Long-Term (>12 months)",
-    "evidence_strength": "weak",
-    "focus_question": "What programs/policies consider long-term survivor outcomes (>12 months)? | Do evaluations frame impact as service metrics or survivor outcomes?",
-    "url": "https://polarisproject.org/national-survivor-study/",
-    "overton_id": "",
-    "summary": "After 9 months: income sufficiency improved substantially; housing stability improving; credit score increases noted; 43% of participants were in households earning ≤$25,000/year at enrollment (vs 26% U.S. average). Full 18-month results not yet published.",
-    "description": "Population: ~500 HT survivors across USA. Method: Survey (survivor-led). Sample: N=~500. Follow-up: Retrospective (timeframe varies). Monthly cash disbursements ($500/month); self-reported financial stability; credit score tracking; housing stability; mental health access; trust indicators. Pre-post (9-month mid-eval report). N=24.",
-    "keywords": [],
-    "organizations": [],
-    "source": "NGO eval",
-    "updates": [
-      {
-        "date": "2022-01-01",
-        "event": "Published in Polaris Project (survivor-led research)",
-        "actor": "Polaris Project",
-        "notes": "",
-        "source_url": "https://polarisproject.org/national-survivor-study/"
-      }
-    ],
-    "upcoming": []
-  },
-  {
-    "id": "res-jrsa-2021-interrupted-time-series-analys",
-    "type": "research",
-    "title": "Interrupted Time Series Analysis in Criminal Justice: Analytical Factors to Consider",
-    "identifier": "https://justiceresearch.dspacedirect.org/bitstreams/23302942",
-    "status": "Published",
-    "jurisdiction": "national",
-    "trafficking_types": [
-      "sex",
-      "labor"
-    ],
-    "published": "2021-01-01",
-    "latest_action_date": "2021-01-01",
-    "latest_action": "Published in JRSA Research Methods Brief",
-    "authors": [
-      "JRSA"
-    ],
-    "journal": "JRSA Research Methods Brief",
-    "source_type": "methods/framework",
-    "category": "Eval Methods",
-    "population": "N/A (methods)",
-    "country_region": "USA",
-    "program_evaluated": "",
-    "methodology": "Methods brief",
-    "sample_size": "",
-    "follow_up_length": "",
-    "specific_metrics": "ITS analytical factors specific to criminal justice: data requirements (≥30 pre-/post-points ideally); autocorrelation; seasonality; multiple comparison groups. Directly relevant to trafficking policy evaluation.",
-    "quantitative_results": "",
-    "outcome_frame": "Mixed: Service Metrics + Some Survivor Outcomes",
-    "evidence_strength": "strong",
-    "focus_question": "What are best evaluation practices from broader fields translatable to HT?",
-    "url": "https://justiceresearch.dspacedirect.org/bitstreams/23302942-8e1d-4e92-8372-020b9a6c1f86/download",
-    "overton_id": "",
-    "summary": "ITS analytical factors specific to criminal justice: data requirements (≥30 pre-/post-points ideally); autocorrelation; seasonality; multiple comparison groups. Directly relevant to trafficking policy",
-    "description": "Population: N/A (methods). Method: Methods brief. Sample: . Follow-up: . ITS analytical factors specific to criminal justice: data requirements (≥30 pre-/post-points ideally); autocorrelation; seasonality; multiple comparison groups. Directly relevant to trafficking policy evaluation.",
-    "keywords": [],
-    "organizations": [],
-    "source": "methods/framework",
-    "updates": [
-      {
-        "date": "2021-01-01",
-        "event": "Published in JRSA Research Methods Brief",
-        "actor": "JRSA",
-        "notes": "",
-        "source_url": "https://justiceresearch.dspacedirect.org/bitstreams/23302942-8e1d-4e92-8372-020b9a6c1f86/download"
-      }
-    ],
-    "upcoming": []
-  },
-  {
-    "id": "pubmed-31243470",
-    "type": "research",
-    "title": "Gender differences in the association of living and working conditions and the mental health of trafficking survivors",
-    "identifier": "PMID: 31243470 | DOI: 10.1007/s00038-019-01269-2",
-    "status": "Published",
-    "jurisdiction": "international",
-    "trafficking_types": [
-      "sex",
-      "labor"
-    ],
-    "published": "2019-09-18",
-    "latest_action_date": "2019-09-18",
-    "latest_action": "Published in International journal of public health",
-    "authors": [
-      "Iglesias-Rios L",
-      "Harlow SD",
-      "Burgard SA",
-      "Kiss L",
-      "Zimmerman C"
-    ],
-    "journal": "International journal of public health",
-    "funder": "",
-    "evidence_strength": "",
-    "follow_up_length": "",
-    "outcome_frame": "",
-    "url": "https://doi.org/10.1007/s00038-019-01269-2",
-    "pmid": "31243470",
-    "doi": "10.1007/s00038-019-01269-2",
-    "summary": "To assess the association of living and working conditions experienced during trafficking with mental health of female and male survivors.",
-    "description": "To assess the association of living and working conditions experienced during trafficking with mental health of female and male survivors.",
-    "keywords": [
-      "trafficking"
-    ],
-    "organizations": [],
-    "source": "PubMed",
-    "upcoming": [],
-    "updates": [
-      {
-        "date": "2019-09-18",
-        "event": "Published in International journal of public health",
-        "actor": "Iglesias-Rios L, Harlow SD et al.",
-        "source_url": "https://doi.org/10.1007/s00038-019-01269-2"
-      }
-    ]
-  },
-  {
-    "id": "res-da-2019-identifying-sexual-and-labor",
-    "type": "research",
-    "title": "Identifying Sexual and Labor Exploitation Among Sheltered Youth Experiencing Homelessness: A Comparison of Screening Methods",
-    "identifier": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6388175/",
-    "status": "Published",
-    "jurisdiction": "national",
-    "trafficking_types": [
-      "sex",
-      "labor"
-    ],
-    "published": "2019-01-01",
-    "latest_action_date": "2019-01-01",
-    "latest_action": "Published in Child Abuse & Neglect",
-    "authors": [
-      "Gibbs DA",
-      "Henninger AM",
-      "Tueller SJ",
-      "Kluckman MN"
-    ],
-    "journal": "Child Abuse & Neglect",
-    "source_type": "peer-reviewed",
-    "category": "Measurement/Tools",
-    "population": "Homeless youth aged 12–25 (N=129)",
-    "country_region": "USA",
-    "program_evaluated": "",
-    "methodology": "Comparative tool study: HEEADSSS vs. HTST",
-    "sample_size": "N=129",
-    "follow_up_length": "",
-    "specific_metrics": "HT-specific tool (HTST) identified significantly more sexual and labor exploitation than standard HEEADSSS psychosocial assessment. Youth involved in foster care/juvenile justice showed higher risk. Labor exploitation often began younger.",
-    "quantitative_results": "",
-    "outcome_frame": "Service Metrics Only",
-    "evidence_strength": "moderate",
-    "focus_question": "Do evaluations frame impact as service metrics or survivor outcomes?",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6388175/",
-    "overton_id": "",
-    "summary": "HT-specific tool (HTST) identified significantly more sexual and labor exploitation than standard HEEADSSS psychosocial assessment. Youth involved in foster care/juvenile justice showed higher risk. L",
-    "description": "Population: Homeless youth aged 12–25 (N=129). Method: Comparative tool study: HEEADSSS vs. HTST. Sample: N=129. Follow-up: . HT-specific tool (HTST) identified significantly more sexual and labor exploitation than standard HEEADSSS psychosocial assessment. Youth involved in foster care/juvenile justice showed higher risk. Labor exploitation often began younger.",
-    "keywords": [],
-    "organizations": [],
-    "source": "peer-reviewed",
-    "updates": [
-      {
-        "date": "2019-01-01",
-        "event": "Published in Child Abuse & Neglect",
-        "actor": "Gibbs DA, Henninger AM, Tueller SJ, Kluckman MN",
-        "notes": "",
-        "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6388175/"
-      }
-    ],
-    "upcoming": []
-  },
-  {
-    "id": "res-re-2019-re-aim-planning-and-evaluation",
-    "type": "research",
-    "title": "RE-AIM Planning and Evaluation Framework: Adapting to New Science and Practice With a 20-Year Review",
-    "identifier": "https://doi.org/10.3389/fpubh.2019.00064",
-    "status": "Published",
-    "jurisdiction": "international",
-    "trafficking_types": [
-      "sex",
-      "labor"
-    ],
-    "published": "2019-01-01",
-    "latest_action_date": "2019-01-01",
-    "latest_action": "Published in Frontiers in Public Health",
-    "authors": [
-      "Glasgow RE",
-      "Harden SM",
-      "Gaglio B",
-      "et al."
-    ],
-    "journal": "Frontiers in Public Health",
-    "source_type": "methods/framework",
-    "category": "Eval Methods",
-    "population": "N/A (framework update)",
-    "country_region": "Multi-country",
-    "program_evaluated": "",
-    "methodology": "Framework review paper",
-    "sample_size": "",
-    "follow_up_length": "",
-    "specific_metrics": "20-year RE-AIM update: emphasizes health equity, adaptations, qualitative methods. Maintenance = individual + setting-level long-term outcomes. Guidance on applying RE-AIM to complex social interventions and policy.",
-    "quantitative_results": "",
-    "outcome_frame": "Mixed: Service Metrics + Some Survivor Outcomes",
-    "evidence_strength": "strong",
-    "focus_question": "What are best evaluation practices from broader fields translatable to HT?",
-    "url": "https://doi.org/10.3389/fpubh.2019.00064",
-    "overton_id": "",
-    "summary": "20-year RE-AIM update: emphasizes health equity, adaptations, qualitative methods. Maintenance = individual + setting-level long-term outcomes. Guidance on applying RE-AIM to complex social interventi",
-    "description": "Population: N/A (framework update). Method: Framework review paper. Sample: . Follow-up: . 20-year RE-AIM update: emphasizes health equity, adaptations, qualitative methods. Maintenance = individual + setting-level long-term outcomes. Guidance on applying RE-AIM to complex social interventions and policy.",
-    "keywords": [],
-    "organizations": [],
-    "source": "methods/framework",
-    "updates": [
-      {
-        "date": "2019-01-01",
-        "event": "Published in Frontiers in Public Health",
-        "actor": "Glasgow RE, Harden SM, Gaglio B, et al.",
-        "notes": "",
-        "source_url": "https://doi.org/10.3389/fpubh.2019.00064"
-      }
-    ],
-    "upcoming": []
-  },
-  {
-    "id": "res-institute-2017-estimating-the-size-and",
-    "type": "research",
-    "title": "Estimating the Size and Structure of the Underground Commercial Sex Economy in Eight Major U.S. Cities",
-    "identifier": "https://www.urban.org/research/publication/estimating-size-a",
-    "status": "Published",
-    "jurisdiction": "national",
-    "trafficking_types": [
-      "sex"
-    ],
-    "published": "2017-01-01",
-    "latest_action_date": "2017-01-01",
-    "latest_action": "Published in Urban Institute",
-    "authors": [
-      "Dank M et al. / Urban Institute"
-    ],
-    "journal": "Urban Institute",
-    "source_type": "govt eval",
-    "category": "Prevalence",
-    "population": "Commercial sex economy; 8 U.S. cities",
-    "country_region": "USA",
-    "program_evaluated": "",
-    "methodology": "Mixed methods: interviews, admin data, economic modeling",
-    "sample_size": "Multi-city",
-    "follow_up_length": "",
-    "specific_metrics": "Estimates underground sex economy size. Documents CSE as economic system. Shows gap: economic data on markets vs. lack of survivor economic outcome data. Washington DC market estimated at $103M; Dallas at $99M.",
-    "quantitative_results": "",
-    "outcome_frame": "Service Metrics Only",
-    "evidence_strength": "moderate",
-    "focus_question": "Do evaluations frame impact as service metrics or survivor outcomes?",
-    "url": "https://www.urban.org/research/publication/estimating-size-and-structure-underground-commercial-sex-economy-eight-major-us-cities",
-    "overton_id": "",
-    "summary": "Estimates underground sex economy size. Documents CSE as economic system. Shows gap: economic data on markets vs. lack of survivor economic outcome data. Washington DC market estimated at $103M; Dalla",
-    "description": "Population: Commercial sex economy; 8 U.S. cities. Method: Mixed methods: interviews, admin data, economic modeling. Sample: Multi-city. Follow-up: . Estimates underground sex economy size. Documents CSE as economic system. Shows gap: economic data on markets vs. lack of survivor economic outcome data. Washington DC market estimated at $103M; Dallas at $99M.",
-    "keywords": [],
-    "organizations": [],
-    "source": "govt eval",
-    "updates": [
-      {
-        "date": "2017-01-01",
-        "event": "Published in Urban Institute",
-        "actor": "Dank M et al. / Urban Institute",
-        "notes": "",
-        "source_url": "https://www.urban.org/research/publication/estimating-size-and-structure-underground-commercial-sex-economy-eight-major-us-cities"
-      }
-    ],
-    "upcoming": []
-  },
-  {
-    "id": "pubmed-27021149",
-    "type": "research",
-    "title": "Public health and international drug policy",
-    "identifier": "PMID: 27021149 | DOI: 10.1016/S0140-6736(16)00619-X",
-    "status": "Published",
-    "jurisdiction": "international",
-    "trafficking_types": [
-      "sex",
-      "labor"
-    ],
-    "published": "2016-04-02",
-    "latest_action_date": "2016-04-02",
-    "latest_action": "Published in Lancet (London, England)",
-    "authors": [
-      "Csete J",
-      "Kamarulzaman A",
-      "Kazatchkine M",
-      "Altice F",
-      "Balicki M",
-      "Buxton J"
-    ],
-    "journal": "Lancet (London, England)",
-    "funder": "",
-    "evidence_strength": "",
-    "follow_up_length": "",
-    "outcome_frame": "",
-    "url": "https://doi.org/10.1016/S0140-6736(16)00619-X",
-    "pmid": "27021149",
-    "doi": "10.1016/S0140-6736(16)00619-X",
-    "summary": "In September 2015, the member states of the United Nations endorsed sustainable development goals (SDG) for 2030 that aspire to human rights-centered approaches to ensuring the health and well-being of all people. The SDGs embody both the UN Charter values of rights and justice for all and the responsibility of states to rely on the best scientific evidence as they seek to better humankind. In April 2016, these same states will consider control of illicit drugs, an area of social policy that has",
-    "description": "In September 2015, the member states of the United Nations endorsed sustainable development goals (SDG) for 2030 that aspire to human rights-centered approaches to ensuring the health and well-being of all people. The SDGs embody both the UN Charter values of rights and justice for all and the responsibility of states to rely on the best scientific evidence as they seek to better humankind. In April 2016, these same states will consider control of illicit drugs, an area of social policy that has been fraught with controversy, seen as inconsistent with human rights norms, and for which scientific evidence and public health approaches have arguably played too limited a role. The previous UN General Assembly Special Session (UNGASS) on drugs in 1998 – convened under the theme “a drug-free world, we can do it!” – endorsed drug control policies based on the goal of prohibiting all use, possession, production, and trafficking of illicit drugs. This goal is enshrined in national law in many countries. In pronouncing drugs a “grave threat to the health and well-being of all mankind,” the 1998 UNGASS echoed the foundational 1961 convention of the international drug control regime, which justified eliminating the “evil” of drugs in the name of “the health and welfare of mankind.” But neither of these international agreements refers to the ways in which pursuing drug prohibition itself might affect public health. The “war on drugs” and “zero-tolerance” policies that grew out of the prohibitionist consensus are now being challenged on multiple fronts, including their health, human rights, and development impact. The Johns Hopkins –",
-    "keywords": [
-      "trafficking"
-    ],
-    "organizations": [],
-    "source": "PubMed",
-    "upcoming": [],
-    "updates": [
-      {
-        "date": "2016-04-02",
-        "event": "Published in Lancet (London, England)",
-        "actor": "Csete J, Kamarulzaman A et al.",
-        "source_url": "https://doi.org/10.1016/S0140-6736(16)00619-X"
-      }
-    ]
-  },
-  {
-    "id": "pubmed-27500250",
-    "type": "research",
-    "title": "Stimulating and Enhancing Partnerships Between Transplant Professionals and Law Enforcement: Recommendations",
-    "identifier": "PMID: 27500250 | DOI: 10.1097/TXD.0000000000000567",
-    "status": "Published",
-    "jurisdiction": "international",
-    "trafficking_types": [
-      "sex",
-      "labor"
-    ],
-    "published": "2016-02-18",
-    "latest_action_date": "2016-02-18",
-    "latest_action": "Published in Transplantation direct",
-    "authors": [
-      "Capron AM",
-      "Muller E",
-      "Erlich G",
-      "John M",
-      "Bienstock RE",
-      "McCarren M"
-    ],
-    "journal": "Transplantation direct",
-    "funder": "",
-    "evidence_strength": "",
-    "follow_up_length": "",
-    "outcome_frame": "",
-    "url": "https://doi.org/10.1097/TXD.0000000000000567",
-    "pmid": "27500250",
-    "doi": "10.1097/TXD.0000000000000567",
-    "summary": "To help combat trafficking in human beings for organ removal (THBOR), transplant professionals need to do more than carry out careful, multidisciplinary screening of potential living donors; they also need to communicate and collaborate with law enforcement professionals. This will involve transplant professionals educating investigators and prosecutors about transplant practices and in turn learning about THBOR and how it is prosecuted. Cases of illegal organ transplantation need to be detected",
-    "description": "To help combat trafficking in human beings for organ removal (THBOR), transplant professionals need to do more than carry out careful, multidisciplinary screening of potential living donors; they also need to communicate and collaborate with law enforcement professionals. This will involve transplant professionals educating investigators and prosecutors about transplant practices and in turn learning about THBOR and how it is prosecuted. Cases of illegal organ transplantation need to be detected at different levels. First, the victims of the crime itself need to be identified, especially when they present themselves for screening. Physicians have a collective responsibility to prevent exploitation of people, including THBOR victims. The second level involves the more difficult matter of making reports that involve transplant tourists who have returned home after receipt of an organ and need follow-up care. Besides counseling patients prospectively about the legal as well as medical risks in receiving a vended organ in a foreign transplant center, physicians treating such patients could have an obligation to report what has happened, if the government has established a mechanism that either allows reporting THBOR that does not include the identity of the patient or that treats patients as victims provided they cooperate in investigation and prosecution of the persons responsible for obtaining or implanting the organs. The third level of cooperation involves transplant professionals who participate in THBOR. Professional societies need to undertake programs to make physicians and nurses aware that their responsibility to protect their professions' reputation includes identifying members of their professions who depart from professional ethics. Doing so allows the local professional societies and state boards to discipline such violators. All 3 of these functions would be facilitated by the creation by an international body such as World Health Organization of a registry of patients who travel internationally to receive a legitimate organ transplant.",
-    "keywords": [
-      "exploitation",
-      "trafficking"
-    ],
-    "organizations": [],
-    "source": "PubMed",
-    "upcoming": [],
-    "updates": [
-      {
-        "date": "2016-02-18",
-        "event": "Published in Transplantation direct",
-        "actor": "Capron AM, Muller E et al.",
-        "source_url": "https://doi.org/10.1097/TXD.0000000000000567"
-      }
-    ]
-  },
-  {
-    "id": "pubmed-25873198",
-    "type": "research",
-    "title": "Reporting Organ Trafficking Networks: A Survey-Based Plea to Breach the Secrecy Oath",
-    "identifier": "PMID: 25873198 | DOI: 10.1111/ajt.13245",
-    "status": "Published",
-    "jurisdiction": "international",
-    "trafficking_types": [
-      "sex",
-      "labor"
-    ],
-    "published": "2015-07-18",
-    "latest_action_date": "2015-07-18",
-    "latest_action": "Published in American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons",
-    "authors": [
-      "Ambagtsheer F",
-      "Van Balen LJ",
-      "Duijst-Heesters WL",
-      "Massey EK",
-      "Weimar W"
-    ],
-    "journal": "American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons",
-    "funder": "",
-    "evidence_strength": "",
-    "follow_up_length": "",
-    "outcome_frame": "",
-    "url": "https://doi.org/10.1111/ajt.13245",
-    "pmid": "25873198",
-    "doi": "10.1111/ajt.13245",
-    "summary": "Patients travel worldwide to purchase kidneys. Transplant professionals can play a role in identifying kidney purchase. However, due to the tension between their rights and obligations, a lack of understanding and knowledge exists on how to prevent and report purchase. We present the results of a national survey that describes transplant professionals' experiences, attitudes, behaviors, conflicts of duties, legal knowledge and needs for guidelines toward patients who purchase kidneys abroad. Sec",
-    "description": "Patients travel worldwide to purchase kidneys. Transplant professionals can play a role in identifying kidney purchase. However, due to the tension between their rights and obligations, a lack of understanding and knowledge exists on how to prevent and report purchase. We present the results of a national survey that describes transplant professionals' experiences, attitudes, behaviors, conflicts of duties, legal knowledge and needs for guidelines toward patients who purchase kidneys abroad. Second, we clarify professionals' rights and obligations regarding organ purchase and propose actions that they can take to report purchase. Of the 100/241 (42%) professionals who treated patients who traveled to a country outside the European Union for a kidney transplant, 31 (31%) were certain that patients purchased kidneys. Sixty-five (65%) had suspicions that patients had bought kidneys. The majority reported a conflict of duties. Eighty percent reported a need for guidelines. Professionals can help prevent organ purchase by disclosing information about organ trafficking networks to law enforcement. Such disclosure can support the investigation and prosecution of networks. We offer key components for guidelines on disclosure of these networks.",
-    "keywords": [
-      "trafficking"
-    ],
-    "organizations": [],
-    "source": "PubMed",
-    "upcoming": [],
-    "updates": [
-      {
-        "date": "2015-07-18",
-        "event": "Published in American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons",
-        "actor": "Ambagtsheer F, Van Balen LJ et al.",
-        "source_url": "https://doi.org/10.1111/ajt.13245"
-      }
-    ]
-  },
-  {
-    "id": "pubmed-25897071",
-    "type": "research",
-    "title": "Stopping murder by medicine: introducing the Model Law on Medicine Crime",
-    "identifier": "PMID: 25897071 | DOI: 10.4269/ajtmh.15-0154",
-    "status": "Published",
-    "jurisdiction": "international",
-    "trafficking_types": [
-      "sex",
-      "labor"
-    ],
-    "published": "2015-06-18",
-    "latest_action_date": "2015-06-18",
-    "latest_action": "Published in The American journal of tropical medicine and hygiene",
-    "authors": [
-      "Attaran A"
-    ],
-    "journal": "The American journal of tropical medicine and hygiene",
-    "funder": "",
-    "evidence_strength": "",
-    "follow_up_length": "",
-    "outcome_frame": "",
-    "url": "https://doi.org/10.4269/ajtmh.15-0154",
-    "pmid": "25897071",
-    "doi": "10.4269/ajtmh.15-0154",
-    "summary": "The iatrogenic pandemic of untreated illness related to falsified and substandard medicines is intolerable, but has a logical explanation: in many countries, inadequate laws make it barely illegal to manufacture or distribute poor-quality medicines. The law hardly punishes those who intentionally or recklessly deal in falsified or substandard medicine, when clearly it should criminalize these perpetrators in proportion to the grievous--even fatal--injury they inflict on public health. To solve t",
-    "description": "The iatrogenic pandemic of untreated illness related to falsified and substandard medicines is intolerable, but has a logical explanation: in many countries, inadequate laws make it barely illegal to manufacture or distribute poor-quality medicines. The law hardly punishes those who intentionally or recklessly deal in falsified or substandard medicine, when clearly it should criminalize these perpetrators in proportion to the grievous--even fatal--injury they inflict on public health. To solve this omission, this article presents a new Model Law on Medicine Crime, which countries may freely use as a template for strengthening their national laws. The Model Law includes criminal prohibitions against manufacturing, trafficking, or selling poor-quality medicines; principles for appropriately punishing offenders; special provisions for Internet-based medicine crimes; tools for encouraging whistle-blowers to cooperate with law enforcement; incentives for developing governments to strengthen their drug regulatory capacity; and important exceptions to prevent the law being abused, such as to prevent the prosecution of legitimate medical researchers or to prevent good-quality generic medicines being seized while in transit. The Model Law is discussed and explained and is offered free of charge under a Creative Commons license to any governments wanting to implement it.",
-    "keywords": [
-      "trafficking"
-    ],
-    "organizations": [],
-    "source": "PubMed",
-    "upcoming": [],
-    "updates": [
-      {
-        "date": "2015-06-18",
-        "event": "Published in The American journal of tropical medicine and hygiene",
-        "actor": "Attaran A",
-        "source_url": "https://doi.org/10.4269/ajtmh.15-0154"
-      }
-    ]
-  },
-  {
-    "id": "pubmed-24397234",
-    "type": "research",
-    "title": "Oil, migration, and the political economy of HIV/AIDS prevention in Nigeria's Niger Delta",
-    "identifier": "PMID: 24397234 | DOI: 10.2190/HS.43.4.f",
-    "status": "Published",
-    "jurisdiction": "international",
-    "trafficking_types": [
-      "sex"
-    ],
-    "published": "2013-06-18",
-    "latest_action_date": "2013-06-18",
-    "latest_action": "Published in International journal of health services : planning, administration, evaluation",
-    "authors": [
-      "Udoh IA"
-    ],
-    "journal": "International journal of health services : planning, administration, evaluation",
-    "funder": "",
-    "evidence_strength": "",
-    "follow_up_length": "",
-    "outcome_frame": "",
-    "url": "https://doi.org/10.2190/HS.43.4.f",
-    "pmid": "24397234",
-    "doi": "10.2190/HS.43.4.f",
-    "summary": "In most of sub-Saharan Africa, HIV/AIDS is driven by endemic structural problems such as unemployment, poverty, forced migration, sexual exploitation, and concurrent sexual partnerships. In the Niger Delta of Nigeria, the epidemic is exacerbated by recurring regional conflict and negative environmental externalities resulting from 50 years of oil exploration. This article seeks to identify and analyze potential barriers to HIV/AIDS prevention and treatment from oil pollution and other environmen",
-    "description": "In most of sub-Saharan Africa, HIV/AIDS is driven by endemic structural problems such as unemployment, poverty, forced migration, sexual exploitation, and concurrent sexual partnerships. In the Niger Delta of Nigeria, the epidemic is exacerbated by recurring regional conflict and negative environmental externalities resulting from 50 years of oil exploration. This article seeks to identify and analyze potential barriers to HIV/AIDS prevention and treatment from oil pollution and other environmental stressors in Nigeria's Niger Delta. We develop a conceptual framework to understand how oil politics and economic systems affect HIV risks in Nigeria. We then evaluate evidence of how environmental exposures can amplify risks. Using 10 semi-structured interviews, with 85 focus group participants, we test the argument that HIV transmission in the Niger Delta is related to a manipulative \"divide and rule\" power dynamic that characterizes multinational oil companies' role in shaping conflict contours in oil communities. Oil exploration destroys livelihoods, institutions, and values and forces impoverished and illiterate girls and women to migrate or be trafficked to urban centers as child laborers and sex workers. The elevated HIV/AIDS risk in the Niger Delta brings into focus the political economy of resource extraction, globalization, and indigenous, minority rights and struggles.",
-    "keywords": [
-      "exploitation"
-    ],
-    "organizations": [],
-    "source": "PubMed",
-    "upcoming": [],
-    "updates": [
-      {
-        "date": "2013-06-18",
-        "event": "Published in International journal of health services : planning, administration, evaluation",
-        "actor": "Udoh IA",
-        "source_url": "https://doi.org/10.2190/HS.43.4.f"
-      }
-    ]
-  },
-  {
-    "id": "pubmed-23862261",
-    "type": "research",
-    "title": "Women trafficking: causes, concerns, care!",
-    "identifier": "PMID: 23862261",
-    "status": "Published",
-    "jurisdiction": "international",
-    "trafficking_types": [
-      "sex",
-      "labor"
-    ],
-    "published": "2012-08-18",
-    "latest_action_date": "2012-08-18",
-    "latest_action": "Published in JPMA. The Journal of the Pakistan Medical Association",
-    "authors": [
-      "Khowaja SS",
-      "Tharani AJ",
-      "Agha A",
-      "Karamaliani RS"
-    ],
-    "journal": "JPMA. The Journal of the Pakistan Medical Association",
-    "funder": "",
-    "evidence_strength": "",
-    "follow_up_length": "",
-    "outcome_frame": "",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/23862261/",
-    "pmid": "23862261",
-    "doi": "",
-    "summary": "Pakistan is both a country of origin and destination as far as women trafficking is concerned. Poverty, gender discrimination, lack of education, and ignorance about legal rights are some of the underlying causes. Available data suggest several areas of concern, like, for instance: direct health effects, maladaptive coping leading to the use of illicit drugs, and inaccessibility to healthcare facilities. Therefore, numerous interventions would be required at three levels: the prevention of traff",
-    "description": "Pakistan is both a country of origin and destination as far as women trafficking is concerned. Poverty, gender discrimination, lack of education, and ignorance about legal rights are some of the underlying causes. Available data suggest several areas of concern, like, for instance: direct health effects, maladaptive coping leading to the use of illicit drugs, and inaccessibility to healthcare facilities. Therefore, numerous interventions would be required at three levels: the prevention of trafficking, the protection of victims and the prosecution of the traffickers.",
-    "keywords": [
-      "trafficking"
-    ],
-    "organizations": [],
-    "source": "PubMed",
-    "upcoming": [],
-    "updates": [
-      {
-        "date": "2012-08-18",
-        "event": "Published in JPMA. The Journal of the Pakistan Medical Association",
-        "actor": "Khowaja SS, Tharani AJ et al.",
-        "source_url": "https://pubmed.ncbi.nlm.nih.gov/23862261/"
-      }
-    ]
-  },
-  {
-    "id": "res-m-2010-the-relationship-of-trauma",
-    "type": "research",
-    "title": "The Relationship of Trauma to Mental Disorders Among Trafficked and Sexually Exploited Girls and Women",
-    "identifier": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2978168/",
-    "status": "Published",
-    "jurisdiction": "international",
-    "trafficking_types": [
-      "sex"
-    ],
-    "published": "2010-01-01",
-    "latest_action_date": "2010-01-01",
-    "latest_action": "Published in American Journal of Public Health",
-    "authors": [
-      "Hossain M",
-      "Zimmerman C",
-      "Abas M",
-      "Light M",
-      "Watts C"
-    ],
-    "journal": "American Journal of Public Health",
-    "source_type": "peer-reviewed",
-    "category": "Mental Health",
-    "population": "Trafficked/sexually exploited girls and women (N=204); 7 European post-trafficking care sites",
-    "country_region": "Europe",
-    "program_evaluated": "",
-    "methodology": "Cross-sectional; logistic regression",
-    "sample_size": "N=204",
-    "follow_up_length": "",
-    "specific_metrics": "SCID (Structured Clinical Interview for DSM-IV); interviews by psychiatrists. N=120 women, mean 6 months post-return. Logistic regression for risk factors.",
-    "quantitative_results": "54.2% met DSM-IV criteria for any mental disorder; 35.8% had PTSD; 45.8% had anxiety disorder. Childhood sexual abuse strongest risk factor (AOR=4.68). Type of exploitation (sexual vs labor) NOT significantly associated with mental disorder prevalence. Time since return NOT associated with reduced P",
-    "outcome_frame": "Survivor Outcomes: Short-Term (0–6 months)",
-    "evidence_strength": "moderate",
-    "focus_question": "What programs/policies consider long-term survivor outcomes (>12 months)? | Do evaluations frame impact as service metrics or survivor outcomes?",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2978168/",
-    "overton_id": "",
-    "summary": "54.2% met DSM-IV criteria for any mental disorder; 35.8% had PTSD; 45.8% had anxiety disorder. Childhood sexual abuse strongest risk factor (AOR=4.68). Type of exploitation (sexual vs labor) NOT significantly associated with mental disorder prevalence. Time since return NOT associated with reduced P",
-    "description": "Population: Trafficked/sexually exploited girls and women (N=204); 7 European post-trafficking care sites. Method: Cross-sectional; logistic regression. Sample: N=204. Follow-up: . SCID (Structured Clinical Interview for DSM-IV); interviews by psychiatrists. N=120 women, mean 6 months post-return. Logistic regression for risk factors.",
-    "keywords": [],
-    "organizations": [],
-    "source": "peer-reviewed",
-    "updates": [
-      {
-        "date": "2010-01-01",
-        "event": "Published in American Journal of Public Health",
-        "actor": "Hossain M, Zimmerman C, Abas M, Light M, Watts C",
-        "notes": "",
-        "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2978168/"
-      }
-    ],
-    "upcoming": []
-  },
-  {
-    "id": "res-lj-2009-fostering-implementation-of-he",
-    "type": "research",
-    "title": "Fostering Implementation of Health Services Research Findings into Practice: CFIR",
-    "identifier": "https://doi.org/10.1186/1748-5908-4-50",
-    "status": "Published",
-    "jurisdiction": "international",
-    "trafficking_types": [
-      "sex",
-      "labor"
-    ],
-    "published": "2009-01-01",
-    "latest_action_date": "2009-01-01",
-    "latest_action": "Published in Implementation Science",
-    "authors": [
-      "Damschroder LJ",
-      "Aron DC",
-      "Keith RE",
-      "et al."
-    ],
-    "journal": "Implementation Science",
-    "source_type": "methods/framework",
-    "category": "Eval Methods",
-    "population": "N/A (framework)",
-    "country_region": "Multi-country",
-    "program_evaluated": "",
-    "methodology": "Framework paper",
-    "sample_size": "",
-    "follow_up_length": "",
-    "specific_metrics": "CFIR: 5 domains (intervention characteristics, outer/inner setting, individuals, process). Explains why programs succeed in one context and fail in another. Critical for trafficking work where adaptation and context variation are major challenges.",
-    "quantitative_results": "",
-    "outcome_frame": "Mixed: Service Metrics + Some Survivor Outcomes",
-    "evidence_strength": "strong",
-    "focus_question": "What are best evaluation practices from broader fields translatable to HT?",
-    "url": "https://doi.org/10.1186/1748-5908-4-50",
-    "overton_id": "",
-    "summary": "CFIR: 5 domains (intervention characteristics, outer/inner setting, individuals, process). Explains why programs succeed in one context and fail in another. Critical for trafficking work where adaptat",
-    "description": "Population: N/A (framework). Method: Framework paper. Sample: . Follow-up: . CFIR: 5 domains (intervention characteristics, outer/inner setting, individuals, process). Explains why programs succeed in one context and fail in another. Critical for trafficking work where adaptation and context variation are major challenges.",
-    "keywords": [],
-    "organizations": [],
-    "source": "methods/framework",
-    "updates": [
-      {
-        "date": "2009-01-01",
-        "event": "Published in Implementation Science",
-        "actor": "Damschroder LJ, Aron DC, Keith RE, et al.",
-        "notes": "",
-        "source_url": "https://doi.org/10.1186/1748-5908-4-50"
       }
     ],
     "upcoming": []
@@ -9314,6 +9262,100 @@
       }
     ],
     "upcoming": []
+  },
+  {
+    "id": "res-re-1999-evaluating-the-public-health",
+    "type": "research",
+    "title": "Evaluating the Public Health Impact of Health Promotion Interventions: The RE-AIM Framework",
+    "identifier": "https://doi.org/10.2105/AJPH.89.9.1322",
+    "status": "Published",
+    "jurisdiction": "national",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "1999-01-01",
+    "latest_action_date": "1999-01-01",
+    "latest_action": "Published in American Journal of Public Health",
+    "authors": [
+      "Glasgow RE",
+      "Vogt TM",
+      "Boles SM"
+    ],
+    "journal": "American Journal of Public Health",
+    "source_type": "methods/framework",
+    "category": "Eval Methods",
+    "population": "N/A (framework)",
+    "country_region": "USA",
+    "program_evaluated": "",
+    "methodology": "Conceptual framework",
+    "sample_size": "",
+    "follow_up_length": "",
+    "specific_metrics": "Introduces RE-AIM: Reach, Effectiveness, Adoption, Implementation, Maintenance. Forces 'Maintenance' dimension (long-term sustainability). Emphasizes representativeness. >700 publications using RE-AIM. Directly applicable to anti-trafficking programs.",
+    "quantitative_results": "",
+    "outcome_frame": "Mixed: Service Metrics + Some Survivor Outcomes",
+    "evidence_strength": "strong",
+    "focus_question": "What are best evaluation practices from broader fields translatable to HT?",
+    "url": "https://doi.org/10.2105/AJPH.89.9.1322",
+    "overton_id": "",
+    "summary": "Introduces RE-AIM: Reach, Effectiveness, Adoption, Implementation, Maintenance. Forces 'Maintenance' dimension (long-term sustainability). Emphasizes representativeness. >700 publications using RE-AIM",
+    "description": "Population: N/A (framework). Method: Conceptual framework. Sample: . Follow-up: . Introduces RE-AIM: Reach, Effectiveness, Adoption, Implementation, Maintenance. Forces 'Maintenance' dimension (long-term sustainability). Emphasizes representativeness. >700 publications using RE-AIM. Directly applicable to anti-trafficking programs.",
+    "keywords": [],
+    "organizations": [],
+    "source": "methods/framework",
+    "updates": [
+      {
+        "date": "1999-01-01",
+        "event": "Published in American Journal of Public Health",
+        "actor": "Glasgow RE, Vogt TM, Boles SM",
+        "notes": "",
+        "source_url": "https://doi.org/10.2105/AJPH.89.9.1322"
+      }
+    ],
+    "upcoming": []
+  },
+  {
+    "id": "pubmed-12348692",
+    "type": "research",
+    "title": "Sex work and sex trafficking",
+    "identifier": "PMID: 12348692",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "1998-06-18",
+    "latest_action_date": "1998-06-18",
+    "latest_action": "Published in Sexual health exchange",
+    "authors": [
+      "Ditmore M",
+      "Saunders P"
+    ],
+    "journal": "Sexual health exchange",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12348692/",
+    "pmid": "12348692",
+    "doi": "",
+    "summary": "Preventing HIV infection and other sexually transmitted diseases (STDs), as well as sexual and physical violence, are major occupational health and safety concerns for prostitutes. Considerable evidence shows that anti-prostitution laws facilitate violence and abuse against prostitutes and may increase their risk of contracting HIV/STDs. For example, police often take advantage of existing laws against prostitution to demand money or sex. In general, the strict enforcement of anti-prostitution l",
+    "description": "Preventing HIV infection and other sexually transmitted diseases (STDs), as well as sexual and physical violence, are major occupational health and safety concerns for prostitutes. Considerable evidence shows that anti-prostitution laws facilitate violence and abuse against prostitutes and may increase their risk of contracting HIV/STDs. For example, police often take advantage of existing laws against prostitution to demand money or sex. In general, the strict enforcement of anti-prostitution laws marginalizes prostitutes from services which could help them avoid abuse and promotes an environment in which prostitutes must take risks to avoid detection and arrest. One strategy to improve prostitutes' lives would therefore be to remove laws which prevent them from working safely and from travelling abroad to work legally. Projects in which prostitutes are actively involved have helped break down stereotypes against prostitutes, while police-sex worker liaison projects in Scotland and Australia have led to higher levels of reporting of crimes against prostitutes. The Network of Sex Work Projects (NSWP), an organization which links sex worker health programs around the world, has found that the incidence of HIV/STDs among prostitutes is lowest when they have control over their work conditions; access to condoms, lubricants, and other safe sex materials; and respect of their basic human and legal rights. People need to understand that consensual involvement in sex work is different from forced sex trafficking.",
+    "keywords": [
+      "sex trafficking",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "1998-06-18",
+        "event": "Published in Sexual health exchange",
+        "actor": "Ditmore M, Saunders P",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/12348692/"
+      }
+    ]
   },
   {
     "id": "res-kentucky--study-revealed-safe-harbor",

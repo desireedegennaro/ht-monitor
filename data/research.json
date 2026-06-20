@@ -226,6 +226,141 @@
     ]
   },
   {
+    "id": "ss-9f14f06b28e400c78ea9",
+    "type": "research",
+    "title": "Labor Trafficking of Immigrant Children: Gaps in the Social Work Literature.",
+    "identifier": "DOI: 10.1093/sw/swag032",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "labor"
+    ],
+    "published": "2026-05-30",
+    "latest_action_date": "2026-05-30",
+    "latest_action": "Published in Social work",
+    "authors": [
+      "Jeongsuk Kim",
+      "John Doering-White",
+      "Benjamin Roth",
+      "D. Clark",
+      "M. Velez"
+    ],
+    "journal": "Social work",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1093/sw/swag032",
+    "ss_id": "9f14f06b28e400c78ea9dd53028a70003ce1f66a",
+    "doi": "10.1093/sw/swag032",
+    "pmid": "42217200",
+    "summary": "Labor Trafficking of Immigrant Children: Gaps in the Social Work Literature.",
+    "description": "",
+    "keywords": [
+      "labor trafficking",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-05-30",
+        "event": "Published in Social work",
+        "actor": "Jeongsuk Kim, John Doering-White et al.",
+        "source_url": "https://doi.org/10.1093/sw/swag032"
+      }
+    ]
+  },
+  {
+    "id": "ss-52c69ec15a65ea4180ed",
+    "type": "research",
+    "title": "The impact of CEO power on modern slavery disclosures: an empirical investigation in Australian listed firms",
+    "identifier": "DOI: 10.1108/samamj-10-2024-0072",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2026-05-28",
+    "latest_action_date": "2026-05-28",
+    "latest_action": "Published in SAM Advanced Management Journal",
+    "authors": [
+      "Najeb Masoud"
+    ],
+    "journal": "SAM Advanced Management Journal",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1108/samamj-10-2024-0072",
+    "ss_id": "52c69ec15a65ea4180edb96c5b43874f30c78f62",
+    "doi": "10.1108/samamj-10-2024-0072",
+    "pmid": "",
+    "summary": "\n \n The purpose of this study is to examine the impact of chief executive officer (CEO) power on modern slavery disclosures (MSD) among Australian listed firms and to assess whether board gender diversity (BGD) moderates this relationship.\n \n \n \n The research utilises a robust data set from the Australian Stock Exchange (ASX 100) spanning 2017–2023. It uses content analysis and fixed-effects panel regression analysis. This methodology examines the interplay among CEO characteristics, board compo",
+    "description": "\n \n The purpose of this study is to examine the impact of chief executive officer (CEO) power on modern slavery disclosures (MSD) among Australian listed firms and to assess whether board gender diversity (BGD) moderates this relationship.\n \n \n \n The research utilises a robust data set from the Australian Stock Exchange (ASX 100) spanning 2017–2023. It uses content analysis and fixed-effects panel regression analysis. This methodology examines the interplay among CEO characteristics, board composition and MSD, thereby providing a comprehensive understanding of governance dynamics. Potential endogeneity (including reverse causality and omitted variable bias) is explicitly acknowledged and mitigated through lagged specifications and robustness checks, including alternative index specifications and additional estimators reported in the robustness section.\n \n \n \n The analysis reveals that heightened CEO power negatively influences MSD transparency, suggesting that more dominant CEOs may curtail disclosures to retain control and minimise external oversight. Conversely, a greater proportion of female board directors significantly mitigates this negative effect, supporting the critical mass theory. This theory posits that substantial female representation enhances governance and transparency.\n \n \n \n The study highlights the crucial role of board diversity in mitigating the adverse effects of concentrated CEO power. It advocates policy reforms to enhance board diversity, foster more ethical governance practices and improve transparency in corporate reporting on modern slavery. Implications extend beyond formal compliance to governance design that reduces symbolic reporting and strengthens due diligence, key performance indicator (KPI) monitoring and board-level accountability under mandatory disclosure regimes.\n \n \n \n This research contributes to the literature on corporate governance and ethical reporting by providing empirical evidence on the moderating role of BGD in the relationship between CEO power and MSD. It underscores the importance of gender diversity in enhancing corporate transparency and governance, offering valuable insights for policymakers, corporate strategists and scholars seeking to advance corporate ethics. Measurement transparency is strengthened by clarifying the MSD index’s alignment with the Australian Modern Slavery Act and by reporting validation procedures beyond internal reliability checks (e.g. pilot coding and inter-coder agreement).\n",
+    "keywords": [
+      "modern slavery"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-05-28",
+        "event": "Published in SAM Advanced Management Journal",
+        "actor": "Najeb Masoud",
+        "source_url": "https://doi.org/10.1108/samamj-10-2024-0072"
+      }
+    ]
+  },
+  {
+    "id": "ss-b0a981e9c658dc8bdbd6",
+    "type": "research",
+    "title": "Innovators and transformers: operationalizing AI in supply chains to combat forced labor",
+    "identifier": "DOI: 10.1108/ijpdlm-04-2025-0160",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "labor"
+    ],
+    "published": "2026-05-26",
+    "latest_action_date": "2026-05-26",
+    "latest_action": "Published in International Journal of Physical Distribution &amp; Logistics Management",
+    "authors": [
+      "Jamie Davis",
+      "Ashley Hall"
+    ],
+    "journal": "International Journal of Physical Distribution &amp; Logistics Management",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1108/ijpdlm-04-2025-0160",
+    "ss_id": "b0a981e9c658dc8bdbd685d214ef4bd2d7d2e563",
+    "doi": "10.1108/ijpdlm-04-2025-0160",
+    "pmid": "",
+    "summary": "\n \n With the increased use of global supply chains in order to secure necessary resources and lower costs, there is a growing concern regarding occurrences of human trafficking, specifically forced labor, in the supply chain. For this reason, supply chain visibility and transparency are crucial. The purpose of this study was to provide a starting point for considering how AI-powered technology can play a role in addressing forced labor in supply chains.\n \n \n \n The researchers used artificial int",
+    "description": "\n \n With the increased use of global supply chains in order to secure necessary resources and lower costs, there is a growing concern regarding occurrences of human trafficking, specifically forced labor, in the supply chain. For this reason, supply chain visibility and transparency are crucial. The purpose of this study was to provide a starting point for considering how AI-powered technology can play a role in addressing forced labor in supply chains.\n \n \n \n The researchers used artificial intelligence (AI) to enhance supply chain visibility. An AI-powered analytic tool called “Break Chain” was developed and tested. A mixed-methods action research approach was used where quantitative data analysis was integrated with qualitative action steps. This allowed for a more comprehensive understanding of the complex and multifaceted nature of supply chain dynamics.\n \n \n \n In this study, “Break Chain” was used to evaluate 50 businesses from various industries across Northeast Texas. “Break Chain” provided a dashboard visualization that synthesized the flagged data into an interactive interface. This allowed stakeholders to efficiently navigate and interpret complex datasets. The “Break Chain” technology also allowed for predictive modeling to forecast potential trafficking activities within corporate supply chains. This study found that the model had a precision rate of 91% and a recall rate of 87%, which point to “Break Chain's” calibrated sensitivity and specificity.\n \n \n \n “Break Chain” is an innovative example of how technology can be used to locate and predict instances of forced labor within supply chains.\n",
+    "keywords": [
+      "human trafficking",
+      "forced labor",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-05-26",
+        "event": "Published in International Journal of Physical Distribution &amp; Logistics Management",
+        "actor": "Jamie Davis, Ashley Hall",
+        "source_url": "https://doi.org/10.1108/ijpdlm-04-2025-0160"
+      }
+    ]
+  },
+  {
     "id": "pubmed-42124348",
     "type": "research",
     "title": "Community-Based Logic Model Development to Evaluate a Youth Sexual Exploitation Prevention Curriculum: A Mixed-Methods Study",
@@ -267,6 +402,140 @@
         "event": "Published in Journal of child sexual abuse",
         "actor": "Martin L, Davis A et al.",
         "source_url": "https://doi.org/10.1080/10538712.2026.2673329"
+      }
+    ]
+  },
+  {
+    "id": "ss-d4258c1164cfd50bc5cc",
+    "type": "research",
+    "title": "Impact of the UK Modern Slavery Act 2015 on a Global Scale: Results, Next Steps in the Fight against Modern Slavery, and Obstacles",
+    "identifier": "DOI: 10.1515/ijli-2025-0008",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2026-05-08",
+    "latest_action_date": "2026-05-08",
+    "latest_action": "Published in International Journal of Legal Information",
+    "authors": [
+      "Prakash Sharma",
+      "Kankana Das"
+    ],
+    "journal": "International Journal of Legal Information",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1515/ijli-2025-0008",
+    "ss_id": "d4258c1164cfd50bc5cc166cf853744c1c1f9f0c",
+    "doi": "10.1515/ijli-2025-0008",
+    "pmid": "",
+    "summary": "\n Modern slavery, encompassing many forms such as slavery, servitude, forced labor, sexual exploitation, and human trafficking, is a significant challenge to the rule of law worldwide. The United Kingdom (UK) Modern Slavery Act 2015 (MSA) was a pivotal advancement, establishing one of the first comprehensive legal frameworks to combat these offenses in the modern era. The MSA established new criminal offenses, increased penalties, including life imprisonment, and implemented robust mechanisms fo",
+    "description": "\n Modern slavery, encompassing many forms such as slavery, servitude, forced labor, sexual exploitation, and human trafficking, is a significant challenge to the rule of law worldwide. The United Kingdom (UK) Modern Slavery Act 2015 (MSA) was a pivotal advancement, establishing one of the first comprehensive legal frameworks to combat these offenses in the modern era. The MSA established new criminal offenses, increased penalties, including life imprisonment, and implemented robust mechanisms for wealth confiscation, victim restitution, and protection within the criminal justice system. The paper examines the influence of the MSA in addressing contemporary slavery, both in the UK and elsewhere. It analyzes the impact of the MSA on policy discourse, its influence on international legislative trends, and its role in enhancing corporate accountability within supply chains. The efficacy and long-term viability of key components, such as the creation of the Independent Anti-Slavery Commissioner position and protocols for victim support, are evaluated. The paper also examines the MSA’s contents and execution, underscoring the UK’s progressive leadership in anti-slavery initiatives and the act’s potential as a template for other countries. The research eventually examines the MSA’s progress and the difficulties and opportunities that await.",
+    "keywords": [
+      "human trafficking",
+      "forced labor",
+      "exploitation",
+      "modern slavery",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-05-08",
+        "event": "Published in International Journal of Legal Information",
+        "actor": "Prakash Sharma, Kankana Das",
+        "source_url": "https://doi.org/10.1515/ijli-2025-0008"
+      }
+    ]
+  },
+  {
+    "id": "ss-c150beafb074172ffda2",
+    "type": "research",
+    "title": "Improvement of anti-crisis management of an enterprise in the conditions of labor deficit due to forced migration",
+    "identifier": "DOI: 10.66556/2786-586x.53.hrytsan-v",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "labor"
+    ],
+    "published": "2026-04-25",
+    "latest_action_date": "2026-04-25",
+    "latest_action": "Published in Academic Visions",
+    "authors": [
+      "V. Hrytsan",
+      "Taras Moysa"
+    ],
+    "journal": "Academic Visions",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.66556/2786-586x.53.hrytsan-v",
+    "ss_id": "c150beafb074172ffda29ec915fb57a8754b3475",
+    "doi": "10.66556/2786-586x.53.hrytsan-v",
+    "pmid": "",
+    "summary": "The article examines the theoretical and applied aspects of improving enterprise crisis management under conditions of labor resource shortages caused by forced labor migration. It is substantiated that contemporary migration processes, driven by profound socio-economic and security challenges, generate a persistent labor shortage that has a systemic impact on enterprise performance, particularly on productivity, investment activity, and economic resilience. It is established that labor resource",
+    "description": "The article examines the theoretical and applied aspects of improving enterprise crisis management under conditions of labor resource shortages caused by forced labor migration. It is substantiated that contemporary migration processes, driven by profound socio-economic and security challenges, generate a persistent labor shortage that has a systemic impact on enterprise performance, particularly on productivity, investment activity, and economic resilience. It is established that labor resource scarcity is of a multiplicative nature and leads to the deterioration of enterprises' financial and economic results. Current scientific approaches to crisis management are generalized, and their limitations in addressing the factor of forced labor migration are identified. The necessity of transforming traditional management models toward greater adaptability, flexibility, and orientation to human resource risk management is demonstrated. As a result of the study, the most significant crisis management problems are identified, including the loss of qualified employees, increasing personnel costs, and declining labor productivity. Directions for improving the enterprise crisis management system are proposed, including the implementation of flexible employment forms, business process digitalization, development of internal human capital, and strategic workforce planning. An integrated crisis management model is developed, based on combining personnel risk assessment, crisis response planning, application of adaptive tools, and a monitoring and control system. It is proven that its implementation enhances managerial decision-making efficiency and ensures the economic resilience of enterprises under labor shortage conditions. The practical significance of the obtained results lies in their applicability for enterprises in adapting to current labor market challenges, as well as for public administration bodies in shaping employment and migration policies.",
+    "keywords": [
+      "forced labor"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-04-25",
+        "event": "Published in Academic Visions",
+        "actor": "V. Hrytsan, Taras Moysa",
+        "source_url": "https://doi.org/10.66556/2786-586x.53.hrytsan-v"
+      }
+    ]
+  },
+  {
+    "id": "ss-7e8814398e5a18628f7f",
+    "type": "research",
+    "title": "Impact article: how do we reduce domestic servitude risk in the developed world?",
+    "identifier": "DOI: 10.1108/scm-06-2025-0575",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2026-04-15",
+    "latest_action_date": "2026-04-15",
+    "latest_action": "Published in Supply Chain Management: An International Journal",
+    "authors": [
+      "Caroline Emberson"
+    ],
+    "journal": "Supply Chain Management: An International Journal",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1108/scm-06-2025-0575",
+    "ss_id": "7e8814398e5a18628f7f974e3d854e3a5de77b52",
+    "doi": "10.1108/scm-06-2025-0575",
+    "pmid": "",
+    "summary": "\n \n This paper aims to detail the policy impact arising from a series of interlocking studies designed to reduce the risk of domestic servitude, a severe form of modern slavery, within care work conducted in private households.\n \n \n \n Mixed methods were used including feminist participatory action research; comparative international case studies; prevalence estimation based upon respondent-driven sampling and network scale-up methods; and facilitated group problem solving techniques.\n \n \n \n Whil",
+    "description": "\n \n This paper aims to detail the policy impact arising from a series of interlocking studies designed to reduce the risk of domestic servitude, a severe form of modern slavery, within care work conducted in private households.\n \n \n \n Mixed methods were used including feminist participatory action research; comparative international case studies; prevalence estimation based upon respondent-driven sampling and network scale-up methods; and facilitated group problem solving techniques.\n \n \n \n While this impact pathway demonstrates that it is possible to amplify the voices of marginalised communities within public policy debates, such an approach also raises questions about the ethical implications of impact work, including how to ensure that the voices of other affected communities are acknowledged.\n \n \n \n This impact work includes the publication of modern slavery risk assessment and due diligence guidance, and a process for their local development, for commissioners and procurers of adult social care.\n \n \n \n Domestic servitude is a hidden phenomenon. Through engagement with those who deliver live-in care provision, this impact study aimed both to shed light on the risks that they face and increase their agency through direct training in research methods and community-based advocacy.\n \n \n \n This impact paper summarises a multi-faceted research approach to a complex and urgent social problem. It highlights the role public authorities, as state procurers and commissioners of adult social care, can play in the reduction of modern slavery risk in domestic settings and extends the understanding of the role of worker voice in identifying and amplifying the views of those engaged in care work in private household settings.\n",
+    "keywords": [
+      "modern slavery"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-04-15",
+        "event": "Published in Supply Chain Management: An International Journal",
+        "actor": "Caroline Emberson",
+        "source_url": "https://doi.org/10.1108/scm-06-2025-0575"
       }
     ]
   },
@@ -313,6 +582,95 @@
         "event": "Published in Journal of child sexual abuse",
         "actor": "O'Brien JE, Voller V et al.",
         "source_url": "https://doi.org/10.1080/10538712.2026.2641046"
+      }
+    ]
+  },
+  {
+    "id": "ss-2b92145adf26f73ab8ef",
+    "type": "research",
+    "title": "Legislative model for the crime of human trafficking for forced labor",
+    "identifier": "DOI: 10.37651/aujlps.2025.161214.1542",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "labor"
+    ],
+    "published": "2026-03-01",
+    "latest_action_date": "2026-03-01",
+    "latest_action": "Published in Journal of Anbar University for Law and Political Sciences",
+    "authors": [
+      "Qaid Dahash",
+      "Duaa H. Hassan"
+    ],
+    "journal": "Journal of Anbar University for Law and Political Sciences",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.37651/aujlps.2025.161214.1542",
+    "ss_id": "2b92145adf26f73ab8ef5e260226d9fcad6a0d15",
+    "doi": "10.37651/aujlps.2025.161214.1542",
+    "pmid": "",
+    "summary": ": The crime of human trafficking for the purpose of forced labor is one of the most dangerous crimes, as it is often committed by organized criminal groups that exploit human vulnerability, especially the weak categories such as women and children, who suffer from difficult and harsh conditions. These groups are more likely to be victims of trafficking. This crime is particularly serious due to its transnational nature and its organized perpetration by international gangs. As a result, many coun",
+    "description": ": The crime of human trafficking for the purpose of forced labor is one of the most dangerous crimes, as it is often committed by organized criminal groups that exploit human vulnerability, especially the weak categories such as women and children, who suffer from difficult and harsh conditions. These groups are more likely to be victims of trafficking. This crime is particularly serious due to its transnational nature and its organized perpetration by international gangs. As a result, many countries have attempted to confront it by issuing special laws aimed at combating this crime. In addition to national efforts, there shoud be international collaboration to combat and punish it criminally, and to protect those who are most vulnerable to this crime, especially women and children. Therefore, due to the seriousness of this crime, it must be addressed by issuing or amending appropriate provisions in the laws related to combating this crime, organizing its legal nature, and specifying the appropriate penalties for it. .",
+    "keywords": [
+      "human trafficking",
+      "forced labor",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-03-01",
+        "event": "Published in Journal of Anbar University for Law and Political Sciences",
+        "actor": "Qaid Dahash, Duaa H. Hassan",
+        "source_url": "https://doi.org/10.37651/aujlps.2025.161214.1542"
+      }
+    ]
+  },
+  {
+    "id": "ss-c7f7ee077d374d857a54",
+    "type": "research",
+    "title": "Legal Protection for Children Subjected to Forced Labor by Their Parents",
+    "identifier": "DOI: 10.62951/ijsl.v3i1.903",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "labor"
+    ],
+    "published": "2026-02-27",
+    "latest_action_date": "2026-02-27",
+    "latest_action": "Published in International Journal of Sociology and Law",
+    "authors": [
+      "Fauzi Anshari Sibarani"
+    ],
+    "journal": "International Journal of Sociology and Law",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.62951/ijsl.v3i1.903",
+    "ss_id": "c7f7ee077d374d857a5437f4821c0a8854dd6c38",
+    "doi": "10.62951/ijsl.v3i1.903",
+    "pmid": "",
+    "summary": "Forced labor of children by parents remains a serious issue in the protection of children's rights in Indonesia, especially when such practices are justified on the basis of family economic needs. This study aims to analyze the legal provisions protecting children by forced labor by parents and to examine the obstacles to law enforcement. The research method used is normative legal research by a literature review approach, through an examination of relevant laws, legal principles, and legal doct",
+    "description": "Forced labor of children by parents remains a serious issue in the protection of children's rights in Indonesia, especially when such practices are justified on the basis of family economic needs. This study aims to analyze the legal provisions protecting children by forced labor by parents and to examine the obstacles to law enforcement. The research method used is normative legal research by a literature review approach, through an examination of relevant laws, legal principles, and legal doctrines. The findings of the research intricate that, legal positive indonesia there are a good constitutional and juridical legal basis in context is 1945 Constitution of the Republic Indonesia, Child Protection Law, Manpower Law and Convention on The Rights of Children which that make forced child labor as an economic exploitation categorization is prohibited. But the success of legal protection continues to run up against both legal and sociological challenges, including the murky borderlines of forced labour within the family, the challenge of proving psychological coercion and poverty-nurtured cultural attitudes towards child labour. Therefore a comprehensive approach, including law enforcement and social policies based on the best child interest is necessary.",
+    "keywords": [
+      "forced labor",
+      "exploitation",
+      "coercion"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-02-27",
+        "event": "Published in International Journal of Sociology and Law",
+        "actor": "Fauzi Anshari Sibarani",
+        "source_url": "https://doi.org/10.62951/ijsl.v3i1.903"
       }
     ]
   },
@@ -499,6 +857,53 @@
     ]
   },
   {
+    "id": "ss-5cdf0aa63234bc4ba4ff",
+    "type": "research",
+    "title": "Forced Labor",
+    "identifier": "DOI: 10.32473/lhs.4.1.140832",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "labor"
+    ],
+    "published": "2026-01-11",
+    "latest_action_date": "2026-01-11",
+    "latest_action": "Published in Law, History, and Society",
+    "authors": [
+      "Eva Galleazzi Bruno"
+    ],
+    "journal": "Law, History, and Society",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.32473/lhs.4.1.140832",
+    "ss_id": "5cdf0aa63234bc4ba4ff7778511952f682ac7106",
+    "doi": "10.32473/lhs.4.1.140832",
+    "pmid": "",
+    "summary": "This paper examines how U.S. legislation seeks to combat forced labor embedded in global supply chains and evaluates the practical limits of corporate accountability. Through the Trafficking Victims Protection Act of 2000 and its subsequent reauthorizations, Congress has sought to address exploitation associated with heightened reliance on low-cost production in weak regulatory frame- works. The 2008 expansion of 18 U.S.C. § 1595 broadened civil liability beyond direct traffickers to “whoever kn",
+    "description": "This paper examines how U.S. legislation seeks to combat forced labor embedded in global supply chains and evaluates the practical limits of corporate accountability. Through the Trafficking Victims Protection Act of 2000 and its subsequent reauthorizations, Congress has sought to address exploitation associated with heightened reliance on low-cost production in weak regulatory frame- works. The 2008 expansion of 18 U.S.C. § 1595 broadened civil liability beyond direct traffickers to “whoever knowingly benefits,” adopting a constructive-notice standard to lower victims’ evidentiary burdens. To assess the law’s efficacy, the paper analyzes two illustrative case studies. In Coubaly v. Cargill, involving the major chocolate company Hershey, plaintiffs’ claims failed to find a traceable link between damages and the defendant-linked suppliers. In Doe v. Apple, plaintiffs cleared stand- ing for damages but lost on merits because routine buyer–seller relationships did not constitute “participation in a venture.” Collectively, these cases reveal a double bind: without specific traceability back to individual suppliers and the presence of venture-level ties, § 1595 claims falter. This analysis highlights a persistent gap between broad legislative policies and what courts require to impose civil liability, underscoring the challenges of enforcing corporate accountability in global supply chains.",
+    "keywords": [
+      "trafficking victims",
+      "forced labor",
+      "trafficking victims protection",
+      "exploitation",
+      "trafficking",
+      "1595"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-01-11",
+        "event": "Published in Law, History, and Society",
+        "actor": "Eva Galleazzi Bruno",
+        "source_url": "https://doi.org/10.32473/lhs.4.1.140832"
+      }
+    ]
+  },
+  {
     "id": "pubmed-40688747",
     "type": "research",
     "title": "Upholding the right to health of forcibly displaced children in Europe",
@@ -545,6 +950,12 @@
       },
       {
         "date": "2025-12-19",
+        "event": "Published in Public health in practice (Oxford, England)",
+        "actor": "Stevens A, Öcek Z et al.",
+        "source_url": "https://doi.org/10.1016/j.puhip.2025.100641"
+      },
+      {
+        "date": "2025-12-20",
         "event": "Published in Public health in practice (Oxford, England)",
         "actor": "Stevens A, Öcek Z et al.",
         "source_url": "https://doi.org/10.1016/j.puhip.2025.100641"
@@ -1835,6 +2246,12 @@
         "event": "Published in Trauma, violence & abuse",
         "actor": "Jannesari S, Damara B et al.",
         "source_url": "https://doi.org/10.1177/15248380231211955"
+      },
+      {
+        "date": "2024-07-20",
+        "event": "Published in Trauma, violence & abuse",
+        "actor": "Jannesari S, Damara B et al.",
+        "source_url": "https://doi.org/10.1177/15248380231211955"
       }
     ],
     "upcoming": [],
@@ -2423,6 +2840,12 @@
       },
       {
         "date": "2023-06-19",
+        "event": "Published in Frontiers in sports and active living",
+        "actor": "Oliver BJ, De Lisio A",
+        "source_url": "https://doi.org/10.3389/fspor.2023.1207595"
+      },
+      {
+        "date": "2023-06-20",
         "event": "Published in Frontiers in sports and active living",
         "actor": "Oliver BJ, De Lisio A",
         "source_url": "https://doi.org/10.3389/fspor.2023.1207595"
@@ -3139,6 +3562,12 @@
         "event": "Published in Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
         "actor": "Combs MA, Arnold T",
         "source_url": "https://doi.org/10.1177/08980101211045554"
+      },
+      {
+        "date": "2022-09-20",
+        "event": "Published in Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
+        "actor": "Combs MA, Arnold T",
+        "source_url": "https://doi.org/10.1177/08980101211045554"
       }
     ]
   },
@@ -3342,6 +3771,12 @@
       },
       {
         "date": "2022-04-19",
+        "event": "Published in Journal of interpersonal violence",
+        "actor": "Koegler E, Howland W et al.",
+        "source_url": "https://doi.org/10.1177/0886260520957978"
+      },
+      {
+        "date": "2022-04-20",
         "event": "Published in Journal of interpersonal violence",
         "actor": "Koegler E, Howland W et al.",
         "source_url": "https://doi.org/10.1177/0886260520957978"
@@ -4636,6 +5071,12 @@
         "event": "Published in Journal of sex research",
         "actor": "Reynolds C",
         "source_url": "https://doi.org/10.1080/00224499.2020.1786662"
+      },
+      {
+        "date": "2021-07-20",
+        "event": "Published in Journal of sex research",
+        "actor": "Reynolds C",
+        "source_url": "https://doi.org/10.1080/00224499.2020.1786662"
       }
     ]
   },
@@ -5701,6 +6142,12 @@
       },
       {
         "date": "2020-12-19",
+        "event": "Published in Nature",
+        "actor": "Witbooi E, Ali KD et al.",
+        "source_url": "https://doi.org/10.1038/s41586-020-2913-5"
+      },
+      {
+        "date": "2020-12-20",
         "event": "Published in Nature",
         "actor": "Witbooi E, Ali KD et al.",
         "source_url": "https://doi.org/10.1038/s41586-020-2913-5"

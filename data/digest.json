@@ -1,7 +1,180 @@
 {
-  "generated": "2026-06-19T16:01:29Z",
+  "generated": "2026-06-20T15:06:47Z",
   "period_days": 90,
-  "new": [],
+  "new": [
+    {
+      "id": "ss-9f14f06b28e400c78ea9",
+      "title": "Labor Trafficking of Immigrant Children: Gaps in the Social Work Literature.",
+      "type": "research",
+      "source": "Semantic Scholar",
+      "date": "2026-05-30",
+      "status": "Published",
+      "summary": "Labor Trafficking of Immigrant Children: Gaps in the Social Work Literature.",
+      "url": "https://doi.org/10.1093/sw/swag032",
+      "identifier": "DOI: 10.1093/sw/swag032",
+      "trafficking_types": [
+        "labor"
+      ],
+      "keywords": [
+        "labor trafficking",
+        "trafficking"
+      ]
+    },
+    {
+      "id": "ss-52c69ec15a65ea4180ed",
+      "title": "The impact of CEO power on modern slavery disclosures: an empirical investigation in Australian listed firms",
+      "type": "research",
+      "source": "Semantic Scholar",
+      "date": "2026-05-28",
+      "status": "Published",
+      "summary": "\n \n The purpose of this study is to examine the impact of chief executive officer (CEO) power on modern slavery disclosures (MSD) among Australian listed firms and to assess whether board gender diver",
+      "url": "https://doi.org/10.1108/samamj-10-2024-0072",
+      "identifier": "DOI: 10.1108/samamj-10-2024-0072",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "modern slavery"
+      ]
+    },
+    {
+      "id": "ss-b0a981e9c658dc8bdbd6",
+      "title": "Innovators and transformers: operationalizing AI in supply chains to combat forced labor",
+      "type": "research",
+      "source": "Semantic Scholar",
+      "date": "2026-05-26",
+      "status": "Published",
+      "summary": "\n \n With the increased use of global supply chains in order to secure necessary resources and lower costs, there is a growing concern regarding occurrences of human trafficking, specifically forced la",
+      "url": "https://doi.org/10.1108/ijpdlm-04-2025-0160",
+      "identifier": "DOI: 10.1108/ijpdlm-04-2025-0160",
+      "trafficking_types": [
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "forced labor",
+        "trafficking"
+      ]
+    },
+    {
+      "id": "ss-d4258c1164cfd50bc5cc",
+      "title": "Impact of the UK Modern Slavery Act 2015 on a Global Scale: Results, Next Steps in the Fight against Modern Slavery, and Obstacles",
+      "type": "research",
+      "source": "Semantic Scholar",
+      "date": "2026-05-08",
+      "status": "Published",
+      "summary": "\n Modern slavery, encompassing many forms such as slavery, servitude, forced labor, sexual exploitation, and human trafficking, is a significant challenge to the rule of law worldwide. The United King",
+      "url": "https://doi.org/10.1515/ijli-2025-0008",
+      "identifier": "DOI: 10.1515/ijli-2025-0008",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "forced labor",
+        "exploitation",
+        "modern slavery",
+        "trafficking"
+      ]
+    },
+    {
+      "id": "ss-c150beafb074172ffda2",
+      "title": "Improvement of anti-crisis management of an enterprise in the conditions of labor deficit due to forced migration",
+      "type": "research",
+      "source": "Semantic Scholar",
+      "date": "2026-04-25",
+      "status": "Published",
+      "summary": "The article examines the theoretical and applied aspects of improving enterprise crisis management under conditions of labor resource shortages caused by forced labor migration. It is substantiated th",
+      "url": "https://doi.org/10.66556/2786-586x.53.hrytsan-v",
+      "identifier": "DOI: 10.66556/2786-586x.53.hrytsan-v",
+      "trafficking_types": [
+        "labor"
+      ],
+      "keywords": [
+        "forced labor"
+      ]
+    },
+    {
+      "id": "ss-7e8814398e5a18628f7f",
+      "title": "Impact article: how do we reduce domestic servitude risk in the developed world?",
+      "type": "research",
+      "source": "Semantic Scholar",
+      "date": "2026-04-15",
+      "status": "Published",
+      "summary": "\n \n This paper aims to detail the policy impact arising from a series of interlocking studies designed to reduce the risk of domestic servitude, a severe form of modern slavery, within care work condu",
+      "url": "https://doi.org/10.1108/scm-06-2025-0575",
+      "identifier": "DOI: 10.1108/scm-06-2025-0575",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "modern slavery"
+      ]
+    },
+    {
+      "id": "ss-2b92145adf26f73ab8ef",
+      "title": "Legislative model for the crime of human trafficking for forced labor",
+      "type": "research",
+      "source": "Semantic Scholar",
+      "date": "2026-03-01",
+      "status": "Published",
+      "summary": ": The crime of human trafficking for the purpose of forced labor is one of the most dangerous crimes, as it is often committed by organized criminal groups that exploit human vulnerability, especially",
+      "url": "https://doi.org/10.37651/aujlps.2025.161214.1542",
+      "identifier": "DOI: 10.37651/aujlps.2025.161214.1542",
+      "trafficking_types": [
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "forced labor",
+        "trafficking"
+      ]
+    },
+    {
+      "id": "ss-c7f7ee077d374d857a54",
+      "title": "Legal Protection for Children Subjected to Forced Labor by Their Parents",
+      "type": "research",
+      "source": "Semantic Scholar",
+      "date": "2026-02-27",
+      "status": "Published",
+      "summary": "Forced labor of children by parents remains a serious issue in the protection of children's rights in Indonesia, especially when such practices are justified on the basis of family economic needs. Thi",
+      "url": "https://doi.org/10.62951/ijsl.v3i1.903",
+      "identifier": "DOI: 10.62951/ijsl.v3i1.903",
+      "trafficking_types": [
+        "labor"
+      ],
+      "keywords": [
+        "forced labor",
+        "exploitation",
+        "coercion"
+      ]
+    },
+    {
+      "id": "ss-5cdf0aa63234bc4ba4ff",
+      "title": "Forced Labor",
+      "type": "research",
+      "source": "Semantic Scholar",
+      "date": "2026-01-11",
+      "status": "Published",
+      "summary": "This paper examines how U.S. legislation seeks to combat forced labor embedded in global supply chains and evaluates the practical limits of corporate accountability. Through the Trafficking Victims P",
+      "url": "https://doi.org/10.32473/lhs.4.1.140832",
+      "identifier": "DOI: 10.32473/lhs.4.1.140832",
+      "trafficking_types": [
+        "labor"
+      ],
+      "keywords": [
+        "trafficking victims",
+        "forced labor",
+        "trafficking victims protection",
+        "exploitation",
+        "trafficking",
+        "1595"
+      ]
+    }
+  ],
   "updated": [
     {
       "id": "pubmed-40688747",
@@ -155,7 +328,7 @@
   ],
   "counts": {
     "new_legislation": 0,
-    "new_research": 0,
+    "new_research": 9,
     "updated_legislation": 0,
     "updated_research": 7
   }

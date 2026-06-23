@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-22T17:31:25Z",
-  "last_fetched_congress": "2026-06-22T17:31:25Z",
-  "last_fetched_federal_register": "2026-06-22T17:31:25Z",
-  "last_fetched_overton": "2026-06-22T17:31:25Z",
+  "last_updated": "2026-06-23T15:49:11Z",
+  "last_fetched_congress": "2026-06-23T15:49:11Z",
+  "last_fetched_federal_register": "2026-06-23T15:49:11Z",
+  "last_fetched_overton": "2026-06-23T15:49:11Z",
   "counts": {
     "legislation": 85,
     "regulatory": 26,
     "lawsuit": 40,
-    "research": 197
+    "research": 200
   },
   "version": "1.0.0",
   "sources": [
@@ -19,7 +19,7 @@
     "DOJ",
     "State Legislatures"
   ],
-  "last_fetched_pubmed": "2026-06-22T17:31:25Z",
-  "last_fetched_semantic_scholar": "2026-06-22T17:31:25Z",
-  "last_fetched_government_rss": "2026-06-22T17:31:25Z"
+  "last_fetched_pubmed": "2026-06-23T15:49:11Z",
+  "last_fetched_semantic_scholar": "2026-06-23T15:49:11Z",
+  "last_fetched_government_rss": "2026-06-23T15:49:11Z"
 }

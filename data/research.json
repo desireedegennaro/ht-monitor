@@ -27,7 +27,7 @@
     "pmid": "41955821",
     "doi": "10.1016/j.socscimed.2026.119243",
     "summary": "The role of parental consent: Implications for surveying minors who experience or are at risk for commercial sexual exploitation in the United States",
-    "description": "",
+    "description": "The commercial sexual exploitation (CSE) of young people is a significant public health concern. In response to this problem, research is needed to identify risk factors for youth exploitation, to examine system responses, and to evaluate the effectiveness of prevention efforts. Due to the sensitive nature of such research and the potential harm to young people if their experiences of exploitation are disclosed, it is important to consider how youth who are victims of CSEC or at high risk for victimization perceive their participation in research, including the impact of parental consent requirements.",
     "keywords": [
       "exploitation",
       "commercial sexual exploitation"
@@ -38,6 +38,12 @@
     "updates": [
       {
         "date": "2026-07-18",
+        "event": "Published in Social science & medicine (1982)",
+        "actor": "Lockwood S, Wagner A et al.",
+        "source_url": "https://doi.org/10.1016/j.socscimed.2026.119243"
+      },
+      {
+        "date": "2026-07-23",
         "event": "Published in Social science & medicine (1982)",
         "actor": "Lockwood S, Wagner A et al.",
         "source_url": "https://doi.org/10.1016/j.socscimed.2026.119243"
@@ -71,7 +77,7 @@
     "pmid": "40417985",
     "doi": "10.1177/08862605251336355",
     "summary": "Building the Evidence on Preventing Youth Commercial Sexual Exploitation: A Nonrandomized, Quasi-experimental Evaluation of the Not a Number Trafficking Prevention Program",
-    "description": "",
+    "description": "Few evaluations have been conducted of trafficking and educational programs aimed at reducing commercial sexual exploitation (CSE) and trafficking of youth, despite the growing implementation of these programs across the United States. The current study uses a quasi-experimental design to evaluate the",
     "keywords": [
       "exploitation",
       "commercial sexual exploitation",
@@ -83,6 +89,12 @@
     "updates": [
       {
         "date": "2026-06-18",
+        "event": "Published in Journal of interpersonal violence",
+        "actor": "Jones LM, O'Brien JE et al.",
+        "source_url": "https://doi.org/10.1177/08862605251336355"
+      },
+      {
+        "date": "2026-06-23",
         "event": "Published in Journal of interpersonal violence",
         "actor": "Jones LM, O'Brien JE et al.",
         "source_url": "https://doi.org/10.1177/08862605251336355"
@@ -115,7 +127,7 @@
     "pmid": "42088011",
     "doi": "10.3389/fpsyt.2026.1773818",
     "summary": "Policy implications for halting human trafficking and sexual exploitation at U.S. colleges and universities: results from a 12-campus survey",
-    "description": "",
+    "description": "Human trafficking is a priority concern in the U.S, but few research studies have investigated the nature and extent of its occurrence on U.S. college campuses nor strategies to stop it. The objective of this research was to identify its occurrence (force/coercion/fraud into sex exchanges for something of monetary or other value) among college students in San Diego County and Imperial Valley, California, where some of the highest documented rates of human trafficking occur nationally, and its implications for policy.",
     "keywords": [
       "human trafficking",
       "exploitation",
@@ -127,6 +139,12 @@
     "updates": [
       {
         "date": "2026-06-18",
+        "event": "Published in Frontiers in psychiatry",
+        "actor": "Urada LA, Weitensteiner A",
+        "source_url": "https://doi.org/10.3389/fpsyt.2026.1773818"
+      },
+      {
+        "date": "2026-06-23",
         "event": "Published in Frontiers in psychiatry",
         "actor": "Urada LA, Weitensteiner A",
         "source_url": "https://doi.org/10.3389/fpsyt.2026.1773818"
@@ -163,7 +181,7 @@
     "pmid": "41965947",
     "doi": "10.1016/j.chiabu.2026.108033",
     "summary": "Mental health and psychological vulnerabilities in the context of technology-facilitated child sexual exploitation and abuse: A systematic evidence review",
-    "description": "",
+    "description": "Technology-facilitated child sexual exploitation and abuse (TF-CSEA) represents a growing global threat, with over 300 million children affected worldwide. While research has documented severe psychological consequences of victimisation, specific mental health vulnerabilities that can be associated with increased likelihood of TF-CSEA remain poorly understood, limiting prevention efforts.",
     "keywords": [
       "exploitation"
     ],
@@ -173,6 +191,12 @@
     "updates": [
       {
         "date": "2026-06-18",
+        "event": "Published in Child abuse & neglect",
+        "actor": "Page S, Notté E et al.",
+        "source_url": "https://doi.org/10.1016/j.chiabu.2026.108033"
+      },
+      {
+        "date": "2026-06-23",
         "event": "Published in Child abuse & neglect",
         "actor": "Page S, Notté E et al.",
         "source_url": "https://doi.org/10.1016/j.chiabu.2026.108033"
@@ -497,6 +521,95 @@
     ]
   },
   {
+    "id": "pubmed-38935209",
+    "type": "research",
+    "title": "Commercially Sexually Exploited Adolescent Girls: The Association Between Externalizing Disorders and Parental Incarceration with Suicide Attempts",
+    "identifier": "PMID: 38935209 | DOI: 10.1007/s10578-024-01730-1",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "2026-04-23",
+    "latest_action_date": "2026-04-23",
+    "latest_action": "Published in Child psychiatry and human development",
+    "authors": [
+      "Schiff SJ",
+      "Meza J",
+      "Bath E",
+      "Lee SS"
+    ],
+    "journal": "Child psychiatry and human development",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1007/s10578-024-01730-1",
+    "pmid": "38935209",
+    "doi": "10.1007/s10578-024-01730-1",
+    "summary": "Commercial sexual exploitation (CSE) is a significant public health concern disproportionately affecting ethnoracially minoritized girls. Despite strong associations of CSE with suicide attempts, little is known about correlates of suicide among girls with CSE histories. Elevated rates of externalizing disorders (i.e., attention-deficit/hyperactivity disorder [ADHD], disruptive behavior disorders [DBD], conduct disorder [CD]) were observed among CSE youth, particularly in ethnoracially minoritiz",
+    "description": "Commercial sexual exploitation (CSE) is a significant public health concern disproportionately affecting ethnoracially minoritized girls. Despite strong associations of CSE with suicide attempts, little is known about correlates of suicide among girls with CSE histories. Elevated rates of externalizing disorders (i.e., attention-deficit/hyperactivity disorder [ADHD], disruptive behavior disorders [DBD], conduct disorder [CD]) were observed among CSE youth, particularly in ethnoracially minoritized samples. Youth with CSE histories are frequently affected by parental incarceration, which is correlated with risk for suicide attempts. We tested cross-sectional simultaneous associations of externalizing disorders and parental incarceration with number of suicide attempts among 360 ethnoracially diverse girls affected by CSE (Mean age = 18.86). ADHD, DBD, and maternal incarceration were positively associated with number of suicide attempts. Findings implicate clinical/familial correlates of suicide attempts in this marginalized group, suggesting early suicide prevention efforts may improve traction on this problem by focusing on individual and family level factors.",
+    "keywords": [
+      "exploitation",
+      "commercial sexual exploitation"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-04-23",
+        "event": "Published in Child psychiatry and human development",
+        "actor": "Schiff SJ, Meza J et al.",
+        "source_url": "https://doi.org/10.1007/s10578-024-01730-1"
+      }
+    ]
+  },
+  {
+    "id": "pubmed-41999382",
+    "type": "research",
+    "title": "Risk Factors Associated Image-Based Sexual Abuse in Childhood: Findings From a Diverse Sample of Young Adults",
+    "identifier": "PMID: 41999382 | DOI: 10.1177/10775595261444571",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "2026-04-18",
+    "latest_action_date": "2026-04-18",
+    "latest_action": "Published in Child maltreatment",
+    "authors": [
+      "Turner HA",
+      "Mitchell KJ",
+      "Finkelhor D"
+    ],
+    "journal": "Child maltreatment",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1177/10775595261444571",
+    "pmid": "41999382",
+    "doi": "10.1177/10775595261444571",
+    "summary": "Advancements in digital communication and imaging technologies have created new avenues for online victimization of youth, including image-based sexual abuse (IBSA). Based on an online survey of 2,652 young adults ages 18-29, the current study examined characteristics of different forms of IBSA experienced before the age of 18 (nonconsensual sending of images, threatened/pressured production, threatened sharing, self-produced image-sharing with someone older, commercial sexual exploitation) and ",
+    "description": "Advancements in digital communication and imaging technologies have created new avenues for online victimization of youth, including image-based sexual abuse (IBSA). Based on an online survey of 2,652 young adults ages 18-29, the current study examined characteristics of different forms of IBSA experienced before the age of 18 (nonconsensual sending of images, threatened/pressured production, threatened sharing, self-produced image-sharing with someone older, commercial sexual exploitation) and risk factors among different sexual and gender identity groups. Findings show that most forms of IBSA start at ages 13-15, are frequent in occurrence, are interrelated, and differ across sexual and gender identity, with sexual and gender minority (SGM) female individuals most likely to be exposed. Several important risk factors were significantly related to experiencing any IBSA but differed in their relevance across different sexual and gender identity groups. For example, in-person sexual abuse and social networks' image-sharing with strangers had particularly strong associations with IBSA among SGM male individuals, early sexual initiation was most strongly related to IBSA among heterosexual female individuals, and peer norms favoring sexual image-sharing with friends/acquaintances had the strongest association to IBSA among SGM female individuals. Implications for youth-targeted prevention strategies are discussed.",
+    "keywords": [
+      "exploitation",
+      "commercial sexual exploitation"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-04-18",
+        "event": "Published in Child maltreatment",
+        "actor": "Turner HA, Mitchell KJ et al.",
+        "source_url": "https://doi.org/10.1177/10775595261444571"
+      }
+    ]
+  },
+  {
     "id": "ss-7e8814398e5a18628f7f",
     "type": "research",
     "title": "Impact article: how do we reduce domestic servitude risk in the developed world?",
@@ -768,6 +881,49 @@
     ]
   },
   {
+    "id": "pubmed-41349265",
+    "type": "research",
+    "title": "A review on forensic profiling of rhinoceros horn",
+    "identifier": "PMID: 41349265 | DOI: 10.1016/j.forsciint.2025.112762",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "labor"
+    ],
+    "published": "2026-01-23",
+    "latest_action_date": "2026-01-23",
+    "latest_action": "Published in Forensic science international",
+    "authors": [
+      "Linde J",
+      "Augustyn WA",
+      "Tembu VJ"
+    ],
+    "journal": "Forensic science international",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1016/j.forsciint.2025.112762",
+    "pmid": "41349265",
+    "doi": "10.1016/j.forsciint.2025.112762",
+    "summary": "The relentless escalation of rhinoceros horn trafficking represents a profound and immediate threat to the survival of rhinoceros populations across Africa and Asia. This illicit trade, driven by persistent demand in certain consumer markets, undermines global conservation efforts and poses significant challenges for law enforcement agencies worldwide. This review comprehensively explores the pivotal role of forensic profiling as an indispensable tool in combating rhino horn trafficking. Forensi",
+    "description": "The relentless escalation of rhinoceros horn trafficking represents a profound and immediate threat to the survival of rhinoceros populations across Africa and Asia. This illicit trade, driven by persistent demand in certain consumer markets, undermines global conservation efforts and poses significant challenges for law enforcement agencies worldwide. This review comprehensively explores the pivotal role of forensic profiling as an indispensable tool in combating rhino horn trafficking. Forensic profiling, by applying advanced scientific methodologies to analyse the unique chemical, physical, and molecular signatures inherent to rhino horn offers critical capabilities in the detection of concealed contraband. Profiling can be used for the authentication of genuine horn against widespread counterfeits, and the increasingly sophisticated geographical sourcing of seized materials. This multi-faceted scientific approach could not only provide robust, admissible evidence for prosecution, but also generate vital intelligence to inform strategic interventions, disrupt illicit supply chains, and ultimately contribute to the long-term conservation of these endangered mega-herbivores.",
+    "keywords": [
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-01-23",
+        "event": "Published in Forensic science international",
+        "actor": "Linde J, Augustyn WA et al.",
+        "source_url": "https://doi.org/10.1016/j.forsciint.2025.112762"
+      }
+    ]
+  },
+  {
     "id": "pubmed-34424650",
     "type": "research",
     "title": "Texas Human Trafficking",
@@ -805,6 +961,12 @@
     "updates": [
       {
         "date": "2026-01-18",
+        "event": "Published",
+        "actor": "Ladd M, Jones EB",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/34424650/"
+      },
+      {
+        "date": "2026-01-23",
         "event": "Published",
         "actor": "Ladd M, Jones EB",
         "source_url": "https://pubmed.ncbi.nlm.nih.gov/34424650/"
@@ -850,6 +1012,12 @@
     "updates": [
       {
         "date": "2026-01-18",
+        "event": "Published",
+        "actor": "Toney-Butler TJ, Ladd M et al.",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/28613660/"
+      },
+      {
+        "date": "2026-01-23",
         "event": "Published",
         "actor": "Toney-Butler TJ, Ladd M et al.",
         "source_url": "https://pubmed.ncbi.nlm.nih.gov/28613660/"
@@ -1843,6 +2011,12 @@
         "event": "Published in Animal genetics",
         "actor": "Kanthaswamy S",
         "source_url": "https://doi.org/10.1111/age.13390"
+      },
+      {
+        "date": "2024-04-23",
+        "event": "Published in Animal genetics",
+        "actor": "Kanthaswamy S",
+        "source_url": "https://doi.org/10.1111/age.13390"
       }
     ]
   },
@@ -2261,6 +2435,12 @@
       },
       {
         "date": "2024-07-22",
+        "event": "Published in Trauma, violence & abuse",
+        "actor": "Jannesari S, Damara B et al.",
+        "source_url": "https://doi.org/10.1177/15248380231211955"
+      },
+      {
+        "date": "2024-07-23",
         "event": "Published in Trauma, violence & abuse",
         "actor": "Jannesari S, Damara B et al.",
         "source_url": "https://doi.org/10.1177/15248380231211955"
@@ -2803,6 +2983,12 @@
     "updates": [
       {
         "date": "2023-07-18",
+        "event": "Published in Trauma, violence & abuse",
+        "actor": "Macy RJ, Klein LB et al.",
+        "source_url": "https://doi.org/10.1177/15248380211057273"
+      },
+      {
+        "date": "2023-07-23",
         "event": "Published in Trauma, violence & abuse",
         "actor": "Macy RJ, Klein LB et al.",
         "source_url": "https://doi.org/10.1177/15248380211057273"
@@ -4945,6 +5131,12 @@
         "event": "Published in Child abuse & neglect",
         "actor": "Brubacher SP, van Doore KE et al.",
         "source_url": "https://doi.org/10.1016/j.chiabu.2021.105222"
+      },
+      {
+        "date": "2021-10-23",
+        "event": "Published in Child abuse & neglect",
+        "actor": "Brubacher SP, van Doore KE et al.",
+        "source_url": "https://doi.org/10.1016/j.chiabu.2021.105222"
       }
     ]
   },
@@ -7048,6 +7240,12 @@
     "updates": [
       {
         "date": "2019-09-18",
+        "event": "Published in International journal of public health",
+        "actor": "Iglesias-Rios L, Harlow SD et al.",
+        "source_url": "https://doi.org/10.1007/s00038-019-01269-2"
+      },
+      {
+        "date": "2019-09-23",
         "event": "Published in International journal of public health",
         "actor": "Iglesias-Rios L, Harlow SD et al.",
         "source_url": "https://doi.org/10.1007/s00038-019-01269-2"

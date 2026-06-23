@@ -1,8 +1,179 @@
 {
-  "generated": "2026-06-22T17:31:25Z",
+  "generated": "2026-06-23T15:49:11Z",
   "period_days": 90,
-  "new": [],
+  "new": [
+    {
+      "id": "pubmed-38935209",
+      "title": "Commercially Sexually Exploited Adolescent Girls: The Association Between Externalizing Disorders and Parental Incarceration with Suicide Attempts",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-04-23",
+      "status": "Published",
+      "summary": "Commercial sexual exploitation (CSE) is a significant public health concern disproportionately affecting ethnoracially minoritized girls. Despite strong associations of CSE with suicide attempts, litt",
+      "url": "https://doi.org/10.1007/s10578-024-01730-1",
+      "identifier": "PMID: 38935209 | DOI: 10.1007/s10578-024-01730-1",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "exploitation",
+        "commercial sexual exploitation"
+      ]
+    },
+    {
+      "id": "pubmed-41999382",
+      "title": "Risk Factors Associated Image-Based Sexual Abuse in Childhood: Findings From a Diverse Sample of Young Adults",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-04-18",
+      "status": "Published",
+      "summary": "Advancements in digital communication and imaging technologies have created new avenues for online victimization of youth, including image-based sexual abuse (IBSA). Based on an online survey of 2,652",
+      "url": "https://doi.org/10.1177/10775595261444571",
+      "identifier": "PMID: 41999382 | DOI: 10.1177/10775595261444571",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "exploitation",
+        "commercial sexual exploitation"
+      ]
+    },
+    {
+      "id": "pubmed-41349265",
+      "title": "A review on forensic profiling of rhinoceros horn",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-01-23",
+      "status": "Published",
+      "summary": "The relentless escalation of rhinoceros horn trafficking represents a profound and immediate threat to the survival of rhinoceros populations across Africa and Asia. This illicit trade, driven by pers",
+      "url": "https://doi.org/10.1016/j.forsciint.2025.112762",
+      "identifier": "PMID: 41349265 | DOI: 10.1016/j.forsciint.2025.112762",
+      "trafficking_types": [
+        "labor"
+      ],
+      "keywords": [
+        "trafficking"
+      ]
+    }
+  ],
   "updated": [
+    {
+      "id": "pubmed-41955821",
+      "title": "The role of parental consent: Implications for surveying minors who experience or are at risk for commercial sexual exploitation in the United States",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-07-18",
+      "status": "Published",
+      "summary": "The role of parental consent: Implications for surveying minors who experience or are at risk for commercial sexual exploitation in the United States",
+      "url": "https://doi.org/10.1016/j.socscimed.2026.119243",
+      "identifier": "PMID: 41955821 | DOI: 10.1016/j.socscimed.2026.119243",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "exploitation",
+        "commercial sexual exploitation"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-41965947",
+      "title": "Mental health and psychological vulnerabilities in the context of technology-facilitated child sexual exploitation and abuse: A systematic evidence review",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-06-18",
+      "status": "Published",
+      "summary": "Mental health and psychological vulnerabilities in the context of technology-facilitated child sexual exploitation and abuse: A systematic evidence review",
+      "url": "https://doi.org/10.1016/j.chiabu.2026.108033",
+      "identifier": "PMID: 41965947 | DOI: 10.1016/j.chiabu.2026.108033",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "exploitation"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-40417985",
+      "title": "Building the Evidence on Preventing Youth Commercial Sexual Exploitation: A Nonrandomized, Quasi-experimental Evaluation of the Not a Number Trafficking Prevention Program",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-06-18",
+      "status": "Published",
+      "summary": "Building the Evidence on Preventing Youth Commercial Sexual Exploitation: A Nonrandomized, Quasi-experimental Evaluation of the Not a Number Trafficking Prevention Program",
+      "url": "https://doi.org/10.1177/08862605251336355",
+      "identifier": "PMID: 40417985 | DOI: 10.1177/08862605251336355",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "exploitation",
+        "commercial sexual exploitation",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-42088011",
+      "title": "Policy implications for halting human trafficking and sexual exploitation at U.S. colleges and universities: results from a 12-campus survey",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-06-18",
+      "status": "Published",
+      "summary": "Policy implications for halting human trafficking and sexual exploitation at U.S. colleges and universities: results from a 12-campus survey",
+      "url": "https://doi.org/10.3389/fpsyt.2026.1773818",
+      "identifier": "PMID: 42088011 | DOI: 10.3389/fpsyt.2026.1773818",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "human trafficking",
+        "exploitation",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-34424650",
+      "title": "Texas Human Trafficking",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-01-18",
+      "status": "Published",
+      "summary": "Texas Human Trafficking",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34424650/",
+      "identifier": "PMID: 34424650",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-28613660",
+      "title": "Human Trafficking",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-01-18",
+      "status": "Published",
+      "summary": "Human Trafficking",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28613660/",
+      "identifier": "PMID: 28613660",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
     {
       "id": "res-s-2024-modern-slavery-core-outcome",
       "title": "Modern Slavery Core Outcome Set (MSCOS) Report",
@@ -23,12 +194,90 @@
         "trafficking"
       ],
       "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-38123142",
+      "title": "Review: Wildlife forensic genetics-Biological evidence, DNA markers, analytical approaches, and challenges",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2024-04-18",
+      "status": "Published",
+      "summary": "Wildlife-related crimes are the second most prevalent lawbreaking offense globally. This illicit trade encompasses hunting, breeding and trafficking. Besides diminishing many species and their habitat",
+      "url": "https://doi.org/10.1111/age.13390",
+      "identifier": "PMID: 38123142 | DOI: 10.1111/age.13390",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-34930040",
+      "title": "A Scoping Review of Human Trafficking Screening and Response",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2023-07-18",
+      "status": "Published",
+      "summary": "Service providers are increasingly asked to identify individuals who are experiencing trafficking and to connect them with resources and support. Nonetheless, identification is complicated by the real",
+      "url": "https://doi.org/10.1177/15248380211057273",
+      "identifier": "PMID: 34930040 | DOI: 10.1177/15248380211057273",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-34364174",
+      "title": "Responding to orphanage trafficking from an information gathering perspective",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2021-10-18",
+      "status": "Published",
+      "summary": "Estimates suggest that close to 3 million institutionalized children internationally have some family to whom they could go home. A proportion of these children is recruited from their communities und",
+      "url": "https://doi.org/10.1016/j.chiabu.2021.105222",
+      "identifier": "PMID: 34364174 | DOI: 10.1016/j.chiabu.2021.105222",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "trafficking victims",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-31243470",
+      "title": "Gender differences in the association of living and working conditions and the mental health of trafficking survivors",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2019-09-18",
+      "status": "Published",
+      "summary": "To assess the association of living and working conditions experienced during trafficking with mental health of female and male survivors.",
+      "url": "https://doi.org/10.1007/s00038-019-01269-2",
+      "identifier": "PMID: 31243470 | DOI: 10.1007/s00038-019-01269-2",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "trafficking"
+      ],
+      "update_summary": "Updated"
     }
   ],
   "counts": {
     "new_legislation": 0,
-    "new_research": 0,
+    "new_research": 3,
     "updated_legislation": 0,
-    "updated_research": 1
+    "updated_research": 11
   }
 }

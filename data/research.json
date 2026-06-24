@@ -47,6 +47,12 @@
         "event": "Published in Social science & medicine (1982)",
         "actor": "Lockwood S, Wagner A et al.",
         "source_url": "https://doi.org/10.1016/j.socscimed.2026.119243"
+      },
+      {
+        "date": "2026-07-24",
+        "event": "Published in Social science & medicine (1982)",
+        "actor": "Lockwood S, Wagner A et al.",
+        "source_url": "https://doi.org/10.1016/j.socscimed.2026.119243"
       }
     ]
   },
@@ -98,6 +104,12 @@
         "event": "Published in Journal of interpersonal violence",
         "actor": "Jones LM, O'Brien JE et al.",
         "source_url": "https://doi.org/10.1177/08862605251336355"
+      },
+      {
+        "date": "2026-06-24",
+        "event": "Published in Journal of interpersonal violence",
+        "actor": "Jones LM, O'Brien JE et al.",
+        "source_url": "https://doi.org/10.1177/08862605251336355"
       }
     ]
   },
@@ -145,6 +157,12 @@
       },
       {
         "date": "2026-06-23",
+        "event": "Published in Frontiers in psychiatry",
+        "actor": "Urada LA, Weitensteiner A",
+        "source_url": "https://doi.org/10.3389/fpsyt.2026.1773818"
+      },
+      {
+        "date": "2026-06-24",
         "event": "Published in Frontiers in psychiatry",
         "actor": "Urada LA, Weitensteiner A",
         "source_url": "https://doi.org/10.3389/fpsyt.2026.1773818"
@@ -200,6 +218,12 @@
         "event": "Published in Child abuse & neglect",
         "actor": "Page S, Notté E et al.",
         "source_url": "https://doi.org/10.1016/j.chiabu.2026.108033"
+      },
+      {
+        "date": "2026-06-24",
+        "event": "Published in Child abuse & neglect",
+        "actor": "Page S, Notté E et al.",
+        "source_url": "https://doi.org/10.1016/j.chiabu.2026.108033"
       }
     ]
   },
@@ -250,6 +274,55 @@
     ]
   },
   {
+    "id": "ss-daf16e6cd6b720e1f771",
+    "type": "research",
+    "title": "Interventions to Support Substance Use Recovery Among Human Trafficking Survivors: A Scoping Review.",
+    "identifier": "DOI: 10.1080/26408066.2026.2680234",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "labor"
+    ],
+    "published": "2026-05-31",
+    "latest_action_date": "2026-05-31",
+    "latest_action": "Published in Journal of evidence-based social work",
+    "authors": [
+      "N. Dell",
+      "Theresa Anasti",
+      "L. M. Grimes",
+      "Victoria O. Ogbeifun",
+      "Angela Hardi",
+      "Lindsay B. Gezinski"
+    ],
+    "journal": "Journal of evidence-based social work",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1080/26408066.2026.2680234",
+    "ss_id": "daf16e6cd6b720e1f77188742fbb279de28fdc8d",
+    "doi": "10.1080/26408066.2026.2680234",
+    "pmid": "42218621",
+    "summary": "OBJECTIVE\nSubstance use disorder (SUD) and substance misuse are commonly reported among survivors of human trafficking. This scoping review identifies current empirical research on substance use treatment, harm reduction, and recovery support services for survivors.\n\n\nMETHODS\nReviewers searched Ovid-Medline All, Embase.com, CINAHL Plus, Scopus, and Web of Science and conducted forward and backward citation searching of studies that included child, adolescent, or adult sex or labor trafficking su",
+    "description": "OBJECTIVE\nSubstance use disorder (SUD) and substance misuse are commonly reported among survivors of human trafficking. This scoping review identifies current empirical research on substance use treatment, harm reduction, and recovery support services for survivors.\n\n\nMETHODS\nReviewers searched Ovid-Medline All, Embase.com, CINAHL Plus, Scopus, and Web of Science and conducted forward and backward citation searching of studies that included child, adolescent, or adult sex or labor trafficking survivors, tested a specific intervention to promote substance use recovery, and reported substance use disorder or substance misuse-related outcomes. Two reviewers screened title/abstracts, screened full texts, and extracted data. Reviewers coded bibliographic information, participant characteristics, study design, intervention characteristics, and primary substance use-related outcomes. Data elements were narratively summarized.\n\n\nRESULTS\nSix studies, published between 2010 and 2025, were included in this review. Two programs were based in specialty courts in the United States for trafficked youth, whereas the other four were multi-modal (housing, health services, basic needs) nonprofit hospital- or community-based programs in the US (n = 3) and Israel (n = 1). Substance use outcomes were defined through self-reported frequency of use (n = 3), case manager-rated measures (n = 2), and case records (n = 1).\n\n\nCONCLUSIONS AND IMPLICATIONS\nFew research or evaluation studies were identified that assessed substance use-related outcomes for survivors in treatment programs. Standardized assessments of substance use, context of use, and related problems were not commonly used. Evaluation of evidence-based psychosocial interventions for SUD is warranted to identify potential adaptations that would support substance use recovery among survivors.",
+    "keywords": [
+      "human trafficking",
+      "labor trafficking",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-05-31",
+        "event": "Published in Journal of evidence-based social work",
+        "actor": "N. Dell, Theresa Anasti et al.",
+        "source_url": "https://doi.org/10.1080/26408066.2026.2680234"
+      }
+    ]
+  },
+  {
     "id": "ss-9f14f06b28e400c78ea9",
     "type": "research",
     "title": "Labor Trafficking of Immigrant Children: Gaps in the Social Work Literature.",
@@ -293,6 +366,52 @@
         "event": "Published in Social work",
         "actor": "Jeongsuk Kim, John Doering-White et al.",
         "source_url": "https://doi.org/10.1093/sw/swag032"
+      }
+    ]
+  },
+  {
+    "id": "ss-a951e610d5cf3872ee35",
+    "type": "research",
+    "title": "Co‐Designing a Care Pathway for Healthcare Professionals to Recognise and Respond to Human Trafficking Victims in Emergency Departments",
+    "identifier": "DOI: 10.1111/hex.70709",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2026-05-29",
+    "latest_action_date": "2026-05-29",
+    "latest_action": "Published in Health Expectations : An International Journal of Public Participation in Health Care and Health Policy",
+    "authors": [
+      "Leanne van Rooy",
+      "C. Filmalter"
+    ],
+    "journal": "Health Expectations : An International Journal of Public Participation in Health Care and Health Policy",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1111/hex.70709",
+    "ss_id": "a951e610d5cf3872ee357490d7be92bf190998bd",
+    "doi": "10.1111/hex.70709",
+    "pmid": "42212536",
+    "summary": "ABSTRACT Background Victims of human trafficking frequently present to emergency departments (EDs) while being exploited; however, many remain unrecognised by healthcare professionals. Creating spaces where survivors and healthcare professionals can engage provided a unique opportunity to generate a care pathway which increases the likelihood of implementation as the needs and expectations of the victim and healthcare professionals are considered. Objective To describe the process and outcome of",
+    "description": "ABSTRACT Background Victims of human trafficking frequently present to emergency departments (EDs) while being exploited; however, many remain unrecognised by healthcare professionals. Creating spaces where survivors and healthcare professionals can engage provided a unique opportunity to generate a care pathway which increases the likelihood of implementation as the needs and expectations of the victim and healthcare professionals are considered. Objective To describe the process and outcome of experience‐based co‐design of a care pathway that enables healthcare professionals to recognise and respond to human trafficking victims in EDs. Design Experience‐based co‐design. Setting and Participants Twenty‐seven individuals participated in two co‐design events. The in‐person event included six registered nurses, one social worker, three trauma counsellors, one psychologist and four survivors. Twelve participants took part in a virtual event, comprising six medical doctors, two pre‐hospital medical personnel, one counsellor, one psychologist and two survivors. Intervention Data from the co‐design events were analysed using a creative hermeneutic approach. Co‐designers generated the care pathway using data from a mapping review, interviews with victims of human trafficking and focus groups with healthcare professionals. Results The in‐person group identified five themes, including education, safety, alertness, compassion, nurturing and action. The online event highlighted information sharing, special victim champion, safety and security, primary response and awareness. The themes were combined into three main themes, namely education and awareness, safety and security and human disposition, underpinned by compassion, non‐judgement, trustworthiness and trauma‐informed care. Conclusions The co‐designed care pathway prioritises education and awareness to help healthcare professionals recognise and respond to potential trafficking victims in EDs. The care process can be initiated using ‘Code Orange’, supporting coordinated, interprofessional and comprehensive interventions. Using a person‐centred, trauma‐informed approach, the care pathway emphasises safety, security and compassion for both victims and healthcare professionals. Patient or Public Contribution Survivors and healthcare professionals co‐designed the care pathway.",
+    "keywords": [
+      "human trafficking",
+      "trafficking victims",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-05-29",
+        "event": "Published in Health Expectations : An International Journal of Public Participation in Health Care and Health Policy",
+        "actor": "Leanne van Rooy, C. Filmalter",
+        "source_url": "https://doi.org/10.1111/hex.70709"
       }
     ]
   },
@@ -381,6 +500,97 @@
         "event": "Published in International Journal of Physical Distribution &amp; Logistics Management",
         "actor": "Jamie Davis, Ashley Hall",
         "source_url": "https://doi.org/10.1108/ijpdlm-04-2025-0160"
+      }
+    ]
+  },
+  {
+    "id": "ss-cd01015e12a894d8e491",
+    "type": "research",
+    "title": "Psychosocial Counseling for Human Trafficking in Palangka Raya",
+    "identifier": "DOI: 10.58578/aldyas.v5i2.10251",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "2026-05-24",
+    "latest_action_date": "2026-05-24",
+    "latest_action": "Published in Al-DYAS",
+    "authors": [
+      "Gusti Rahma Nurhaifa",
+      "Nor Fatmah"
+    ],
+    "journal": "Al-DYAS",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.58578/aldyas.v5i2.10251",
+    "ss_id": "cd01015e12a894d8e49119ef534a353146c620c7",
+    "doi": "10.58578/aldyas.v5i2.10251",
+    "pmid": "",
+    "summary": "This community-service study examines the role of psychosocial counseling in supporting the psychological and social recovery of women involved in commercial sex work (CSW) linked to human trafficking in Indonesia. Using a participatory and trauma-informed design, trained counselors implemented a needs-based program integrating individual trauma-focused cognitive behavioral therapy, brief psychosocial stabilization, coping-skills training, and rights-literacy awareness, accompanied by referrals ",
+    "description": "This community-service study examines the role of psychosocial counseling in supporting the psychological and social recovery of women involved in commercial sex work (CSW) linked to human trafficking in Indonesia. Using a participatory and trauma-informed design, trained counselors implemented a needs-based program integrating individual trauma-focused cognitive behavioral therapy, brief psychosocial stabilization, coping-skills training, and rights-literacy awareness, accompanied by referrals to legal, health, and social-protection services. Participants were identified through partner coordination and screened for psychosocial needs, while outcomes were monitored through session notes, pre–post brief instruments, satisfaction evaluations, and follow-up activities. A case subject, a widowed single mother who entered CSW due to post-divorce economic pressure and limited social support, illustrates the structural drivers of vulnerability, including poverty, social isolation, and informal recruitment, as well as multilayered harms such as shame, guilt, anxiety, emotional suppression, and somatic complaints. The findings indicate that counseling fostered empathetic therapeutic relationships, emotional validation, psychoeducation, and practical coping techniques, resulting in reduced emotional suppression, greater openness, improved coping capacity, emerging hope, and initial planning toward safer livelihoods. However, the findings also show that trauma-informed psychosocial counseling, while contributing meaningful short-term psychosocial gains, is insufficient as a standalone intervention. Durable recovery requires integrated responses that address structural determinants, including economic alternatives, confidential welfare access, and coordinated multi-sector referrals. This study contributes to victim recovery and community-based psychosocial intervention literature by highlighting the importance of embedding counseling within gender-sensitive, trauma-oriented service models. Larger-sample evaluations using standardized measures and longer follow-up are needed to assess the effectiveness and cost-effectiveness of combined psychosocial and structural interventions.",
+    "keywords": [
+      "human trafficking",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-05-24",
+        "event": "Published in Al-DYAS",
+        "actor": "Gusti Rahma Nurhaifa, Nor Fatmah",
+        "source_url": "https://doi.org/10.58578/aldyas.v5i2.10251"
+      }
+    ]
+  },
+  {
+    "id": "ss-beb9c58d066e9801dd48",
+    "type": "research",
+    "title": "Addressing human trafficking in health care settings: Simulation and interprofessional education strategies.",
+    "identifier": "DOI: 10.1097/nsg.0000000000000395",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2026-05-18",
+    "latest_action_date": "2026-05-18",
+    "latest_action": "Published in Nursing",
+    "authors": [
+      "Meredith Scannell",
+      "Rachel A. Brandes",
+      "Shay Granville",
+      "E. Brady"
+    ],
+    "journal": "Nursing",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1097/nsg.0000000000000395",
+    "ss_id": "beb9c58d066e9801dd484108c75b7a9589ee3ed6",
+    "doi": "10.1097/nsg.0000000000000395",
+    "pmid": "42144670",
+    "summary": "ABSTRACT\nHuman trafficking is a violation of human rights and a global public health crisis with many victims sustaining acute and long-term injuries as well as mental health disorders. Victims face multifaceted barriers to recovery, including restricted health care access, intense fear of retribution, and the profound psychological manipulation exerted by traffickers. However, most victims will seek health care services at some point during their captivity making health care professionals pivot",
+    "description": "ABSTRACT\nHuman trafficking is a violation of human rights and a global public health crisis with many victims sustaining acute and long-term injuries as well as mental health disorders. Victims face multifaceted barriers to recovery, including restricted health care access, intense fear of retribution, and the profound psychological manipulation exerted by traffickers. However, most victims will seek health care services at some point during their captivity making health care professionals pivotal as \"frontline\" responders. Despite this critical role, a significant gap exists in professional preparedness. Many health care professionals have not received adequate education or specialized training to detect the indicators or to navigate the complexities of intervention. To bridge this gap, developing robust, evidence-based education programs is essential for all health care professionals.This article explores the necessity of targeted human trafficking training, with a specific focus on simulation-based education. Simulation offers a high-fidelity, low-risk environment where health care professionals can practice clinical identification, communication strategies, and interdisciplinary coordination. By mimicking real-world clinical encounters, simulation-based training empowers professionals to address the vast and complex needs survivors effectively. Also discussed are various simulation-based training programs, highlighting their efficacy in improving clinician confidence and patient outcomes in regards to victims of human trafficking.",
+    "keywords": [
+      "human trafficking",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-05-18",
+        "event": "Published in Nursing",
+        "actor": "Meredith Scannell, Rachel A. Brandes et al.",
+        "source_url": "https://doi.org/10.1097/nsg.0000000000000395"
       }
     ]
   },
@@ -1172,6 +1382,12 @@
         "event": "Published in Medical science educator",
         "actor": "Weaver MM, Nagy H et al.",
         "source_url": "https://doi.org/10.1007/s40670-025-02489-3"
+      },
+      {
+        "date": "2025-12-24",
+        "event": "Published in Medical science educator",
+        "actor": "Weaver MM, Nagy H et al.",
+        "source_url": "https://doi.org/10.1007/s40670-025-02489-3"
       }
     ]
   },
@@ -1214,6 +1430,12 @@
     "updates": [
       {
         "date": "2025-11-18",
+        "event": "Published in Child abuse & neglect",
+        "actor": "Mitchell KJ, Jones LM et al.",
+        "source_url": "https://doi.org/10.1016/j.chiabu.2025.107619"
+      },
+      {
+        "date": "2025-11-24",
         "event": "Published in Child abuse & neglect",
         "actor": "Mitchell KJ, Jones LM et al.",
         "source_url": "https://doi.org/10.1016/j.chiabu.2025.107619"
@@ -1809,6 +2031,12 @@
         "event": "Published in Indian journal of psychiatry",
         "actor": "Shamsudeen S, Gupta P et al.",
         "source_url": "https://doi.org/10.4103/indianjpsychiatry.indianjpsychiatry_248_24"
+      },
+      {
+        "date": "2024-10-24",
+        "event": "Published in Indian journal of psychiatry",
+        "actor": "Shamsudeen S, Gupta P et al.",
+        "source_url": "https://doi.org/10.4103/indianjpsychiatry.indianjpsychiatry_248_24"
       }
     ]
   },
@@ -1966,6 +2194,12 @@
     "updates": [
       {
         "date": "2024-06-18",
+        "event": "Published in Psychology, crime & law : PC & L",
+        "actor": "Winks KMH, Lundon GM et al.",
+        "source_url": "https://doi.org/10.1080/1068316x.2022.2139377"
+      },
+      {
+        "date": "2024-06-24",
         "event": "Published in Psychology, crime & law : PC & L",
         "actor": "Winks KMH, Lundon GM et al.",
         "source_url": "https://doi.org/10.1080/1068316x.2022.2139377"
@@ -2441,6 +2675,12 @@
       },
       {
         "date": "2024-07-23",
+        "event": "Published in Trauma, violence & abuse",
+        "actor": "Jannesari S, Damara B et al.",
+        "source_url": "https://doi.org/10.1177/15248380231211955"
+      },
+      {
+        "date": "2024-07-24",
         "event": "Published in Trauma, violence & abuse",
         "actor": "Jannesari S, Damara B et al.",
         "source_url": "https://doi.org/10.1177/15248380231211955"
@@ -2935,6 +3175,12 @@
     "updates": [
       {
         "date": "2023-11-18",
+        "event": "Published in The Journal of adolescent health : official publication of the Society for Adolescent Medicine",
+        "actor": "Lindahl J, Riese A et al.",
+        "source_url": "https://doi.org/10.1016/j.jadohealth.2023.06.011"
+      },
+      {
+        "date": "2023-11-24",
         "event": "Published in The Journal of adolescent health : official publication of the Society for Adolescent Medicine",
         "actor": "Lindahl J, Riese A et al.",
         "source_url": "https://doi.org/10.1016/j.jadohealth.2023.06.011"
@@ -3707,6 +3953,12 @@
         "event": "Published in International emergency nursing",
         "actor": "Murphy MC",
         "source_url": "https://doi.org/10.1016/j.ienj.2022.101228"
+      },
+      {
+        "date": "2022-11-24",
+        "event": "Published in International emergency nursing",
+        "actor": "Murphy MC",
+        "source_url": "https://doi.org/10.1016/j.ienj.2022.101228"
       }
     ]
   },
@@ -3763,6 +4015,12 @@
       },
       {
         "date": "2022-09-20",
+        "event": "Published in Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
+        "actor": "Combs MA, Arnold T",
+        "source_url": "https://doi.org/10.1177/08980101211045554"
+      },
+      {
+        "date": "2022-09-24",
         "event": "Published in Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
         "actor": "Combs MA, Arnold T",
         "source_url": "https://doi.org/10.1177/08980101211045554"
@@ -4020,6 +4278,12 @@
     "updates": [
       {
         "date": "2022-04-18",
+        "event": "Published in Child abuse & neglect",
+        "actor": "Nichols AJ, Gerassi LB et al.",
+        "source_url": "https://doi.org/10.1016/j.chiabu.2022.105521"
+      },
+      {
+        "date": "2022-04-24",
         "event": "Published in Child abuse & neglect",
         "actor": "Nichols AJ, Gerassi LB et al.",
         "source_url": "https://doi.org/10.1016/j.chiabu.2022.105521"

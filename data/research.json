@@ -688,6 +688,54 @@
     ]
   },
   {
+    "id": "ss-c3fcf9e4fbde88c8699a",
+    "type": "research",
+    "title": "The offender’s intent and the victim’s apparent consent in the crime of human trafficking: an analysis from the perspective of legal psychology",
+    "identifier": "DOI: 10.33422/ssmeconf.v3i1.1778",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2026-04-28",
+    "latest_action_date": "2026-04-28",
+    "latest_action": "Published in Proceedings of The International Conference on Social Sciences in the Modern Era",
+    "authors": [
+      "Mihaela Rus",
+      "C. Băiceanu"
+    ],
+    "journal": "Proceedings of The International Conference on Social Sciences in the Modern Era",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.33422/ssmeconf.v3i1.1778",
+    "ss_id": "c3fcf9e4fbde88c8699abf528097326a9ff8d581",
+    "doi": "10.33422/ssmeconf.v3i1.1778",
+    "pmid": "",
+    "summary": "Human trafficking is a complex criminal phenomenon that cannot be fully understood through legal analysis alone, as it involves profound psychological dynamics affecting both offenders and victims. This article explores the subjective dimension of the offence of human trafficking by examining the offender’s intent and the victim’s apparent consent from the perspective of legal psychology. While criminal law frameworks, including international and European instruments, formally establish the irre",
+    "description": "Human trafficking is a complex criminal phenomenon that cannot be fully understood through legal analysis alone, as it involves profound psychological dynamics affecting both offenders and victims. This article explores the subjective dimension of the offence of human trafficking by examining the offender’s intent and the victim’s apparent consent from the perspective of legal psychology. While criminal law frameworks, including international and European instruments, formally establish the irrelevance of victim consent when coercive or abusive means are employed, judicial practice continues to reveal uncertainty in interpreting situations in which victims appear to cooperate or initially consent to recruitment or exploitation. \nThe central research question guiding this analysis concerns how the offender’s intent and the victim’s apparent consent should be understood through psychological mechanisms in order to support accurate legal qualification and effective victim protection. From a legal psychology standpoint, the offender’s intent is conceptualized as a deliberate cognitive–volitional process that involves anticipating, exploiting, and maintaining control over the victim by leveraging vulnerability, dependency, and psychological manipulation. Apparent consent, in turn, is examined as a behavioral outcome shaped by constrained choice rather than genuine autonomy, often resulting from processes such as trauma bonding, learned helplessness, emotional dependence, or survival-oriented compliance. \nBy integrating psychological theories of coercion, decision-making under constraint, and victim behavior with legal reasoning, the article highlights the risk of misinterpretation when apparent consent is assessed without considering the underlying psychological context. The analysis emphasizes the importance of recognizing psychological coercion as a key factor in evaluating criminal intent and victim behavior. The article concludes that a legal psychology approach is essential for preventing secondary victimization, improving evidentiary assessment, and ensuring that the application of anti-trafficking laws aligns with both psychological reality and human-rights-based standards.",
+    "keywords": [
+      "human trafficking",
+      "exploitation",
+      "anti-trafficking",
+      "coercion",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-04-28",
+        "event": "Published in Proceedings of The International Conference on Social Sciences in the Modern Era",
+        "actor": "Mihaela Rus, C. Băiceanu",
+        "source_url": "https://doi.org/10.33422/ssmeconf.v3i1.1778"
+      }
+    ]
+  },
+  {
     "id": "ss-c150beafb074172ffda2",
     "type": "research",
     "title": "Improvement of anti-crisis management of an enterprise in the conditions of labor deficit due to forced migration",
@@ -859,6 +907,100 @@
         "event": "Published in Supply Chain Management: An International Journal",
         "actor": "Caroline Emberson",
         "source_url": "https://doi.org/10.1108/scm-06-2025-0575"
+      }
+    ]
+  },
+  {
+    "id": "ss-93f4e92a8e842da191ef",
+    "type": "research",
+    "title": "Abstract 144:\n In vivo\n CAR mRNA engineering of both adaptive and myeloid cells enables potent anti-tumor control of solid cancers.",
+    "identifier": "DOI: 10.1158/1538-7445.am2026-144",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2026-04-03",
+    "latest_action_date": "2026-04-03",
+    "latest_action": "Published in Cancer Research",
+    "authors": [
+      "Junming Tong",
+      "Moore Z. Chen",
+      "K. Sek",
+      "Meghan Harris",
+      "J. Chal",
+      "Colin W. Pouton"
+    ],
+    "journal": "Cancer Research",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1158/1538-7445.am2026-144",
+    "ss_id": "93f4e92a8e842da191efbbbed5a70f4a92d963ff",
+    "doi": "10.1158/1538-7445.am2026-144",
+    "pmid": "",
+    "summary": "\n \n \n In solid tumors, chimeric antigen receptor (CAR) T cell therapies are limited by their inability to overcome poor trafficking, antigen heterogeneity and the immunosuppressive myeloid cells in the tumor microenvironment (TME). Here, we introduce in vivo multi-immune cell programming designed to precisely and simultaneously program multiple immune cell types using a single engineered product. This approach builds on the clinical experience with in vivo CAR-mRNA engineered CAR myeloid cells t",
+    "description": "\n \n \n In solid tumors, chimeric antigen receptor (CAR) T cell therapies are limited by their inability to overcome poor trafficking, antigen heterogeneity and the immunosuppressive myeloid cells in the tumor microenvironment (TME). Here, we introduce in vivo multi-immune cell programming designed to precisely and simultaneously program multiple immune cell types using a single engineered product. This approach builds on the clinical experience with in vivo CAR-mRNA engineered CAR myeloid cells that created a pro-inflammatory tumor environment. Combining non-targeted and targeted LNP delivery, optimized mRNA, and cell-specific CAR architecture, we endow myeloid cells, NK cells and T cells with tailored effector functions.\n \n \n \n Anti-HER2 CAR mRNAs optimised for myeloid, NK or T cell signalling were encapsulated in LNPs and delivered intravenously. Anti-tumor efficacy was evaluated in immunocompetent hHER2 transgenic mice bearing syngeneic hHER2-MC38 colon adenocarcinoma tumors.\n \n \n \n In a colorectal tumor model, myeloid- and NK-cell reprogramming with CAR mRNA/LNPs drove tumor regression, prolonged survival, remodeling of the tumor microenvironment, greater antigen presentation, and enhanced T-cell infiltration and activation. Likewise, T cell engineered with CAR mRNA/tLNPs elicited robust anti-tumor activity. Notably, co-delivery of cell-specific CAR mRNA/LNPs to both myeloid and T-cell compartments produced even stronger tumor control, highlighting the power of coordinated multi-lineage immune engineering.\n \n \n \n This work demonstrates that simultaneous In vivo engineering of myeloid cells, T cells, and NK cells with CARs can orchestrate the coordinated actions of both innate and adaptive immunity for potent anti-tumor activity. This strategy offers a scalable and off-the-shelf approach for cell therapy and establishes a new therapeutic paradigm for overcoming the complexity of solid tumors.\n \n \n \n Junming Tong, Moore Chen, Kevin Sek, Meghan Harris, Jerome Chal, Colin Pouton, Angus Johnston, Daniel Getts, Robert Hofmeister, Phil Darcy, Jian Ding. In vivo CAR mRNA engineering of both adaptive and myeloid cells enables potent anti-tumor control of solid cancers [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2026; Part 1 (Regular Abstracts); 2026 Apr 17-22; San Diego, CA. Philadelphia (PA): AACR; Cancer Res 2026;86(7 Suppl):Abstract nr 144.\n",
+    "keywords": [
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-04-03",
+        "event": "Published in Cancer Research",
+        "actor": "Junming Tong, Moore Z. Chen et al.",
+        "source_url": "https://doi.org/10.1158/1538-7445.am2026-144"
+      }
+    ]
+  },
+  {
+    "id": "ss-590c557a610d91f6ec9f",
+    "type": "research",
+    "title": "Childhood adversity and sex trafficking experiences linked to economic and psychological outcomes for U.S. survivors of commercial sexual exploitation",
+    "identifier": "DOI: 10.3389/fpsyt.2026.1774509",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "2026-03-13",
+    "latest_action_date": "2026-03-13",
+    "latest_action": "Published in Frontiers in Psychiatry",
+    "authors": [
+      "Courtney Furlong",
+      "J. B. Hinnant"
+    ],
+    "journal": "Frontiers in Psychiatry",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.3389/fpsyt.2026.1774509",
+    "ss_id": "590c557a610d91f6ec9f81b80206eda4f574a8e2",
+    "doi": "10.3389/fpsyt.2026.1774509",
+    "pmid": "41908120",
+    "summary": "Introduction This investigation sought to develop a deeper understanding of the lived experiences of survivors of commercial sexual exploitation by considering the links between childhood background, trafficking experiences, and outcomes. Methods To that end, 350 survivors of commercial sexual exploitation living in the US were surveyed. Guided by ecological and life course frameworks, variables included adverse childhood experiences, socioeconomic disadvantage, educational achievement, traffick",
+    "description": "Introduction This investigation sought to develop a deeper understanding of the lived experiences of survivors of commercial sexual exploitation by considering the links between childhood background, trafficking experiences, and outcomes. Methods To that end, 350 survivors of commercial sexual exploitation living in the US were surveyed. Guided by ecological and life course frameworks, variables included adverse childhood experiences, socioeconomic disadvantage, educational achievement, trafficking experiences, and several outcomes, including income, employment status, posttraumatic stress symptoms, dignity, and sobriety. Results Results suggested that adverse childhood experiences were strongly linked to more severe exploitation and poorer outcomes. Educational achievement improved income and employment without reducing trafficking severity. Socioeconomic disadvantage showed no significant risk, contradicting prior research. Further, more severe trafficking experiences were significantly linked to poorer economic stability. Findings went on to suggest that trafficking-related experiences may play a mediating role in the negative effects of early adversity on income, employment, and sobriety. Discussion This investigation highlights the diverse and individualized needs of survivors of commercial sexual exploitation, indicating that tailored interventions are essential for addressing the complex interplay of childhood adversity, trafficking experiences, and recovery trajectories.",
+    "keywords": [
+      "sex trafficking",
+      "exploitation",
+      "commercial sexual exploitation",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-03-13",
+        "event": "Published in Frontiers in Psychiatry",
+        "actor": "Courtney Furlong, J. B. Hinnant",
+        "source_url": "https://doi.org/10.3389/fpsyt.2026.1774509"
       }
     ]
   },
@@ -1040,6 +1182,51 @@
         "event": "Published in Child maltreatment",
         "actor": "Kafafian M, de Vries I et al.",
         "source_url": "https://doi.org/10.1177/10775595251327745"
+      }
+    ]
+  },
+  {
+    "id": "ss-8d46e9cf82be8aeba331",
+    "type": "research",
+    "title": "LEGAL DISCREPANCIES IN COMBATING HUMAN TRAFFICKING IN CENTRAL ASIA: AN ANALYSIS OF THE IMPACT OF LEGISLATIVE DIVERGENCES ON INTERSTATE COOPERATION AND THE EFFECTIVENESS OF LAW ENFORCEMENT MEASURES",
+    "identifier": "DOI: 10.63776/medlaw2025.44.4.bagiamikamilova",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2026-01-31",
+    "latest_action_date": "2026-01-31",
+    "latest_action": "Published in Medicine and Law",
+    "authors": [
+      "Begimai Kamilova"
+    ],
+    "journal": "Medicine and Law",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.63776/medlaw2025.44.4.bagiamikamilova",
+    "ss_id": "8d46e9cf82be8aeba33142469847ff31b8727df1",
+    "doi": "10.63776/medlaw2025.44.4.bagiamikamilova",
+    "pmid": "",
+    "summary": "The objective of this study was to analyse legal discrepancies in the anti-human trafficking legislation of Central Asian countries and assess their impact on the efficacy of interstate cooperation and law enforcement in the region. The research employed a comprehensive methodology, encompassing a comparative legal analysis of national legislative frameworks in Tajikistan, Uzbekistan, Kazakhstan, and Kyrgyz Republic, an evaluation of their compliance with key international standards such as the ",
+    "description": "The objective of this study was to analyse legal discrepancies in the anti-human trafficking legislation of Central Asian countries and assess their impact on the efficacy of interstate cooperation and law enforcement in the region. The research employed a comprehensive methodology, encompassing a comparative legal analysis of national legislative frameworks in Tajikistan, Uzbekistan, Kazakhstan, and Kyrgyz Republic, an evaluation of their compliance with key international standards such as the UN Convention against Transnational Organized Crime, and an examination of secondary data from reports by international organisations and regional agreements. Despite legislative updates in Tajikistan, Uzbekistan, Kyrgyz Republic, and Kazakhstan aimed at implementing international norms, the study established that significant disparities persist in the definition and classification of various forms of exploitation. A notable gap was identified between formal legislative provisions and actual law enforcement practices. This was evidenced by inconsistent application of the non-punishment principle for victims, systemic barriers to victims’ access to justice and compensation, and insufficient investigative efficacy, particularly concerning labour exploitation, which, according to global data, remains one of the predominant forms (39% of detected cases in 2020). Additionally, an alarming increase in trafficking for forced criminal activity (up to 8% in 2022) was observed. While a marginal rise in the identification of male victims was recorded (up to 23% globally in 2020), women and girls continued to constitute the majority of victims (61% in 2022). The study demonstrated that the identified legal discrepancies directly hinder effective cross-border cooperation among Central Asian states, complicating information exchange, mutual legal assistance, and the prosecution of offenders. Based on the analysis, comprehensive recommendations were formulated to harmonise legislation, improve law enforcement practices and regional cooperation, and enhance victim protection in Central Asia. Keywords: Harmonisation of Norms; Victim Protection; Cross-border Crime; implementation of Standards; Regional Cooperation.",
+    "keywords": [
+      "human trafficking",
+      "exploitation",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-01-31",
+        "event": "Published in Medicine and Law",
+        "actor": "Begimai Kamilova",
+        "source_url": "https://doi.org/10.63776/medlaw2025.44.4.bagiamikamilova"
       }
     ]
   },
@@ -1278,6 +1465,51 @@
         "event": "Published in Law, History, and Society",
         "actor": "Eva Galleazzi Bruno",
         "source_url": "https://doi.org/10.32473/lhs.4.1.140832"
+      }
+    ]
+  },
+  {
+    "id": "ss-3d0ab6176ae4ee0e16cf",
+    "type": "research",
+    "title": "The Intersection of Criminal Laws and Research about Sex Trafficking in Canada ",
+    "identifier": "DOI: 10.2139/ssrn.6154047",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "2026-01-01",
+    "latest_action_date": "2026-01-01",
+    "latest_action": "Published in SSRN Electronic Journal",
+    "authors": [
+      "Debra Haak"
+    ],
+    "journal": "SSRN Electronic Journal",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.2139/ssrn.6154047",
+    "ss_id": "3d0ab6176ae4ee0e16cf74d56d5f68e99cec5f70",
+    "doi": "10.2139/ssrn.6154047",
+    "pmid": "",
+    "summary": "Courts increasingly look to experts to provide them with evidence about the social world. In enacting new criminal prostitution laws in 2014, Parliament recognized the link between prostitution and human trafficking. However, the body of peer-reviewed empirical literature published in the first 7 years after those laws came into force focusses almost entirely on sex work and reveals little about the experiences of trafficked populations, instead taking a generally critical posture towards both t",
+    "description": "Courts increasingly look to experts to provide them with evidence about the social world. In enacting new criminal prostitution laws in 2014, Parliament recognized the link between prostitution and human trafficking. However, the body of peer-reviewed empirical literature published in the first 7 years after those laws came into force focusses almost entirely on sex work and reveals little about the experiences of trafficked populations, instead taking a generally critical posture towards both the criminal prostitution laws and anti-trafficking efforts. These gaps in the literature mean that evidence about a population directly relevant to Parliament in enacting the new laws may not be available to judges tasked with evaluating the constitutionality of those laws. This chapter focusses on the intersection of Canadian criminal laws that target sex trafficking and peer-reviewed empirical research about prostitution, sex work, and sex trafficking in Canada published between 2014 and 2021, concluding with suggestions for researchers, and for legal decision makers tasked with interpreting, applying, and evaluating the constitutionality of Canada's current criminal prostitution laws.",
+    "keywords": [
+      "human trafficking",
+      "sex trafficking",
+      "anti-trafficking",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-01-01",
+        "event": "Published in SSRN Electronic Journal",
+        "actor": "Debra Haak",
+        "source_url": "https://doi.org/10.2139/ssrn.6154047"
       }
     ]
   },
@@ -2203,6 +2435,12 @@
         "event": "Published in Psychology, crime & law : PC & L",
         "actor": "Winks KMH, Lundon GM et al.",
         "source_url": "https://doi.org/10.1080/1068316x.2022.2139377"
+      },
+      {
+        "date": "2024-06-25",
+        "event": "Published in Psychology, crime & law : PC & L",
+        "actor": "Winks KMH, Lundon GM et al.",
+        "source_url": "https://doi.org/10.1080/1068316x.2022.2139377"
       }
     ]
   },
@@ -2681,6 +2919,12 @@
       },
       {
         "date": "2024-07-24",
+        "event": "Published in Trauma, violence & abuse",
+        "actor": "Jannesari S, Damara B et al.",
+        "source_url": "https://doi.org/10.1177/15248380231211955"
+      },
+      {
+        "date": "2024-07-25",
         "event": "Published in Trauma, violence & abuse",
         "actor": "Jannesari S, Damara B et al.",
         "source_url": "https://doi.org/10.1177/15248380231211955"
@@ -3181,6 +3425,12 @@
       },
       {
         "date": "2023-11-24",
+        "event": "Published in The Journal of adolescent health : official publication of the Society for Adolescent Medicine",
+        "actor": "Lindahl J, Riese A et al.",
+        "source_url": "https://doi.org/10.1016/j.jadohealth.2023.06.011"
+      },
+      {
+        "date": "2023-11-25",
         "event": "Published in The Journal of adolescent health : official publication of the Society for Adolescent Medicine",
         "actor": "Lindahl J, Riese A et al.",
         "source_url": "https://doi.org/10.1016/j.jadohealth.2023.06.011"
@@ -4070,6 +4320,12 @@
         "event": "Published in Journal of interpersonal violence",
         "actor": "O'Brien JE, Brewer KB et al.",
         "source_url": "https://doi.org/10.1177/08862605211023497"
+      },
+      {
+        "date": "2022-09-25",
+        "event": "Published in Journal of interpersonal violence",
+        "actor": "O'Brien JE, Brewer KB et al.",
+        "source_url": "https://doi.org/10.1177/08862605211023497"
       }
     ]
   },
@@ -4284,6 +4540,12 @@
       },
       {
         "date": "2022-04-24",
+        "event": "Published in Child abuse & neglect",
+        "actor": "Nichols AJ, Gerassi LB et al.",
+        "source_url": "https://doi.org/10.1016/j.chiabu.2022.105521"
+      },
+      {
+        "date": "2022-04-25",
         "event": "Published in Child abuse & neglect",
         "actor": "Nichols AJ, Gerassi LB et al.",
         "source_url": "https://doi.org/10.1016/j.chiabu.2022.105521"

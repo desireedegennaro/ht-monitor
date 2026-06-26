@@ -1,5 +1,44 @@
 [
   {
+    "id": "fr-2026-12946",
+    "type": "regulatory",
+    "title": "Unaccompanied Children Program Foundational Rule; Sponsor Assessment Update To Include Proof of Identity, Background Check, Placement, and Income Verification Standards",
+    "identifier": "2026-12946",
+    "status": "Active — Proposed Rule",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "introduced": "2026-06-26",
+    "latest_action_date": "2026-06-26",
+    "latest_action": "Proposed Rule published in Federal Register",
+    "sponsor": "Health and Human Services Department, Children and Families Administration",
+    "cosponsors": 0,
+    "cosponsor_list": [],
+    "committee": "N/A",
+    "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12946/unaccompanied-children-program-foundational-rule-sponsor-assessment-update-to-include-proof-of",
+    "summary": "This notice of proposed rulemaking (NPRM, or proposed rule) would establish certain additional requirements for sponsor suitability assessments related to proof of identity, proof of income, and other information required for background checks to promote the safe placement of unaccompanied alien children (UAC). This NPRM proposes acceptable documentation for proof of identity and would require pro",
+    "description": "This notice of proposed rulemaking (NPRM, or proposed rule) would establish certain additional requirements for sponsor suitability assessments related to proof of identity, proof of income, and other information required for background checks to promote the safe placement of unaccompanied alien children (UAC). This NPRM proposes acceptable documentation for proof of identity and would require proof of income from potential sponsors of UAC in ORR custody by reason of their immigration status, as described in the Homeland Security Act of 2002 (HSA) and the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (TVPRA). This NPRM also proposes amendments to background check requirements for sponsor suitability assessments and the conduct of examinations of UAC related to considerations of UAC dangerousness to self or others that align with the One Big Beautiful Bill Act. Finally, this NPRM proposes certain administrative updates to align numbering and terminology between proposals and existing regulations. The docket on https://www.regulations.gov will include a plain language summary of the NPRM.",
+    "keywords": [
+      "trafficking victims",
+      "trafficking victims protection",
+      "trafficking",
+      "TVPRA"
+    ],
+    "companies": [],
+    "source": "Federal Register",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-06-26",
+        "event": "Proposed Rule published: Unaccompanied Children Program Foundational Rule; Sponsor Assessment Update To I",
+        "actor": "Health and Human Services Department, Children and Families Administration",
+        "source_url": "https://www.federalregister.gov/documents/2026/06/26/2026-12946/unaccompanied-children-program-foundational-rule-sponsor-assessment-update-to-include-proof-of"
+      }
+    ]
+  },
+  {
     "id": "fr-2026-12065",
     "type": "regulatory",
     "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; New collection; Requests for DOJ Certification Letters for T Visa Holders",

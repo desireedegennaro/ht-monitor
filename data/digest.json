@@ -1,109 +1,222 @@
 {
-  "generated": "2026-06-25T15:39:29Z",
+  "generated": "2026-06-26T15:25:21Z",
   "period_days": 90,
   "new": [
     {
-      "id": "ss-c3fcf9e4fbde88c8699a",
-      "title": "The offender’s intent and the victim’s apparent consent in the crime of human trafficking: an analysis from the perspective of legal psychology",
-      "type": "research",
-      "source": "Semantic Scholar",
-      "date": "2026-04-28",
-      "status": "Published",
-      "summary": "Human trafficking is a complex criminal phenomenon that cannot be fully understood through legal analysis alone, as it involves profound psychological dynamics affecting both offenders and victims. Th",
-      "url": "https://doi.org/10.33422/ssmeconf.v3i1.1778",
-      "identifier": "DOI: 10.33422/ssmeconf.v3i1.1778",
+      "id": "fr-2026-12946",
+      "title": "Unaccompanied Children Program Foundational Rule; Sponsor Assessment Update To Include Proof of Identity, Background Check, Placement, and Income Verification Standards",
+      "type": "regulatory",
+      "source": "Federal Register",
+      "date": "2026-06-26",
+      "status": "Active — Proposed Rule",
+      "summary": "This notice of proposed rulemaking (NPRM, or proposed rule) would establish certain additional requirements for sponsor suitability assessments related to proof of identity, proof of income, and other",
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12946/unaccompanied-children-program-foundational-rule-sponsor-assessment-update-to-include-proof-of",
+      "identifier": "2026-12946",
       "trafficking_types": [
         "sex",
         "labor"
       ],
       "keywords": [
-        "human trafficking",
-        "exploitation",
-        "anti-trafficking",
-        "coercion",
-        "trafficking"
-      ]
-    },
-    {
-      "id": "ss-93f4e92a8e842da191ef",
-      "title": "Abstract 144:\n In vivo\n CAR mRNA engineering of both adaptive and myeloid cells enables potent anti-tumor control of solid cancers.",
-      "type": "research",
-      "source": "Semantic Scholar",
-      "date": "2026-04-03",
-      "status": "Published",
-      "summary": "\n \n \n In solid tumors, chimeric antigen receptor (CAR) T cell therapies are limited by their inability to overcome poor trafficking, antigen heterogeneity and the immunosuppressive myeloid cells in th",
-      "url": "https://doi.org/10.1158/1538-7445.am2026-144",
-      "identifier": "DOI: 10.1158/1538-7445.am2026-144",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "trafficking"
-      ]
-    },
-    {
-      "id": "ss-590c557a610d91f6ec9f",
-      "title": "Childhood adversity and sex trafficking experiences linked to economic and psychological outcomes for U.S. survivors of commercial sexual exploitation",
-      "type": "research",
-      "source": "Semantic Scholar",
-      "date": "2026-03-13",
-      "status": "Published",
-      "summary": "Introduction This investigation sought to develop a deeper understanding of the lived experiences of survivors of commercial sexual exploitation by considering the links between childhood background, ",
-      "url": "https://doi.org/10.3389/fpsyt.2026.1774509",
-      "identifier": "DOI: 10.3389/fpsyt.2026.1774509",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "sex trafficking",
-        "exploitation",
-        "commercial sexual exploitation",
-        "trafficking"
-      ]
-    },
-    {
-      "id": "ss-8d46e9cf82be8aeba331",
-      "title": "LEGAL DISCREPANCIES IN COMBATING HUMAN TRAFFICKING IN CENTRAL ASIA: AN ANALYSIS OF THE IMPACT OF LEGISLATIVE DIVERGENCES ON INTERSTATE COOPERATION AND THE EFFECTIVENESS OF LAW ENFORCEMENT MEASURES",
-      "type": "research",
-      "source": "Semantic Scholar",
-      "date": "2026-01-31",
-      "status": "Published",
-      "summary": "The objective of this study was to analyse legal discrepancies in the anti-human trafficking legislation of Central Asian countries and assess their impact on the efficacy of interstate cooperation an",
-      "url": "https://doi.org/10.63776/medlaw2025.44.4.bagiamikamilova",
-      "identifier": "DOI: 10.63776/medlaw2025.44.4.bagiamikamilova",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "exploitation",
-        "trafficking"
-      ]
-    },
-    {
-      "id": "ss-3d0ab6176ae4ee0e16cf",
-      "title": "The Intersection of Criminal Laws and Research about Sex Trafficking in Canada ",
-      "type": "research",
-      "source": "Semantic Scholar",
-      "date": "2026-01-01",
-      "status": "Published",
-      "summary": "Courts increasingly look to experts to provide them with evidence about the social world. In enacting new criminal prostitution laws in 2014, Parliament recognized the link between prostitution and hu",
-      "url": "https://doi.org/10.2139/ssrn.6154047",
-      "identifier": "DOI: 10.2139/ssrn.6154047",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "human trafficking",
-        "sex trafficking",
-        "anti-trafficking",
-        "trafficking"
+        "trafficking victims",
+        "trafficking victims protection",
+        "trafficking",
+        "TVPRA"
       ]
     }
   ],
   "updated": [
+    {
+      "id": "pubmed-41955821",
+      "title": "The role of parental consent: Implications for surveying minors who experience or are at risk for commercial sexual exploitation in the United States",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-07-18",
+      "status": "Published",
+      "summary": "The role of parental consent: Implications for surveying minors who experience or are at risk for commercial sexual exploitation in the United States",
+      "url": "https://doi.org/10.1016/j.socscimed.2026.119243",
+      "identifier": "PMID: 41955821 | DOI: 10.1016/j.socscimed.2026.119243",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "exploitation",
+        "commercial sexual exploitation"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-41965947",
+      "title": "Mental health and psychological vulnerabilities in the context of technology-facilitated child sexual exploitation and abuse: A systematic evidence review",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-06-18",
+      "status": "Published",
+      "summary": "Mental health and psychological vulnerabilities in the context of technology-facilitated child sexual exploitation and abuse: A systematic evidence review",
+      "url": "https://doi.org/10.1016/j.chiabu.2026.108033",
+      "identifier": "PMID: 41965947 | DOI: 10.1016/j.chiabu.2026.108033",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "exploitation"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-40417985",
+      "title": "Building the Evidence on Preventing Youth Commercial Sexual Exploitation: A Nonrandomized, Quasi-experimental Evaluation of the Not a Number Trafficking Prevention Program",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-06-18",
+      "status": "Published",
+      "summary": "Building the Evidence on Preventing Youth Commercial Sexual Exploitation: A Nonrandomized, Quasi-experimental Evaluation of the Not a Number Trafficking Prevention Program",
+      "url": "https://doi.org/10.1177/08862605251336355",
+      "identifier": "PMID: 40417985 | DOI: 10.1177/08862605251336355",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "exploitation",
+        "commercial sexual exploitation",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-42088011",
+      "title": "Policy implications for halting human trafficking and sexual exploitation at U.S. colleges and universities: results from a 12-campus survey",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-06-18",
+      "status": "Published",
+      "summary": "Policy implications for halting human trafficking and sexual exploitation at U.S. colleges and universities: results from a 12-campus survey",
+      "url": "https://doi.org/10.3389/fpsyt.2026.1773818",
+      "identifier": "PMID: 42088011 | DOI: 10.3389/fpsyt.2026.1773818",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "human trafficking",
+        "exploitation",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-41349265",
+      "title": "A review on forensic profiling of rhinoceros horn",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-01-23",
+      "status": "Published",
+      "summary": "The relentless escalation of rhinoceros horn trafficking represents a profound and immediate threat to the survival of rhinoceros populations across Africa and Asia. This illicit trade, driven by pers",
+      "url": "https://doi.org/10.1016/j.forsciint.2025.112762",
+      "identifier": "PMID: 41349265 | DOI: 10.1016/j.forsciint.2025.112762",
+      "trafficking_types": [
+        "labor"
+      ],
+      "keywords": [
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-34424650",
+      "title": "Texas Human Trafficking",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-01-18",
+      "status": "Published",
+      "summary": "Texas Human Trafficking",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34424650/",
+      "identifier": "PMID: 34424650",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-28613660",
+      "title": "Human Trafficking",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-01-18",
+      "status": "Published",
+      "summary": "Human Trafficking",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28613660/",
+      "identifier": "PMID: 28613660",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-41798347",
+      "title": "A Systematic Review Examining Methods of Human-Trafficking Training for Healthcare Professionals with Recommendations for Medical Education",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2025-12-18",
+      "status": "Published",
+      "summary": "A Systematic Review Examining Methods of Human-Trafficking Training for Healthcare Professionals with Recommendations for Medical Education",
+      "url": "https://doi.org/10.1007/s40670-025-02489-3",
+      "identifier": "PMID: 41798347 | DOI: 10.1007/s40670-025-02489-3",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-40782728",
+      "title": "An updated typology of commercial sexual exploitation of children and youth cases coming to law enforcement attention in 2021: Implications for identification and investigations",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2025-11-18",
+      "status": "Published",
+      "summary": "An updated typology of commercial sexual exploitation of children and youth cases coming to law enforcement attention in 2021: Implications for identification and investigations",
+      "url": "https://doi.org/10.1016/j.chiabu.2025.107619",
+      "identifier": "PMID: 40782728 | DOI: 10.1016/j.chiabu.2025.107619",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "exploitation",
+        "commercial sexual exploitation"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-39668870",
+      "title": "Narrative exposure therapy for the treatment of trauma-related symptoms among adolescent survivors of sex trafficking: A pilot study",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2024-10-18",
+      "status": "Published",
+      "summary": "Narrative exposure therapy for the treatment of trauma-related symptoms among adolescent survivors of sex trafficking: A pilot study",
+      "url": "https://doi.org/10.4103/indianjpsychiatry.indianjpsychiatry_248_24",
+      "identifier": "PMID: 39668870 | DOI: 10.4103/indianjpsychiatry.indianjpsychiatry_248_24",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "sex trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
     {
       "id": "res-s-2024-modern-slavery-core-outcome",
       "title": "Modern Slavery Core Outcome Set (MSCOS) Report",
@@ -126,86 +239,93 @@
       "update_summary": "Updated"
     },
     {
-      "id": "pubmed-39720572",
-      "title": "Laypersons' Recognition of and Attribution of Blame in Situations Involving Domestic Minor Sex Trafficking",
+      "id": "pubmed-38123142",
+      "title": "Review: Wildlife forensic genetics-Biological evidence, DNA markers, analytical approaches, and challenges",
       "type": "research",
       "source": "PubMed",
-      "date": "2024-06-18",
+      "date": "2024-04-18",
       "status": "Published",
-      "summary": "Successful identification of domestic minor sex trafficking (DMST) remains challenging. Laypersons could play a significant role in identifying victims, but only if laypersons recognize trafficking si",
-      "url": "https://doi.org/10.1080/1068316x.2022.2139377",
-      "identifier": "PMID: 39720572 | DOI: 10.1080/1068316x.2022.2139377",
+      "summary": "Wildlife-related crimes are the second most prevalent lawbreaking offense globally. This illicit trade encompasses hunting, breeding and trafficking. Besides diminishing many species and their habitat",
+      "url": "https://doi.org/10.1111/age.13390",
+      "identifier": "PMID: 38123142 | DOI: 10.1111/age.13390",
       "trafficking_types": [
-        "sex"
+        "sex",
+        "labor"
       ],
       "keywords": [
-        "sex trafficking",
         "trafficking"
       ],
       "update_summary": "Updated"
     },
     {
-      "id": "pubmed-37530682",
-      "title": "Clinical Psychosocial Risk Factors for Sex Trafficking Involvement Among Adolescent Girls",
+      "id": "pubmed-36399956",
+      "title": "Supporting emergency department Nurse's self-Efficacy in victim identification through human trafficking education: A quality improvement project",
       "type": "research",
       "source": "PubMed",
-      "date": "2023-11-18",
+      "date": "2022-11-18",
       "status": "Published",
-      "summary": "This study assessed the characteristics that place adolescent girls at greatest risk for sex trafficking involvement. It was hypothesized that girls with a greater history of risk behaviors, unstable ",
-      "url": "https://doi.org/10.1016/j.jadohealth.2023.06.011",
-      "identifier": "PMID: 37530682 | DOI: 10.1016/j.jadohealth.2023.06.011",
+      "summary": "Supporting emergency department Nurse's self-Efficacy in victim identification through human trafficking education: A quality improvement project",
+      "url": "https://doi.org/10.1016/j.ienj.2022.101228",
+      "identifier": "PMID: 36399956 | DOI: 10.1016/j.ienj.2022.101228",
       "trafficking_types": [
-        "sex"
+        "sex",
+        "labor"
       ],
       "keywords": [
-        "sex trafficking",
-        "trafficking"
+        "human trafficking",
+        "trafficking",
+        "victim identification"
       ],
       "update_summary": "Updated"
     },
     {
-      "id": "pubmed-34107811",
-      "title": "Rigor and Respect: Recruitment Strategies for Engaging Vulnerable Populations in Research",
+      "id": "pubmed-34569887",
+      "title": "Human Trafficking: Empowering Healthcare Providers and Community Partners as Advocates for Victims",
       "type": "research",
       "source": "PubMed",
       "date": "2022-09-18",
       "status": "Published",
-      "summary": "Engaging vulnerable populations in research is a critical focus for researchers seeking to find ways to improve safety and well-being for broader populations. Vulnerabilities often co-occur, meaning t",
-      "url": "https://doi.org/10.1177/08862605211023497",
-      "identifier": "PMID: 34107811 | DOI: 10.1177/08862605211023497",
+      "summary": "Human trafficking, also known as modern-day slavery, is a public health crisis and a growing worldwide crime exploiting approximately 40.3 million victims. A decade ago approximately 79% of human traf",
+      "url": "https://doi.org/10.1177/08980101211045554",
+      "identifier": "PMID: 34569887 | DOI: 10.1177/08980101211045554",
       "trafficking_types": [
-        "sex"
+        "sex",
+        "labor"
       ],
       "keywords": [
-        "sex trafficking",
-        "trafficking"
+        "human trafficking",
+        "forced labor",
+        "exploitation",
+        "trafficking",
+        "victim identification"
       ],
       "update_summary": "Updated"
     },
     {
-      "id": "pubmed-35121439",
-      "title": "Provider challenges in responding to retrafficking of juvenile justice-involved domestic minor sex trafficking survivors",
+      "id": "pubmed-34364174",
+      "title": "Responding to orphanage trafficking from an information gathering perspective",
       "type": "research",
       "source": "PubMed",
-      "date": "2022-04-18",
+      "date": "2021-10-18",
       "status": "Published",
-      "summary": "Domestic minor sex trafficking (DMST) survivors are disproportionately involved in the juvenile justice system, but frequently run away and experience retrafficking. However, little research explores ",
-      "url": "https://doi.org/10.1016/j.chiabu.2022.105521",
-      "identifier": "PMID: 35121439 | DOI: 10.1016/j.chiabu.2022.105521",
+      "summary": "Estimates suggest that close to 3 million institutionalized children internationally have some family to whom they could go home. A proportion of these children is recruited from their communities und",
+      "url": "https://doi.org/10.1016/j.chiabu.2021.105222",
+      "identifier": "PMID: 34364174 | DOI: 10.1016/j.chiabu.2021.105222",
       "trafficking_types": [
-        "sex"
+        "sex",
+        "labor"
       ],
       "keywords": [
-        "sex trafficking",
+        "trafficking victims",
         "trafficking"
       ],
       "update_summary": "Updated"
     }
   ],
   "counts": {
-    "new_legislation": 0,
-    "new_research": 5,
+    "new_legislation": 1,
+    "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 5
+    "updated_research": 15
   }
 }

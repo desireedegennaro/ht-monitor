@@ -53,6 +53,12 @@
         "event": "Published in Social science & medicine (1982)",
         "actor": "Lockwood S, Wagner A et al.",
         "source_url": "https://doi.org/10.1016/j.socscimed.2026.119243"
+      },
+      {
+        "date": "2026-07-26",
+        "event": "Published in Social science & medicine (1982)",
+        "actor": "Lockwood S, Wagner A et al.",
+        "source_url": "https://doi.org/10.1016/j.socscimed.2026.119243"
       }
     ]
   },
@@ -107,6 +113,12 @@
       },
       {
         "date": "2026-06-24",
+        "event": "Published in Journal of interpersonal violence",
+        "actor": "Jones LM, O'Brien JE et al.",
+        "source_url": "https://doi.org/10.1177/08862605251336355"
+      },
+      {
+        "date": "2026-06-26",
         "event": "Published in Journal of interpersonal violence",
         "actor": "Jones LM, O'Brien JE et al.",
         "source_url": "https://doi.org/10.1177/08862605251336355"
@@ -166,6 +178,12 @@
         "event": "Published in Frontiers in psychiatry",
         "actor": "Urada LA, Weitensteiner A",
         "source_url": "https://doi.org/10.3389/fpsyt.2026.1773818"
+      },
+      {
+        "date": "2026-06-26",
+        "event": "Published in Frontiers in psychiatry",
+        "actor": "Urada LA, Weitensteiner A",
+        "source_url": "https://doi.org/10.3389/fpsyt.2026.1773818"
       }
     ]
   },
@@ -221,6 +239,12 @@
       },
       {
         "date": "2026-06-24",
+        "event": "Published in Child abuse & neglect",
+        "actor": "Page S, Notté E et al.",
+        "source_url": "https://doi.org/10.1016/j.chiabu.2026.108033"
+      },
+      {
+        "date": "2026-06-26",
         "event": "Published in Child abuse & neglect",
         "actor": "Page S, Notté E et al.",
         "source_url": "https://doi.org/10.1016/j.chiabu.2026.108033"
@@ -1317,6 +1341,12 @@
         "event": "Published in Forensic science international",
         "actor": "Linde J, Augustyn WA et al.",
         "source_url": "https://doi.org/10.1016/j.forsciint.2025.112762"
+      },
+      {
+        "date": "2026-01-26",
+        "event": "Published in Forensic science international",
+        "actor": "Linde J, Augustyn WA et al.",
+        "source_url": "https://doi.org/10.1016/j.forsciint.2025.112762"
       }
     ]
   },
@@ -1364,6 +1394,12 @@
       },
       {
         "date": "2026-01-23",
+        "event": "Published",
+        "actor": "Ladd M, Jones EB",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/34424650/"
+      },
+      {
+        "date": "2026-01-26",
         "event": "Published",
         "actor": "Ladd M, Jones EB",
         "source_url": "https://pubmed.ncbi.nlm.nih.gov/34424650/"
@@ -1415,6 +1451,12 @@
       },
       {
         "date": "2026-01-23",
+        "event": "Published",
+        "actor": "Toney-Butler TJ, Ladd M et al.",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/28613660/"
+      },
+      {
+        "date": "2026-01-26",
         "event": "Published",
         "actor": "Toney-Butler TJ, Ladd M et al.",
         "source_url": "https://pubmed.ncbi.nlm.nih.gov/28613660/"
@@ -1601,7 +1643,7 @@
     "pmid": "41798347",
     "doi": "10.1007/s40670-025-02489-3",
     "summary": "A Systematic Review Examining Methods of Human-Trafficking Training for Healthcare Professionals with Recommendations for Medical Education",
-    "description": "",
+    "description": "The healthcare environment serves as an intersection for human-trafficking victims and patient-care professionals, necessitating healthcare professional training for victim identification and Management. This systematic review explores common methods of human-trafficking education and training among healthcare professionals with measured outcomes. Of the 10,079 initial citations, the final collection of 46 articles exhibited inconsistencies among human-trafficking educational interventions with the majority prioritizing learning-centric outcomes over patient-centered outcomes, such as victim identification. Based on the literature findings, we offer recommendations to medical educators for human-trafficking training implementation into institutional curricula.",
     "keywords": [
       "trafficking"
     ],
@@ -1617,6 +1659,12 @@
       },
       {
         "date": "2025-12-24",
+        "event": "Published in Medical science educator",
+        "actor": "Weaver MM, Nagy H et al.",
+        "source_url": "https://doi.org/10.1007/s40670-025-02489-3"
+      },
+      {
+        "date": "2025-12-26",
         "event": "Published in Medical science educator",
         "actor": "Weaver MM, Nagy H et al.",
         "source_url": "https://doi.org/10.1007/s40670-025-02489-3"
@@ -1651,7 +1699,7 @@
     "pmid": "40782728",
     "doi": "10.1016/j.chiabu.2025.107619",
     "summary": "An updated typology of commercial sexual exploitation of children and youth cases coming to law enforcement attention in 2021: Implications for identification and investigations",
-    "description": "",
+    "description": "Understanding the details and dynamics of commercial sexual exploitation (CSE) of children and youth can offer professionals information to assist in victim identification and referrals to appropriate services. This is especially pressing given the changing landscape of CSE investigations.",
     "keywords": [
       "exploitation",
       "commercial sexual exploitation"
@@ -1668,6 +1716,12 @@
       },
       {
         "date": "2025-11-24",
+        "event": "Published in Child abuse & neglect",
+        "actor": "Mitchell KJ, Jones LM et al.",
+        "source_url": "https://doi.org/10.1016/j.chiabu.2025.107619"
+      },
+      {
+        "date": "2025-11-26",
         "event": "Published in Child abuse & neglect",
         "actor": "Mitchell KJ, Jones LM et al.",
         "source_url": "https://doi.org/10.1016/j.chiabu.2025.107619"
@@ -2249,7 +2303,7 @@
     "pmid": "39668870",
     "doi": "10.4103/indianjpsychiatry.indianjpsychiatry_248_24",
     "summary": "Narrative exposure therapy for the treatment of trauma-related symptoms among adolescent survivors of sex trafficking: A pilot study",
-    "description": "",
+    "description": "India is home to 14 million survivors of human trafficking, with most being trafficked for sexual exploitation. Trafficking constitutes crimes that violate the rights of survivors, and despite its psychological consequences, there is little evidence-based guidance to meet the needs of these individuals.",
     "keywords": [
       "sex trafficking",
       "trafficking"
@@ -2266,6 +2320,12 @@
       },
       {
         "date": "2024-10-24",
+        "event": "Published in Indian journal of psychiatry",
+        "actor": "Shamsudeen S, Gupta P et al.",
+        "source_url": "https://doi.org/10.4103/indianjpsychiatry.indianjpsychiatry_248_24"
+      },
+      {
+        "date": "2024-10-26",
         "event": "Published in Indian journal of psychiatry",
         "actor": "Shamsudeen S, Gupta P et al.",
         "source_url": "https://doi.org/10.4103/indianjpsychiatry.indianjpsychiatry_248_24"
@@ -2486,6 +2546,12 @@
       },
       {
         "date": "2024-04-23",
+        "event": "Published in Animal genetics",
+        "actor": "Kanthaswamy S",
+        "source_url": "https://doi.org/10.1111/age.13390"
+      },
+      {
+        "date": "2024-04-26",
         "event": "Published in Animal genetics",
         "actor": "Kanthaswamy S",
         "source_url": "https://doi.org/10.1111/age.13390"
@@ -2925,6 +2991,12 @@
       },
       {
         "date": "2024-07-25",
+        "event": "Published in Trauma, violence & abuse",
+        "actor": "Jannesari S, Damara B et al.",
+        "source_url": "https://doi.org/10.1177/15248380231211955"
+      },
+      {
+        "date": "2024-07-26",
         "event": "Published in Trauma, violence & abuse",
         "actor": "Jannesari S, Damara B et al.",
         "source_url": "https://doi.org/10.1177/15248380231211955"
@@ -4188,7 +4260,7 @@
     "pmid": "36399956",
     "doi": "10.1016/j.ienj.2022.101228",
     "summary": "Supporting emergency department Nurse's self-Efficacy in victim identification through human trafficking education: A quality improvement project",
-    "description": "",
+    "description": "Human trafficking is a form of modern slavery, exploiting people across all cultures and ethnic groups. Human trafficking victims (HTV) are at increased risk for neglect, physical, and psychological harm.",
     "keywords": [
       "human trafficking",
       "trafficking",
@@ -4206,6 +4278,12 @@
       },
       {
         "date": "2022-11-24",
+        "event": "Published in International emergency nursing",
+        "actor": "Murphy MC",
+        "source_url": "https://doi.org/10.1016/j.ienj.2022.101228"
+      },
+      {
+        "date": "2022-11-26",
         "event": "Published in International emergency nursing",
         "actor": "Murphy MC",
         "source_url": "https://doi.org/10.1016/j.ienj.2022.101228"
@@ -4271,6 +4349,12 @@
       },
       {
         "date": "2022-09-24",
+        "event": "Published in Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
+        "actor": "Combs MA, Arnold T",
+        "source_url": "https://doi.org/10.1177/08980101211045554"
+      },
+      {
+        "date": "2022-09-26",
         "event": "Published in Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
         "actor": "Combs MA, Arnold T",
         "source_url": "https://doi.org/10.1177/08980101211045554"
@@ -5660,6 +5744,12 @@
       },
       {
         "date": "2021-10-23",
+        "event": "Published in Child abuse & neglect",
+        "actor": "Brubacher SP, van Doore KE et al.",
+        "source_url": "https://doi.org/10.1016/j.chiabu.2021.105222"
+      },
+      {
+        "date": "2021-10-26",
         "event": "Published in Child abuse & neglect",
         "actor": "Brubacher SP, van Doore KE et al.",
         "source_url": "https://doi.org/10.1016/j.chiabu.2021.105222"

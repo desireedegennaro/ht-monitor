@@ -1,29 +1,7 @@
 {
-  "generated": "2026-06-26T15:25:21Z",
+  "generated": "2026-06-27T14:28:10Z",
   "period_days": 90,
-  "new": [
-    {
-      "id": "fr-2026-12946",
-      "title": "Unaccompanied Children Program Foundational Rule; Sponsor Assessment Update To Include Proof of Identity, Background Check, Placement, and Income Verification Standards",
-      "type": "regulatory",
-      "source": "Federal Register",
-      "date": "2026-06-26",
-      "status": "Active — Proposed Rule",
-      "summary": "This notice of proposed rulemaking (NPRM, or proposed rule) would establish certain additional requirements for sponsor suitability assessments related to proof of identity, proof of income, and other",
-      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12946/unaccompanied-children-program-foundational-rule-sponsor-assessment-update-to-include-proof-of",
-      "identifier": "2026-12946",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "trafficking victims",
-        "trafficking victims protection",
-        "trafficking",
-        "TVPRA"
-      ]
-    }
-  ],
+  "new": [],
   "updated": [
     {
       "id": "pubmed-41955821",
@@ -103,24 +81,6 @@
       "update_summary": "Updated"
     },
     {
-      "id": "pubmed-41349265",
-      "title": "A review on forensic profiling of rhinoceros horn",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-01-23",
-      "status": "Published",
-      "summary": "The relentless escalation of rhinoceros horn trafficking represents a profound and immediate threat to the survival of rhinoceros populations across Africa and Asia. This illicit trade, driven by pers",
-      "url": "https://doi.org/10.1016/j.forsciint.2025.112762",
-      "identifier": "PMID: 41349265 | DOI: 10.1016/j.forsciint.2025.112762",
-      "trafficking_types": [
-        "labor"
-      ],
-      "keywords": [
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
       "id": "pubmed-34424650",
       "title": "Texas Human Trafficking",
       "type": "research",
@@ -161,63 +121,6 @@
       "update_summary": "Updated"
     },
     {
-      "id": "pubmed-41798347",
-      "title": "A Systematic Review Examining Methods of Human-Trafficking Training for Healthcare Professionals with Recommendations for Medical Education",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2025-12-18",
-      "status": "Published",
-      "summary": "A Systematic Review Examining Methods of Human-Trafficking Training for Healthcare Professionals with Recommendations for Medical Education",
-      "url": "https://doi.org/10.1007/s40670-025-02489-3",
-      "identifier": "PMID: 41798347 | DOI: 10.1007/s40670-025-02489-3",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-40782728",
-      "title": "An updated typology of commercial sexual exploitation of children and youth cases coming to law enforcement attention in 2021: Implications for identification and investigations",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2025-11-18",
-      "status": "Published",
-      "summary": "An updated typology of commercial sexual exploitation of children and youth cases coming to law enforcement attention in 2021: Implications for identification and investigations",
-      "url": "https://doi.org/10.1016/j.chiabu.2025.107619",
-      "identifier": "PMID: 40782728 | DOI: 10.1016/j.chiabu.2025.107619",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "exploitation",
-        "commercial sexual exploitation"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-39668870",
-      "title": "Narrative exposure therapy for the treatment of trauma-related symptoms among adolescent survivors of sex trafficking: A pilot study",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2024-10-18",
-      "status": "Published",
-      "summary": "Narrative exposure therapy for the treatment of trauma-related symptoms among adolescent survivors of sex trafficking: A pilot study",
-      "url": "https://doi.org/10.4103/indianjpsychiatry.indianjpsychiatry_248_24",
-      "identifier": "PMID: 39668870 | DOI: 10.4103/indianjpsychiatry.indianjpsychiatry_248_24",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "sex trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
       "id": "res-s-2024-modern-slavery-core-outcome",
       "title": "Modern Slavery Core Outcome Set (MSCOS) Report",
       "type": "research",
@@ -235,69 +138,6 @@
         "human trafficking",
         "modern slavery",
         "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-38123142",
-      "title": "Review: Wildlife forensic genetics-Biological evidence, DNA markers, analytical approaches, and challenges",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2024-04-18",
-      "status": "Published",
-      "summary": "Wildlife-related crimes are the second most prevalent lawbreaking offense globally. This illicit trade encompasses hunting, breeding and trafficking. Besides diminishing many species and their habitat",
-      "url": "https://doi.org/10.1111/age.13390",
-      "identifier": "PMID: 38123142 | DOI: 10.1111/age.13390",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-36399956",
-      "title": "Supporting emergency department Nurse's self-Efficacy in victim identification through human trafficking education: A quality improvement project",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2022-11-18",
-      "status": "Published",
-      "summary": "Supporting emergency department Nurse's self-Efficacy in victim identification through human trafficking education: A quality improvement project",
-      "url": "https://doi.org/10.1016/j.ienj.2022.101228",
-      "identifier": "PMID: 36399956 | DOI: 10.1016/j.ienj.2022.101228",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking",
-        "victim identification"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-34569887",
-      "title": "Human Trafficking: Empowering Healthcare Providers and Community Partners as Advocates for Victims",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2022-09-18",
-      "status": "Published",
-      "summary": "Human trafficking, also known as modern-day slavery, is a public health crisis and a growing worldwide crime exploiting approximately 40.3 million victims. A decade ago approximately 79% of human traf",
-      "url": "https://doi.org/10.1177/08980101211045554",
-      "identifier": "PMID: 34569887 | DOI: 10.1177/08980101211045554",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "forced labor",
-        "exploitation",
-        "trafficking",
-        "victim identification"
       ],
       "update_summary": "Updated"
     },
@@ -323,9 +163,9 @@
     }
   ],
   "counts": {
-    "new_legislation": 1,
+    "new_legislation": 0,
     "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 15
+    "updated_research": 8
   }
 }

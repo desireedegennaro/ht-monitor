@@ -1,125 +1,8 @@
 {
-  "generated": "2026-06-27T14:28:10Z",
+  "generated": "2026-06-28T14:48:02Z",
   "period_days": 90,
   "new": [],
   "updated": [
-    {
-      "id": "pubmed-41955821",
-      "title": "The role of parental consent: Implications for surveying minors who experience or are at risk for commercial sexual exploitation in the United States",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-07-18",
-      "status": "Published",
-      "summary": "The role of parental consent: Implications for surveying minors who experience or are at risk for commercial sexual exploitation in the United States",
-      "url": "https://doi.org/10.1016/j.socscimed.2026.119243",
-      "identifier": "PMID: 41955821 | DOI: 10.1016/j.socscimed.2026.119243",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "exploitation",
-        "commercial sexual exploitation"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-41965947",
-      "title": "Mental health and psychological vulnerabilities in the context of technology-facilitated child sexual exploitation and abuse: A systematic evidence review",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-06-18",
-      "status": "Published",
-      "summary": "Mental health and psychological vulnerabilities in the context of technology-facilitated child sexual exploitation and abuse: A systematic evidence review",
-      "url": "https://doi.org/10.1016/j.chiabu.2026.108033",
-      "identifier": "PMID: 41965947 | DOI: 10.1016/j.chiabu.2026.108033",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "exploitation"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-40417985",
-      "title": "Building the Evidence on Preventing Youth Commercial Sexual Exploitation: A Nonrandomized, Quasi-experimental Evaluation of the Not a Number Trafficking Prevention Program",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-06-18",
-      "status": "Published",
-      "summary": "Building the Evidence on Preventing Youth Commercial Sexual Exploitation: A Nonrandomized, Quasi-experimental Evaluation of the Not a Number Trafficking Prevention Program",
-      "url": "https://doi.org/10.1177/08862605251336355",
-      "identifier": "PMID: 40417985 | DOI: 10.1177/08862605251336355",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "exploitation",
-        "commercial sexual exploitation",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-42088011",
-      "title": "Policy implications for halting human trafficking and sexual exploitation at U.S. colleges and universities: results from a 12-campus survey",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-06-18",
-      "status": "Published",
-      "summary": "Policy implications for halting human trafficking and sexual exploitation at U.S. colleges and universities: results from a 12-campus survey",
-      "url": "https://doi.org/10.3389/fpsyt.2026.1773818",
-      "identifier": "PMID: 42088011 | DOI: 10.3389/fpsyt.2026.1773818",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "human trafficking",
-        "exploitation",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-34424650",
-      "title": "Texas Human Trafficking",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-01-18",
-      "status": "Published",
-      "summary": "Texas Human Trafficking",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/34424650/",
-      "identifier": "PMID: 34424650",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-28613660",
-      "title": "Human Trafficking",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-01-18",
-      "status": "Published",
-      "summary": "Human Trafficking",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/28613660/",
-      "identifier": "PMID: 28613660",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
     {
       "id": "res-s-2024-modern-slavery-core-outcome",
       "title": "Modern Slavery Core Outcome Set (MSCOS) Report",
@@ -140,32 +23,12 @@
         "trafficking"
       ],
       "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-34364174",
-      "title": "Responding to orphanage trafficking from an information gathering perspective",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2021-10-18",
-      "status": "Published",
-      "summary": "Estimates suggest that close to 3 million institutionalized children internationally have some family to whom they could go home. A proportion of these children is recruited from their communities und",
-      "url": "https://doi.org/10.1016/j.chiabu.2021.105222",
-      "identifier": "PMID: 34364174 | DOI: 10.1016/j.chiabu.2021.105222",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "trafficking victims",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
     }
   ],
   "counts": {
     "new_legislation": 0,
     "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 8
+    "updated_research": 1
   }
 }

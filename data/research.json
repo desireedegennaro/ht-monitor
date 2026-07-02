@@ -71,6 +71,56 @@
         "event": "Published in Social science & medicine (1982)",
         "actor": "Lockwood S, Wagner A et al.",
         "source_url": "https://doi.org/10.1016/j.socscimed.2026.119243"
+      },
+      {
+        "date": "2026-07-02",
+        "event": "Published in Social science & medicine (1982)",
+        "actor": "Lockwood S, Wagner A et al.",
+        "source_url": "https://doi.org/10.1016/j.socscimed.2026.119243"
+      }
+    ]
+  },
+  {
+    "id": "pubmed-42375578",
+    "type": "research",
+    "title": "Syndemic pathways linking juvenile delinquency, structural vulnerability, and mental health: implications for exploitation risk",
+    "identifier": "PMID: 42375578 | DOI: 10.3389/fpubh.2026.1858900",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2026-07-02",
+    "latest_action_date": "2026-07-02",
+    "latest_action": "Published in Frontiers in public health",
+    "authors": [
+      "Colburn D",
+      "Mitchell KJ",
+      "Taylor BG"
+    ],
+    "journal": "Frontiers in public health",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.3389/fpubh.2026.1858900",
+    "pmid": "42375578",
+    "doi": "10.3389/fpubh.2026.1858900",
+    "summary": "Syndemic pathways linking juvenile delinquency, structural vulnerability, and mental health: implications for exploitation risk",
+    "description": "",
+    "keywords": [
+      "exploitation"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-07-02",
+        "event": "Published in Frontiers in public health",
+        "actor": "Colburn D, Mitchell KJ et al.",
+        "source_url": "https://doi.org/10.3389/fpubh.2026.1858900"
       }
     ]
   },
@@ -143,6 +193,12 @@
       },
       {
         "date": "2026-06-29",
+        "event": "Published in Journal of interpersonal violence",
+        "actor": "Jones LM, O'Brien JE et al.",
+        "source_url": "https://doi.org/10.1177/08862605251336355"
+      },
+      {
+        "date": "2026-06-02",
         "event": "Published in Journal of interpersonal violence",
         "actor": "Jones LM, O'Brien JE et al.",
         "source_url": "https://doi.org/10.1177/08862605251336355"
@@ -220,6 +276,12 @@
         "event": "Published in Frontiers in psychiatry",
         "actor": "Urada LA, Weitensteiner A",
         "source_url": "https://doi.org/10.3389/fpsyt.2026.1773818"
+      },
+      {
+        "date": "2026-07-02",
+        "event": "Published in Frontiers in psychiatry",
+        "actor": "Urada LA, Weitensteiner A",
+        "source_url": "https://doi.org/10.3389/fpsyt.2026.1773818"
       }
     ]
   },
@@ -293,6 +355,12 @@
       },
       {
         "date": "2026-06-29",
+        "event": "Published in Child abuse & neglect",
+        "actor": "Page S, Notté E et al.",
+        "source_url": "https://doi.org/10.1016/j.chiabu.2026.108033"
+      },
+      {
+        "date": "2026-06-02",
         "event": "Published in Child abuse & neglect",
         "actor": "Page S, Notté E et al.",
         "source_url": "https://doi.org/10.1016/j.chiabu.2026.108033"
@@ -3138,6 +3206,12 @@
         "event": "Published in Trauma, violence & abuse",
         "actor": "Jannesari S, Damara B et al.",
         "source_url": "https://doi.org/10.1177/15248380231211955"
+      },
+      {
+        "date": "2024-07-02",
+        "event": "Published in Trauma, violence & abuse",
+        "actor": "Jannesari S, Damara B et al.",
+        "source_url": "https://doi.org/10.1177/15248380231211955"
       }
     ],
     "upcoming": [],
@@ -3701,6 +3775,12 @@
       },
       {
         "date": "2023-07-01",
+        "event": "Published in Trauma, violence & abuse",
+        "actor": "Macy RJ, Klein LB et al.",
+        "source_url": "https://doi.org/10.1177/15248380211057273"
+      },
+      {
+        "date": "2023-07-02",
         "event": "Published in Trauma, violence & abuse",
         "actor": "Macy RJ, Klein LB et al.",
         "source_url": "https://doi.org/10.1177/15248380211057273"
@@ -8090,6 +8170,12 @@
       },
       {
         "date": "2019-09-01",
+        "event": "Published in International journal of public health",
+        "actor": "Iglesias-Rios L, Harlow SD et al.",
+        "source_url": "https://doi.org/10.1007/s00038-019-01269-2"
+      },
+      {
+        "date": "2019-09-02",
         "event": "Published in International journal of public health",
         "actor": "Iglesias-Rios L, Harlow SD et al.",
         "source_url": "https://doi.org/10.1007/s00038-019-01269-2"

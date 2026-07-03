@@ -1,5 +1,43 @@
 [
   {
+    "id": "fr-2026-13631",
+    "type": "regulatory",
+    "title": "Presidential Determination on Assistance to Venezuela Consistent With the Trafficking Victims Protection Act of 2000",
+    "identifier": "2026-13631",
+    "status": "Active",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "introduced": "2026-07-06",
+    "latest_action_date": "2026-07-06",
+    "latest_action": "Presidential Document published in Federal Register",
+    "sponsor": "Executive Office of the President",
+    "cosponsors": 0,
+    "cosponsor_list": [],
+    "committee": "N/A",
+    "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13631/presidential-determination-on-assistance-to-venezuela-consistent-with-the-trafficking-victims",
+    "summary": "Presidential Determination on Assistance to Venezuela Consistent With the Trafficking Victims Protection Act of 2000",
+    "description": "",
+    "keywords": [
+      "trafficking victims",
+      "trafficking victims protection",
+      "trafficking"
+    ],
+    "companies": [],
+    "source": "Federal Register",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-07-06",
+        "event": "Presidential Document published: Presidential Determination on Assistance to Venezuela Consistent With the Traffi",
+        "actor": "Executive Office of the President",
+        "source_url": "https://www.federalregister.gov/documents/2026/07/06/2026-13631/presidential-determination-on-assistance-to-venezuela-consistent-with-the-trafficking-victims"
+      }
+    ]
+  },
+  {
     "id": "fr-2026-12946",
     "type": "regulatory",
     "title": "Unaccompanied Children Program Foundational Rule; Sponsor Assessment Update To Include Proof of Identity, Background Check, Placement, and Income Verification Standards",

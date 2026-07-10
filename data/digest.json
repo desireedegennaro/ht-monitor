@@ -1,7 +1,27 @@
 {
-  "generated": "2026-07-09T15:58:32Z",
+  "generated": "2026-07-10T15:31:50Z",
   "period_days": 90,
-  "new": [],
+  "new": [
+    {
+      "id": "fr-2026-13922",
+      "title": "Submission for Office of Management and Budget Review; National Human Trafficking Training and Technical Assistance Center Evaluation Package",
+      "type": "regulatory",
+      "source": "Federal Register",
+      "date": "2026-07-10",
+      "status": "Active — Advisory",
+      "summary": "The Office on Trafficking on Persons (OTIP), Administration for Children and Families (ACF), U.S. Department of Health and Human Services, is requesting to reinstate Office of Management and Budget (O",
+      "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13922/submission-for-office-of-management-and-budget-review-national-human-trafficking-training-and",
+      "identifier": "2026-13922",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "trafficking"
+      ]
+    }
+  ],
   "updated": [
     {
       "id": "res-s-2024-modern-slavery-core-outcome",
@@ -26,7 +46,7 @@
     }
   ],
   "counts": {
-    "new_legislation": 0,
+    "new_legislation": 1,
     "new_research": 0,
     "updated_legislation": 0,
     "updated_research": 1

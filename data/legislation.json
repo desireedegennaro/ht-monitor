@@ -1,5 +1,42 @@
 [
   {
+    "id": "fr-2026-13922",
+    "type": "regulatory",
+    "title": "Submission for Office of Management and Budget Review; National Human Trafficking Training and Technical Assistance Center Evaluation Package",
+    "identifier": "2026-13922",
+    "status": "Active — Advisory",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "introduced": "2026-07-10",
+    "latest_action_date": "2026-07-10",
+    "latest_action": "Notice published in Federal Register",
+    "sponsor": "Health and Human Services Department, Children and Families Administration",
+    "cosponsors": 0,
+    "cosponsor_list": [],
+    "committee": "N/A",
+    "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13922/submission-for-office-of-management-and-budget-review-national-human-trafficking-training-and",
+    "summary": "The Office on Trafficking on Persons (OTIP), Administration for Children and Families (ACF), U.S. Department of Health and Human Services, is requesting to reinstate Office of Management and Budget (OMB) approval of an information collection, with proposed changes: National Human Trafficking Training and Technical Assistance Center (NHTTAC) Evaluation Package (OMB #: 0970-0519). The OMB number was",
+    "description": "The Office on Trafficking on Persons (OTIP), Administration for Children and Families (ACF), U.S. Department of Health and Human Services, is requesting to reinstate Office of Management and Budget (OMB) approval of an information collection, with proposed changes: National Human Trafficking Training and Technical Assistance Center (NHTTAC) Evaluation Package (OMB #: 0970-0519). The OMB number was discontinued due to delays in publishing the first Federal Register Notice. Data collection has been put on hold until this information collection is reinstated.",
+    "keywords": [
+      "human trafficking",
+      "trafficking"
+    ],
+    "companies": [],
+    "source": "Federal Register",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-07-10",
+        "event": "Notice published: Submission for Office of Management and Budget Review; National Human Traffickin",
+        "actor": "Health and Human Services Department, Children and Families Administration",
+        "source_url": "https://www.federalregister.gov/documents/2026/07/10/2026-13922/submission-for-office-of-management-and-budget-review-national-human-trafficking-training-and"
+      }
+    ]
+  },
+  {
     "id": "fr-2026-13631",
     "type": "regulatory",
     "title": "Presidential Determination on Assistance to Venezuela Consistent With the Trafficking Victims Protection Act of 2000",

@@ -1,29 +1,8 @@
 {
-  "generated": "2026-07-16T14:58:02Z",
+  "generated": "2026-07-17T14:30:14Z",
   "period_days": 90,
   "new": [],
   "updated": [
-    {
-      "id": "pubmed-40688747",
-      "title": "Upholding the right to health of forcibly displaced children in Europe",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2025-12-18",
-      "status": "Published",
-      "summary": "In 2023 Europe hosted an estimated 9 million children who had been forcibly displaced from their homes because of conflict, persecution, violence, natural or environmental disasters, climate crisis, h",
-      "url": "https://doi.org/10.1016/j.puhip.2025.100641",
-      "identifier": "PMID: 40688747 | DOI: 10.1016/j.puhip.2025.100641",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "exploitation",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
     {
       "id": "res-s-2024-modern-slavery-core-outcome",
       "title": "Modern Slavery Core Outcome Set (MSCOS) Report",
@@ -133,30 +112,12 @@
         "trafficking"
       ],
       "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-33177707",
-      "title": "Organized crime in the fisheries sector threatens a sustainable ocean economy",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2020-12-18",
-      "status": "Published",
-      "summary": "The threat of criminal activity in the fisheries sector has concerned the international community for a number of years. In more recent times, the presence of organized crime in fisheries has come to ",
-      "url": "https://doi.org/10.1038/s41586-020-2913-5",
-      "identifier": "PMID: 33177707 | DOI: 10.1038/s41586-020-2913-5",
-      "trafficking_types": [
-        "labor"
-      ],
-      "keywords": [
-        "trafficking"
-      ],
-      "update_summary": "Updated"
     }
   ],
   "counts": {
     "new_legislation": 0,
     "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 7
+    "updated_research": 5
   }
 }

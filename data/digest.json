@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T15:07:21Z",
+  "generated": "2026-07-21T14:59:44Z",
   "period_days": 90,
   "new": [],
   "updated": [
@@ -195,26 +195,6 @@
       "update_summary": "Updated"
     },
     {
-      "id": "pubmed-34930040",
-      "title": "A Scoping Review of Human Trafficking Screening and Response",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2023-07-18",
-      "status": "Published",
-      "summary": "Service providers are increasingly asked to identify individuals who are experiencing trafficking and to connect them with resources and support. Nonetheless, identification is complicated by the real",
-      "url": "https://doi.org/10.1177/15248380211057273",
-      "identifier": "PMID: 34930040 | DOI: 10.1177/15248380211057273",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
       "id": "pubmed-37780117",
       "title": "Rights, not rescue: trafficking (in)securities at the sport mega-event",
       "type": "research",
@@ -255,6 +235,29 @@
       "update_summary": "Updated"
     },
     {
+      "id": "pubmed-34569887",
+      "title": "Human Trafficking: Empowering Healthcare Providers and Community Partners as Advocates for Victims",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2022-09-18",
+      "status": "Published",
+      "summary": "Human trafficking, also known as modern-day slavery, is a public health crisis and a growing worldwide crime exploiting approximately 40.3 million victims. A decade ago approximately 79% of human traf",
+      "url": "https://doi.org/10.1177/08980101211045554",
+      "identifier": "PMID: 34569887 | DOI: 10.1177/08980101211045554",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "forced labor",
+        "exploitation",
+        "trafficking",
+        "victim identification"
+      ],
+      "update_summary": "Updated"
+    },
+    {
       "id": "pubmed-34107811",
       "title": "Rigor and Respect: Recruitment Strategies for Engaging Vulnerable Populations in Research",
       "type": "research",
@@ -270,6 +273,32 @@
       "keywords": [
         "sex trafficking",
         "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-32924747",
+      "title": "\"When Her Visa Expired, the Family Refused to Renew It,\" Intersections of Human Trafficking and Domestic Violence: Qualitative Document Analysis of Case Examples from a Major Midwest City",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2022-04-18",
+      "status": "Published",
+      "summary": "This study aimed to further understand typologies of trafficking that occur in the home, by an individual's intimate partner (IP) or family members and this overlap with extant knowledge on perpetrato",
+      "url": "https://doi.org/10.1177/0886260520957978",
+      "identifier": "PMID: 32924747 | DOI: 10.1177/0886260520957978",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "sex trafficking",
+        "labor trafficking",
+        "exploitation",
+        "anti-trafficking",
+        "coercion",
+        "trafficking",
+        "labor exploitation"
       ],
       "update_summary": "Updated"
     },
@@ -293,20 +322,22 @@
       "update_summary": "Updated"
     },
     {
-      "id": "pubmed-31243470",
-      "title": "Gender differences in the association of living and working conditions and the mental health of trafficking survivors",
+      "id": "pubmed-32662679",
+      "title": "\"Craigslist is Nothing More than an Internet Brothel\": Sex Work and Sex Trafficking in U.S. Newspaper Coverage of Craigslist Sex Forums",
       "type": "research",
       "source": "PubMed",
-      "date": "2019-09-18",
+      "date": "2021-07-18",
       "status": "Published",
-      "summary": "To assess the association of living and working conditions experienced during trafficking with mental health of female and male survivors.",
-      "url": "https://doi.org/10.1007/s00038-019-01269-2",
-      "identifier": "PMID: 31243470 | DOI: 10.1007/s00038-019-01269-2",
+      "summary": "In spring 2018 the U.S. federal government forced Craigslist's sex forums closed. A new anti-sex trafficking law, FOSTA-SESTA, made exceptions to the Communications Decency Act, holding websites accou",
+      "url": "https://doi.org/10.1080/00224499.2020.1786662",
+      "identifier": "PMID: 32662679 | DOI: 10.1080/00224499.2020.1786662",
       "trafficking_types": [
-        "sex",
-        "labor"
+        "sex"
       ],
       "keywords": [
+        "sex trafficking",
+        "FOSTA",
+        "SESTA",
         "trafficking"
       ],
       "update_summary": "Updated"
@@ -316,6 +347,6 @@
     "new_legislation": 0,
     "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 16
+    "updated_research": 17
   }
 }

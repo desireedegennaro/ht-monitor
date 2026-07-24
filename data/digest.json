@@ -1,29 +1,8 @@
 {
-  "generated": "2026-07-23T15:06:36Z",
+  "generated": "2026-07-24T14:50:01Z",
   "period_days": 90,
   "new": [],
   "updated": [
-    {
-      "id": "pubmed-40688747",
-      "title": "Upholding the right to health of forcibly displaced children in Europe",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2025-12-18",
-      "status": "Published",
-      "summary": "In 2023 Europe hosted an estimated 9 million children who had been forcibly displaced from their homes because of conflict, persecution, violence, natural or environmental disasters, climate crisis, h",
-      "url": "https://doi.org/10.1016/j.puhip.2025.100641",
-      "identifier": "PMID: 40688747 | DOI: 10.1016/j.puhip.2025.100641",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "exploitation",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
     {
       "id": "pubmed-37780117",
       "title": "Rights, not rescue: trafficking (in)securities at the sport mega-event",
@@ -40,29 +19,6 @@
       "keywords": [
         "exploitation",
         "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-34569887",
-      "title": "Human Trafficking: Empowering Healthcare Providers and Community Partners as Advocates for Victims",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2022-09-18",
-      "status": "Published",
-      "summary": "Human trafficking, also known as modern-day slavery, is a public health crisis and a growing worldwide crime exploiting approximately 40.3 million victims. A decade ago approximately 79% of human traf",
-      "url": "https://doi.org/10.1177/08980101211045554",
-      "identifier": "PMID: 34569887 | DOI: 10.1177/08980101211045554",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "forced labor",
-        "exploitation",
-        "trafficking",
-        "victim identification"
       ],
       "update_summary": "Updated"
     },
@@ -112,30 +68,12 @@
         "trafficking"
       ],
       "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-33177707",
-      "title": "Organized crime in the fisheries sector threatens a sustainable ocean economy",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2020-12-18",
-      "status": "Published",
-      "summary": "The threat of criminal activity in the fisheries sector has concerned the international community for a number of years. In more recent times, the presence of organized crime in fisheries has come to ",
-      "url": "https://doi.org/10.1038/s41586-020-2913-5",
-      "identifier": "PMID: 33177707 | DOI: 10.1038/s41586-020-2913-5",
-      "trafficking_types": [
-        "labor"
-      ],
-      "keywords": [
-        "trafficking"
-      ],
-      "update_summary": "Updated"
     }
   ],
   "counts": {
     "new_legislation": 0,
     "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 6
+    "updated_research": 3
   }
 }

@@ -173,6 +173,54 @@
     ]
   },
   {
+    "id": "ss-aa4961857d6986f0894d",
+    "type": "research",
+    "title": "Evaluating the Role of ASEAN in Addressing Human Trafficking Against Migrant Workers: A Case Study of Myanmar and Thailand (2021-2025)",
+    "identifier": "DOI: 10.62335/cendekia.v3i6.2624",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2026-06-26",
+    "latest_action_date": "2026-06-26",
+    "latest_action": "Published in CENDEKIA : Jurnal Penelitian dan Pengkajian Ilmiah",
+    "authors": [
+      "Desvitha Alviona Br. Sembiring",
+      "Ushwatul Jannah"
+    ],
+    "journal": "CENDEKIA : Jurnal Penelitian dan Pengkajian Ilmiah",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.62335/cendekia.v3i6.2624",
+    "ss_id": "aa4961857d6986f0894d3b1d458797f8bd6c3479",
+    "doi": "10.62335/cendekia.v3i6.2624",
+    "pmid": "",
+    "summary": "Following the 2021 military coup in Myanmar, migrant workers became increasingly vulnerable to labor exploitation and human trafficking along the Myanmar–Thailand corridor. This study aims to evaluate the effectiveness of ASEAN in addressing human trafficking through regional mechanisms such as the ASEAN Convention Against Trafficking in Persons (ACTIP), ASEANAPOL, and Senior Officials Meeting on Transnational Crime. This research employs a qualitative method, and its analytical framework is bas",
+    "description": "Following the 2021 military coup in Myanmar, migrant workers became increasingly vulnerable to labor exploitation and human trafficking along the Myanmar–Thailand corridor. This study aims to evaluate the effectiveness of ASEAN in addressing human trafficking through regional mechanisms such as the ASEAN Convention Against Trafficking in Persons (ACTIP), ASEANAPOL, and Senior Officials Meeting on Transnational Crime. This research employs a qualitative method, and its analytical framework is based on the perspective of human security. The study shows that ASEAN has established various regional anti-trafficking instruments; however, their implementation still faces challenges such as the dominance of the non-intervention principle, weak regional coordination, and differences in the capacities of member states. In addition, ASEAN’s attention remains focused on state security rather than the direct protection of victims. This study argues that ASEAN needs to strengthen a human-centered security approach in order to protect migrant workers, who constitute a vulnerable group.",
+    "keywords": [
+      "human trafficking",
+      "exploitation",
+      "anti-trafficking",
+      "trafficking",
+      "labor exploitation"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-06-26",
+        "event": "Published in CENDEKIA : Jurnal Penelitian dan Pengkajian Ilmiah",
+        "actor": "Desvitha Alviona Br. Sembiring, Ushwatul Jannah",
+        "source_url": "https://doi.org/10.62335/cendekia.v3i6.2624"
+      }
+    ]
+  },
+  {
     "id": "pubmed-40417985",
     "type": "research",
     "title": "Building the Evidence on Preventing Youth Commercial Sexual Exploitation: A Nonrandomized, Quasi-experimental Evaluation of the Not a Number Trafficking Prevention Program",
@@ -1958,6 +2006,12 @@
       },
       {
         "date": "2025-12-23",
+        "event": "Published in Public health in practice (Oxford, England)",
+        "actor": "Stevens A, Öcek Z et al.",
+        "source_url": "https://doi.org/10.1016/j.puhip.2025.100641"
+      },
+      {
+        "date": "2025-12-25",
         "event": "Published in Public health in practice (Oxford, England)",
         "actor": "Stevens A, Öcek Z et al.",
         "source_url": "https://doi.org/10.1016/j.puhip.2025.100641"
@@ -4373,6 +4427,12 @@
         "event": "Published in Frontiers in sports and active living",
         "actor": "Oliver BJ, De Lisio A",
         "source_url": "https://doi.org/10.3389/fspor.2023.1207595"
+      },
+      {
+        "date": "2023-07-25",
+        "event": "Published in Frontiers in sports and active living",
+        "actor": "Oliver BJ, De Lisio A",
+        "source_url": "https://doi.org/10.3389/fspor.2023.1207595"
       }
     ]
   },
@@ -5218,6 +5278,12 @@
         "event": "Published in Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
         "actor": "Combs MA, Arnold T",
         "source_url": "https://doi.org/10.1177/08980101211045554"
+      },
+      {
+        "date": "2022-09-25",
+        "event": "Published in Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
+        "actor": "Combs MA, Arnold T",
+        "source_url": "https://doi.org/10.1177/08980101211045554"
       }
     ]
   },
@@ -5529,6 +5595,12 @@
       },
       {
         "date": "2022-04-24",
+        "event": "Published in Journal of interpersonal violence",
+        "actor": "Koegler E, Howland W et al.",
+        "source_url": "https://doi.org/10.1177/0886260520957978"
+      },
+      {
+        "date": "2022-04-25",
         "event": "Published in Journal of interpersonal violence",
         "actor": "Koegler E, Howland W et al.",
         "source_url": "https://doi.org/10.1177/0886260520957978"
@@ -6991,6 +7063,12 @@
         "event": "Published in Journal of sex research",
         "actor": "Reynolds C",
         "source_url": "https://doi.org/10.1080/00224499.2020.1786662"
+      },
+      {
+        "date": "2021-07-25",
+        "event": "Published in Journal of sex research",
+        "actor": "Reynolds C",
+        "source_url": "https://doi.org/10.1080/00224499.2020.1786662"
       }
     ]
   },
@@ -8092,6 +8170,12 @@
       },
       {
         "date": "2020-12-23",
+        "event": "Published in Nature",
+        "actor": "Witbooi E, Ali KD et al.",
+        "source_url": "https://doi.org/10.1038/s41586-020-2913-5"
+      },
+      {
+        "date": "2020-12-25",
         "event": "Published in Nature",
         "actor": "Witbooi E, Ali KD et al.",
         "source_url": "https://doi.org/10.1038/s41586-020-2913-5"

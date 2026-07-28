@@ -1,5 +1,75 @@
 [
   {
+    "id": "fr-2026-15274",
+    "type": "regulatory",
+    "title": "Actions by the United States in the Investigations Under Section 301 of the Trade Act of 1974 of the Acts, Policies, and Practices of 60 Economies Related to the Failure of Each Economy To Impose and Effectively Enforce a Prohibition on the Importation of Goods Produced With Forced Labor",
+    "identifier": "2026-15274",
+    "status": "Active",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "labor"
+    ],
+    "introduced": "2026-07-28",
+    "latest_action_date": "2026-07-28",
+    "latest_action": "Presidential Document published in Federal Register",
+    "sponsor": "Executive Office of the President",
+    "cosponsors": 0,
+    "cosponsor_list": [],
+    "committee": "N/A",
+    "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15274/actions-by-the-united-states-in-the-investigations-under-section-301-of-the-trade-act-of-1974-of-the",
+    "summary": "Actions by the United States in the Investigations Under Section 301 of the Trade Act of 1974 of the Acts, Policies, and Practices of 60 Economies Related to the Failure of Each Economy To Impose and Effectively Enforce a Prohibition on the Importation of Goods Produced With Forced Labor",
+    "description": "",
+    "keywords": [
+      "forced labor"
+    ],
+    "companies": [],
+    "source": "Federal Register",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-07-28",
+        "event": "Presidential Document published: Actions by the United States in the Investigations Under Section 301 of the Trad",
+        "actor": "Executive Office of the President",
+        "source_url": "https://www.federalregister.gov/documents/2026/07/28/2026-15274/actions-by-the-united-states-in-the-investigations-under-section-301-of-the-trade-act-of-1974-of-the"
+      }
+    ]
+  },
+  {
+    "id": "fr-2026-15181",
+    "type": "regulatory",
+    "title": "Notice of Actions in Section 301 Investigations of Acts, Policies, and Practices of Various Economies Related to the Failure of Each Economy To Impose and Effectively Enforce a Prohibition on the Importation of Goods Produced With Forced Labor",
+    "identifier": "2026-15181",
+    "status": "Active — Advisory",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "labor"
+    ],
+    "introduced": "2026-07-28",
+    "latest_action_date": "2026-07-28",
+    "latest_action": "Notice published in Federal Register",
+    "sponsor": "Trade Representative, Office of United States",
+    "cosponsors": 0,
+    "cosponsor_list": [],
+    "committee": "N/A",
+    "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15181/notice-of-actions-in-section-301-investigations-of-acts-policies-and-practices-of-various-economies",
+    "summary": "The United States Trade Representative (Trade Representative) has determined under Section 301(b) and Section 304(a) of the Trade Act of 1974, as amended (Trade Act), that in each of 60 investigations, certain of the acts, policies, and practices of the economy at issue are actionable and that action by the United States is appropriate. In accordance with the specific direction of the President, t",
+    "description": "The United States Trade Representative (Trade Representative) has determined under Section 301(b) and Section 304(a) of the Trade Act of 1974, as amended (Trade Act), that in each of 60 investigations, certain of the acts, policies, and practices of the economy at issue are actionable and that action by the United States is appropriate. In accordance with the specific direction of the President, the Trade Representative is taking actions in each of these investigations by imposing tariffs on all products of the investigated economy, with certain exemptions as provided in Annexes I and II to this notice (Notice). Consistent with the specific direction of the President, for an economy that imposes a forced labor import prohibition, has committed to impose and enforce such a prohibition through an Agreement on Reciprocal Trade (ART), or has imposed a partial regime with the effect of preventing the importation of certain forced labor goods, the Trade Representative has determined 10 percent is the appropriate rate of Section 301 duties, with specific economies subject to a 10 percent rate net of a product's most-favored-nation (MFN) duty. For every other economy, and in accordance with the specific direction of the President, the Trade Representative has determined 12.5 percent is the appropriate rate of Section 301 duty, with specific economies subject to a 12.5 percent rate net of a product's MFN duty. The Trade Representative has also determined, consistent with the specific direction of the President, to establish, when feasible, tariff-rate quotas (TRQs) for Bangladesh, Cambodia, Indonesia, and Malaysia, based on each economy's importation of U.S. inputs, to encourage the importation by each of these economies of U.S. cotton and textile goods, in order to reduce reliance on inputs from other sources that are more likely to contain forced labor inputs.",
+    "keywords": [
+      "forced labor"
+    ],
+    "companies": [],
+    "source": "Federal Register",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-07-28",
+        "event": "Notice published: Notice of Actions in Section 301 Investigations of Acts, Policies, and Practices",
+        "actor": "Trade Representative, Office of United States",
+        "source_url": "https://www.federalregister.gov/documents/2026/07/28/2026-15181/notice-of-actions-in-section-301-investigations-of-acts-policies-and-practices-of-various-economies"
+      }
+    ]
+  },
+  {
     "id": "fr-2026-13922",
     "type": "regulatory",
     "title": "Submission for Office of Management and Budget Review; National Human Trafficking Training and Technical Assistance Center Evaluation Package",

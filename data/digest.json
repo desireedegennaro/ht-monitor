@@ -1,32 +1,50 @@
 {
-  "generated": "2026-07-31T15:18:04Z",
+  "generated": "2026-08-01T14:25:41Z",
   "period_days": 90,
-  "new": [],
-  "updated": [
+  "new": [
     {
-      "id": "res-s-2024-modern-slavery-core-outcome",
-      "title": "Modern Slavery Core Outcome Set (MSCOS) Report",
-      "type": "research",
-      "source": "methods/framework + PubMed",
-      "date": "2024-07-18",
-      "status": "Published",
-      "summary": "7 core outcomes: long-term support, secure housing, safety, medical access, purpose/self-actualisation, education, compassionate TIC services. International survivor-driven consensus. First internatio",
-      "url": "https://doi.org/10.1177/15248380231211955",
-      "identifier": "https://doi.org/10.1177/15248380231211955",
+      "id": "fr-2026-15628",
+      "title": "Notice Regarding the Uyghur Forced Labor Prevention Act Entity List",
+      "type": "regulatory",
+      "source": "Federal Register",
+      "date": "2026-08-03",
+      "status": "Active — Advisory",
+      "summary": "The U.S. Department of Homeland Security (DHS), as the Chair of the Forced Labor Enforcement Task Force (FLETF), announces the publication and availability of the updated Uyghur Forced Labor Preventio",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15628/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list",
+      "identifier": "2026-15628",
       "trafficking_types": [
-        "sex",
         "labor"
       ],
       "keywords": [
-        "human trafficking",
-        "modern slavery",
+        "forced labor",
+        "uyghur forced labor",
+        "UFLPA"
+      ]
+    }
+  ],
+  "updated": [
+    {
+      "id": "pubmed-37780117",
+      "title": "Rights, not rescue: trafficking (in)securities at the sport mega-event",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2023-06-18",
+      "status": "Published",
+      "summary": "We examine the impact of fantasies used in the redevelopment of sport mega-event cities on host communities; particularly as related to the male-dominated FIFA World Cup and forced prostitution. We st",
+      "url": "https://doi.org/10.3389/fspor.2023.1207595",
+      "identifier": "PMID: 37780117 | DOI: 10.3389/fspor.2023.1207595",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "exploitation",
         "trafficking"
       ],
       "update_summary": "Updated"
     }
   ],
   "counts": {
-    "new_legislation": 0,
+    "new_legislation": 1,
     "new_research": 0,
     "updated_legislation": 0,
     "updated_research": 1

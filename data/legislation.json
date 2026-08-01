@@ -1,5 +1,42 @@
 [
   {
+    "id": "fr-2026-15628",
+    "type": "regulatory",
+    "title": "Notice Regarding the Uyghur Forced Labor Prevention Act Entity List",
+    "identifier": "2026-15628",
+    "status": "Active — Advisory",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "labor"
+    ],
+    "introduced": "2026-08-03",
+    "latest_action_date": "2026-08-03",
+    "latest_action": "Notice published in Federal Register",
+    "sponsor": "Homeland Security Department",
+    "cosponsors": 0,
+    "cosponsor_list": [],
+    "committee": "N/A",
+    "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15628/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list",
+    "summary": "The U.S. Department of Homeland Security (DHS), as the Chair of the Forced Labor Enforcement Task Force (FLETF), announces the publication and availability of the updated Uyghur Forced Labor Prevention Act (UFLPA) Entity List, a consolidated register of the four lists required to be developed and maintained pursuant to the UFLPA, on the DHS UFLPA website. The updated UFLPA Entity List is also publ",
+    "description": "The U.S. Department of Homeland Security (DHS), as the Chair of the Forced Labor Enforcement Task Force (FLETF), announces the publication and availability of the updated Uyghur Forced Labor Prevention Act (UFLPA) Entity List, a consolidated register of the four lists required to be developed and maintained pursuant to the UFLPA, on the DHS UFLPA website. The updated UFLPA Entity List is also published as an appendix to this notice. This update adds forty-three new entities to the UFLPA Entity List, two of which appear on two separate sub-lists. In addition, this update includes technical corrections to two existing entities on the UFLPA Entity List. Details related to the process for revising the UFLPA Entity List are included in this Federal Register notice.",
+    "keywords": [
+      "forced labor",
+      "uyghur forced labor",
+      "UFLPA"
+    ],
+    "companies": [],
+    "source": "Federal Register",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-08-03",
+        "event": "Notice published: Notice Regarding the Uyghur Forced Labor Prevention Act Entity List",
+        "actor": "Homeland Security Department",
+        "source_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15628/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list"
+      }
+    ]
+  },
+  {
     "id": "fr-2026-15274",
     "type": "regulatory",
     "title": "Actions by the United States in the Investigations Under Section 301 of the Trade Act of 1974 of the Acts, Policies, and Practices of 60 Economies Related to the Failure of Each Economy To Impose and Effectively Enforce a Prohibition on the Importation of Goods Produced With Forced Labor",

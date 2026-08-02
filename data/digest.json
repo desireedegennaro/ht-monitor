@@ -1,52 +1,12 @@
 {
-  "generated": "2026-08-01T14:25:41Z",
+  "generated": "2026-08-02T14:27:23Z",
   "period_days": 90,
-  "new": [
-    {
-      "id": "fr-2026-15628",
-      "title": "Notice Regarding the Uyghur Forced Labor Prevention Act Entity List",
-      "type": "regulatory",
-      "source": "Federal Register",
-      "date": "2026-08-03",
-      "status": "Active — Advisory",
-      "summary": "The U.S. Department of Homeland Security (DHS), as the Chair of the Forced Labor Enforcement Task Force (FLETF), announces the publication and availability of the updated Uyghur Forced Labor Preventio",
-      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15628/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list",
-      "identifier": "2026-15628",
-      "trafficking_types": [
-        "labor"
-      ],
-      "keywords": [
-        "forced labor",
-        "uyghur forced labor",
-        "UFLPA"
-      ]
-    }
-  ],
-  "updated": [
-    {
-      "id": "pubmed-37780117",
-      "title": "Rights, not rescue: trafficking (in)securities at the sport mega-event",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2023-06-18",
-      "status": "Published",
-      "summary": "We examine the impact of fantasies used in the redevelopment of sport mega-event cities on host communities; particularly as related to the male-dominated FIFA World Cup and forced prostitution. We st",
-      "url": "https://doi.org/10.3389/fspor.2023.1207595",
-      "identifier": "PMID: 37780117 | DOI: 10.3389/fspor.2023.1207595",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "exploitation",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    }
-  ],
+  "new": [],
+  "updated": [],
   "counts": {
-    "new_legislation": 1,
+    "new_legislation": 0,
     "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 1
+    "updated_research": 0
   }
 }

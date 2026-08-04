@@ -1,5 +1,54 @@
 [
   {
+    "id": "ss-c02d70b40e2690fa695f",
+    "type": "research",
+    "title": "Evaluation of Socio-Demographic Features and Psycho-Social Factors Among the Rescued Victims of Human Trafficking in North Karnataka Region: A Cross-Sectional Study",
+    "identifier": "DOI: 10.52403/ijhsr.20260725",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2026-07-24",
+    "latest_action_date": "2026-07-24",
+    "latest_action": "Published in International Journal of Health Sciences and Research",
+    "authors": [
+      "Sagarika S",
+      "Anusha M S",
+      "Mukul Chamoli",
+      "S. Mangalwedhe",
+      "Ashna P",
+      "Mahesh Desai"
+    ],
+    "journal": "International Journal of Health Sciences and Research",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.52403/ijhsr.20260725",
+    "ss_id": "c02d70b40e2690fa695fdebbdeb9697b22519e94",
+    "doi": "10.52403/ijhsr.20260725",
+    "pmid": "",
+    "summary": "Background: Human trafficking is a major public health concern and a serious violation of human rights, with profound socio-demographic and psychosocial consequences for survivors. Understanding the characteristics and support systems of rescued victims is essential for developing effective rehabilitation and reintegration strategies.\nObjective: To evaluate the socio-demographic characteristics and psychosocial factors among rescued victims of human trafficking residing in a government-run shelt",
+    "description": "Background: Human trafficking is a major public health concern and a serious violation of human rights, with profound socio-demographic and psychosocial consequences for survivors. Understanding the characteristics and support systems of rescued victims is essential for developing effective rehabilitation and reintegration strategies.\nObjective: To evaluate the socio-demographic characteristics and psychosocial factors among rescued victims of human trafficking residing in a government-run shelter home in North Karnataka, India.\nMethods: A descriptive cross-sectional study was conducted among 40 rescued victims of human trafficking aged ≥18 years residing at a state-run shelter home in Hubballi, Karnataka, between January 2023 and December 2024. Participants were recruited using convenience sampling. Data on socio-demographic characteristics and psychosocial factors were collected through a structured proforma and semi-structured questionnaire following informed consent. Data were analyzed using IBM Statistical Package for the Social Sciences (SPSS) version 20. Categorical variables were summarized as frequencies and percentages, and associations were assessed using Fisher's exact test, with p≤0.05 considered statistically significant.\nResults: Most participants were aged 26–35 years (45.0%), resided in rural areas (80.0%), belonged to low socioeconomic status (60.0%), were unemployed (75.0%), and had secondary education or below (82.5%). More than half were married (55.0%). Living immediate family members were reported by 80.0% of participants, while 92.5% indicated that their families were aware of their current circumstances. Family willingness to act as the primary caregiver was reported by 54.1%, and 51.3% received regular family visits. No statistically significant association was observed between family willingness to provide primary caregiving and the presence of psychiatric illness (p=0.212).\nConclusion: Rescued victims of human trafficking predominantly originated from socioeconomically disadvantaged rural backgrounds and exhibited substantial psychosocial vulnerabilities. Although family support was available for many survivors, important gaps in caregiving and community reintegration remained. These findings highlight the need for multidisciplinary rehabilitation services integrating mental health care, family-centered interventions, vocational rehabilitation, and sustained community support to facilitate long-term recovery and social reintegration.\n\nKey words: Human trafficking, Mental health, Socioeconomic factors, Psycho-social factors, Rehabilitation, state run shelter home",
+    "keywords": [
+      "human trafficking",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-07-24",
+        "event": "Published in International Journal of Health Sciences and Research",
+        "actor": "Sagarika S, Anusha M S et al.",
+        "source_url": "https://doi.org/10.52403/ijhsr.20260725"
+      }
+    ]
+  },
+  {
     "id": "pubmed-41955821",
     "type": "research",
     "title": "The role of parental consent: Implications for surveying minors who experience or are at risk for commercial sexual exploitation in the United States",
@@ -4423,6 +4472,12 @@
       },
       {
         "date": "2023-07-20",
+        "event": "Published in Trauma, violence & abuse",
+        "actor": "Macy RJ, Klein LB et al.",
+        "source_url": "https://doi.org/10.1177/15248380211057273"
+      },
+      {
+        "date": "2023-07-04",
         "event": "Published in Trauma, violence & abuse",
         "actor": "Macy RJ, Klein LB et al.",
         "source_url": "https://doi.org/10.1177/15248380211057273"
@@ -9304,6 +9359,12 @@
       },
       {
         "date": "2019-09-20",
+        "event": "Published in International journal of public health",
+        "actor": "Iglesias-Rios L, Harlow SD et al.",
+        "source_url": "https://doi.org/10.1007/s00038-019-01269-2"
+      },
+      {
+        "date": "2019-09-04",
         "event": "Published in International journal of public health",
         "actor": "Iglesias-Rios L, Harlow SD et al.",
         "source_url": "https://doi.org/10.1007/s00038-019-01269-2"

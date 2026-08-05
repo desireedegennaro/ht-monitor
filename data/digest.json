@@ -1,72 +1,12 @@
 {
-  "generated": "2026-08-04T15:20:11Z",
+  "generated": "2026-08-05T15:13:11Z",
   "period_days": 90,
-  "new": [
-    {
-      "id": "ss-c02d70b40e2690fa695f",
-      "title": "Evaluation of Socio-Demographic Features and Psycho-Social Factors Among the Rescued Victims of Human Trafficking in North Karnataka Region: A Cross-Sectional Study",
-      "type": "research",
-      "source": "Semantic Scholar",
-      "date": "2026-07-24",
-      "status": "Published",
-      "summary": "Background: Human trafficking is a major public health concern and a serious violation of human rights, with profound socio-demographic and psychosocial consequences for survivors. Understanding the c",
-      "url": "https://doi.org/10.52403/ijhsr.20260725",
-      "identifier": "DOI: 10.52403/ijhsr.20260725",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking"
-      ]
-    }
-  ],
-  "updated": [
-    {
-      "id": "pubmed-34930040",
-      "title": "A Scoping Review of Human Trafficking Screening and Response",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2023-07-18",
-      "status": "Published",
-      "summary": "Service providers are increasingly asked to identify individuals who are experiencing trafficking and to connect them with resources and support. Nonetheless, identification is complicated by the real",
-      "url": "https://doi.org/10.1177/15248380211057273",
-      "identifier": "PMID: 34930040 | DOI: 10.1177/15248380211057273",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-31243470",
-      "title": "Gender differences in the association of living and working conditions and the mental health of trafficking survivors",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2019-09-18",
-      "status": "Published",
-      "summary": "To assess the association of living and working conditions experienced during trafficking with mental health of female and male survivors.",
-      "url": "https://doi.org/10.1007/s00038-019-01269-2",
-      "identifier": "PMID: 31243470 | DOI: 10.1007/s00038-019-01269-2",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    }
-  ],
+  "new": [],
+  "updated": [],
   "counts": {
     "new_legislation": 0,
-    "new_research": 1,
+    "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 2
+    "updated_research": 0
   }
 }

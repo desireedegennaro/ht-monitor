@@ -1,5 +1,41 @@
 [
   {
+    "id": "fr-2026-16290",
+    "type": "regulatory",
+    "title": "Adjudication of Civil Penalties Against International Marriage Brokers",
+    "identifier": "2026-16290",
+    "status": "Active — Final Rule",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "introduced": "2026-08-11",
+    "latest_action_date": "2026-08-11",
+    "latest_action": "Rule published in Federal Register",
+    "sponsor": "Justice Department",
+    "cosponsors": 0,
+    "cosponsor_list": [],
+    "committee": "N/A",
+    "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16290/adjudication-of-civil-penalties-against-international-marriage-brokers",
+    "summary": "This interim final rule (\"IFR\") amends Department of Justice (\"Department\") regulations to specify the procedures for adjudicating alleged violations of the International Marriage Broker Regulation Act of 2005 (\"IMBRA\") by international marriage brokers (\"IMBs\") doing business in the United States that fail to provide required information to persons recruited for matchmaking services or that impro",
+    "description": "This interim final rule (\"IFR\") amends Department of Justice (\"Department\") regulations to specify the procedures for adjudicating alleged violations of the International Marriage Broker Regulation Act of 2005 (\"IMBRA\") by international marriage brokers (\"IMBs\") doing business in the United States that fail to provide required information to persons recruited for matchmaking services or that improperly disclose prohibited information. This IFR is necessary to deter fraudulent marriages and the exploitation of immigrants recruited by IMBs.",
+    "keywords": [
+      "exploitation"
+    ],
+    "companies": [],
+    "source": "Federal Register",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-08-11",
+        "event": "Rule published: Adjudication of Civil Penalties Against International Marriage Brokers",
+        "actor": "Justice Department",
+        "source_url": "https://www.federalregister.gov/documents/2026/08/11/2026-16290/adjudication-of-civil-penalties-against-international-marriage-brokers"
+      }
+    ]
+  },
+  {
     "id": "fr-2026-15628",
     "type": "regulatory",
     "title": "Notice Regarding the Uyghur Forced Labor Prevention Act Entity List",

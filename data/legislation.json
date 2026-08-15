@@ -1,5 +1,41 @@
 [
   {
+    "id": "fr-2026-16747",
+    "type": "regulatory",
+    "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; New Collection: Title-Requests for DOJ Certification Letters for T Visa Holders",
+    "identifier": "2026-16747",
+    "status": "Active — Advisory",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "introduced": "2026-08-17",
+    "latest_action_date": "2026-08-17",
+    "latest_action": "Notice published in Federal Register",
+    "sponsor": "Justice Department",
+    "cosponsors": 0,
+    "cosponsor_list": [],
+    "committee": "N/A",
+    "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16747/agency-information-collection-activities-proposed-ecollection-ecomments-requested-new-collection",
+    "summary": "The Criminal Division, Department of Justice (DOJ), will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
+    "description": "The Criminal Division, Department of Justice (DOJ), will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
+    "keywords": [
+      "T visa"
+    ],
+    "companies": [],
+    "source": "Federal Register",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-08-17",
+        "event": "Notice published: Agency Information Collection Activities; Proposed eCollection eComments Request",
+        "actor": "Justice Department",
+        "source_url": "https://www.federalregister.gov/documents/2026/08/17/2026-16747/agency-information-collection-activities-proposed-ecollection-ecomments-requested-new-collection"
+      }
+    ]
+  },
+  {
     "id": "fr-2026-16290",
     "type": "regulatory",
     "title": "Adjudication of Civil Penalties Against International Marriage Brokers",

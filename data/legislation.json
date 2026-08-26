@@ -1,5 +1,41 @@
 [
   {
+    "id": "fr-2026-17380",
+    "type": "regulatory",
+    "title": "International Drug Scheduling; Single Convention on Narcotic Drugs; Convention on Psychotropic Substances; Clobromazolam (Phenazolam); Cychlorphine (N-Propionitrile Chlorphine); Desalkylgidazepam (Bromonordiazepam); Ethylbromazolam; Etomethazene (5-Methyl Etodesnitazene); Spirochlorphine (R6980); Etomidate; Medetomidine; Request for Comments",
+    "identifier": "2026-17380",
+    "status": "Active — Advisory",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "introduced": "2026-08-26",
+    "latest_action_date": "2026-08-26",
+    "latest_action": "Notice published in Federal Register",
+    "sponsor": "Health and Human Services Department, Food and Drug Administration",
+    "cosponsors": 0,
+    "cosponsor_list": [],
+    "committee": "N/A",
+    "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17380/international-drug-scheduling-single-convention-on-narcotic-drugs-convention-on-psychotropic",
+    "summary": "The Food and Drug Administration (FDA or Agency) is providing interested persons with the opportunity to submit comments concerning abuse potential, actual abuse, medical usefulness, trafficking, and impact of scheduling changes on availability for medical use of eight drug substances. These comments will be considered in preparing a response from the United States to the Expert Committee on Drug ",
+    "description": "The Food and Drug Administration (FDA or Agency) is providing interested persons with the opportunity to submit comments concerning abuse potential, actual abuse, medical usefulness, trafficking, and impact of scheduling changes on availability for medical use of eight drug substances. These comments will be considered in preparing a response from the United States to the Expert Committee on Drug Dependence (ECDD) regarding the abuse liability and diversion of these drugs. The ECDD will use this information to consider whether to recommend that certain international restrictions be placed on these drug substances. This notice requesting comments is required by the Controlled Substances Act (CSA).",
+    "keywords": [
+      "trafficking"
+    ],
+    "companies": [],
+    "source": "Federal Register",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-08-26",
+        "event": "Notice published: International Drug Scheduling; Single Convention on Narcotic Drugs; Convention o",
+        "actor": "Health and Human Services Department, Food and Drug Administration",
+        "source_url": "https://www.federalregister.gov/documents/2026/08/26/2026-17380/international-drug-scheduling-single-convention-on-narcotic-drugs-convention-on-psychotropic"
+      }
+    ]
+  },
+  {
     "id": "fr-2026-16747",
     "type": "regulatory",
     "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; New Collection: Title-Requests for DOJ Certification Letters for T Visa Holders",

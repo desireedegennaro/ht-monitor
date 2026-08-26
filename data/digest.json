@@ -1,12 +1,90 @@
 {
-  "generated": "2026-08-25T13:45:40Z",
+  "generated": "2026-08-26T13:48:18Z",
   "period_days": 90,
-  "new": [],
-  "updated": [],
+  "new": [
+    {
+      "id": "fr-2026-17380",
+      "title": "International Drug Scheduling; Single Convention on Narcotic Drugs; Convention on Psychotropic Substances; Clobromazolam (Phenazolam); Cychlorphine (N-Propionitrile Chlorphine); Desalkylgidazepam (Bromonordiazepam); Ethylbromazolam; Etomethazene (5-Methyl Etodesnitazene); Spirochlorphine (R6980); Etomidate; Medetomidine; Request for Comments",
+      "type": "regulatory",
+      "source": "Federal Register",
+      "date": "2026-08-26",
+      "status": "Active — Advisory",
+      "summary": "The Food and Drug Administration (FDA or Agency) is providing interested persons with the opportunity to submit comments concerning abuse potential, actual abuse, medical usefulness, trafficking, and ",
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17380/international-drug-scheduling-single-convention-on-narcotic-drugs-convention-on-psychotropic",
+      "identifier": "2026-17380",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "trafficking"
+      ]
+    }
+  ],
+  "updated": [
+    {
+      "id": "pubmed-40688747",
+      "title": "Upholding the right to health of forcibly displaced children in Europe",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2025-12-18",
+      "status": "Published",
+      "summary": "In 2023 Europe hosted an estimated 9 million children who had been forcibly displaced from their homes because of conflict, persecution, violence, natural or environmental disasters, climate crisis, h",
+      "url": "https://doi.org/10.1016/j.puhip.2025.100641",
+      "identifier": "PMID: 40688747 | DOI: 10.1016/j.puhip.2025.100641",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "exploitation",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-37780117",
+      "title": "Rights, not rescue: trafficking (in)securities at the sport mega-event",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2023-06-18",
+      "status": "Published",
+      "summary": "We examine the impact of fantasies used in the redevelopment of sport mega-event cities on host communities; particularly as related to the male-dominated FIFA World Cup and forced prostitution. We st",
+      "url": "https://doi.org/10.3389/fspor.2023.1207595",
+      "identifier": "PMID: 37780117 | DOI: 10.3389/fspor.2023.1207595",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "exploitation",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-33177707",
+      "title": "Organized crime in the fisheries sector threatens a sustainable ocean economy",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2020-12-18",
+      "status": "Published",
+      "summary": "The threat of criminal activity in the fisheries sector has concerned the international community for a number of years. In more recent times, the presence of organized crime in fisheries has come to ",
+      "url": "https://doi.org/10.1038/s41586-020-2913-5",
+      "identifier": "PMID: 33177707 | DOI: 10.1038/s41586-020-2913-5",
+      "trafficking_types": [
+        "labor"
+      ],
+      "keywords": [
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    }
+  ],
   "counts": {
-    "new_legislation": 0,
+    "new_legislation": 1,
     "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 0
+    "updated_research": 3
   }
 }

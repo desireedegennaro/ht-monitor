@@ -1,5 +1,52 @@
 [
   {
+    "id": "pubmed-42647548",
+    "type": "research",
+    "title": "Prevalence and characteristics of sex trafficking among youth experiencing homelessness: A cross-sectional study",
+    "identifier": "PMID: 42647548 | DOI: 10.1371/journal.pone.0357091",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "2026-08-29",
+    "latest_action_date": "2026-08-29",
+    "latest_action": "Published in PloS one",
+    "authors": [
+      "Fernández-Sánchez H",
+      "Jones J",
+      "Arandhara U",
+      "Padhye N",
+      "Nyamathi A",
+      "Lightfoot M"
+    ],
+    "journal": "PloS one",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1371/journal.pone.0357091",
+    "pmid": "42647548",
+    "doi": "10.1371/journal.pone.0357091",
+    "summary": "Prevalence and characteristics of sex trafficking among youth experiencing homelessness: A cross-sectional study",
+    "description": "",
+    "keywords": [
+      "sex trafficking",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-08-29",
+        "event": "Published in PloS one",
+        "actor": "Fernández-Sánchez H, Jones J et al.",
+        "source_url": "https://doi.org/10.1371/journal.pone.0357091"
+      }
+    ]
+  },
+  {
     "id": "pubmed-42571949",
     "type": "research",
     "title": "Desire for Help Among Sexual and Gender Minority Youth at Risk for Commercial Sexual Exploitation",
@@ -344,6 +391,12 @@
       },
       {
         "date": "2026-08-24",
+        "event": "Published in Frontiers in public health",
+        "actor": "Colburn D, Mitchell KJ et al.",
+        "source_url": "https://doi.org/10.3389/fpubh.2026.1858900"
+      },
+      {
+        "date": "2026-08-29",
         "event": "Published in Frontiers in public health",
         "actor": "Colburn D, Mitchell KJ et al.",
         "source_url": "https://doi.org/10.3389/fpubh.2026.1858900"
@@ -5036,6 +5089,12 @@
         "event": "Published in Trauma, violence & abuse",
         "actor": "Macy RJ, Klein LB et al.",
         "source_url": "https://doi.org/10.1177/15248380211057273"
+      },
+      {
+        "date": "2023-07-29",
+        "event": "Published in Trauma, violence & abuse",
+        "actor": "Macy RJ, Klein LB et al.",
+        "source_url": "https://doi.org/10.1177/15248380211057273"
       }
     ]
   },
@@ -5256,6 +5315,12 @@
       },
       {
         "date": "2023-08-26",
+        "event": "Published in Frontiers in sports and active living",
+        "actor": "Oliver BJ, De Lisio A",
+        "source_url": "https://doi.org/10.3389/fspor.2023.1207595"
+      },
+      {
+        "date": "2023-08-29",
         "event": "Published in Frontiers in sports and active living",
         "actor": "Oliver BJ, De Lisio A",
         "source_url": "https://doi.org/10.3389/fspor.2023.1207595"
@@ -6200,6 +6265,12 @@
         "event": "Published in Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
         "actor": "Combs MA, Arnold T",
         "source_url": "https://doi.org/10.1177/08980101211045554"
+      },
+      {
+        "date": "2022-09-29",
+        "event": "Published in Journal of holistic nursing : official journal of the American Holistic Nurses' Association",
+        "actor": "Combs MA, Arnold T",
+        "source_url": "https://doi.org/10.1177/08980101211045554"
       }
     ]
   },
@@ -6559,6 +6630,12 @@
       },
       {
         "date": "2022-04-15",
+        "event": "Published in Journal of interpersonal violence",
+        "actor": "Koegler E, Howland W et al.",
+        "source_url": "https://doi.org/10.1177/0886260520957978"
+      },
+      {
+        "date": "2022-04-29",
         "event": "Published in Journal of interpersonal violence",
         "actor": "Koegler E, Howland W et al.",
         "source_url": "https://doi.org/10.1177/0886260520957978"
@@ -8126,6 +8203,12 @@
       },
       {
         "date": "2021-07-15",
+        "event": "Published in Journal of sex research",
+        "actor": "Reynolds C",
+        "source_url": "https://doi.org/10.1080/00224499.2020.1786662"
+      },
+      {
+        "date": "2021-07-29",
         "event": "Published in Journal of sex research",
         "actor": "Reynolds C",
         "source_url": "https://doi.org/10.1080/00224499.2020.1786662"
@@ -10214,6 +10297,12 @@
       },
       {
         "date": "2019-09-24",
+        "event": "Published in International journal of public health",
+        "actor": "Iglesias-Rios L, Harlow SD et al.",
+        "source_url": "https://doi.org/10.1007/s00038-019-01269-2"
+      },
+      {
+        "date": "2019-09-29",
         "event": "Published in International journal of public health",
         "actor": "Iglesias-Rios L, Harlow SD et al.",
         "source_url": "https://doi.org/10.1007/s00038-019-01269-2"

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-05T15:47:35Z",
+  "generated": "2026-09-06T15:59:10Z",
   "period_days": 90,
   "new": [],
   "updated": [
@@ -61,46 +61,6 @@
       "update_summary": "Updated"
     },
     {
-      "id": "pubmed-34424650",
-      "title": "Texas Human Trafficking",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-01-18",
-      "status": "Published",
-      "summary": "Texas Human Trafficking",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/34424650/",
-      "identifier": "PMID: 34424650",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-28613660",
-      "title": "Human Trafficking",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-01-18",
-      "status": "Published",
-      "summary": "Human Trafficking",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/28613660/",
-      "identifier": "PMID: 28613660",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
       "id": "pubmed-41798347",
       "title": "A Systematic Review Examining Methods of Human-Trafficking Training for Healthcare Professionals with Recommendations for Medical Education",
       "type": "research",
@@ -158,21 +118,39 @@
       "update_summary": "Updated"
     },
     {
-      "id": "pubmed-34930040",
-      "title": "A Scoping Review of Human Trafficking Screening and Response",
+      "id": "pubmed-39720572",
+      "title": "Laypersons' Recognition of and Attribution of Blame in Situations Involving Domestic Minor Sex Trafficking",
       "type": "research",
       "source": "PubMed",
-      "date": "2023-07-18",
+      "date": "2024-06-18",
       "status": "Published",
-      "summary": "Service providers are increasingly asked to identify individuals who are experiencing trafficking and to connect them with resources and support. Nonetheless, identification is complicated by the real",
-      "url": "https://doi.org/10.1177/15248380211057273",
-      "identifier": "PMID: 34930040 | DOI: 10.1177/15248380211057273",
+      "summary": "Successful identification of domestic minor sex trafficking (DMST) remains challenging. Laypersons could play a significant role in identifying victims, but only if laypersons recognize trafficking si",
+      "url": "https://doi.org/10.1080/1068316x.2022.2139377",
+      "identifier": "PMID: 39720572 | DOI: 10.1080/1068316x.2022.2139377",
       "trafficking_types": [
-        "sex",
-        "labor"
+        "sex"
       ],
       "keywords": [
-        "human trafficking",
+        "sex trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-37530682",
+      "title": "Clinical Psychosocial Risk Factors for Sex Trafficking Involvement Among Adolescent Girls",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2023-11-18",
+      "status": "Published",
+      "summary": "This study assessed the characteristics that place adolescent girls at greatest risk for sex trafficking involvement. It was hypothesized that girls with a greater history of risk behaviors, unstable ",
+      "url": "https://doi.org/10.1016/j.jadohealth.2023.06.011",
+      "identifier": "PMID: 37530682 | DOI: 10.1016/j.jadohealth.2023.06.011",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "sex trafficking",
         "trafficking"
       ],
       "update_summary": "Updated"
@@ -241,6 +219,25 @@
       "update_summary": "Updated"
     },
     {
+      "id": "pubmed-34107811",
+      "title": "Rigor and Respect: Recruitment Strategies for Engaging Vulnerable Populations in Research",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2022-09-18",
+      "status": "Published",
+      "summary": "Engaging vulnerable populations in research is a critical focus for researchers seeking to find ways to improve safety and well-being for broader populations. Vulnerabilities often co-occur, meaning t",
+      "url": "https://doi.org/10.1177/08862605211023497",
+      "identifier": "PMID: 34107811 | DOI: 10.1177/08862605211023497",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "sex trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
       "id": "pubmed-32924747",
       "title": "\"When Her Visa Expired, the Family Refused to Renew It,\" Intersections of Human Trafficking and Domestic Violence: Qualitative Document Analysis of Case Examples from a Major Midwest City",
       "type": "research",
@@ -267,21 +264,20 @@
       "update_summary": "Updated"
     },
     {
-      "id": "pubmed-34364174",
-      "title": "Responding to orphanage trafficking from an information gathering perspective",
+      "id": "pubmed-35121439",
+      "title": "Provider challenges in responding to retrafficking of juvenile justice-involved domestic minor sex trafficking survivors",
       "type": "research",
       "source": "PubMed",
-      "date": "2021-10-18",
+      "date": "2022-04-18",
       "status": "Published",
-      "summary": "Estimates suggest that close to 3 million institutionalized children internationally have some family to whom they could go home. A proportion of these children is recruited from their communities und",
-      "url": "https://doi.org/10.1016/j.chiabu.2021.105222",
-      "identifier": "PMID: 34364174 | DOI: 10.1016/j.chiabu.2021.105222",
+      "summary": "Domestic minor sex trafficking (DMST) survivors are disproportionately involved in the juvenile justice system, but frequently run away and experience retrafficking. However, little research explores ",
+      "url": "https://doi.org/10.1016/j.chiabu.2022.105521",
+      "identifier": "PMID: 35121439 | DOI: 10.1016/j.chiabu.2022.105521",
       "trafficking_types": [
-        "sex",
-        "labor"
+        "sex"
       ],
       "keywords": [
-        "trafficking victims",
+        "sex trafficking",
         "trafficking"
       ],
       "update_summary": "Updated"
@@ -306,31 +302,12 @@
         "trafficking"
       ],
       "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-31243470",
-      "title": "Gender differences in the association of living and working conditions and the mental health of trafficking survivors",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2019-09-18",
-      "status": "Published",
-      "summary": "To assess the association of living and working conditions experienced during trafficking with mental health of female and male survivors.",
-      "url": "https://doi.org/10.1007/s00038-019-01269-2",
-      "identifier": "PMID: 31243470 | DOI: 10.1007/s00038-019-01269-2",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "trafficking"
-      ],
-      "update_summary": "Updated"
     }
   ],
   "counts": {
     "new_legislation": 0,
     "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 16
+    "updated_research": 15
   }
 }

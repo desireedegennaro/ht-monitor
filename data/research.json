@@ -104,6 +104,51 @@
     ]
   },
   {
+    "id": "ss-668b0f97c68c1657f3c2",
+    "type": "research",
+    "title": "Malware as a Service in Human Trafficking Operations at a Scam Compound: Cybercrime Infrastructure and Forced Labor as Structurally Interdependent",
+    "identifier": "DOI: 10.1080/23322705.2026.2703953",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "labor"
+    ],
+    "published": "2026-07-27",
+    "latest_action_date": "2026-07-27",
+    "latest_action": "Published in Journal of Human Trafficking",
+    "authors": [
+      "S. Lazarus",
+      "Gargi Sarkar"
+    ],
+    "journal": "Journal of Human Trafficking",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1080/23322705.2026.2703953",
+    "ss_id": "668b0f97c68c1657f3c2dd67812920d110f4dea5",
+    "doi": "10.1080/23322705.2026.2703953",
+    "pmid": "",
+    "summary": "Malware as a Service in Human Trafficking Operations at a Scam Compound: Cybercrime Infrastructure and Forced Labor as Structurally Interdependent",
+    "description": "",
+    "keywords": [
+      "human trafficking",
+      "forced labor",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-07-27",
+        "event": "Published in Journal of Human Trafficking",
+        "actor": "S. Lazarus, Gargi Sarkar",
+        "source_url": "https://doi.org/10.1080/23322705.2026.2703953"
+      }
+    ]
+  },
+  {
     "id": "ss-c02d70b40e2690fa695f",
     "type": "research",
     "title": "Evaluation of Socio-Demographic Features and Psycho-Social Factors Among the Rescued Victims of Human Trafficking in North Karnataka Region: A Cross-Sectional Study",
@@ -300,6 +345,52 @@
     ]
   },
   {
+    "id": "ss-fe286375b1642ba33863",
+    "type": "research",
+    "title": "Bridging decoupling gaps: the role of NGOS in combating forced labor in global supply chains",
+    "identifier": "DOI: 10.1108/ijopm-09-2025-0952",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "labor"
+    ],
+    "published": "2026-07-09",
+    "latest_action_date": "2026-07-09",
+    "latest_action": "Published in International Journal of Operations &amp; Production Management",
+    "authors": [
+      "F. Asadov",
+      "Quynh Do",
+      "Mark Stevenson",
+      "Anas Iftikhar"
+    ],
+    "journal": "International Journal of Operations &amp; Production Management",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1108/ijopm-09-2025-0952",
+    "ss_id": "fe286375b1642ba33863de756e189c2d059c5961",
+    "doi": "10.1108/ijopm-09-2025-0952",
+    "pmid": "",
+    "summary": "\n \n To understand how non-governmental organizations (NGOs) can remedy the corporate decoupling that perpetuates forced labor in global supply chains. We develop the Synergistic Recoupling Framework to theorize how and when NGO interventions bridge the underlying policy-practice and means-ends gaps.\n \n \n \n An integrative, theory elaboration approach is adopted, drawing on a systematic literature review of 87 peer-reviewed articles. The literature is analyzed through the lens of decoupling theory",
+    "description": "\n \n To understand how non-governmental organizations (NGOs) can remedy the corporate decoupling that perpetuates forced labor in global supply chains. We develop the Synergistic Recoupling Framework to theorize how and when NGO interventions bridge the underlying policy-practice and means-ends gaps.\n \n \n \n An integrative, theory elaboration approach is adopted, drawing on a systematic literature review of 87 peer-reviewed articles. The literature is analyzed through the lens of decoupling theory to capture the causal mechanisms underpinning NGO effectiveness.\n \n \n \n Seven core NGO interventions are identified and grouped into internal support and external pressure roles. The literature frames these roles through two competing lenses: an instrumental view of NGOs as compliance enablers and a critical view of them as political actors challenging structural exploitation. Internal roles primarily address means-ends decoupling, while external roles primarily address policy-practice decoupling. We synthesize these into the Synergistic Recoupling Framework, showing that recoupling is achieved only when high-intensity internal support and external pressure are deployed simultaneously.\n \n \n \n As a conceptual study, the framework is literature-derived and now requires empirical testing of when concurrent recoupling holds.\n \n \n \n Our framework elaborates decoupling theory, reconceptualizing decoupling as a dynamic institutional failure resolved through concurrent recoupling. It therefore challenges the conventional watchdog versus partner dichotomy on the role of NGOs, highlighting that resolving the dual decoupling of forced labor requires a strategic synergy of internal and external roles rather than a singular intervention type.\n",
+    "keywords": [
+      "forced labor",
+      "exploitation"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-07-09",
+        "event": "Published in International Journal of Operations &amp; Production Management",
+        "actor": "F. Asadov, Quynh Do et al.",
+        "source_url": "https://doi.org/10.1108/ijopm-09-2025-0952"
+      }
+    ]
+  },
+  {
     "id": "pubmed-42375578",
     "type": "research",
     "title": "Syndemic pathways linking juvenile delinquency, structural vulnerability, and mental health: implications for exploitation risk",
@@ -436,6 +527,52 @@
         "event": "Published in Frontiers in public health",
         "actor": "Colburn D, Mitchell KJ et al.",
         "source_url": "https://doi.org/10.3389/fpubh.2026.1858900"
+      }
+    ]
+  },
+  {
+    "id": "ss-b9d3087ff67516d8f642",
+    "type": "research",
+    "title": "HUMAN TRAFFICKING NETWORKS IN EUROPE: between digitization of crime and policy response",
+    "identifier": "DOI: 10.51799/2763-8685v6n1014",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2026-07-01",
+    "latest_action_date": "2026-07-01",
+    "latest_action": "Published in Latin American Journal of European Studies",
+    "authors": [
+      "Belkacem Ghania"
+    ],
+    "journal": "Latin American Journal of European Studies",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.51799/2763-8685v6n1014",
+    "ss_id": "b9d3087ff67516d8f6429cd6ed62deeb61885c6c",
+    "doi": "10.51799/2763-8685v6n1014",
+    "pmid": "",
+    "summary": "This study examines human trafficking in Europe through the activities of organized crime networks and the use of social media platforms, highlighting key concepts, statistical trends, and comparative case studies between Belgium and Germany. It aims to analyze the relationship between digital platforms and criminal networks in facilitating human trafficking and to assess the effectiveness of the European Union’s dual approach, which combines a legislative framework with practical measures. The ",
+    "description": "This study examines human trafficking in Europe through the activities of organized crime networks and the use of social media platforms, highlighting key concepts, statistical trends, and comparative case studies between Belgium and Germany. It aims to analyze the relationship between digital platforms and criminal networks in facilitating human trafficking and to assess the effectiveness of the European Union’s dual approach, which combines a legislative framework with practical measures. The methodology includes legal analysis, the use of Eurostat 2024 data, and comparative case studies, focusing on methods of exploitation, victim characteristics, and the use of digital technologies. The results indicate a strong link between digital platforms and criminal networks, with various forms of exploitation including sexual exploitation, forced labor, and child exploitation. The study emphasizes the need for an integrated European strategy that strengthens legislation, institutional coordination, victim protection, and technological oversight to effectively combat the human trafficking network.",
+    "keywords": [
+      "human trafficking",
+      "forced labor",
+      "exploitation",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-07-01",
+        "event": "Published in Latin American Journal of European Studies",
+        "actor": "Belkacem Ghania",
+        "source_url": "https://doi.org/10.51799/2763-8685v6n1014"
       }
     ]
   },

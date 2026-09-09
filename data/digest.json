@@ -1,110 +1,12 @@
 {
-  "generated": "2026-09-08T17:00:14Z",
+  "generated": "2026-09-09T17:01:50Z",
   "period_days": 90,
   "new": [],
-  "updated": [
-    {
-      "id": "pubmed-41349265",
-      "title": "A review on forensic profiling of rhinoceros horn",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-01-23",
-      "status": "Published",
-      "summary": "The relentless escalation of rhinoceros horn trafficking represents a profound and immediate threat to the survival of rhinoceros populations across Africa and Asia. This illicit trade, driven by pers",
-      "url": "https://doi.org/10.1016/j.forsciint.2025.112762",
-      "identifier": "PMID: 41349265 | DOI: 10.1016/j.forsciint.2025.112762",
-      "trafficking_types": [
-        "labor"
-      ],
-      "keywords": [
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-34424650",
-      "title": "Texas Human Trafficking",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-01-18",
-      "status": "Published",
-      "summary": "Texas Human Trafficking",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/34424650/",
-      "identifier": "PMID: 34424650",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-28613660",
-      "title": "Human Trafficking",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-01-18",
-      "status": "Published",
-      "summary": "Human Trafficking",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/28613660/",
-      "identifier": "PMID: 28613660",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-38123142",
-      "title": "Review: Wildlife forensic genetics-Biological evidence, DNA markers, analytical approaches, and challenges",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2024-04-18",
-      "status": "Published",
-      "summary": "Wildlife-related crimes are the second most prevalent lawbreaking offense globally. This illicit trade encompasses hunting, breeding and trafficking. Besides diminishing many species and their habitat",
-      "url": "https://doi.org/10.1111/age.13390",
-      "identifier": "PMID: 38123142 | DOI: 10.1111/age.13390",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-34364174",
-      "title": "Responding to orphanage trafficking from an information gathering perspective",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2021-10-18",
-      "status": "Published",
-      "summary": "Estimates suggest that close to 3 million institutionalized children internationally have some family to whom they could go home. A proportion of these children is recruited from their communities und",
-      "url": "https://doi.org/10.1016/j.chiabu.2021.105222",
-      "identifier": "PMID: 34364174 | DOI: 10.1016/j.chiabu.2021.105222",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "trafficking victims",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    }
-  ],
+  "updated": [],
   "counts": {
     "new_legislation": 0,
     "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 5
+    "updated_research": 0
   }
 }

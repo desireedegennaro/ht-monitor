@@ -1,5 +1,54 @@
 [
   {
+    "id": "ss-d511e443767b2b622225",
+    "type": "research",
+    "title": "Cyber Slavery and the Indian Legal Framework: A Comprehensive Analysis of Doctrinal Gaps and Reform Imperatives",
+    "identifier": "DOI: 10.63108/ijlmh.12738",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2026-09-02",
+    "latest_action_date": "2026-09-02",
+    "latest_action": "Published in International Journal of Law Management &amp; Humanities",
+    "authors": [
+      "Esther Brave",
+      "C. GouriShankar"
+    ],
+    "journal": "International Journal of Law Management &amp; Humanities",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.63108/ijlmh.12738",
+    "ss_id": "d511e443767b2b622225e65a0c580abad37ff0f4",
+    "doi": "10.63108/ijlmh.12738",
+    "pmid": "",
+    "summary": "Cyber slavery has emerged as a pernicious form of contemporary exploitation, merging the vulnerabilities of human trafficking with the anonymity and reach of digital technology. This phenomenon involves the recruitment, transportation, and coercion of individuals to engage in online criminal activities including fraud, identity theft, and scam operations under conditions akin to modern slavery. Despite its increasing prevalence, particularly affecting Indian nationals trafficked to scam-camps ac",
+    "description": "Cyber slavery has emerged as a pernicious form of contemporary exploitation, merging the vulnerabilities of human trafficking with the anonymity and reach of digital technology. This phenomenon involves the recruitment, transportation, and coercion of individuals to engage in online criminal activities including fraud, identity theft, and scam operations under conditions akin to modern slavery. Despite its increasing prevalence, particularly affecting Indian nationals trafficked to scam-camps across South-East Asia, Indian law continues to treat cyber slavery through fragmented provisions rather than as a distinct hybrid crime. The Bharatiya Nyaya Sanhita, 2023 addresses trafficking and forced labour, while the Information Technology Act, 2000 regulates cybercrime, yet neither statute expressly recognises or adequately addresses cyber-enabled trafficking. This comprehensive research paper identifies critical doctrinal gaps in Indian jurisprudence and proposes a multi-layered reform agenda encompassing statutory amendment, institutional restructuring, victim-centred evidentiary standards, and alignment with international frameworks including the United Nations Cybercrime Convention and the Budapest Convention on Cybercrime. The paper argues that India must develop a cyber-slavery-specific legal regime that harmonises cyber-law and human-trafficking norms, establishes presumptions of coercion for trafficked digital-fraud operators, and implements cross-border cooperation protocols tailored to scam-camp-linked networks. Through doctrinal analysis, comparative jurisprudence, and practical policy recommendations, this paper contributes to the emerging discourse on cyber-enabled trafficking in the Asian legal context and offers a blueprint for legislative and institutional reform grounded in international human-rights standards and the principle of non-punishment for trafficking victims.",
+    "keywords": [
+      "human trafficking",
+      "trafficking victims",
+      "exploitation",
+      "modern slavery",
+      "coercion",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-09-02",
+        "event": "Published in International Journal of Law Management &amp; Humanities",
+        "actor": "Esther Brave, C. GouriShankar",
+        "source_url": "https://doi.org/10.63108/ijlmh.12738"
+      }
+    ]
+  },
+  {
     "id": "pubmed-42647548",
     "type": "research",
     "title": "Prevalence and characteristics of sex trafficking among youth experiencing homelessness: A cross-sectional study",

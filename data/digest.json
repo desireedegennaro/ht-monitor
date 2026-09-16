@@ -1,35 +1,11 @@
 {
-  "generated": "2026-09-15T17:28:28Z",
+  "generated": "2026-09-16T17:28:11Z",
   "period_days": 90,
-  "new": [
-    {
-      "id": "ss-d511e443767b2b622225",
-      "title": "Cyber Slavery and the Indian Legal Framework: A Comprehensive Analysis of Doctrinal Gaps and Reform Imperatives",
-      "type": "research",
-      "source": "Semantic Scholar",
-      "date": "2026-09-02",
-      "status": "Published",
-      "summary": "Cyber slavery has emerged as a pernicious form of contemporary exploitation, merging the vulnerabilities of human trafficking with the anonymity and reach of digital technology. This phenomenon involv",
-      "url": "https://doi.org/10.63108/ijlmh.12738",
-      "identifier": "DOI: 10.63108/ijlmh.12738",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking victims",
-        "exploitation",
-        "modern slavery",
-        "coercion",
-        "trafficking"
-      ]
-    }
-  ],
+  "new": [],
   "updated": [],
   "counts": {
     "new_legislation": 0,
-    "new_research": 1,
+    "new_research": 0,
     "updated_legislation": 0,
     "updated_research": 0
   }

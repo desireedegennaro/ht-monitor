@@ -1,12 +1,132 @@
 {
-  "generated": "2026-09-17T17:27:17Z",
+  "generated": "2026-09-18T16:52:51Z",
   "period_days": 90,
-  "new": [],
-  "updated": [],
+  "new": [
+    {
+      "id": "ss-712a41a9646bfd642df8",
+      "title": "Legal Qualification of the Ferienjob Program as Human Trafficking under Indonesian Law",
+      "type": "research",
+      "source": "Semantic Scholar",
+      "date": "2026-09-03",
+      "status": "Published",
+      "summary": "The Ferienjob program offers short-term employment opportunities for Indonesian students in Germany during academic breaks. However, its implementation has triggered serious issues related to manipula",
+      "url": "https://doi.org/10.14710/lr.v22i2.69250",
+      "identifier": "DOI: 10.14710/lr.v22i2.69250",
+      "trafficking_types": [
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "exploitation",
+        "trafficking",
+        "debt bondage"
+      ]
+    },
+    {
+      "id": "ss-0ef8e685b7366016b5da",
+      "title": "Legal Protection for Victim-Witnesses in Human Trafficking Crimes: An Analysis of the Gap Between Das Sollen–Das Sein and Substantive Justice",
+      "type": "research",
+      "source": "Semantic Scholar",
+      "date": "2026-08-28",
+      "status": "Published",
+      "summary": "Human trafficking is a serious crime that undermines human dignity and causes physical, psychological, and socio-economic harm to victims. In the adjudication of trafficking cases, victim witnesses pl",
+      "url": "https://doi.org/10.37010/fcs.v7i02.2258",
+      "identifier": "DOI: 10.37010/fcs.v7i02.2258",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "anti-trafficking",
+        "trafficking"
+      ]
+    }
+  ],
+  "updated": [
+    {
+      "id": "pubmed-28613660",
+      "title": "Human Trafficking",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-01-18",
+      "status": "Published",
+      "summary": "Human Trafficking",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28613660/",
+      "identifier": "PMID: 28613660",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-34424650",
+      "title": "Texas Human Trafficking",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-01-18",
+      "status": "Published",
+      "summary": "Texas Human Trafficking",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34424650/",
+      "identifier": "PMID: 34424650",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-39720572",
+      "title": "Laypersons' Recognition of and Attribution of Blame in Situations Involving Domestic Minor Sex Trafficking",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2024-06-18",
+      "status": "Published",
+      "summary": "Successful identification of domestic minor sex trafficking (DMST) remains challenging. Laypersons could play a significant role in identifying victims, but only if laypersons recognize trafficking si",
+      "url": "https://doi.org/10.1080/1068316x.2022.2139377",
+      "identifier": "PMID: 39720572 | DOI: 10.1080/1068316x.2022.2139377",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "sex trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-37780117",
+      "title": "Rights, not rescue: trafficking (in)securities at the sport mega-event",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2023-06-18",
+      "status": "Published",
+      "summary": "We examine the impact of fantasies used in the redevelopment of sport mega-event cities on host communities; particularly as related to the male-dominated FIFA World Cup and forced prostitution. We st",
+      "url": "https://doi.org/10.3389/fspor.2023.1207595",
+      "identifier": "PMID: 37780117 | DOI: 10.3389/fspor.2023.1207595",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "exploitation",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    }
+  ],
   "counts": {
     "new_legislation": 0,
-    "new_research": 0,
+    "new_research": 2,
     "updated_legislation": 0,
-    "updated_research": 0
+    "updated_research": 4
   }
 }

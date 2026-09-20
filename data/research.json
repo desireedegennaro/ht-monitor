@@ -1,5 +1,54 @@
 [
   {
+    "id": "pubmed-42734591",
+    "type": "research",
+    "title": "School Personnel as Partners in the Prevention of Sex Trafficking: A Cross-Sectional Survey Study",
+    "identifier": "PMID: 42734591 | DOI: 10.1080/10538712.2026.2729076",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "2026-09-14",
+    "latest_action_date": "2026-09-14",
+    "latest_action": "Published in Journal of child sexual abuse",
+    "authors": [
+      "Edwards KM",
+      "Dalla RL",
+      "Wheeler L",
+      "Rentschler J",
+      "Bryson GD",
+      "Kang JS"
+    ],
+    "journal": "Journal of child sexual abuse",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1080/10538712.2026.2729076",
+    "pmid": "42734591",
+    "doi": "10.1080/10538712.2026.2729076",
+    "summary": "School personnel play an important role in preventing violence and promoting positive school environments, yet little is known about their role in preventing sex trafficking of high school youth. As such, the purpose of this study was to answer the following: (1) How likely are school personnel to engage in prevention-related conversations with youth and report positive bystander intentions in situations of student sex trafficking? (2) How do demographics, sex trafficking knowledge, personal res",
+    "description": "School personnel play an important role in preventing violence and promoting positive school environments, yet little is known about their role in preventing sex trafficking of high school youth. As such, the purpose of this study was to answer the following: (1) How likely are school personnel to engage in prevention-related conversations with youth and report positive bystander intentions in situations of student sex trafficking? (2) How do demographics, sex trafficking knowledge, personal responsibility to help, perceptions of other school personnel's willingness to help, and cultural humility (i.e. self-reflection and learning to understand and respect cultural differences) relate to (a) bystander intentions and (b) engaging in prevention-related conversations? Participants were 143 school personnel in a Midwest urban school district. Participants, on average, agreed (on a 4-point scale from strongly disagree to strongly agree) that they engaged in prevention-related conversations with youth and reported having intentions to intervene as a bystander; thus, they were likely to engage in these behaviors. Results indicated that, on average, school personnel reported high levels of positive bystander intentions and were likely to engage in prevention-related conversations with youth regarding sex trafficking. Higher levels of personal beliefs regarding the unacceptability of sex trafficking and responsibility to prevent it and cultural humility were associated with greater bystander intentions. Greater knowledge related to commercial sexual exploitation was unexpectedly associated with lower bystander intentions. Overall, findings underscore the importance of multi-component approaches for school personnel that attend to social norms and cultural humility to support sex trafficking prevention efforts with high school youth.",
+    "keywords": [
+      "sex trafficking",
+      "exploitation",
+      "commercial sexual exploitation",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-09-14",
+        "event": "Published in Journal of child sexual abuse",
+        "actor": "Edwards KM, Dalla RL et al.",
+        "source_url": "https://doi.org/10.1080/10538712.2026.2729076"
+      }
+    ]
+  },
+  {
     "id": "ss-712a41a9646bfd642df8",
     "type": "research",
     "title": "Legal Qualification of the Ferienjob Program as Human Trafficking under Indonesian Law",
@@ -126,7 +175,7 @@
     "pmid": "42647548",
     "doi": "10.1371/journal.pone.0357091",
     "summary": "Prevalence and characteristics of sex trafficking among youth experiencing homelessness: A cross-sectional study",
-    "description": "",
+    "description": "Youth experiencing homelessness (YEH) face elevated risk for sex trafficking due to interconnecting structural, interpersonal, and psychological vulnerabilities. Despite growing recognition of this link, regional data from the southern United States remain limited. This study examines the proportion of YEH reporting experiences consistent with sex trafficking and describes associated characteristics among a sample of YEH in Houston, TX.",
     "keywords": [
       "sex trafficking",
       "trafficking"
@@ -155,6 +204,12 @@
       },
       {
         "date": "2026-09-10",
+        "event": "Published in PloS one",
+        "actor": "Fernández-Sánchez H, Jones J et al.",
+        "source_url": "https://doi.org/10.1371/journal.pone.0357091"
+      },
+      {
+        "date": "2026-09-20",
         "event": "Published in PloS one",
         "actor": "Fernández-Sánchez H, Jones J et al.",
         "source_url": "https://doi.org/10.1371/journal.pone.0357091"
@@ -685,6 +740,12 @@
       },
       {
         "date": "2026-09-10",
+        "event": "Published in Frontiers in public health",
+        "actor": "Colburn D, Mitchell KJ et al.",
+        "source_url": "https://doi.org/10.3389/fpubh.2026.1858900"
+      },
+      {
+        "date": "2026-09-20",
         "event": "Published in Frontiers in public health",
         "actor": "Colburn D, Mitchell KJ et al.",
         "source_url": "https://doi.org/10.3389/fpubh.2026.1858900"
@@ -2753,6 +2814,52 @@
     ]
   },
   {
+    "id": "pubmed-41100719",
+    "type": "research",
+    "title": "Examining Risk Factors and Characteristics of Trafficked Youth: Insights From a Therapeutic Housing Program",
+    "identifier": "PMID: 41100719 | DOI: 10.1097/JFN.0000000000000571",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "2026 Jul-S",
+    "latest_action_date": "2026 Jul-S",
+    "latest_action": "Published in Journal of forensic nursing",
+    "authors": [
+      "Quaile H",
+      "Garfield L",
+      "Tenfelde S"
+    ],
+    "journal": "Journal of forensic nursing",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1097/JFN.0000000000000571",
+    "pmid": "41100719",
+    "doi": "10.1097/JFN.0000000000000571",
+    "summary": "To describe the demographic characteristics and prevalence of individual, relational, and community-level risk factors among adolescents in a therapeutic program for survivors of domestic minor sex trafficking and commercial sexual exploitation of children in Georgia, United States (U.S.).",
+    "description": "To describe the demographic characteristics and prevalence of individual, relational, and community-level risk factors among adolescents in a therapeutic program for survivors of domestic minor sex trafficking and commercial sexual exploitation of children in Georgia, United States (U.S.).",
+    "keywords": [
+      "sex trafficking",
+      "exploitation",
+      "commercial sexual exploitation",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026 Jul-S",
+        "event": "Published in Journal of forensic nursing",
+        "actor": "Quaile H, Garfield L et al.",
+        "source_url": "https://doi.org/10.1097/JFN.0000000000000571"
+      }
+    ]
+  },
+  {
     "id": "pubmed-40688747",
     "type": "research",
     "title": "Upholding the right to health of forcibly displaced children in Europe",
@@ -4199,6 +4306,12 @@
       },
       {
         "date": "2024-09-18",
+        "event": "Published in Psychology, crime & law : PC & L",
+        "actor": "Winks KMH, Lundon GM et al.",
+        "source_url": "https://doi.org/10.1080/1068316x.2022.2139377"
+      },
+      {
+        "date": "2024-09-20",
         "event": "Published in Psychology, crime & law : PC & L",
         "actor": "Winks KMH, Lundon GM et al.",
         "source_url": "https://doi.org/10.1080/1068316x.2022.2139377"

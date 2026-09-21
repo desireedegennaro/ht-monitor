@@ -1,111 +1,12 @@
 {
-  "generated": "2026-09-20T16:43:20Z",
+  "generated": "2026-09-21T18:28:26Z",
   "period_days": 90,
-  "new": [
-    {
-      "id": "pubmed-42734591",
-      "title": "School Personnel as Partners in the Prevention of Sex Trafficking: A Cross-Sectional Survey Study",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-09-14",
-      "status": "Published",
-      "summary": "School personnel play an important role in preventing violence and promoting positive school environments, yet little is known about their role in preventing sex trafficking of high school youth. As s",
-      "url": "https://doi.org/10.1080/10538712.2026.2729076",
-      "identifier": "PMID: 42734591 | DOI: 10.1080/10538712.2026.2729076",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "sex trafficking",
-        "exploitation",
-        "commercial sexual exploitation",
-        "trafficking"
-      ]
-    },
-    {
-      "id": "pubmed-41100719",
-      "title": "Examining Risk Factors and Characteristics of Trafficked Youth: Insights From a Therapeutic Housing Program",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026 Jul-S",
-      "status": "Published",
-      "summary": "To describe the demographic characteristics and prevalence of individual, relational, and community-level risk factors among adolescents in a therapeutic program for survivors of domestic minor sex tr",
-      "url": "https://doi.org/10.1097/JFN.0000000000000571",
-      "identifier": "PMID: 41100719 | DOI: 10.1097/JFN.0000000000000571",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "sex trafficking",
-        "exploitation",
-        "commercial sexual exploitation",
-        "trafficking"
-      ]
-    }
-  ],
-  "updated": [
-    {
-      "id": "pubmed-42647548",
-      "title": "Prevalence and characteristics of sex trafficking among youth experiencing homelessness: A cross-sectional study",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-08-29",
-      "status": "Published",
-      "summary": "Prevalence and characteristics of sex trafficking among youth experiencing homelessness: A cross-sectional study",
-      "url": "https://doi.org/10.1371/journal.pone.0357091",
-      "identifier": "PMID: 42647548 | DOI: 10.1371/journal.pone.0357091",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "sex trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-42375578",
-      "title": "Syndemic pathways linking juvenile delinquency, structural vulnerability, and mental health: implications for exploitation risk",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-07-02",
-      "status": "Published",
-      "summary": "Syndemic pathways linking juvenile delinquency, structural vulnerability, and mental health: implications for exploitation risk",
-      "url": "https://doi.org/10.3389/fpubh.2026.1858900",
-      "identifier": "PMID: 42375578 | DOI: 10.3389/fpubh.2026.1858900",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "exploitation"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-39720572",
-      "title": "Laypersons' Recognition of and Attribution of Blame in Situations Involving Domestic Minor Sex Trafficking",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2024-06-18",
-      "status": "Published",
-      "summary": "Successful identification of domestic minor sex trafficking (DMST) remains challenging. Laypersons could play a significant role in identifying victims, but only if laypersons recognize trafficking si",
-      "url": "https://doi.org/10.1080/1068316x.2022.2139377",
-      "identifier": "PMID: 39720572 | DOI: 10.1080/1068316x.2022.2139377",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "sex trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    }
-  ],
+  "new": [],
+  "updated": [],
   "counts": {
     "new_legislation": 0,
-    "new_research": 2,
+    "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 3
+    "updated_research": 0
   }
 }

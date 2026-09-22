@@ -1,5 +1,51 @@
 [
   {
+    "id": "pubmed-42756155",
+    "type": "research",
+    "title": "Dendritic-cell depletion and dysfunction in sepsis: a compartment- and evidence-aware synthesis",
+    "identifier": "PMID: 42756155 | DOI: 10.3389/fimmu.2026.1934483",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2026-09-22",
+    "latest_action_date": "2026-09-22",
+    "latest_action": "Published in Frontiers in immunology",
+    "authors": [
+      "Xu X",
+      "Tang M",
+      "Zou Z",
+      "Zhao W",
+      "Zhang H"
+    ],
+    "journal": "Frontiers in immunology",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.3389/fimmu.2026.1934483",
+    "pmid": "42756155",
+    "doi": "10.3389/fimmu.2026.1934483",
+    "summary": "Sepsis-associated immune dysfunction varies across patients, compartments, and sampling windows. Dendritic cells (DCs) offer a useful-but neither exclusive nor primary-lens because they connect innate sensing with antigen presentation, cytokine instruction, and adaptive immunity. Human studies show reduced circulating DC abundance, altered phenotype, checkpoint context, and impaired ex vivo responsiveness, whereas experimental studies demonstrate splenic DC loss, disturbed bone-marrow generation",
+    "description": "Sepsis-associated immune dysfunction varies across patients, compartments, and sampling windows. Dendritic cells (DCs) offer a useful-but neither exclusive nor primary-lens because they connect innate sensing with antigen presentation, cytokine instruction, and adaptive immunity. Human studies show reduced circulating DC abundance, altered phenotype, checkpoint context, and impaired ex vivo responsiveness, whereas experimental studies demonstrate splenic DC loss, disturbed bone-marrow generation, impaired anigen-specific T-cell priming, and tissue-specific pDC vulnerability or rescue. These observations support four distinct, potentially coexisting contributions: depletion, dysfunction of residual cells, redistribution, and impaired replacement. A low blood count cannot distinguish among them. Across mechanisms, evidence for developmental supply, survival and cell death, trafficking, antigen presentation, cytokine output, regulatory-like programming, checkpoint signaling, and organelle or metabolic stress varies substantially in identity confidence, model, functional validation, and causal support. Accordingly, human blood evidence is not treated as equivalent to murine marrow, spleen, or lung perturbation, and transcriptomic APC/DC-like states are not equated with demonstrated cellular function. The mouse mregDC-like program remains a Class 4 exploratory regulatory-like state with substantial within-study support but no validated human sepsis homolog. Apparent conflicts-including early inflammatory amplification versus persistent immune suppression, and IL-3-associated inflammation versus late pDC-dependent antiviral rescue-are interpreted as context-, time-, and compartment-dependent rather than forced into a universal sequence. DC-informed monitoring should complement established broader approaches such as monocyte HLA-DR and transcriptomic immune subgrouping, using a transparent ten-domain appraisal of identity and evidence. No DC-only endotype, treatment trigger, bedside biomarker, or DC-directed therapy is validated. This synthesis defines testable, timing-aware, and safety-bounded research hypotheses while keeping clinical claims proportional to the evidence.",
+    "keywords": [
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-09-22",
+        "event": "Published in Frontiers in immunology",
+        "actor": "Xu X, Tang M et al.",
+        "source_url": "https://doi.org/10.3389/fimmu.2026.1934483"
+      }
+    ]
+  },
+  {
     "id": "pubmed-42734591",
     "type": "research",
     "title": "School Personnel as Partners in the Prevention of Sex Trafficking: A Cross-Sectional Survey Study",
@@ -210,6 +256,12 @@
       },
       {
         "date": "2026-09-20",
+        "event": "Published in PloS one",
+        "actor": "Fernández-Sánchez H, Jones J et al.",
+        "source_url": "https://doi.org/10.1371/journal.pone.0357091"
+      },
+      {
+        "date": "2026-09-22",
         "event": "Published in PloS one",
         "actor": "Fernández-Sánchez H, Jones J et al.",
         "source_url": "https://doi.org/10.1371/journal.pone.0357091"
@@ -551,6 +603,12 @@
         "event": "Published in Social science & medicine (1982)",
         "actor": "Lockwood S, Wagner A et al.",
         "source_url": "https://doi.org/10.1016/j.socscimed.2026.119243"
+      },
+      {
+        "date": "2026-07-22",
+        "event": "Published in Social science & medicine (1982)",
+        "actor": "Lockwood S, Wagner A et al.",
+        "source_url": "https://doi.org/10.1016/j.socscimed.2026.119243"
       }
     ]
   },
@@ -746,6 +804,12 @@
       },
       {
         "date": "2026-09-20",
+        "event": "Published in Frontiers in public health",
+        "actor": "Colburn D, Mitchell KJ et al.",
+        "source_url": "https://doi.org/10.3389/fpubh.2026.1858900"
+      },
+      {
+        "date": "2026-09-22",
         "event": "Published in Frontiers in public health",
         "actor": "Colburn D, Mitchell KJ et al.",
         "source_url": "https://doi.org/10.3389/fpubh.2026.1858900"
@@ -2553,6 +2617,12 @@
         "event": "Published",
         "actor": "Ladd M, Jones EB",
         "source_url": "https://pubmed.ncbi.nlm.nih.gov/34424650/"
+      },
+      {
+        "date": "2022-01-22",
+        "event": "Published",
+        "actor": "Ladd M, Jones EB",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/34424650/"
       }
     ]
   },
@@ -2715,6 +2785,12 @@
       },
       {
         "date": "2023-01-18",
+        "event": "Published",
+        "actor": "Toney-Butler TJ, Ladd M et al.",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/28613660/"
+      },
+      {
+        "date": "2023-01-22",
         "event": "Published",
         "actor": "Toney-Butler TJ, Ladd M et al.",
         "source_url": "https://pubmed.ncbi.nlm.nih.gov/28613660/"
@@ -2969,6 +3045,12 @@
         "event": "Published in Public health in practice (Oxford, England)",
         "actor": "Stevens A, Öcek Z et al.",
         "source_url": "https://doi.org/10.1016/j.puhip.2025.100641"
+      },
+      {
+        "date": "2025-12-22",
+        "event": "Published in Public health in practice (Oxford, England)",
+        "actor": "Stevens A, Öcek Z et al.",
+        "source_url": "https://doi.org/10.1016/j.puhip.2025.100641"
       }
     ]
   },
@@ -3140,6 +3222,12 @@
         "event": "Published in Medical science educator",
         "actor": "Weaver MM, Nagy H et al.",
         "source_url": "https://doi.org/10.1007/s40670-025-02489-3"
+      },
+      {
+        "date": "2025-12-22",
+        "event": "Published in Medical science educator",
+        "actor": "Weaver MM, Nagy H et al.",
+        "source_url": "https://doi.org/10.1007/s40670-025-02489-3"
       }
     ]
   },
@@ -3302,6 +3390,12 @@
       },
       {
         "date": "2025-11-14",
+        "event": "Published in Child abuse & neglect",
+        "actor": "Mitchell KJ, Jones LM et al.",
+        "source_url": "https://doi.org/10.1016/j.chiabu.2025.107619"
+      },
+      {
+        "date": "2025-11-22",
         "event": "Published in Child abuse & neglect",
         "actor": "Mitchell KJ, Jones LM et al.",
         "source_url": "https://doi.org/10.1016/j.chiabu.2025.107619"
@@ -4023,6 +4117,12 @@
         "event": "Published in Indian journal of psychiatry",
         "actor": "Shamsudeen S, Gupta P et al.",
         "source_url": "https://doi.org/10.4103/indianjpsychiatry.indianjpsychiatry_248_24"
+      },
+      {
+        "date": "2024-10-22",
+        "event": "Published in Indian journal of psychiatry",
+        "actor": "Shamsudeen S, Gupta P et al.",
+        "source_url": "https://doi.org/10.4103/indianjpsychiatry.indianjpsychiatry_248_24"
       }
     ]
   },
@@ -4312,6 +4412,12 @@
       },
       {
         "date": "2024-09-20",
+        "event": "Published in Psychology, crime & law : PC & L",
+        "actor": "Winks KMH, Lundon GM et al.",
+        "source_url": "https://doi.org/10.1080/1068316x.2022.2139377"
+      },
+      {
+        "date": "2024-09-22",
         "event": "Published in Psychology, crime & law : PC & L",
         "actor": "Winks KMH, Lundon GM et al.",
         "source_url": "https://doi.org/10.1080/1068316x.2022.2139377"
@@ -5728,6 +5834,12 @@
         "event": "Published in Trauma, violence & abuse",
         "actor": "Macy RJ, Klein LB et al.",
         "source_url": "https://doi.org/10.1177/15248380211057273"
+      },
+      {
+        "date": "2023-07-22",
+        "event": "Published in Trauma, violence & abuse",
+        "actor": "Macy RJ, Klein LB et al.",
+        "source_url": "https://doi.org/10.1177/15248380211057273"
       }
     ]
   },
@@ -5990,6 +6102,12 @@
       },
       {
         "date": "2023-09-18",
+        "event": "Published in Frontiers in sports and active living",
+        "actor": "Oliver BJ, De Lisio A",
+        "source_url": "https://doi.org/10.3389/fspor.2023.1207595"
+      },
+      {
+        "date": "2023-09-22",
         "event": "Published in Frontiers in sports and active living",
         "actor": "Oliver BJ, De Lisio A",
         "source_url": "https://doi.org/10.3389/fspor.2023.1207595"
@@ -6773,6 +6891,12 @@
         "event": "Published in International emergency nursing",
         "actor": "Murphy MC",
         "source_url": "https://doi.org/10.1016/j.ienj.2022.101228"
+      },
+      {
+        "date": "2022-11-22",
+        "event": "Published in International emergency nursing",
+        "actor": "Murphy MC",
+        "source_url": "https://doi.org/10.1016/j.ienj.2022.101228"
       }
     ]
   },
@@ -7091,6 +7215,12 @@
       },
       {
         "date": "2022-09-10",
+        "event": "Published in Journal of interpersonal violence",
+        "actor": "O'Brien JE, Brewer KB et al.",
+        "source_url": "https://doi.org/10.1177/08862605211023497"
+      },
+      {
+        "date": "2022-09-22",
         "event": "Published in Journal of interpersonal violence",
         "actor": "O'Brien JE, Brewer KB et al.",
         "source_url": "https://doi.org/10.1177/08862605211023497"
@@ -10123,6 +10253,12 @@
         "event": "Published in Nature",
         "actor": "Witbooi E, Ali KD et al.",
         "source_url": "https://doi.org/10.1038/s41586-020-2913-5"
+      },
+      {
+        "date": "2020-12-22",
+        "event": "Published in Nature",
+        "actor": "Witbooi E, Ali KD et al.",
+        "source_url": "https://doi.org/10.1038/s41586-020-2913-5"
       }
     ]
   },
@@ -11098,6 +11234,12 @@
       },
       {
         "date": "2019-09-05",
+        "event": "Published in International journal of public health",
+        "actor": "Iglesias-Rios L, Harlow SD et al.",
+        "source_url": "https://doi.org/10.1007/s00038-019-01269-2"
+      },
+      {
+        "date": "2019-09-22",
         "event": "Published in International journal of public health",
         "actor": "Iglesias-Rios L, Harlow SD et al.",
         "source_url": "https://doi.org/10.1007/s00038-019-01269-2"

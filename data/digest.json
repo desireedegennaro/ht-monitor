@@ -1,26 +1,7 @@
 {
-  "generated": "2026-09-23T17:39:57Z",
+  "generated": "2026-09-24T17:43:58Z",
   "period_days": 90,
-  "new": [
-    {
-      "id": "fr-2026-19555",
-      "title": "Enhancing Program Integrity and Interagency Coordination in the Administration of the H-1B Nonimmigrant Visa Program",
-      "type": "regulatory",
-      "source": "Federal Register",
-      "date": "2026-09-23",
-      "status": "Active",
-      "summary": "Enhancing Program Integrity and Interagency Coordination in the Administration of the H-1B Nonimmigrant Visa Program",
-      "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19555/enhancing-program-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b",
-      "identifier": "2026-19555",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "T visa"
-      ]
-    }
-  ],
+  "new": [],
   "updated": [
     {
       "id": "pubmed-42647548",
@@ -59,31 +40,12 @@
         "exploitation"
       ],
       "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-39720572",
-      "title": "Laypersons' Recognition of and Attribution of Blame in Situations Involving Domestic Minor Sex Trafficking",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2024-06-18",
-      "status": "Published",
-      "summary": "Successful identification of domestic minor sex trafficking (DMST) remains challenging. Laypersons could play a significant role in identifying victims, but only if laypersons recognize trafficking si",
-      "url": "https://doi.org/10.1080/1068316x.2022.2139377",
-      "identifier": "PMID: 39720572 | DOI: 10.1080/1068316x.2022.2139377",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "sex trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
     }
   ],
   "counts": {
-    "new_legislation": 1,
+    "new_legislation": 0,
     "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 3
+    "updated_research": 2
   }
 }

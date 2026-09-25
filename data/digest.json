@@ -1,51 +1,12 @@
 {
-  "generated": "2026-09-24T17:43:58Z",
+  "generated": "2026-09-25T17:41:53Z",
   "period_days": 90,
   "new": [],
-  "updated": [
-    {
-      "id": "pubmed-42647548",
-      "title": "Prevalence and characteristics of sex trafficking among youth experiencing homelessness: A cross-sectional study",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-08-29",
-      "status": "Published",
-      "summary": "Prevalence and characteristics of sex trafficking among youth experiencing homelessness: A cross-sectional study",
-      "url": "https://doi.org/10.1371/journal.pone.0357091",
-      "identifier": "PMID: 42647548 | DOI: 10.1371/journal.pone.0357091",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "sex trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-42375578",
-      "title": "Syndemic pathways linking juvenile delinquency, structural vulnerability, and mental health: implications for exploitation risk",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-07-02",
-      "status": "Published",
-      "summary": "Syndemic pathways linking juvenile delinquency, structural vulnerability, and mental health: implications for exploitation risk",
-      "url": "https://doi.org/10.3389/fpubh.2026.1858900",
-      "identifier": "PMID: 42375578 | DOI: 10.3389/fpubh.2026.1858900",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "exploitation"
-      ],
-      "update_summary": "Updated"
-    }
-  ],
+  "updated": [],
   "counts": {
     "new_legislation": 0,
     "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 2
+    "updated_research": 0
   }
 }

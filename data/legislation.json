@@ -1,5 +1,41 @@
 [
   {
+    "id": "fr-2026-19655",
+    "type": "regulatory",
+    "title": "Jeffrey Thies: Final Debarment Order",
+    "identifier": "2026-19655",
+    "status": "Active — Advisory",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "introduced": "2026-09-25",
+    "latest_action_date": "2026-09-25",
+    "latest_action": "Notice published in Federal Register",
+    "sponsor": "Health and Human Services Department, Food and Drug Administration",
+    "cosponsors": 0,
+    "cosponsor_list": [],
+    "committee": "N/A",
+    "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19655/jeffrey-thies-final-debarment-order",
+    "summary": "The Food and Drug Administration (FDA or the Agency) is issuing an order under the Federal Food, Drug, and Cosmetic Act (FD&C Act) debarring Jeffrey Thies for a period of 10 years from importing or offering for import any drug into the United States. FDA bases this order on a finding that Mr. Thies was convicted of two felony counts under Federal law for trafficking in counterfeit goods and aiding",
+    "description": "The Food and Drug Administration (FDA or the Agency) is issuing an order under the Federal Food, Drug, and Cosmetic Act (FD&C Act) debarring Jeffrey Thies for a period of 10 years from importing or offering for import any drug into the United States. FDA bases this order on a finding that Mr. Thies was convicted of two felony counts under Federal law for trafficking in counterfeit goods and aiding and abetting. The factual basis supporting Mr. Thies's conviction, as described below, is conduct relating to the importation into the United States of a drug or controlled substance. Mr. Thies was given notice of the proposed debarment and was given an opportunity to request a hearing to show why he should not be debarred. As of July 13, 2026 (more than 30 days after receipt of the notice), Mr. Thies had not responded. Mr. Thies's failure to respond and request a hearing constitutes a waiver of his right to a hearing concerning this matter.",
+    "keywords": [
+      "trafficking"
+    ],
+    "companies": [],
+    "source": "Federal Register",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-09-25",
+        "event": "Notice published: Jeffrey Thies: Final Debarment Order",
+        "actor": "Health and Human Services Department, Food and Drug Administration",
+        "source_url": "https://www.federalregister.gov/documents/2026/09/25/2026-19655/jeffrey-thies-final-debarment-order"
+      }
+    ]
+  },
+  {
     "id": "fr-2026-19555",
     "type": "regulatory",
     "title": "Enhancing Program Integrity and Interagency Coordination in the Administration of the H-1B Nonimmigrant Visa Program",

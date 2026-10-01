@@ -1,5 +1,41 @@
 [
   {
+    "id": "fr-2026-20016",
+    "type": "regulatory",
+    "title": "U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule",
+    "identifier": "2026-20016",
+    "status": "Active — Final Rule",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "introduced": "2026-09-30",
+    "latest_action_date": "2026-09-30",
+    "latest_action": "Rule published in Federal Register",
+    "sponsor": "Homeland Security Department",
+    "cosponsors": 0,
+    "cosponsor_list": [],
+    "committee": "N/A",
+    "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20016/us-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee",
+    "summary": "This final rule adjusts the Employment-Based Immigration, Fifth Preference (EB-5) immigration benefit request fees charged by U.S. Citizenship and Immigration Services (USCIS). It also codifies provisions of the EB-5 Reform and Integrity Act of 2022, implements new statutory requirements, and addresses public comments received on the proposed fee rule published on October 23, 2025.",
+    "description": "This final rule adjusts the Employment-Based Immigration, Fifth Preference (EB-5) immigration benefit request fees charged by U.S. Citizenship and Immigration Services (USCIS). It also codifies provisions of the EB-5 Reform and Integrity Act of 2022, implements new statutory requirements, and addresses public comments received on the proposed fee rule published on October 23, 2025.",
+    "keywords": [
+      "T visa"
+    ],
+    "companies": [],
+    "source": "Federal Register",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-09-30",
+        "event": "Rule published: U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth",
+        "actor": "Homeland Security Department",
+        "source_url": "https://www.federalregister.gov/documents/2026/09/30/2026-20016/us-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee"
+      }
+    ]
+  },
+  {
     "id": "fr-2026-19655",
     "type": "regulatory",
     "title": "Jeffrey Thies: Final Debarment Order",

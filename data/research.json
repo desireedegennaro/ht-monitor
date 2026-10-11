@@ -1,5 +1,50 @@
 [
   {
+    "id": "ss-0d5d8773b0e8fc560bfd",
+    "type": "research",
+    "title": "Using Service Inventory Data to Guide Statewide Anti-Human Trafficking Strategic Planning Initiatives.",
+    "identifier": "DOI: 10.1080/26408066.2026.2744165",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2026-10-06",
+    "latest_action_date": "2026-10-06",
+    "latest_action": "Published in Journal of evidence-based social work",
+    "authors": [
+      "Andrea J. Nichols",
+      "Kathleen M. Preble"
+    ],
+    "journal": "Journal of evidence-based social work",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1080/26408066.2026.2744165",
+    "ss_id": "0d5d8773b0e8fc560bfd7a344dc56672a8edd176",
+    "doi": "10.1080/26408066.2026.2744165",
+    "pmid": "42839525",
+    "summary": "PURPOSE\nThe current study examined human trafficking service inventory data in Missouri to contribute to an evidence base for prioritizing coalition action in statewide strategic planning initiatives.\n\n\nMETHODS\nDrawing from data derived from an electronic interactive statewide resource guide, the present study engaged in descriptive analyses of counts of human trafficking‑related services (i.e. drop-in centers, employment services, food pantries, youth shelter/residential services, adult shelter",
+    "description": "PURPOSE\nThe current study examined human trafficking service inventory data in Missouri to contribute to an evidence base for prioritizing coalition action in statewide strategic planning initiatives.\n\n\nMETHODS\nDrawing from data derived from an electronic interactive statewide resource guide, the present study engaged in descriptive analyses of counts of human trafficking‑related services (i.e. drop-in centers, employment services, food pantries, youth shelter/residential services, adult shelter, substance use disorder services, therapy/counseling, language access/translation services, legal services, human trafficking education/awareness training, and human trafficking prevention programs). Counts of each of the 11 services were compared in 7 regions in the state of Missouri and analyzed per 100,000 population.\n\n\nRESULTS\nThe lowest relative service availability (i.e. least services available per capita) was shown in the most population dense areas for drop-in centers, employment services, food pantries, adult shelter, therapy/counseling, substance use disorder services, and legal services. The lowest relative service availability was shown in moderate and less population dense areas for youth shelter/residential services, language access/translation services, human trafficking education/awareness, and prevention programs.\n\n\nDISCUSSION\nResults indicated service availability varied throughout the state, and the relative service availability differed by region and service type. Descriptive analysis accounting for population size revealed an important layer of data that can be combined with other data to inform strategic planning efforts.\n\n\nCONCLUSION\nThe results suggest potentially prioritizing statewide antitrafficking efforts and directing funding to the regions that show the lowest relative service availability in strategic planning initiatives, while simultaneously considering regional contextual dynamics (e.g. trafficking prevalence, demand for services/unmet needs).",
+    "keywords": [
+      "human trafficking",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-10-06",
+        "event": "Published in Journal of evidence-based social work",
+        "actor": "Andrea J. Nichols, Kathleen M. Preble",
+        "source_url": "https://doi.org/10.1080/26408066.2026.2744165"
+      }
+    ]
+  },
+  {
     "id": "pubmed-42756155",
     "type": "research",
     "title": "Dendritic-cell depletion and dysfunction in sepsis: a compartment- and evidence-aware synthesis",
@@ -2719,6 +2764,12 @@
         "event": "Published",
         "actor": "Ladd M, Jones EB",
         "source_url": "https://pubmed.ncbi.nlm.nih.gov/34424650/"
+      },
+      {
+        "date": "2022-01-11",
+        "event": "Published",
+        "actor": "Ladd M, Jones EB",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/34424650/"
       }
     ]
   },
@@ -2899,6 +2950,12 @@
       },
       {
         "date": "2023-01-08",
+        "event": "Published",
+        "actor": "Toney-Butler TJ, Ladd M et al.",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/28613660/"
+      },
+      {
+        "date": "2023-01-11",
         "event": "Published",
         "actor": "Toney-Butler TJ, Ladd M et al.",
         "source_url": "https://pubmed.ncbi.nlm.nih.gov/28613660/"

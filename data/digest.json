@@ -1,27 +1,7 @@
 {
-  "generated": "2026-10-11T17:54:15Z",
+  "generated": "2026-10-12T21:33:34Z",
   "period_days": 90,
-  "new": [
-    {
-      "id": "ss-0d5d8773b0e8fc560bfd",
-      "title": "Using Service Inventory Data to Guide Statewide Anti-Human Trafficking Strategic Planning Initiatives.",
-      "type": "research",
-      "source": "Semantic Scholar",
-      "date": "2026-10-06",
-      "status": "Published",
-      "summary": "PURPOSE\nThe current study examined human trafficking service inventory data in Missouri to contribute to an evidence base for prioritizing coalition action in statewide strategic planning initiatives.",
-      "url": "https://doi.org/10.1080/26408066.2026.2744165",
-      "identifier": "DOI: 10.1080/26408066.2026.2744165",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking"
-      ]
-    }
-  ],
+  "new": [],
   "updated": [
     {
       "id": "pubmed-28613660",
@@ -66,7 +46,7 @@
   ],
   "counts": {
     "new_legislation": 0,
-    "new_research": 1,
+    "new_research": 0,
     "updated_legislation": 0,
     "updated_research": 2
   }

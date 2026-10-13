@@ -1,53 +1,12 @@
 {
-  "generated": "2026-10-12T21:33:34Z",
+  "generated": "2026-10-13T19:43:09Z",
   "period_days": 90,
   "new": [],
-  "updated": [
-    {
-      "id": "pubmed-28613660",
-      "title": "Human Trafficking",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-01-18",
-      "status": "Published",
-      "summary": "Human Trafficking",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/28613660/",
-      "identifier": "PMID: 28613660",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-34424650",
-      "title": "Texas Human Trafficking",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-01-18",
-      "status": "Published",
-      "summary": "Texas Human Trafficking",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/34424650/",
-      "identifier": "PMID: 34424650",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    }
-  ],
+  "updated": [],
   "counts": {
     "new_legislation": 0,
     "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 2
+    "updated_research": 0
   }
 }

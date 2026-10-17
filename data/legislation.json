@@ -1,5 +1,42 @@
 [
   {
+    "id": "fr-2026-21273",
+    "type": "regulatory",
+    "title": "DOT Advisory Committee on Human Trafficking",
+    "identifier": "2026-21273",
+    "status": "Active — Advisory",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "introduced": "2026-10-19",
+    "latest_action_date": "2026-10-19",
+    "latest_action": "Notice published in Federal Register",
+    "sponsor": "Transportation Department, Transportation Department",
+    "cosponsors": 0,
+    "cosponsor_list": [],
+    "committee": "N/A",
+    "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21273/dot-advisory-committee-on-human-trafficking",
+    "summary": "The Office of the Secretary of Transportation (OST) announces the DOT Advisory Committee on Human Trafficking's public meetings in 2026 and 2027. This notice announces the dates, times, and locations of the virtual meetings, which will be open to the public. The purpose of the ACHT is to advise the Secretary of Transportation on countering human trafficking in the transportation sector.",
+    "description": "The Office of the Secretary of Transportation (OST) announces the DOT Advisory Committee on Human Trafficking's public meetings in 2026 and 2027. This notice announces the dates, times, and locations of the virtual meetings, which will be open to the public. The purpose of the ACHT is to advise the Secretary of Transportation on countering human trafficking in the transportation sector.",
+    "keywords": [
+      "human trafficking",
+      "trafficking"
+    ],
+    "companies": [],
+    "source": "Federal Register",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-10-19",
+        "event": "Notice published: DOT Advisory Committee on Human Trafficking",
+        "actor": "Transportation Department, Transportation Department",
+        "source_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21273/dot-advisory-committee-on-human-trafficking"
+      }
+    ]
+  },
+  {
     "id": "fr-2026-20016",
     "type": "regulatory",
     "title": "U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule",

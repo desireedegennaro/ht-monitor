@@ -1,27 +1,7 @@
 {
-  "generated": "2026-10-17T16:07:10Z",
+  "generated": "2026-10-18T16:17:41Z",
   "period_days": 90,
-  "new": [
-    {
-      "id": "fr-2026-21273",
-      "title": "DOT Advisory Committee on Human Trafficking",
-      "type": "regulatory",
-      "source": "Federal Register",
-      "date": "2026-10-19",
-      "status": "Active — Advisory",
-      "summary": "The Office of the Secretary of Transportation (OST) announces the DOT Advisory Committee on Human Trafficking's public meetings in 2026 and 2027. This notice announces the dates, times, and locations ",
-      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21273/dot-advisory-committee-on-human-trafficking",
-      "identifier": "2026-21273",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking"
-      ]
-    }
-  ],
+  "new": [],
   "updated": [
     {
       "id": "pubmed-42647548",
@@ -60,31 +40,12 @@
         "exploitation"
       ],
       "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-37780117",
-      "title": "Rights, not rescue: trafficking (in)securities at the sport mega-event",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2023-06-18",
-      "status": "Published",
-      "summary": "We examine the impact of fantasies used in the redevelopment of sport mega-event cities on host communities; particularly as related to the male-dominated FIFA World Cup and forced prostitution. We st",
-      "url": "https://doi.org/10.3389/fspor.2023.1207595",
-      "identifier": "PMID: 37780117 | DOI: 10.3389/fspor.2023.1207595",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "exploitation",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
     }
   ],
   "counts": {
-    "new_legislation": 1,
+    "new_legislation": 0,
     "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 3
+    "updated_research": 2
   }
 }

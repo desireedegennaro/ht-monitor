@@ -1,7 +1,26 @@
 {
-  "generated": "2026-10-19T18:59:20Z",
+  "generated": "2026-10-20T17:42:52Z",
   "period_days": 90,
-  "new": [],
+  "new": [
+    {
+      "id": "pubmed-42896497",
+      "title": "From exploitation to emergency room: Health care discrimination, utilization, and health outcomes among youth who experienced commercial sexual exploitation",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-10-10",
+      "status": "Published",
+      "summary": "From exploitation to emergency room: Health care discrimination, utilization, and health outcomes among youth who experienced commercial sexual exploitation",
+      "url": "https://doi.org/10.1016/j.socscimed.2026.119930",
+      "identifier": "PMID: 42896497 | DOI: 10.1016/j.socscimed.2026.119930",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "exploitation",
+        "commercial sexual exploitation"
+      ]
+    }
+  ],
   "updated": [
     {
       "id": "pubmed-42647548",
@@ -18,65 +37,6 @@
       ],
       "keywords": [
         "sex trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-42375578",
-      "title": "Syndemic pathways linking juvenile delinquency, structural vulnerability, and mental health: implications for exploitation risk",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-07-02",
-      "status": "Published",
-      "summary": "Syndemic pathways linking juvenile delinquency, structural vulnerability, and mental health: implications for exploitation risk",
-      "url": "https://doi.org/10.3389/fpubh.2026.1858900",
-      "identifier": "PMID: 42375578 | DOI: 10.3389/fpubh.2026.1858900",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "exploitation"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-28613660",
-      "title": "Human Trafficking",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-01-18",
-      "status": "Published",
-      "summary": "Human Trafficking",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/28613660/",
-      "identifier": "PMID: 28613660",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-34424650",
-      "title": "Texas Human Trafficking",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-01-18",
-      "status": "Published",
-      "summary": "Texas Human Trafficking",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/34424650/",
-      "identifier": "PMID: 34424650",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
         "trafficking"
       ],
       "update_summary": "Updated"
@@ -122,8 +82,8 @@
   ],
   "counts": {
     "new_legislation": 0,
-    "new_research": 0,
+    "new_research": 1,
     "updated_legislation": 0,
-    "updated_research": 6
+    "updated_research": 3
   }
 }

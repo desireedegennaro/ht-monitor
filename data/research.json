@@ -1,5 +1,50 @@
 [
   {
+    "id": "pubmed-42896497",
+    "type": "research",
+    "title": "From exploitation to emergency room: Health care discrimination, utilization, and health outcomes among youth who experienced commercial sexual exploitation",
+    "identifier": "PMID: 42896497 | DOI: 10.1016/j.socscimed.2026.119930",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "2026-10-10",
+    "latest_action_date": "2026-10-10",
+    "latest_action": "Published in Social science & medicine (1982)",
+    "authors": [
+      "Wagner A",
+      "Farrell A",
+      "Cuevas CA",
+      "Lincoln AK"
+    ],
+    "journal": "Social science & medicine (1982)",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1016/j.socscimed.2026.119930",
+    "pmid": "42896497",
+    "doi": "10.1016/j.socscimed.2026.119930",
+    "summary": "From exploitation to emergency room: Health care discrimination, utilization, and health outcomes among youth who experienced commercial sexual exploitation",
+    "description": "",
+    "keywords": [
+      "exploitation",
+      "commercial sexual exploitation"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-10-10",
+        "event": "Published in Social science & medicine (1982)",
+        "actor": "Wagner A, Farrell A et al.",
+        "source_url": "https://doi.org/10.1016/j.socscimed.2026.119930"
+      }
+    ]
+  },
+  {
     "id": "ss-0d5d8773b0e8fc560bfd",
     "type": "research",
     "title": "Using Service Inventory Data to Guide Statewide Anti-Human Trafficking Strategic Planning Initiatives.",
@@ -385,6 +430,12 @@
       },
       {
         "date": "2026-10-19",
+        "event": "Published in PloS one",
+        "actor": "Fernández-Sánchez H, Jones J et al.",
+        "source_url": "https://doi.org/10.1371/journal.pone.0357091"
+      },
+      {
+        "date": "2026-10-20",
         "event": "Published in PloS one",
         "actor": "Fernández-Sánchez H, Jones J et al.",
         "source_url": "https://doi.org/10.1371/journal.pone.0357091"
@@ -4814,6 +4865,12 @@
         "event": "Published in Psychology, crime & law : PC & L",
         "actor": "Winks KMH, Lundon GM et al.",
         "source_url": "https://doi.org/10.1080/1068316x.2022.2139377"
+      },
+      {
+        "date": "2024-10-20",
+        "event": "Published in Psychology, crime & law : PC & L",
+        "actor": "Winks KMH, Lundon GM et al.",
+        "source_url": "https://doi.org/10.1080/1068316x.2022.2139377"
       }
     ]
   },
@@ -6609,6 +6666,12 @@
       },
       {
         "date": "2023-10-19",
+        "event": "Published in Frontiers in sports and active living",
+        "actor": "Oliver BJ, De Lisio A",
+        "source_url": "https://doi.org/10.3389/fspor.2023.1207595"
+      },
+      {
+        "date": "2023-10-20",
         "event": "Published in Frontiers in sports and active living",
         "actor": "Oliver BJ, De Lisio A",
         "source_url": "https://doi.org/10.3389/fspor.2023.1207595"

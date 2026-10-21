@@ -1,89 +1,12 @@
 {
-  "generated": "2026-10-20T17:42:52Z",
+  "generated": "2026-10-21T17:51:47Z",
   "period_days": 90,
-  "new": [
-    {
-      "id": "pubmed-42896497",
-      "title": "From exploitation to emergency room: Health care discrimination, utilization, and health outcomes among youth who experienced commercial sexual exploitation",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-10-10",
-      "status": "Published",
-      "summary": "From exploitation to emergency room: Health care discrimination, utilization, and health outcomes among youth who experienced commercial sexual exploitation",
-      "url": "https://doi.org/10.1016/j.socscimed.2026.119930",
-      "identifier": "PMID: 42896497 | DOI: 10.1016/j.socscimed.2026.119930",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "exploitation",
-        "commercial sexual exploitation"
-      ]
-    }
-  ],
-  "updated": [
-    {
-      "id": "pubmed-42647548",
-      "title": "Prevalence and characteristics of sex trafficking among youth experiencing homelessness: A cross-sectional study",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-08-29",
-      "status": "Published",
-      "summary": "Prevalence and characteristics of sex trafficking among youth experiencing homelessness: A cross-sectional study",
-      "url": "https://doi.org/10.1371/journal.pone.0357091",
-      "identifier": "PMID: 42647548 | DOI: 10.1371/journal.pone.0357091",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "sex trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-39720572",
-      "title": "Laypersons' Recognition of and Attribution of Blame in Situations Involving Domestic Minor Sex Trafficking",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2024-06-18",
-      "status": "Published",
-      "summary": "Successful identification of domestic minor sex trafficking (DMST) remains challenging. Laypersons could play a significant role in identifying victims, but only if laypersons recognize trafficking si",
-      "url": "https://doi.org/10.1080/1068316x.2022.2139377",
-      "identifier": "PMID: 39720572 | DOI: 10.1080/1068316x.2022.2139377",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "sex trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-37780117",
-      "title": "Rights, not rescue: trafficking (in)securities at the sport mega-event",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2023-06-18",
-      "status": "Published",
-      "summary": "We examine the impact of fantasies used in the redevelopment of sport mega-event cities on host communities; particularly as related to the male-dominated FIFA World Cup and forced prostitution. We st",
-      "url": "https://doi.org/10.3389/fspor.2023.1207595",
-      "identifier": "PMID: 37780117 | DOI: 10.3389/fspor.2023.1207595",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "exploitation",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    }
-  ],
+  "new": [],
+  "updated": [],
   "counts": {
     "new_legislation": 0,
-    "new_research": 1,
+    "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 3
+    "updated_research": 0
   }
 }

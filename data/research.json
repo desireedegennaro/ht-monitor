@@ -439,6 +439,12 @@
         "event": "Published in PloS one",
         "actor": "Fernández-Sánchez H, Jones J et al.",
         "source_url": "https://doi.org/10.1371/journal.pone.0357091"
+      },
+      {
+        "date": "2026-10-27",
+        "event": "Published in PloS one",
+        "actor": "Fernández-Sánchez H, Jones J et al.",
+        "source_url": "https://doi.org/10.1371/journal.pone.0357091"
       }
     ]
   },
@@ -2917,6 +2923,12 @@
         "event": "Published",
         "actor": "Ladd M, Jones EB",
         "source_url": "https://pubmed.ncbi.nlm.nih.gov/34424650/"
+      },
+      {
+        "date": "2022-01-27",
+        "event": "Published",
+        "actor": "Ladd M, Jones EB",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/34424650/"
       }
     ]
   },
@@ -3124,6 +3136,12 @@
         "event": "Published",
         "actor": "Toney-Butler TJ, Ladd M et al.",
         "source_url": "https://pubmed.ncbi.nlm.nih.gov/28613660/"
+      },
+      {
+        "date": "2023-01-27",
+        "event": "Published",
+        "actor": "Toney-Butler TJ, Ladd M et al.",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/28613660/"
       }
     ]
   },
@@ -3216,6 +3234,51 @@
         "event": "Published in SSRN Electronic Journal",
         "actor": "Debra Haak",
         "source_url": "https://doi.org/10.2139/ssrn.6154047"
+      }
+    ]
+  },
+  {
+    "id": "ss-6554c4110778096a1ed6",
+    "type": "research",
+    "title": "Lessons Learned From The Last 25 Years of Anti-trafficking and Forced Labour Governance: Private Power and Public Policy",
+    "identifier": "DOI: 10.60082/2819-2567.1135",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "labor"
+    ],
+    "published": "2026-01-01",
+    "latest_action_date": "2026-01-01",
+    "latest_action": "Published in Comparative Labor Law &amp; Policy Journal",
+    "authors": [
+      "Genevieve Lebaron",
+      "Janie A. Chuang"
+    ],
+    "journal": "Comparative Labor Law &amp; Policy Journal",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.60082/2819-2567.1135",
+    "ss_id": "6554c4110778096a1ed64bc5f12960668a7f4e11",
+    "doi": "10.60082/2819-2567.1135",
+    "pmid": "",
+    "summary": "Twenty-five years after adopting the United Nations Trafficking Protocol, anti-trafficking scrutiny is finally being brought to bear on forced labour in global supply chains. This article identifies and examines key aspects of the contemporary governance regime developed to address this endemic problem: corporate social initiatives and transparency legislation, human rights due diligence laws, strategic litigation, and forced labour import bans. As explored in this article, the interplay between",
+    "description": "Twenty-five years after adopting the United Nations Trafficking Protocol, anti-trafficking scrutiny is finally being brought to bear on forced labour in global supply chains. This article identifies and examines key aspects of the contemporary governance regime developed to address this endemic problem: corporate social initiatives and transparency legislation, human rights due diligence laws, strategic litigation, and forced labour import bans. As explored in this article, the interplay between public and private governance these interventions entail has a significant impact on whether workers ultimately benefit from these efforts. More specifically, the rise of corporate power and influence within this regulatory space risks undermining the potential for these interventions to prompt meaningful change in the business practices that enable, and even encourage, severe exploitation in global supply chains.",
+    "keywords": [
+      "exploitation",
+      "anti-trafficking",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-01-01",
+        "event": "Published in Comparative Labor Law &amp; Policy Journal",
+        "actor": "Genevieve Lebaron, Janie A. Chuang",
+        "source_url": "https://doi.org/10.60082/2819-2567.1135"
       }
     ]
   },
@@ -4883,6 +4946,12 @@
         "event": "Published in Psychology, crime & law : PC & L",
         "actor": "Winks KMH, Lundon GM et al.",
         "source_url": "https://doi.org/10.1080/1068316x.2022.2139377"
+      },
+      {
+        "date": "2024-10-27",
+        "event": "Published in Psychology, crime & law : PC & L",
+        "actor": "Winks KMH, Lundon GM et al.",
+        "source_url": "https://doi.org/10.1080/1068316x.2022.2139377"
       }
     ]
   },
@@ -6206,6 +6275,12 @@
         "event": "Published in The Journal of adolescent health : official publication of the Society for Adolescent Medicine",
         "actor": "Lindahl J, Riese A et al.",
         "source_url": "https://doi.org/10.1016/j.jadohealth.2023.06.011"
+      },
+      {
+        "date": "2023-11-27",
+        "event": "Published in The Journal of adolescent health : official publication of the Society for Adolescent Medicine",
+        "actor": "Lindahl J, Riese A et al.",
+        "source_url": "https://doi.org/10.1016/j.jadohealth.2023.06.011"
       }
     ]
   },
@@ -6371,6 +6446,12 @@
       },
       {
         "date": "2023-07-15",
+        "event": "Published in Trauma, violence & abuse",
+        "actor": "Macy RJ, Klein LB et al.",
+        "source_url": "https://doi.org/10.1177/15248380211057273"
+      },
+      {
+        "date": "2023-07-27",
         "event": "Published in Trauma, violence & abuse",
         "actor": "Macy RJ, Klein LB et al.",
         "source_url": "https://doi.org/10.1177/15248380211057273"
@@ -6690,6 +6771,12 @@
       },
       {
         "date": "2023-10-23",
+        "event": "Published in Frontiers in sports and active living",
+        "actor": "Oliver BJ, De Lisio A",
+        "source_url": "https://doi.org/10.3389/fspor.2023.1207595"
+      },
+      {
+        "date": "2023-10-27",
         "event": "Published in Frontiers in sports and active living",
         "actor": "Oliver BJ, De Lisio A",
         "source_url": "https://doi.org/10.3389/fspor.2023.1207595"
@@ -7866,6 +7953,12 @@
         "event": "Published in Journal of interpersonal violence",
         "actor": "O'Brien JE, Brewer KB et al.",
         "source_url": "https://doi.org/10.1177/08862605211023497"
+      },
+      {
+        "date": "2022-09-27",
+        "event": "Published in Journal of interpersonal violence",
+        "actor": "O'Brien JE, Brewer KB et al.",
+        "source_url": "https://doi.org/10.1177/08862605211023497"
       }
     ]
   },
@@ -8158,6 +8251,12 @@
         "event": "Published in Journal of interpersonal violence",
         "actor": "Koegler E, Howland W et al.",
         "source_url": "https://doi.org/10.1177/0886260520957978"
+      },
+      {
+        "date": "2022-04-27",
+        "event": "Published in Journal of interpersonal violence",
+        "actor": "Koegler E, Howland W et al.",
+        "source_url": "https://doi.org/10.1177/0886260520957978"
       }
     ]
   },
@@ -8338,6 +8437,12 @@
       },
       {
         "date": "2022-04-16",
+        "event": "Published in Child abuse & neglect",
+        "actor": "Nichols AJ, Gerassi LB et al.",
+        "source_url": "https://doi.org/10.1016/j.chiabu.2022.105521"
+      },
+      {
+        "date": "2022-04-27",
         "event": "Published in Child abuse & neglect",
         "actor": "Nichols AJ, Gerassi LB et al.",
         "source_url": "https://doi.org/10.1016/j.chiabu.2022.105521"
@@ -9836,6 +9941,12 @@
       },
       {
         "date": "2021-07-14",
+        "event": "Published in Journal of sex research",
+        "actor": "Reynolds C",
+        "source_url": "https://doi.org/10.1080/00224499.2020.1786662"
+      },
+      {
+        "date": "2021-07-27",
         "event": "Published in Journal of sex research",
         "actor": "Reynolds C",
         "source_url": "https://doi.org/10.1080/00224499.2020.1786662"
@@ -11996,6 +12107,12 @@
       },
       {
         "date": "2019-09-15",
+        "event": "Published in International journal of public health",
+        "actor": "Iglesias-Rios L, Harlow SD et al.",
+        "source_url": "https://doi.org/10.1007/s00038-019-01269-2"
+      },
+      {
+        "date": "2019-09-27",
         "event": "Published in International journal of public health",
         "actor": "Iglesias-Rios L, Harlow SD et al.",
         "source_url": "https://doi.org/10.1007/s00038-019-01269-2"

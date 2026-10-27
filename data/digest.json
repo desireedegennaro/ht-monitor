@@ -1,12 +1,273 @@
 {
-  "generated": "2026-10-26T19:01:44Z",
+  "generated": "2026-10-27T18:33:47Z",
   "period_days": 90,
-  "new": [],
-  "updated": [],
+  "new": [
+    {
+      "id": "ss-6554c4110778096a1ed6",
+      "title": "Lessons Learned From The Last 25 Years of Anti-trafficking and Forced Labour Governance: Private Power and Public Policy",
+      "type": "research",
+      "source": "Semantic Scholar",
+      "date": "2026-01-01",
+      "status": "Published",
+      "summary": "Twenty-five years after adopting the United Nations Trafficking Protocol, anti-trafficking scrutiny is finally being brought to bear on forced labour in global supply chains. This article identifies a",
+      "url": "https://doi.org/10.60082/2819-2567.1135",
+      "identifier": "DOI: 10.60082/2819-2567.1135",
+      "trafficking_types": [
+        "labor"
+      ],
+      "keywords": [
+        "exploitation",
+        "anti-trafficking",
+        "trafficking"
+      ]
+    }
+  ],
+  "updated": [
+    {
+      "id": "pubmed-42647548",
+      "title": "Prevalence and characteristics of sex trafficking among youth experiencing homelessness: A cross-sectional study",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-08-29",
+      "status": "Published",
+      "summary": "Prevalence and characteristics of sex trafficking among youth experiencing homelessness: A cross-sectional study",
+      "url": "https://doi.org/10.1371/journal.pone.0357091",
+      "identifier": "PMID: 42647548 | DOI: 10.1371/journal.pone.0357091",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "sex trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-28613660",
+      "title": "Human Trafficking",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-01-18",
+      "status": "Published",
+      "summary": "Human Trafficking",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28613660/",
+      "identifier": "PMID: 28613660",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-34424650",
+      "title": "Texas Human Trafficking",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-01-18",
+      "status": "Published",
+      "summary": "Texas Human Trafficking",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34424650/",
+      "identifier": "PMID: 34424650",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-39720572",
+      "title": "Laypersons' Recognition of and Attribution of Blame in Situations Involving Domestic Minor Sex Trafficking",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2024-06-18",
+      "status": "Published",
+      "summary": "Successful identification of domestic minor sex trafficking (DMST) remains challenging. Laypersons could play a significant role in identifying victims, but only if laypersons recognize trafficking si",
+      "url": "https://doi.org/10.1080/1068316x.2022.2139377",
+      "identifier": "PMID: 39720572 | DOI: 10.1080/1068316x.2022.2139377",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "sex trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-37530682",
+      "title": "Clinical Psychosocial Risk Factors for Sex Trafficking Involvement Among Adolescent Girls",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2023-11-18",
+      "status": "Published",
+      "summary": "This study assessed the characteristics that place adolescent girls at greatest risk for sex trafficking involvement. It was hypothesized that girls with a greater history of risk behaviors, unstable ",
+      "url": "https://doi.org/10.1016/j.jadohealth.2023.06.011",
+      "identifier": "PMID: 37530682 | DOI: 10.1016/j.jadohealth.2023.06.011",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "sex trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-34930040",
+      "title": "A Scoping Review of Human Trafficking Screening and Response",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2023-07-18",
+      "status": "Published",
+      "summary": "Service providers are increasingly asked to identify individuals who are experiencing trafficking and to connect them with resources and support. Nonetheless, identification is complicated by the real",
+      "url": "https://doi.org/10.1177/15248380211057273",
+      "identifier": "PMID: 34930040 | DOI: 10.1177/15248380211057273",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-37780117",
+      "title": "Rights, not rescue: trafficking (in)securities at the sport mega-event",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2023-06-18",
+      "status": "Published",
+      "summary": "We examine the impact of fantasies used in the redevelopment of sport mega-event cities on host communities; particularly as related to the male-dominated FIFA World Cup and forced prostitution. We st",
+      "url": "https://doi.org/10.3389/fspor.2023.1207595",
+      "identifier": "PMID: 37780117 | DOI: 10.3389/fspor.2023.1207595",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "exploitation",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-34107811",
+      "title": "Rigor and Respect: Recruitment Strategies for Engaging Vulnerable Populations in Research",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2022-09-18",
+      "status": "Published",
+      "summary": "Engaging vulnerable populations in research is a critical focus for researchers seeking to find ways to improve safety and well-being for broader populations. Vulnerabilities often co-occur, meaning t",
+      "url": "https://doi.org/10.1177/08862605211023497",
+      "identifier": "PMID: 34107811 | DOI: 10.1177/08862605211023497",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "sex trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-32924747",
+      "title": "\"When Her Visa Expired, the Family Refused to Renew It,\" Intersections of Human Trafficking and Domestic Violence: Qualitative Document Analysis of Case Examples from a Major Midwest City",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2022-04-18",
+      "status": "Published",
+      "summary": "This study aimed to further understand typologies of trafficking that occur in the home, by an individual's intimate partner (IP) or family members and this overlap with extant knowledge on perpetrato",
+      "url": "https://doi.org/10.1177/0886260520957978",
+      "identifier": "PMID: 32924747 | DOI: 10.1177/0886260520957978",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "sex trafficking",
+        "labor trafficking",
+        "exploitation",
+        "anti-trafficking",
+        "coercion",
+        "trafficking",
+        "labor exploitation"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-35121439",
+      "title": "Provider challenges in responding to retrafficking of juvenile justice-involved domestic minor sex trafficking survivors",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2022-04-18",
+      "status": "Published",
+      "summary": "Domestic minor sex trafficking (DMST) survivors are disproportionately involved in the juvenile justice system, but frequently run away and experience retrafficking. However, little research explores ",
+      "url": "https://doi.org/10.1016/j.chiabu.2022.105521",
+      "identifier": "PMID: 35121439 | DOI: 10.1016/j.chiabu.2022.105521",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "sex trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-32662679",
+      "title": "\"Craigslist is Nothing More than an Internet Brothel\": Sex Work and Sex Trafficking in U.S. Newspaper Coverage of Craigslist Sex Forums",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2021-07-18",
+      "status": "Published",
+      "summary": "In spring 2018 the U.S. federal government forced Craigslist's sex forums closed. A new anti-sex trafficking law, FOSTA-SESTA, made exceptions to the Communications Decency Act, holding websites accou",
+      "url": "https://doi.org/10.1080/00224499.2020.1786662",
+      "identifier": "PMID: 32662679 | DOI: 10.1080/00224499.2020.1786662",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "sex trafficking",
+        "FOSTA",
+        "SESTA",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-31243470",
+      "title": "Gender differences in the association of living and working conditions and the mental health of trafficking survivors",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2019-09-18",
+      "status": "Published",
+      "summary": "To assess the association of living and working conditions experienced during trafficking with mental health of female and male survivors.",
+      "url": "https://doi.org/10.1007/s00038-019-01269-2",
+      "identifier": "PMID: 31243470 | DOI: 10.1007/s00038-019-01269-2",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    }
+  ],
   "counts": {
     "new_legislation": 0,
-    "new_research": 0,
+    "new_research": 1,
     "updated_legislation": 0,
-    "updated_research": 0
+    "updated_research": 12
   }
 }

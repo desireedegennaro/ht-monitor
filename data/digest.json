@@ -1,10 +1,30 @@
 {
-  "generated": "2026-10-28T18:39:31Z",
+  "generated": "2026-10-29T18:47:46Z",
   "period_days": 90,
-  "new": [],
+  "new": [
+    {
+      "id": "fr-2026-22094",
+      "title": "Notice Regarding the Uyghur Forced Labor Prevention Act Entity List",
+      "type": "regulatory",
+      "source": "Federal Register",
+      "date": "2026-10-29",
+      "status": "Active — Advisory",
+      "summary": "The U.S. Department of Homeland Security (DHS), as the Chair of the Forced Labor Enforcement Task Force (FLETF), announces the publication and availability of the updated Uyghur Forced Labor Preventio",
+      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22094/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list",
+      "identifier": "2026-22094",
+      "trafficking_types": [
+        "labor"
+      ],
+      "keywords": [
+        "forced labor",
+        "uyghur forced labor",
+        "UFLPA"
+      ]
+    }
+  ],
   "updated": [],
   "counts": {
-    "new_legislation": 0,
+    "new_legislation": 1,
     "new_research": 0,
     "updated_legislation": 0,
     "updated_research": 0

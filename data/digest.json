@@ -1,32 +1,130 @@
 {
-  "generated": "2026-10-29T18:47:46Z",
+  "generated": "2026-10-30T18:24:36Z",
   "period_days": 90,
-  "new": [
+  "new": [],
+  "updated": [
     {
-      "id": "fr-2026-22094",
-      "title": "Notice Regarding the Uyghur Forced Labor Prevention Act Entity List",
-      "type": "regulatory",
-      "source": "Federal Register",
-      "date": "2026-10-29",
-      "status": "Active — Advisory",
-      "summary": "The U.S. Department of Homeland Security (DHS), as the Chair of the Forced Labor Enforcement Task Force (FLETF), announces the publication and availability of the updated Uyghur Forced Labor Preventio",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22094/notice-regarding-the-uyghur-forced-labor-prevention-act-entity-list",
-      "identifier": "2026-22094",
+      "id": "pubmed-42756155",
+      "title": "Dendritic-cell depletion and dysfunction in sepsis: a compartment- and evidence-aware synthesis",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-09-22",
+      "status": "Published",
+      "summary": "Sepsis-associated immune dysfunction varies across patients, compartments, and sampling windows. Dendritic cells (DCs) offer a useful-but neither exclusive nor primary-lens because they connect innate",
+      "url": "https://doi.org/10.3389/fimmu.2026.1934483",
+      "identifier": "PMID: 42756155 | DOI: 10.3389/fimmu.2026.1934483",
       "trafficking_types": [
+        "sex",
         "labor"
       ],
       "keywords": [
-        "forced labor",
-        "uyghur forced labor",
-        "UFLPA"
-      ]
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-28613660",
+      "title": "Human Trafficking",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-01-18",
+      "status": "Published",
+      "summary": "Human Trafficking",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28613660/",
+      "identifier": "PMID: 28613660",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-34424650",
+      "title": "Texas Human Trafficking",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-01-18",
+      "status": "Published",
+      "summary": "Texas Human Trafficking",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34424650/",
+      "identifier": "PMID: 34424650",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-39720572",
+      "title": "Laypersons' Recognition of and Attribution of Blame in Situations Involving Domestic Minor Sex Trafficking",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2024-06-18",
+      "status": "Published",
+      "summary": "Successful identification of domestic minor sex trafficking (DMST) remains challenging. Laypersons could play a significant role in identifying victims, but only if laypersons recognize trafficking si",
+      "url": "https://doi.org/10.1080/1068316x.2022.2139377",
+      "identifier": "PMID: 39720572 | DOI: 10.1080/1068316x.2022.2139377",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "sex trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-34930040",
+      "title": "A Scoping Review of Human Trafficking Screening and Response",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2023-07-18",
+      "status": "Published",
+      "summary": "Service providers are increasingly asked to identify individuals who are experiencing trafficking and to connect them with resources and support. Nonetheless, identification is complicated by the real",
+      "url": "https://doi.org/10.1177/15248380211057273",
+      "identifier": "PMID: 34930040 | DOI: 10.1177/15248380211057273",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-37780117",
+      "title": "Rights, not rescue: trafficking (in)securities at the sport mega-event",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2023-06-18",
+      "status": "Published",
+      "summary": "We examine the impact of fantasies used in the redevelopment of sport mega-event cities on host communities; particularly as related to the male-dominated FIFA World Cup and forced prostitution. We st",
+      "url": "https://doi.org/10.3389/fspor.2023.1207595",
+      "identifier": "PMID: 37780117 | DOI: 10.3389/fspor.2023.1207595",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "exploitation",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
     }
   ],
-  "updated": [],
   "counts": {
-    "new_legislation": 1,
+    "new_legislation": 0,
     "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 0
+    "updated_research": 6
   }
 }

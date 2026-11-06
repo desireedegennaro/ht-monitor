@@ -1,12 +1,185 @@
 {
-  "generated": "2026-11-05T20:28:52Z",
+  "generated": "2026-11-06T19:51:06Z",
   "period_days": 90,
-  "new": [],
-  "updated": [],
+  "new": [
+    {
+      "id": "pubmed-42984743",
+      "title": "Commercial sexual exploitation exposure, food insecurity, and help-seeking attitudes in high school youth",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-11-06",
+      "status": "Published",
+      "summary": "Commercial sexual exploitation exposure, food insecurity, and help-seeking attitudes in high school youth",
+      "url": "https://doi.org/10.3389/fpsyt.2026.1901555",
+      "identifier": "PMID: 42984743 | DOI: 10.3389/fpsyt.2026.1901555",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "exploitation",
+        "commercial sexual exploitation"
+      ]
+    }
+  ],
+  "updated": [
+    {
+      "id": "pubmed-42896497",
+      "title": "From exploitation to emergency room: Health care discrimination, utilization, and health outcomes among youth who experienced commercial sexual exploitation",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-10-10",
+      "status": "Published",
+      "summary": "From exploitation to emergency room: Health care discrimination, utilization, and health outcomes among youth who experienced commercial sexual exploitation",
+      "url": "https://doi.org/10.1016/j.socscimed.2026.119930",
+      "identifier": "PMID: 42896497 | DOI: 10.1016/j.socscimed.2026.119930",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "exploitation",
+        "commercial sexual exploitation"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-42647548",
+      "title": "Prevalence and characteristics of sex trafficking among youth experiencing homelessness: A cross-sectional study",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-08-29",
+      "status": "Published",
+      "summary": "Prevalence and characteristics of sex trafficking among youth experiencing homelessness: A cross-sectional study",
+      "url": "https://doi.org/10.1371/journal.pone.0357091",
+      "identifier": "PMID: 42647548 | DOI: 10.1371/journal.pone.0357091",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "sex trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-41349265",
+      "title": "A review on forensic profiling of rhinoceros horn",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-01-23",
+      "status": "Published",
+      "summary": "The relentless escalation of rhinoceros horn trafficking represents a profound and immediate threat to the survival of rhinoceros populations across Africa and Asia. This illicit trade, driven by pers",
+      "url": "https://doi.org/10.1016/j.forsciint.2025.112762",
+      "identifier": "PMID: 41349265 | DOI: 10.1016/j.forsciint.2025.112762",
+      "trafficking_types": [
+        "labor"
+      ],
+      "keywords": [
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-28613660",
+      "title": "Human Trafficking",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-01-18",
+      "status": "Published",
+      "summary": "Human Trafficking",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28613660/",
+      "identifier": "PMID: 28613660",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-34424650",
+      "title": "Texas Human Trafficking",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2026-01-18",
+      "status": "Published",
+      "summary": "Texas Human Trafficking",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34424650/",
+      "identifier": "PMID: 34424650",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "human trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-39720572",
+      "title": "Laypersons' Recognition of and Attribution of Blame in Situations Involving Domestic Minor Sex Trafficking",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2024-06-18",
+      "status": "Published",
+      "summary": "Successful identification of domestic minor sex trafficking (DMST) remains challenging. Laypersons could play a significant role in identifying victims, but only if laypersons recognize trafficking si",
+      "url": "https://doi.org/10.1080/1068316x.2022.2139377",
+      "identifier": "PMID: 39720572 | DOI: 10.1080/1068316x.2022.2139377",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "sex trafficking",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-38123142",
+      "title": "Review: Wildlife forensic genetics-Biological evidence, DNA markers, analytical approaches, and challenges",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2024-04-18",
+      "status": "Published",
+      "summary": "Wildlife-related crimes are the second most prevalent lawbreaking offense globally. This illicit trade encompasses hunting, breeding and trafficking. Besides diminishing many species and their habitat",
+      "url": "https://doi.org/10.1111/age.13390",
+      "identifier": "PMID: 38123142 | DOI: 10.1111/age.13390",
+      "trafficking_types": [
+        "sex",
+        "labor"
+      ],
+      "keywords": [
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    },
+    {
+      "id": "pubmed-37780117",
+      "title": "Rights, not rescue: trafficking (in)securities at the sport mega-event",
+      "type": "research",
+      "source": "PubMed",
+      "date": "2023-06-18",
+      "status": "Published",
+      "summary": "We examine the impact of fantasies used in the redevelopment of sport mega-event cities on host communities; particularly as related to the male-dominated FIFA World Cup and forced prostitution. We st",
+      "url": "https://doi.org/10.3389/fspor.2023.1207595",
+      "identifier": "PMID: 37780117 | DOI: 10.3389/fspor.2023.1207595",
+      "trafficking_types": [
+        "sex"
+      ],
+      "keywords": [
+        "exploitation",
+        "trafficking"
+      ],
+      "update_summary": "Updated"
+    }
+  ],
   "counts": {
     "new_legislation": 0,
-    "new_research": 0,
+    "new_research": 1,
     "updated_legislation": 0,
-    "updated_research": 0
+    "updated_research": 8
   }
 }

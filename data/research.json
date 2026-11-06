@@ -1,5 +1,51 @@
 [
   {
+    "id": "pubmed-42984743",
+    "type": "research",
+    "title": "Commercial sexual exploitation exposure, food insecurity, and help-seeking attitudes in high school youth",
+    "identifier": "PMID: 42984743 | DOI: 10.3389/fpsyt.2026.1901555",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "2026-11-06",
+    "latest_action_date": "2026-11-06",
+    "latest_action": "Published in Frontiers in psychiatry",
+    "authors": [
+      "Jones LM",
+      "O'Brien JE",
+      "Voller V",
+      "Boyd E",
+      "Martin L"
+    ],
+    "journal": "Frontiers in psychiatry",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.3389/fpsyt.2026.1901555",
+    "pmid": "42984743",
+    "doi": "10.3389/fpsyt.2026.1901555",
+    "summary": "Commercial sexual exploitation exposure, food insecurity, and help-seeking attitudes in high school youth",
+    "description": "",
+    "keywords": [
+      "exploitation",
+      "commercial sexual exploitation"
+    ],
+    "organizations": [],
+    "source": "PubMed",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-11-06",
+        "event": "Published in Frontiers in psychiatry",
+        "actor": "Jones LM, O'Brien JE et al.",
+        "source_url": "https://doi.org/10.3389/fpsyt.2026.1901555"
+      }
+    ]
+  },
+  {
     "id": "pubmed-42896497",
     "type": "research",
     "title": "From exploitation to emergency room: Health care discrimination, utilization, and health outcomes among youth who experienced commercial sexual exploitation",
@@ -38,6 +84,12 @@
     "updates": [
       {
         "date": "2026-10-10",
+        "event": "Published in Social science & medicine (1982)",
+        "actor": "Wagner A, Farrell A et al.",
+        "source_url": "https://doi.org/10.1016/j.socscimed.2026.119930"
+      },
+      {
+        "date": "2026-12-06",
         "event": "Published in Social science & medicine (1982)",
         "actor": "Wagner A, Farrell A et al.",
         "source_url": "https://doi.org/10.1016/j.socscimed.2026.119930"
@@ -460,6 +512,12 @@
       },
       {
         "date": "2026-11-04",
+        "event": "Published in PloS one",
+        "actor": "Fernández-Sánchez H, Jones J et al.",
+        "source_url": "https://doi.org/10.1371/journal.pone.0357091"
+      },
+      {
+        "date": "2026-11-06",
         "event": "Published in PloS one",
         "actor": "Fernández-Sánchez H, Jones J et al.",
         "source_url": "https://doi.org/10.1371/journal.pone.0357091"
@@ -2741,6 +2799,12 @@
         "event": "Published in Forensic science international",
         "actor": "Linde J, Augustyn WA et al.",
         "source_url": "https://doi.org/10.1016/j.forsciint.2025.112762"
+      },
+      {
+        "date": "2026-01-06",
+        "event": "Published in Forensic science international",
+        "actor": "Linde J, Augustyn WA et al.",
+        "source_url": "https://doi.org/10.1016/j.forsciint.2025.112762"
       }
     ]
   },
@@ -2962,6 +3026,12 @@
       },
       {
         "date": "2022-01-02",
+        "event": "Published",
+        "actor": "Ladd M, Jones EB",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/34424650/"
+      },
+      {
+        "date": "2022-01-06",
         "event": "Published",
         "actor": "Ladd M, Jones EB",
         "source_url": "https://pubmed.ncbi.nlm.nih.gov/34424650/"
@@ -3187,6 +3257,12 @@
       },
       {
         "date": "2023-01-02",
+        "event": "Published",
+        "actor": "Toney-Butler TJ, Ladd M et al.",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/28613660/"
+      },
+      {
+        "date": "2023-01-06",
         "event": "Published",
         "actor": "Toney-Butler TJ, Ladd M et al.",
         "source_url": "https://pubmed.ncbi.nlm.nih.gov/28613660/"
@@ -5042,6 +5118,12 @@
         "event": "Published in Psychology, crime & law : PC & L",
         "actor": "Winks KMH, Lundon GM et al.",
         "source_url": "https://doi.org/10.1080/1068316x.2022.2139377"
+      },
+      {
+        "date": "2024-11-06",
+        "event": "Published in Psychology, crime & law : PC & L",
+        "actor": "Winks KMH, Lundon GM et al.",
+        "source_url": "https://doi.org/10.1080/1068316x.2022.2139377"
       }
     ]
   },
@@ -5159,6 +5241,12 @@
       },
       {
         "date": "2024-04-02",
+        "event": "Published in Animal genetics",
+        "actor": "Kanthaswamy S",
+        "source_url": "https://doi.org/10.1111/age.13390"
+      },
+      {
+        "date": "2024-04-06",
         "event": "Published in Animal genetics",
         "actor": "Kanthaswamy S",
         "source_url": "https://doi.org/10.1111/age.13390"
@@ -6903,6 +6991,12 @@
       },
       {
         "date": "2023-11-04",
+        "event": "Published in Frontiers in sports and active living",
+        "actor": "Oliver BJ, De Lisio A",
+        "source_url": "https://doi.org/10.3389/fspor.2023.1207595"
+      },
+      {
+        "date": "2023-11-06",
         "event": "Published in Frontiers in sports and active living",
         "actor": "Oliver BJ, De Lisio A",
         "source_url": "https://doi.org/10.3389/fspor.2023.1207595"

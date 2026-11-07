@@ -28,7 +28,7 @@
     "pmid": "42984743",
     "doi": "10.3389/fpsyt.2026.1901555",
     "summary": "Commercial sexual exploitation exposure, food insecurity, and help-seeking attitudes in high school youth",
-    "description": "",
+    "description": "Commercial sexual exploitation (CSE) of youth is a form of victimization that is shaped by socioeconomic conditions, yet more information is needed on how these conditions are related to differences in help-seeking attitudes for vulnerable youth.",
     "keywords": [
       "exploitation",
       "commercial sexual exploitation"
@@ -39,6 +39,12 @@
     "updates": [
       {
         "date": "2026-11-06",
+        "event": "Published in Frontiers in psychiatry",
+        "actor": "Jones LM, O'Brien JE et al.",
+        "source_url": "https://doi.org/10.3389/fpsyt.2026.1901555"
+      },
+      {
+        "date": "2026-11-07",
         "event": "Published in Frontiers in psychiatry",
         "actor": "Jones LM, O'Brien JE et al.",
         "source_url": "https://doi.org/10.3389/fpsyt.2026.1901555"
@@ -73,7 +79,7 @@
     "pmid": "42896497",
     "doi": "10.1016/j.socscimed.2026.119930",
     "summary": "From exploitation to emergency room: Health care discrimination, utilization, and health outcomes among youth who experienced commercial sexual exploitation",
-    "description": "",
+    "description": "Discrimination in health care settings presents a significant barrier to accessing quality care, particularly for youth with experiences of commercial sexual exploitation of children (CSEC). This study examines how discrimination within primary care and emergency room (ER) settings mediates the relationship between CSEC victimization and negative health outcomes. Using data from a sample of 534 young people who experienced or are at high risk for experiencing CSEC, we employ structural equation modeling (SEM) to test three models: (1) the association between health care discrimination and negative health outcomes among CSEC survivors, (2) the mediating role of discrimination in primary care settings on health outcomes for CSEC survivors, and (3) the extent to which discrimination mediates the link between CSEC experiences and health outcomes through ER use. Findings indicate that CSEC experiences are significantly associated with poorer physical and mental health outcomes, both directly and indirectly through increased exposure to health care discrimination. Specifically, discrimination from health care providers fully mediated the relationship between CSEC and negative health outcomes in models including emergency room use, while discrimination was not a significant mediator in models focused on primary care utilization. This distinction is crucial because ER settings are often the first point of contact for CSEC survivors, making them a critical area for intervention. These results highlight the importance of addressing discrimination in ER settings to reduce barriers to care and improve health outcomes for CSEC survivors. The study underscores the need for trauma-informed, non-discriminatory health care approaches to ensure equitable access to care for vulnerable youth.",
     "keywords": [
       "exploitation",
       "commercial sexual exploitation"
@@ -90,6 +96,12 @@
       },
       {
         "date": "2026-12-06",
+        "event": "Published in Social science & medicine (1982)",
+        "actor": "Wagner A, Farrell A et al.",
+        "source_url": "https://doi.org/10.1016/j.socscimed.2026.119930"
+      },
+      {
+        "date": "2026-12-07",
         "event": "Published in Social science & medicine (1982)",
         "actor": "Wagner A, Farrell A et al.",
         "source_url": "https://doi.org/10.1016/j.socscimed.2026.119930"
@@ -521,6 +533,12 @@
         "event": "Published in PloS one",
         "actor": "Fernández-Sánchez H, Jones J et al.",
         "source_url": "https://doi.org/10.1371/journal.pone.0357091"
+      },
+      {
+        "date": "2026-11-07",
+        "event": "Published in PloS one",
+        "actor": "Fernández-Sánchez H, Jones J et al.",
+        "source_url": "https://doi.org/10.1371/journal.pone.0357091"
       }
     ]
   },
@@ -880,6 +898,12 @@
       },
       {
         "date": "2026-07-16",
+        "event": "Published in Social science & medicine (1982)",
+        "actor": "Lockwood S, Wagner A et al.",
+        "source_url": "https://doi.org/10.1016/j.socscimed.2026.119243"
+      },
+      {
+        "date": "2026-07-07",
         "event": "Published in Social science & medicine (1982)",
         "actor": "Lockwood S, Wagner A et al.",
         "source_url": "https://doi.org/10.1016/j.socscimed.2026.119243"

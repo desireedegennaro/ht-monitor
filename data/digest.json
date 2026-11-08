@@ -1,56 +1,18 @@
 {
-  "generated": "2026-11-07T17:59:22Z",
+  "generated": "2026-11-08T18:17:42Z",
   "period_days": 90,
   "new": [],
   "updated": [
     {
-      "id": "pubmed-42984743",
-      "title": "Commercial sexual exploitation exposure, food insecurity, and help-seeking attitudes in high school youth",
+      "id": "pubmed-39720572",
+      "title": "Laypersons' Recognition of and Attribution of Blame in Situations Involving Domestic Minor Sex Trafficking",
       "type": "research",
       "source": "PubMed",
-      "date": "2026-11-06",
+      "date": "2024-06-18",
       "status": "Published",
-      "summary": "Commercial sexual exploitation exposure, food insecurity, and help-seeking attitudes in high school youth",
-      "url": "https://doi.org/10.3389/fpsyt.2026.1901555",
-      "identifier": "PMID: 42984743 | DOI: 10.3389/fpsyt.2026.1901555",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "exploitation",
-        "commercial sexual exploitation"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-42896497",
-      "title": "From exploitation to emergency room: Health care discrimination, utilization, and health outcomes among youth who experienced commercial sexual exploitation",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-10-10",
-      "status": "Published",
-      "summary": "From exploitation to emergency room: Health care discrimination, utilization, and health outcomes among youth who experienced commercial sexual exploitation",
-      "url": "https://doi.org/10.1016/j.socscimed.2026.119930",
-      "identifier": "PMID: 42896497 | DOI: 10.1016/j.socscimed.2026.119930",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "exploitation",
-        "commercial sexual exploitation"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-42647548",
-      "title": "Prevalence and characteristics of sex trafficking among youth experiencing homelessness: A cross-sectional study",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-08-29",
-      "status": "Published",
-      "summary": "Prevalence and characteristics of sex trafficking among youth experiencing homelessness: A cross-sectional study",
-      "url": "https://doi.org/10.1371/journal.pone.0357091",
-      "identifier": "PMID: 42647548 | DOI: 10.1371/journal.pone.0357091",
+      "summary": "Successful identification of domestic minor sex trafficking (DMST) remains challenging. Laypersons could play a significant role in identifying victims, but only if laypersons recognize trafficking si",
+      "url": "https://doi.org/10.1080/1068316x.2022.2139377",
+      "identifier": "PMID: 39720572 | DOI: 10.1080/1068316x.2022.2139377",
       "trafficking_types": [
         "sex"
       ],
@@ -61,21 +23,21 @@
       "update_summary": "Updated"
     },
     {
-      "id": "pubmed-41955821",
-      "title": "The role of parental consent: Implications for surveying minors who experience or are at risk for commercial sexual exploitation in the United States",
+      "id": "pubmed-37780117",
+      "title": "Rights, not rescue: trafficking (in)securities at the sport mega-event",
       "type": "research",
       "source": "PubMed",
-      "date": "2026-07-18",
+      "date": "2023-06-18",
       "status": "Published",
-      "summary": "The role of parental consent: Implications for surveying minors who experience or are at risk for commercial sexual exploitation in the United States",
-      "url": "https://doi.org/10.1016/j.socscimed.2026.119243",
-      "identifier": "PMID: 41955821 | DOI: 10.1016/j.socscimed.2026.119243",
+      "summary": "We examine the impact of fantasies used in the redevelopment of sport mega-event cities on host communities; particularly as related to the male-dominated FIFA World Cup and forced prostitution. We st",
+      "url": "https://doi.org/10.3389/fspor.2023.1207595",
+      "identifier": "PMID: 37780117 | DOI: 10.3389/fspor.2023.1207595",
       "trafficking_types": [
         "sex"
       ],
       "keywords": [
         "exploitation",
-        "commercial sexual exploitation"
+        "trafficking"
       ],
       "update_summary": "Updated"
     }
@@ -84,6 +46,6 @@
     "new_legislation": 0,
     "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 4
+    "updated_research": 2
   }
 }

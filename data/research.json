@@ -58,6 +58,105 @@
     ]
   },
   {
+    "id": "ss-cd96c188585f65f7c6e9",
+    "type": "research",
+    "title": "State-Level Structural Determinants of Multiple Human Trafficking Types and Their Strength of Evidence: A Global Systematic Literature Review.",
+    "identifier": "DOI: 10.1177/15248380261485306",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2026-10-28",
+    "latest_action_date": "2026-10-28",
+    "latest_action": "Published in Trauma, violence & abuse",
+    "authors": [
+      "Belinda-Rose Young",
+      "Melisa Chua",
+      "Sable Watson",
+      "S. Golden",
+      "K. Kainz",
+      "K. E. Moracco"
+    ],
+    "journal": "Trauma, violence & abuse",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1177/15248380261485306",
+    "ss_id": "cd96c188585f65f7c6e9703d1ecc2b33a4892f05",
+    "doi": "10.1177/15248380261485306",
+    "pmid": "42949144",
+    "summary": "Human trafficking is a global public health problem with negative, wide-ranging effects on individuals, families, and communities. Understanding the structural determinants that influence human trafficking (HT) is imperative to preventing its occurrence. This systematic review identified and summarized existing global literature on State-level structural determinants (SSDs) for HT. We identified peer-reviewed studies from a search conducted in PubMed and gray literature from a United Nations rep",
+    "description": "Human trafficking is a global public health problem with negative, wide-ranging effects on individuals, families, and communities. Understanding the structural determinants that influence human trafficking (HT) is imperative to preventing its occurrence. This systematic review identified and summarized existing global literature on State-level structural determinants (SSDs) for HT. We identified peer-reviewed studies from a search conducted in PubMed and gray literature from a United Nations repository. Eligible publications were written in English, included HT victimization as a primary or secondary outcome of interest, and either empirically demonstrated or hypothesized an association between at least one SSD and HT victimization. Hypothesized associations had to be rooted in empirical, practice-based, or theoretical evidence. Forty-eight publications were eligible and presented evidence for the linkage between SSDs and one or more HT types-child marriage, child conscription, organ trafficking, labor trafficking, sex trafficking, and HT generally. Data were derived from six out of the eight UN Sustainable Development Goal regions. The SSDs were thematically grouped into structural determinant families (SDFs) to facilitate comparative analysis. Interestingly, we found that some SDFs were common among various HT types, including the importance of multilateral agreements and coordination for anti-trafficking and the incorporation of regional treaties, conventions, or declarations for human trafficking within local State legislation. These findings highlight the importance of establishing a clear framework for implementing anti-HT laws both within and outside of the State. Future interventions should consider prioritizing shared SDFs to mitigate multiple forms of HT. Additional research, policy, and practice implications are discussed.",
+    "keywords": [
+      "human trafficking",
+      "sex trafficking",
+      "labor trafficking",
+      "anti-trafficking",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-10-28",
+        "event": "Published in Trauma, violence & abuse",
+        "actor": "Belinda-Rose Young, Melisa Chua et al.",
+        "source_url": "https://doi.org/10.1177/15248380261485306"
+      }
+    ]
+  },
+  {
+    "id": "ss-58d468b3dd3a407cda94",
+    "type": "research",
+    "title": "Scam-Based Human Trafficking Through a Trauma-Informed and Intersectional Lens: An Integrative Narrative Review.",
+    "identifier": "DOI: 10.1177/15248380261487139",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2026-10-20",
+    "latest_action_date": "2026-10-20",
+    "latest_action": "Published in Trauma, violence & abuse",
+    "authors": [
+      "Hsiang-Chen Yeh",
+      "Si-Qi Liu",
+      "Tamar Rodney"
+    ],
+    "journal": "Trauma, violence & abuse",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1177/15248380261487139",
+    "ss_id": "58d468b3dd3a407cda944dbbe83799ad7f9831db",
+    "doi": "10.1177/15248380261487139",
+    "pmid": "42902575",
+    "summary": "Scam-based human trafficking is an emerging form of digitally mediated exploitation in which individuals may be financially victimized, coerced into online fraud operations, or both. This integrative narrative review synthesizes academic and gray literature on scam-based trafficking, including pig-butchering scams, romance fraud, scam compounds, forced criminality, and cyber-enabled financial exploitation, through a trauma-informed and intersectional lens. Structured searches were conducted in G",
+    "description": "Scam-based human trafficking is an emerging form of digitally mediated exploitation in which individuals may be financially victimized, coerced into online fraud operations, or both. This integrative narrative review synthesizes academic and gray literature on scam-based trafficking, including pig-butchering scams, romance fraud, scam compounds, forced criminality, and cyber-enabled financial exploitation, through a trauma-informed and intersectional lens. Structured searches were conducted in Google Scholar and PubMed, supplemented by citation tracking, coauthor-identified references, and targeted review of policy and agency reports. Sources were eligible if they addressed scam-based trafficking, online fraud, forced criminality, trauma vulnerability, psychological consequences, revictimization, help-seeking barriers, linguistic or technological mechanisms of deception, digital literacy, platform design, or trauma-informed intervention. After screening and eligibility assessment, 88 sources were included in the final synthesis. Findings are organized across five domains: trauma as a vulnerability factor, linguistic and technological mechanisms of deception, intersecting sociocultural and structural vulnerabilities, trauma outcomes and revictimization cycles, and trauma-informed interventions. The review suggests that trauma may function both as a preexisting vulnerability and as an outcome of exploitation. Scam-based trafficking should therefore be understood not only as financial fraud or cybercrime, but also as a trauma-related and intersectionally structured form of exploitation. Effective responses should combine trauma-informed clinical care, emotional scam literacy, culturally responsive services, digital safety education, platform accountability, and coordinated systems of support.",
+    "keywords": [
+      "human trafficking",
+      "exploitation",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-10-20",
+        "event": "Published in Trauma, violence & abuse",
+        "actor": "Hsiang-Chen Yeh, Si-Qi Liu et al.",
+        "source_url": "https://doi.org/10.1177/15248380261487139"
+      }
+    ]
+  },
+  {
     "id": "pubmed-42896497",
     "type": "research",
     "title": "From exploitation to emergency room: Health care discrimination, utilization, and health outcomes among youth who experienced commercial sexual exploitation",
@@ -2853,6 +2952,51 @@
         "event": "Published in Forensic science international",
         "actor": "Linde J, Augustyn WA et al.",
         "source_url": "https://doi.org/10.1016/j.forsciint.2025.112762"
+      }
+    ]
+  },
+  {
+    "id": "ss-a23ca143864f36036076",
+    "type": "research",
+    "title": "Human Trafficking: Challenges and Innovative Approaches for Research, Policy and Practice",
+    "identifier": "DOI: 10.1177/00220183251412993",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex"
+    ],
+    "published": "2026-01-21",
+    "latest_action_date": "2026-01-21",
+    "latest_action": "Published in The Journal of Criminal Law",
+    "authors": [
+      "An-Qi Shen",
+      "Sheldon Zhang"
+    ],
+    "journal": "The Journal of Criminal Law",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1177/00220183251412993",
+    "ss_id": "a23ca143864f360360762472d72bb2dd51b7906f",
+    "doi": "10.1177/00220183251412993",
+    "pmid": "",
+    "summary": "Human traf ﬁ cking remains a persistent and pressing global concern. Despite decades of international and domestic efforts, the problem persists and responses to it evolve. A substantial body of research now examines traf ﬁ cking in both internal and transnational settings, focusing on the exploitation of vulnerable groups ‒ typically women, children and other marginalised individuals ‒ mainly for the purposes of sexual exploitation, forced marriage, labour exploitation, illegal adoption and for",
+    "description": "Human traf ﬁ cking remains a persistent and pressing global concern. Despite decades of international and domestic efforts, the problem persists and responses to it evolve. A substantial body of research now examines traf ﬁ cking in both internal and transnational settings, focusing on the exploitation of vulnerable groups ‒ typically women, children and other marginalised individuals ‒ mainly for the purposes of sexual exploitation, forced marriage, labour exploitation, illegal adoption and forced criminality. Parallel to this, research has increasingly paid attention to intervention development and impact evaluation, raising concerns about their lack of effectiveness while questioning the empirical adequacy of existing anti-traf ﬁ cking programmes, and their intended outcomes and unintended consequences. Drawing on a systematic review of the literature and the large number of presentations at major international academic conferences in recent years, we are delighted by the growing volume and diversity of scholarly and policy-driven inquiries on human traf ﬁ cking. As the dynamic ﬁ eld of anti-traf ﬁ cking research continues to grow, researchers are progressively turning to both persistent and emerging challenges confronting the community. This special issue represents such an attempt by collecting the most cutting-edge research on human traf ﬁ cking from multiple disciplines ‒ legal studies, criminology, sociology, social work and practitioner scholarship ‒ offering a range of methodological approaches in assessing current anti-traf ﬁ cking interventions, while advocating promising practices from the ﬁ eld. To broaden our perspectives, this volume brings together researchers from both the Global North and the Global South, ensuring that the voices of human traf ﬁ cking survivors and practitioners working on the frontlines are heard. Collectively, these articles examine current counter-traf ﬁ cking responses, interrogate dominant narratives in research, policy and practice, and identify pathways for more equitable, evidence-based and context-ually grounded work. One overarching aim of the issue is to invite international scholars to pause and reconsider how traf ﬁ cking research is framed, how interventions are conducted and how measurement standards are applied. Authors in this volume challenge the status quo in the framing of",
+    "keywords": [
+      "human trafficking",
+      "exploitation",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-01-21",
+        "event": "Published in The Journal of Criminal Law",
+        "actor": "An-Qi Shen, Sheldon Zhang",
+        "source_url": "https://doi.org/10.1177/00220183251412993"
       }
     ]
   },

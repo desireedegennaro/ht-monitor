@@ -1,5 +1,41 @@
 [
   {
+    "id": "fr-2026-23370",
+    "type": "regulatory",
+    "title": "Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program",
+    "identifier": "2026-23370",
+    "status": "Active — Proposed Rule",
+    "jurisdiction": "federal",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "introduced": "2026-11-17",
+    "latest_action_date": "2026-11-17",
+    "latest_action": "Proposed Rule published in Federal Register",
+    "sponsor": "Labor Department, Employment and Training Administration",
+    "cosponsors": 0,
+    "cosponsor_list": [],
+    "committee": "N/A",
+    "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant",
+    "summary": "The Department of Labor (Department or DOL) proposes to amend its regulations regarding the certification of job opportunities offered by employers seeking to employ aliens on a permanent basis in the United States. This Notice of Proposed Rulemaking (NPRM or proposed rule) strengthens the standards by which the Department receives and reviews employers' applications for permanent labor certificat",
+    "description": "The Department of Labor (Department or DOL) proposes to amend its regulations regarding the certification of job opportunities offered by employers seeking to employ aliens on a permanent basis in the United States. This Notice of Proposed Rulemaking (NPRM or proposed rule) strengthens the standards by which the Department receives and reviews employers' applications for permanent labor certification and improves the integrity of the overall employment-based immigrant visa program to more effectively protect the wages and job opportunities of U.S. workers similarly employed in the United States. Among the issues addressed in this proposed rule are eliminating further administration of Schedule A, which exempts certain job opportunities from the statutorily required labor market test; strengthening the minimum standards of recruitment to ensure all employers seeking labor certification access the broadest pool of high-quality U.S. workers using the latest technologies and methods; enhancing safeguards for U.S. workers impacted by layoffs, including those laid off by employers using third-party staffing companies and establishing standards for employers to report layoffs; expanding requirements for employers to provide U.S. workers with notice of filing (NOF) applications for permanent labor certification; improving employer compliance with program requirements and consideration of qualified U.S. workers that is comparable to job opportunities for which permanent labor certification is not required; and codifying the Department's practice of electronically receiving, processing, and issuing final determinations on employer requests for prevailing wages and permanent labor certifications. The changes in this proposed rule are consistent with the Secretary of Labor's (Secretary) statutory responsibilities to certify that there are not sufficient workers in the United States who are able, willing, qualified, and available to fill the petitioning employer's job opportunity at the time of application for a visa and admission to the United States, and that the employment of such alien will not adversely affect the wages and working conditions of similarly employed workers in the United States.",
+    "keywords": [
+      "T visa"
+    ],
+    "companies": [],
+    "source": "Federal Register",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-11-17",
+        "event": "Proposed Rule published: Modernizing the Labor Market Test and Improving Protections for U.S. Workers in ",
+        "actor": "Labor Department, Employment and Training Administration",
+        "source_url": "https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant"
+      }
+    ]
+  },
+  {
     "id": "fr-2026-22094",
     "type": "regulatory",
     "title": "Notice Regarding the Uyghur Forced Labor Prevention Act Entity List",

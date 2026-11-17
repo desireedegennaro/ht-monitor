@@ -1,74 +1,51 @@
 {
-  "generated": "2026-11-16T22:43:58Z",
+  "generated": "2026-11-17T21:32:50Z",
   "period_days": 90,
   "new": [
     {
-      "id": "ss-cd96c188585f65f7c6e9",
-      "title": "State-Level Structural Determinants of Multiple Human Trafficking Types and Their Strength of Evidence: A Global Systematic Literature Review.",
-      "type": "research",
-      "source": "Semantic Scholar",
-      "date": "2026-10-28",
-      "status": "Published",
-      "summary": "Human trafficking is a global public health problem with negative, wide-ranging effects on individuals, families, and communities. Understanding the structural determinants that influence human traffi",
-      "url": "https://doi.org/10.1177/15248380261485306",
-      "identifier": "DOI: 10.1177/15248380261485306",
+      "id": "fr-2026-23370",
+      "title": "Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program",
+      "type": "regulatory",
+      "source": "Federal Register",
+      "date": "2026-11-17",
+      "status": "Active — Proposed Rule",
+      "summary": "The Department of Labor (Department or DOL) proposes to amend its regulations regarding the certification of job opportunities offered by employers seeking to employ aliens on a permanent basis in the",
+      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant",
+      "identifier": "2026-23370",
       "trafficking_types": [
         "sex",
         "labor"
       ],
       "keywords": [
-        "human trafficking",
-        "sex trafficking",
-        "labor trafficking",
-        "anti-trafficking",
-        "trafficking"
+        "T visa"
       ]
-    },
+    }
+  ],
+  "updated": [
     {
-      "id": "ss-58d468b3dd3a407cda94",
-      "title": "Scam-Based Human Trafficking Through a Trauma-Informed and Intersectional Lens: An Integrative Narrative Review.",
+      "id": "pubmed-37780117",
+      "title": "Rights, not rescue: trafficking (in)securities at the sport mega-event",
       "type": "research",
-      "source": "Semantic Scholar",
-      "date": "2026-10-20",
+      "source": "PubMed",
+      "date": "2023-06-18",
       "status": "Published",
-      "summary": "Scam-based human trafficking is an emerging form of digitally mediated exploitation in which individuals may be financially victimized, coerced into online fraud operations, or both. This integrative ",
-      "url": "https://doi.org/10.1177/15248380261487139",
-      "identifier": "DOI: 10.1177/15248380261487139",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "exploitation",
-        "trafficking"
-      ]
-    },
-    {
-      "id": "ss-a23ca143864f36036076",
-      "title": "Human Trafficking: Challenges and Innovative Approaches for Research, Policy and Practice",
-      "type": "research",
-      "source": "Semantic Scholar",
-      "date": "2026-01-21",
-      "status": "Published",
-      "summary": "Human traf ﬁ cking remains a persistent and pressing global concern. Despite decades of international and domestic efforts, the problem persists and responses to it evolve. A substantial body of resea",
-      "url": "https://doi.org/10.1177/00220183251412993",
-      "identifier": "DOI: 10.1177/00220183251412993",
+      "summary": "We examine the impact of fantasies used in the redevelopment of sport mega-event cities on host communities; particularly as related to the male-dominated FIFA World Cup and forced prostitution. We st",
+      "url": "https://doi.org/10.3389/fspor.2023.1207595",
+      "identifier": "PMID: 37780117 | DOI: 10.3389/fspor.2023.1207595",
       "trafficking_types": [
         "sex"
       ],
       "keywords": [
-        "human trafficking",
         "exploitation",
         "trafficking"
-      ]
+      ],
+      "update_summary": "Updated"
     }
   ],
-  "updated": [],
   "counts": {
-    "new_legislation": 0,
-    "new_research": 3,
+    "new_legislation": 1,
+    "new_research": 0,
     "updated_legislation": 0,
-    "updated_research": 0
+    "updated_research": 1
   }
 }

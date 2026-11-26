@@ -66,6 +66,57 @@
         "event": "Published in Frontiers in psychiatry",
         "actor": "Jones LM, O'Brien JE et al.",
         "source_url": "https://doi.org/10.3389/fpsyt.2026.1901555"
+      },
+      {
+        "date": "2026-11-26",
+        "event": "Published in Frontiers in psychiatry",
+        "actor": "Jones LM, O'Brien JE et al.",
+        "source_url": "https://doi.org/10.3389/fpsyt.2026.1901555"
+      }
+    ]
+  },
+  {
+    "id": "ss-42184d919779b59227c4",
+    "type": "research",
+    "title": "Modern slavery governance, digital transformation and financial distress risk: evidence from legally grounded text-based accounting measures",
+    "identifier": "DOI: 10.1108/jal-10-2025-0563",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "labor"
+    ],
+    "published": "2026-11-06",
+    "latest_action_date": "2026-11-06",
+    "latest_action": "Published in Journal of Accounting Literature",
+    "authors": [
+      "Zeina Samy Mohamed",
+      "Ahmed A. Elmasry",
+      "Khaled Hussainey",
+      "Eman Saleh Hassan AbdelFattah"
+    ],
+    "journal": "Journal of Accounting Literature",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1108/jal-10-2025-0563",
+    "ss_id": "42184d919779b59227c444a1cd02e3ee29a9524d",
+    "doi": "10.1108/jal-10-2025-0563",
+    "pmid": "",
+    "summary": "\n \n This paper aims to develop and validate a legally grounded accounting measurement framework for modern-slavery governance and examines whether the resulting governance measures are associated with firms' financial distress risk. Existing research predominantly relies on ESG ratings, disclosure proxies, or qualitative assessments that do not clearly distinguish externally specified governance obligations from firms' disclosed governance architecture. We address this measurement gap by transla",
+    "description": "\n \n This paper aims to develop and validate a legally grounded accounting measurement framework for modern-slavery governance and examines whether the resulting governance measures are associated with firms' financial distress risk. Existing research predominantly relies on ESG ratings, disclosure proxies, or qualitative assessments that do not clearly distinguish externally specified governance obligations from firms' disclosed governance architecture. We address this measurement gap by translating mandatory modern-slavery governance requirements into reproducible firm-level accounting measures and evaluating their informational relevance for accounting-based risk assessment.\n \n \n \n This research adopts a two-corpus measurement framework. The first corpus comprises mandatory modern-slavery legislation and internationally recognised institutional frameworks issued between 1930 and 2024, including the Tariff Act (1930), California Transparency in Supply Chains Act, UK Modern Slavery Act, French Duty of Vigilance Law, Australian Modern Slavery Act, German Supply Chain Due Diligence Act, Norwegian Transparency Act, the Corporate Sustainability Reporting Directive (CSRD), the Corporate Sustainability Due Diligence Directive (CSDDD), and complementary institutional frameworks including the ILO, OECD, PRI, and the United Nations Guiding Principles. Rather than serving as institutional background, these sources are used to define the governance construct by identifying legally codified organisational obligations and harmonising them into a unified governance ontology representing implementation-oriented governance mechanisms.The second corpus comprises more than 5,000 annual reports of S&P 500 firms covering the period 2010–2022. Artificial intelligence (AI), natural language processing (NLP), and supervised machine-learning techniques operationalise the predefined governance ontology to identify disclosed evidence of implementation-oriented governance mechanisms within corporate reports, thereby generating firm-year Modern Slavery Index (MSI) measures. A complementary Digital Transformation Index (DTI) captures disclosed digital capability. The empirical design combines firm and year fixed-effects estimation with 2SLS endogeneity-sensitivity analysis and additional tests addressing disclosure intensity and boilerplate reporting, institutional validity, digital-capability interactions, competing explanations and potential mechanisms.\n \n \n \n The findings show that firms disclosing stronger implementation-oriented modern-slavery governance mechanisms exhibit lower financial distress risk, although the strength of this association varies across the underlying institutional architectures. Among the four governance measures, the California-based MSI2 provides the strongest evidence, indicating that disclosed governance mechanisms centred on supplier verification, monitoring, accountability, and supply-chain oversight are associated with lower financial distress risk. Digital transformation, by contrast, does not independently reduce financial distress risk and is associated with lower Altman Z-scores in several specifications, a pattern consistent with – but not establishing – the organisational costs and implementation challenges that may accompany technological transformation. Importantly, digital capability also conditions the association between disclosed modern-slavery governance and financial distress risk, with the positive MSI4 × DTI interaction indicating that the financial relevance of governance disclosure varies with firms' digital capabilities under particular institutional arrangements. Overall, the findings indicate that legally grounded measures of disclosed modern-slavery governance contain economically relevant information for financial-distress assessment, while their associations vary across governance architectures and according to firms' digital capabilities.\n \n \n \n This paper makes four contributions to the accounting literature. First, it develops four transparent, legally grounded, and fully reproducible Modern Slavery Indices (MSI1–MSI4), each derived from distinct regulatory and institutional governance frameworks, providing researchers, practitioners, managers, auditors, and policymakers with standardised accounting measures of implementation-oriented modern-slavery governance. Second, it introduces a novel two-corpus measurement framework that explicitly separates construct definition from empirical observation by deriving the governance construct from mandatory legislation and internationally recognised frameworks before operationalising it through AI-enabled textual analysis of corporate reports. Third, it demonstrates how artificial intelligence, natural language processing, and supervised machine-learning techniques can operationalise externally defined governance obligations into scalable firm-level accounting information while preserving construct validity. Finally, it provides evidence that these legally grounded accounting measures contain decision-useful information for accounting-based risk assessment, advancing research on non-financial accounting measurement, governance architecture, disclosure credibility, internal control systems, and corporate resilience under emerging mandatory reporting regimes.\n",
+    "keywords": [
+      "modern slavery"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-11-06",
+        "event": "Published in Journal of Accounting Literature",
+        "actor": "Zeina Samy Mohamed, Ahmed A. Elmasry et al.",
+        "source_url": "https://doi.org/10.1108/jal-10-2025-0563"
       }
     ]
   },
@@ -237,6 +288,12 @@
       },
       {
         "date": "2026-12-25",
+        "event": "Published in Social science & medicine (1982)",
+        "actor": "Wagner A, Farrell A et al.",
+        "source_url": "https://doi.org/10.1016/j.socscimed.2026.119930"
+      },
+      {
+        "date": "2026-12-26",
         "event": "Published in Social science & medicine (1982)",
         "actor": "Wagner A, Farrell A et al.",
         "source_url": "https://doi.org/10.1016/j.socscimed.2026.119930"
@@ -689,6 +746,12 @@
       },
       {
         "date": "2026-11-25",
+        "event": "Published in PloS one",
+        "actor": "Fernández-Sánchez H, Jones J et al.",
+        "source_url": "https://doi.org/10.1371/journal.pone.0357091"
+      },
+      {
+        "date": "2026-11-26",
         "event": "Published in PloS one",
         "actor": "Fernández-Sánchez H, Jones J et al.",
         "source_url": "https://doi.org/10.1371/journal.pone.0357091"

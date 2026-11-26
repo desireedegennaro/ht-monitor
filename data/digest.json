@@ -1,7 +1,25 @@
 {
-  "generated": "2026-11-25T22:08:31Z",
+  "generated": "2026-11-26T22:05:33Z",
   "period_days": 90,
-  "new": [],
+  "new": [
+    {
+      "id": "ss-42184d919779b59227c4",
+      "title": "Modern slavery governance, digital transformation and financial distress risk: evidence from legally grounded text-based accounting measures",
+      "type": "research",
+      "source": "Semantic Scholar",
+      "date": "2026-11-06",
+      "status": "Published",
+      "summary": "\n \n This paper aims to develop and validate a legally grounded accounting measurement framework for modern-slavery governance and examines whether the resulting governance measures are associated with",
+      "url": "https://doi.org/10.1108/jal-10-2025-0563",
+      "identifier": "DOI: 10.1108/jal-10-2025-0563",
+      "trafficking_types": [
+        "labor"
+      ],
+      "keywords": [
+        "modern slavery"
+      ]
+    }
+  ],
   "updated": [
     {
       "id": "pubmed-42984743",
@@ -59,227 +77,12 @@
         "trafficking"
       ],
       "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-41955821",
-      "title": "The role of parental consent: Implications for surveying minors who experience or are at risk for commercial sexual exploitation in the United States",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-07-18",
-      "status": "Published",
-      "summary": "The role of parental consent: Implications for surveying minors who experience or are at risk for commercial sexual exploitation in the United States",
-      "url": "https://doi.org/10.1016/j.socscimed.2026.119243",
-      "identifier": "PMID: 41955821 | DOI: 10.1016/j.socscimed.2026.119243",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "exploitation",
-        "commercial sexual exploitation"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-28613660",
-      "title": "Human Trafficking",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-01-18",
-      "status": "Published",
-      "summary": "Human Trafficking",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/28613660/",
-      "identifier": "PMID: 28613660",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-34424650",
-      "title": "Texas Human Trafficking",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2026-01-18",
-      "status": "Published",
-      "summary": "Texas Human Trafficking",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/34424650/",
-      "identifier": "PMID: 34424650",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-41798347",
-      "title": "A Systematic Review Examining Methods of Human-Trafficking Training for Healthcare Professionals with Recommendations for Medical Education",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2025-12-18",
-      "status": "Published",
-      "summary": "A Systematic Review Examining Methods of Human-Trafficking Training for Healthcare Professionals with Recommendations for Medical Education",
-      "url": "https://doi.org/10.1007/s40670-025-02489-3",
-      "identifier": "PMID: 41798347 | DOI: 10.1007/s40670-025-02489-3",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-40782728",
-      "title": "An updated typology of commercial sexual exploitation of children and youth cases coming to law enforcement attention in 2021: Implications for identification and investigations",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2025-11-18",
-      "status": "Published",
-      "summary": "An updated typology of commercial sexual exploitation of children and youth cases coming to law enforcement attention in 2021: Implications for identification and investigations",
-      "url": "https://doi.org/10.1016/j.chiabu.2025.107619",
-      "identifier": "PMID: 40782728 | DOI: 10.1016/j.chiabu.2025.107619",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "exploitation",
-        "commercial sexual exploitation"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-39668870",
-      "title": "Narrative exposure therapy for the treatment of trauma-related symptoms among adolescent survivors of sex trafficking: A pilot study",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2024-10-18",
-      "status": "Published",
-      "summary": "Narrative exposure therapy for the treatment of trauma-related symptoms among adolescent survivors of sex trafficking: A pilot study",
-      "url": "https://doi.org/10.4103/indianjpsychiatry.indianjpsychiatry_248_24",
-      "identifier": "PMID: 39668870 | DOI: 10.4103/indianjpsychiatry.indianjpsychiatry_248_24",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "sex trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-34930040",
-      "title": "A Scoping Review of Human Trafficking Screening and Response",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2023-07-18",
-      "status": "Published",
-      "summary": "Service providers are increasingly asked to identify individuals who are experiencing trafficking and to connect them with resources and support. Nonetheless, identification is complicated by the real",
-      "url": "https://doi.org/10.1177/15248380211057273",
-      "identifier": "PMID: 34930040 | DOI: 10.1177/15248380211057273",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-37780117",
-      "title": "Rights, not rescue: trafficking (in)securities at the sport mega-event",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2023-06-18",
-      "status": "Published",
-      "summary": "We examine the impact of fantasies used in the redevelopment of sport mega-event cities on host communities; particularly as related to the male-dominated FIFA World Cup and forced prostitution. We st",
-      "url": "https://doi.org/10.3389/fspor.2023.1207595",
-      "identifier": "PMID: 37780117 | DOI: 10.3389/fspor.2023.1207595",
-      "trafficking_types": [
-        "sex"
-      ],
-      "keywords": [
-        "exploitation",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-36399956",
-      "title": "Supporting emergency department Nurse's self-Efficacy in victim identification through human trafficking education: A quality improvement project",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2022-11-18",
-      "status": "Published",
-      "summary": "Supporting emergency department Nurse's self-Efficacy in victim identification through human trafficking education: A quality improvement project",
-      "url": "https://doi.org/10.1016/j.ienj.2022.101228",
-      "identifier": "PMID: 36399956 | DOI: 10.1016/j.ienj.2022.101228",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "human trafficking",
-        "trafficking",
-        "victim identification"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-34364174",
-      "title": "Responding to orphanage trafficking from an information gathering perspective",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2021-10-18",
-      "status": "Published",
-      "summary": "Estimates suggest that close to 3 million institutionalized children internationally have some family to whom they could go home. A proportion of these children is recruited from their communities und",
-      "url": "https://doi.org/10.1016/j.chiabu.2021.105222",
-      "identifier": "PMID: 34364174 | DOI: 10.1016/j.chiabu.2021.105222",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "trafficking victims",
-        "trafficking"
-      ],
-      "update_summary": "Updated"
-    },
-    {
-      "id": "pubmed-31243470",
-      "title": "Gender differences in the association of living and working conditions and the mental health of trafficking survivors",
-      "type": "research",
-      "source": "PubMed",
-      "date": "2019-09-18",
-      "status": "Published",
-      "summary": "To assess the association of living and working conditions experienced during trafficking with mental health of female and male survivors.",
-      "url": "https://doi.org/10.1007/s00038-019-01269-2",
-      "identifier": "PMID: 31243470 | DOI: 10.1007/s00038-019-01269-2",
-      "trafficking_types": [
-        "sex",
-        "labor"
-      ],
-      "keywords": [
-        "trafficking"
-      ],
-      "update_summary": "Updated"
     }
   ],
   "counts": {
     "new_legislation": 0,
-    "new_research": 0,
+    "new_research": 1,
     "updated_legislation": 0,
-    "updated_research": 14
+    "updated_research": 3
   }
 }

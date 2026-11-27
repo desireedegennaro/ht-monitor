@@ -1,5 +1,49 @@
 [
   {
+    "id": "ss-fca56822c2f00dce4104",
+    "type": "research",
+    "title": "Deficits in enforcement: evaluating the efficacy and implementation of Ethiopia’s current legal responses to human trafficking",
+    "identifier": "DOI: 10.1007/s43545-026-01987-4",
+    "status": "Published",
+    "jurisdiction": "international",
+    "trafficking_types": [
+      "sex",
+      "labor"
+    ],
+    "published": "2026-11-25",
+    "latest_action_date": "2026-11-25",
+    "latest_action": "Published in SN Social Sciences",
+    "authors": [
+      "Getye Abneh Tadesse"
+    ],
+    "journal": "SN Social Sciences",
+    "funder": "",
+    "evidence_strength": "",
+    "follow_up_length": "",
+    "outcome_frame": "",
+    "url": "https://doi.org/10.1007/s43545-026-01987-4",
+    "ss_id": "fca56822c2f00dce4104d3a24df1f63091e840af",
+    "doi": "10.1007/s43545-026-01987-4",
+    "pmid": "",
+    "summary": "Deficits in enforcement: evaluating the efficacy and implementation of Ethiopia’s current legal responses to human trafficking",
+    "description": "",
+    "keywords": [
+      "human trafficking",
+      "trafficking"
+    ],
+    "organizations": [],
+    "source": "Semantic Scholar",
+    "upcoming": [],
+    "updates": [
+      {
+        "date": "2026-11-25",
+        "event": "Published in SN Social Sciences",
+        "actor": "Getye Abneh Tadesse",
+        "source_url": "https://doi.org/10.1007/s43545-026-01987-4"
+      }
+    ]
+  },
+  {
     "id": "pubmed-42984743",
     "type": "research",
     "title": "Commercial sexual exploitation exposure, food insecurity, and help-seeking attitudes in high school youth",
